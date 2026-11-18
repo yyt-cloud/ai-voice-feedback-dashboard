@@ -836,7 +836,7 @@
 
   <header>
     <div class="title-group">
-      <h1>AI 语音输入单产品深度数据看板 (三级分层分类体系)</h1>
+      <h1>AI 语音输入单产品深度数据看板</h1>
       <p>按【一、语音输入与转写】【二、AI润色与文本处理】【三、软件交互与性能】【四、付费订阅与服务】四大领域深度归纳 (2026 纯净数据集)</p>
     </div>
     <div style="display: flex; gap: 10px;">
@@ -906,28 +906,42 @@
       <span style="font-size: 12px; color: var(--text-muted);" id="dashSubtitle">正在全量汇总分析 2026 年度全部 5 大竞品的用户真实反馈</span>
     </div>
 
-    <div class="kpi-row">
-      <div class="kpi-card">
-        <div class="kpi-label" id="kpiSampleLabel">2026年度全量样本量</div>
-        <div class="kpi-value" id="kpiSampleCount">-- 条</div>
-        <div class="kpi-sub" id="kpiSampleSub">2026年度100%覆盖</div>
+    <!-- 全量竞品对比总结卡片 (仅在全量选项下展示，放在看板头部下方、数据KPI指标卡片之上) -->
+    <div id="allSummaryCard" class="detail-card" style="grid-column: 1 / -1; background: linear-gradient(135deg, #F8FAFC 0%, #EFF6FF 100%); border: 1px solid #BFDBFE; border-radius: 10px; padding: 18px; margin-bottom: 16px;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; border-bottom: 1px dashed #93C5FD; padding-bottom: 8px;">
+        <span style="font-size: 14px; font-weight: 800; color: #1E3A8A; display: flex; align-items: center; gap: 6px;">
+          ⚖️ Simeji vs 竞品全量优劣势深度研判
+        </span>
+        <span style="font-size: 11px; background-color: #DBEAFE; color: #1E40AF; padding: 2px 8px; border-radius: 12px; font-weight: 600;">全量样本分析总结</span>
       </div>
-      <div class="kpi-card">
-        <div class="kpi-label">正面口碑比例</div>
-        <div class="kpi-value" style="color: #22C55E;" id="kpiPosPct">--%</div>
-        <div class="kpi-sub" id="kpiPosCount">正向评论</div>
-      </div>
-      <div class="kpi-card">
-        <div class="kpi-label">负面痛点比例</div>
-        <div class="kpi-value" style="color: #EF4444;" id="kpiNegPct">--%</div>
-        <div class="kpi-sub" id="kpiNegCount">负面/Badcase</div>
-      </div>
-      <div class="kpi-card">
-        <div class="kpi-label">主要讨论阵地</div>
-        <div class="kpi-value" style="color: #4F46E5;" id="kpiTopPlatform">--</div>
-        <div class="kpi-sub" id="kpiPlatformDetail">占比最高</div>
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px;">
+        <!-- 优势/好在哪里 -->
+        <div style="background-color: rgba(255,255,255,0.85); padding: 12px 14px; border-radius: 8px; border-left: 4px solid #22C55E;">
+          <div style="font-size: 13px; font-weight: 700; color: #15803D; margin-bottom: 6px; display: flex; align-items: center; gap: 4px;">
+            🌟 Simeji 好在哪里？（核心优势 55.1% 好评率）
+          </div>
+          <ul style="margin: 0; padding-left: 18px; font-size: 11.5px; color: var(--text-primary); line-height: 1.6;">
+            <li><strong>日语本土化与口语表达契合度高：</strong>长句混杂片假名与口语省略识别精准，本土化词库积淀深厚。</li>
+            <li><strong>二次元与键盘交互生态成熟：</strong>融合颜文字、主题Skin与传统键盘手势，满足社交/聊天高频需求。</li>
+            <li><strong>多模态输入场景全覆盖：</strong>支持常规键盘输入、表情搜索与AI润色等多元功能，无需切换应用。</li>
+          </ul>
+        </div>
+        <!-- 短板/差在哪里 -->
+        <div style="background-color: rgba(255,255,255,0.85); padding: 12px 14px; border-radius: 8px; border-left: 4px solid #EF4444;">
+          <div style="font-size: 13px; font-weight: 700; color: #B91C1C; margin-bottom: 6px; display: flex; align-items: center; gap: 4px;">
+            ⚠️ Simeji 差在哪里？（对比竞品的 4 大核心短板）
+          </div>
+          <ul style="margin: 0; padding-left: 18px; font-size: 11.5px; color: var(--text-primary); line-height: 1.6;">
+            <li><strong>高频生产力听写与口头禅剥离弱：</strong>相比 Wispr Flow 的全局无感“um/ah”自动剥离，Simeji 打字存在跳字与语气词误上屏 Badcase。</li>
+            <li><strong>国际化与登录门槛偏高：</strong>海外用户频繁吐槽只能用中国手机号登录、缺乏完备英文界面。</li>
+            <li><strong>系统权限与跨应用兼容受限：</strong>弹窗提示频繁，在浏览器等特定场景调出键盘稳定性不如快捷键工具。</li>
+            <li><strong>交互层级过深导致性能占用：</strong>传统复杂键盘框架致使加载卡顿与资源占用 Badcase 偏高。</li>
+          </ul>
+        </div>
       </div>
     </div>
+
+    <div class="kpi-row">
 
     <div class="detail-grid">
 
@@ -1524,6 +1538,12 @@
         itemEl.innerHTML = '<span class="rank-text">👉 ' + l3Name + '</span><span class="rank-count">标注条数: ' + count + ' 条 ↗</span>';
         painListEl.appendChild(itemEl);
       });
+
+      // 仅在全量数据 (ALL) 选项下显示全量竞品优劣势研判总结卡片
+      const summaryCardEl = document.getElementById('allSummaryCard');
+      if (summaryCardEl) {
+        summaryCardEl.style.display = activeProduct === 'ALL' ? 'block' : 'none';
+      }
     }
 
     function createComplaintCard(item) {
@@ -1834,8 +1854,8 @@
           }
 
           const categoryCell = '<div style="font-size: 11px; font-weight: 700; color: #4F46E5;">' + (item.category_lvl1 || '') + '</div>' +
-            '<div style="font-size: 11px; color: var(--text-secondary); margin-top: 2px;">▸ ' + (item.category_lvl2 || '') + '</div>' +
-            '<div style="font-size: 11px; font-weight: 600; color: var(--text-primary); margin-top: 2px;">▸ ' + (item.category_lvl3 || '') + '</div>';
+            '<div style="font-size: 11px; font-weight: 600; color: var(--text-primary); margin-top: 2px;">▸ ' + (item.category_lvl2 || '') + '</div>' +
+            '<div style="font-size: 11px; font-weight: 400; color: var(--text-secondary); margin-top: 2px;">▸ ' + (item.category_lvl3 || '') + '</div>';
 
           tr.innerHTML = '<td style="font-family: var(--font-mono); font-size: 11px; color: var(--text-muted);">' + item.id + '</td>' +
             '<td style="font-weight: 700; white-space: nowrap;">' + item.product + '</td>' +
