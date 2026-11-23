@@ -1,0 +1,69 @@
+{
+  "google_play": [
+    {
+      "product": "Wispr Flow",
+      "app_id": "com.wispr.flowapp",
+      "countries": ["us"],
+      "languages": ["en"]
+    },
+    {
+      "product": "Typeless",
+      "app_id": "com.typeless.mobile",
+      "countries": ["us"],
+      "languages": ["en"]
+    },
+    {
+      "product": "Simeji",
+      "app_id": "com.adamrocker.android.input.simeji",
+      "countries": ["jp"],
+      "languages": ["ja"]
+    },
+    {
+      "product": "Voiskey",
+      "app_id": "com.creativeapp.voiceinput",
+      "countries": ["us"],
+      "languages": ["en"]
+    },
+    {
+      "product": "Aqua Voice",
+      "app_id": "com.aquavoice.android",
+      "countries": ["us"],
+      "languages": ["en"]
+    }
+  ],
+  "hacker_news": [
+    "Wispr Flow",
+    "Typeless",
+    "Simeji",
+    "Voiskey",
+    "Aqua Voice"
+  ],
+  "reddit": [
+    "Wispr Flow",
+    "Typeless",
+    "Simeji",
+    "Voiskey",
+    "Aqua Voice"
+  ],
+  "app_store": [
+    { "product": "Wispr Flow", "app_id": "6497229487", "bundle_id": "com.wispr.flowapp", "countries": ["us"] },
+    { "product": "Typeless", "app_id": "6749257650", "bundle_id": "com.typeless.mobile", "countries": ["us"] },
+    { "product": "Simeji", "app_id": "899997582", "bundle_id": "com.baidujp.Simeji", "countries": ["us", "jp"] },
+    { "product": "Voiskey", "app_id": "6766791501", "bundle_id": "com.creativeapp.voiceinput", "countries": ["us"] },
+    { "product": "Aqua Voice", "app_id": "6759074969", "bundle_id": "com.aquavoice.ios", "countries": ["us"] }
+  ],
+  "product_hunt": [
+    { "product": "Wispr Flow", "slug": "wispr-flow" },
+    { "product": "Typeless", "slug": "typeless" },
+    { "product": "Simeji", "slug": "simeji" },
+    { "product": "Voiskey", "slug": "voiskey" },
+    { "product": "Aqua Voice", "slug": "aqua-voice" }
+  ],
+  "x": [
+    { "product": "Wispr Flow", "query": "\"Wispr Flow\"", "official_usernames": ["wisprflow"] },
+    { "product": "Typeless", "query": "\"Typeless AI\"", "official_usernames": ["typeless"] },
+    { "product": "Simeji", "query": "Simeji", "official_usernames": ["simeji_pr"] },
+    { "product": "Voiskey", "query": "\"Voiskey\"", "official_usernames": [] },
+    { "product": "Aqua Voice", "query": "\"Aqua Voice\"", "official_usernames": [] }
+  ]
+}
