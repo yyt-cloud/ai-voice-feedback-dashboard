@@ -1725,6 +1725,16 @@
     }
 
     function updateDashboardView() {
+      if (activeProduct === 'Simeji') {
+        const simejiRaw = rawData.filter(d => d.product === 'Simeji');
+        const simejiVoiceCount = simejiRaw.filter(isVoiceRelatedItem).length;
+        const simejiAllCount = simejiRaw.length;
+        const btnVoice = document.getElementById('btnVoiceScopeVOICE');
+        const btnAll = document.getElementById('btnVoiceScopeALL');
+        if (btnVoice) btnVoice.innerText = '⚡ 仅看语音相关 (' + simejiVoiceCount + '条)';
+        if (btnAll) btnAll.innerText = '🌐 全量看 (' + simejiAllCount + '条)';
+      }
+
       let pItems = getScopedItems();
       const total = pItems.length || 1;
       const pos = pItems.filter(d => d.sentiment === 'Positive').length;
@@ -2190,6 +2200,16 @@
       renderTable();
     }
 
+    function resetToYearAll() {
+      document.getElementById('monthSelect').value = '2026-ALL';
+      onMonthChange();
+    }
+
+    function switchToSimejiAllScope() {
+      const btnAll = document.getElementById('btnVoiceScopeALL');
+      if (btnAll) setVoiceScopeFilter('ALL', btnAll);
+    }
+
     function renderTable() {
       const tbody = document.getElementById('tableBody');
       tbody.innerHTML = '';
@@ -2207,7 +2227,24 @@
       document.getElementById('pageInfo').innerText = '显示第 ' + (totalItems > 0 ? startIndex + 1 : 0) + ' - ' + endIndex + ' 条，共 ' + totalItems + ' 条记录';
 
       if (pageItems.length === 0) {
-        tbody.innerHTML = '<tr><td colspan="8" style="text-align: center; padding: 32px; color: var(--text-muted);">未找到匹配的评论数据</td></tr>';
+        let emptyHint = '<div style="padding: 24px 16px; text-align: center;">' +
+            '<div style="font-size: 14px; font-weight: 700; color: var(--text-primary); margin-bottom: 8px;">💡 当前筛选视角/时间范围下暂无评论数据</div>';
+
+        if (activeProduct === 'Simeji' && activeVoiceScope === 'VOICE') {
+          emptyHint += '<div style="font-size: 12px; color: var(--text-secondary); margin-bottom: 14px;">选定时间段内暂无 Simeji 纯语音相关反馈，可通过以下快捷恢复查看全量内容：</div>' +
+              '<div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">' +
+                '<button class="btn" style="padding: 6px 14px; font-size: 12px; background-color: var(--accent-light); color: var(--accent-primary); border-color: var(--accent-border); font-weight: 700;" onclick="resetToYearAll()">🗓️ 方法 B 快捷恢复：查看 2026 全年数据 (含4条纯语音记录)</button>' +
+                '<button class="btn" style="padding: 6px 14px; font-size: 12px; background-color: var(--bg-surface); font-weight: 600;" onclick="switchToSimejiAllScope()">🌐 方法 A 快捷切换：查看 Simeji 选定时间段全量社区评论</button>' +
+              '</div>';
+        } else {
+          emptyHint += '<div style="font-size: 12px; color: var(--text-secondary); margin-bottom: 14px;">尝试调整顶部时间选择器或清空搜索关键词</div>' +
+              '<div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">' +
+                '<button class="btn" style="padding: 6px 14px; font-size: 12px; background-color: var(--accent-light); color: var(--accent-primary); border-color: var(--accent-border); font-weight: 700;" onclick="resetToYearAll()">🗓️ 切回 2026 全年全量视角</button>' +
+              '</div>';
+        }
+        emptyHint += '</div>';
+
+        tbody.innerHTML = '<tr><td colspan="8">' + emptyHint + '</td></tr>';
       } else {
         pageItems.forEach(item => {
           const tr = document.createElement('tr');
