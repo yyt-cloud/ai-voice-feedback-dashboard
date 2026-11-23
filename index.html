@@ -1067,8 +1067,8 @@
 
       <div class="detail-card" style="grid-column: 1 / -1;">
         <div class="detail-card-title">
-          <span>② 4大一级分类占比与 Top 5 核心关注点 (👉 点击查看具体评论明细)</span>
-          <span style="font-size: 11px; color: var(--accent-primary); font-weight: 600;">4大领域占比与弹窗 🍰</span>
+          <span id="categoryCardTitle">② 4大一级分类占比与 Top 5 核心关注点 (👉 点击查看具体评论明细)</span>
+          <span style="font-size: 11px; color: var(--accent-primary); font-weight: 600;" id="categoryCardBadge">4大领域占比与弹窗 🍰</span>
         </div>
         <div class="pie-container" style="margin-bottom: 16px;">
           <div class="pie-svg-wrapper">
@@ -1170,7 +1170,7 @@
       <input type="text" id="searchInput" class="search-input" placeholder="搜索原文、中文翻译、一级/二级/三级分类、风险标记、平台..." oninput="onSearchChange()">
     </div>
 
-    <div class="filter-group" id="voiceScopeFilters" style="background-color: var(--accent-light); border: 1px solid var(--accent-border); padding: 8px 12px; border-radius: 8px; margin-bottom: 8px; display: flex; align-items: center; gap: 8px;">
+    <div class="filter-group" id="voiceScopeFilters" style="background-color: var(--accent-light); border: 1px solid var(--accent-border); padding: 8px 12px; border-radius: 8px; margin-bottom: 8px; display: none; align-items: center; gap: 8px;">
       <span style="font-size: 12px; font-weight: 700; color: var(--accent-primary); min-width: 140px;">🎙️ Simeji 视角切换:</span>
       <button class="filter-chip active" id="btnVoiceScopeVOICE" onclick="setVoiceScopeFilter('VOICE', this)">⚡ 仅看语音相关 (纯语音/ASR)</button>
       <button class="filter-chip" id="btnVoiceScopeALL" onclick="setVoiceScopeFilter('ALL', this)">🌐 全量看 (包含打字/皮肤/主题)</button>
@@ -1691,6 +1691,11 @@
     function switchProduct(prod) {
       activeProduct = prod;
 
+      const voiceScopeBar = document.getElementById('voiceScopeFilters');
+      if (voiceScopeBar) {
+        voiceScopeBar.style.display = (prod === 'Simeji') ? 'flex' : 'none';
+      }
+
       document.getElementById('searchInput').value = '';
       activePlatform = 'ALL';
       activeSentiment = 'ALL';
@@ -1711,11 +1716,16 @@
       applyFilters();
     }
 
-    function updateDashboardView() {
-      let pItems = activeProduct === 'ALL' ? rawData : rawData.filter(d => d.product === activeProduct);
+    function getScopedItems() {
+      let items = activeProduct === 'ALL' ? rawData : rawData.filter(d => d.product === activeProduct);
       if (activeProduct === 'Simeji' && activeVoiceScope === 'VOICE') {
-        pItems = pItems.filter(isVoiceRelatedItem);
+        items = items.filter(isVoiceRelatedItem);
       }
+      return items;
+    }
+
+    function updateDashboardView() {
+      let pItems = getScopedItems();
       const total = pItems.length || 1;
       const pos = pItems.filter(d => d.sentiment === 'Positive').length;
       const neu = pItems.filter(d => d.sentiment === 'Neutral').length;
@@ -1792,25 +1802,43 @@
       });
 
       const sortedLvl1 = Object.entries(lvl1Map).sort((a,b) => b[1] - a[1]);
-      document.getElementById('categoryPieCenter').innerText = sortedLvl1.length;
+      const catCount = sortedLvl1.length;
+      document.getElementById('categoryPieCenter').innerText = catCount;
+
+      const cardTitleEl = document.getElementById('categoryCardTitle');
+      const cardBadgeEl = document.getElementById('categoryCardBadge');
+      if (cardTitleEl) cardTitleEl.innerText = '② ' + (catCount > 0 ? catCount + '大' : '') + '一级分类占比与 Top 5 核心关注点 (👉 点击查看具体评论明细)';
+      if (cardBadgeEl) cardBadgeEl.innerText = (catCount > 0 ? catCount + '大' : '') + '领域占比与弹窗 🍰';
 
       let catSvgHtml = '';
       let catOffset = 0;
       let catLegHtml = '';
 
-      sortedLvl1.forEach(([l1Name, cnt], idx) => {
-        const color = PALETTE[idx % PALETTE.length];
-        const pct = (cnt / total) * 100;
-        const pctStr = pct.toFixed(1);
-        const dashoffset = catOffset === 0 ? 0 : 100 - catOffset;
+      if (pItems.length === 0 || catCount === 0) {
+        catSvgHtml = '<circle cx="18" cy="18" r="15.915" fill="none" stroke="var(--border-color)" stroke-width="4.2" stroke-dasharray="100 0" stroke-dashoffset="0" />';
+        catLegHtml = '<div style="padding: 12px; text-align: center; color: var(--text-muted); font-size: 12px;">当前筛选周期/视角内暂无分类数据</div>';
+      } else {
+        sortedLvl1.forEach(([l1Name, cnt], idx) => {
+          const color = PALETTE[idx % PALETTE.length];
+          const pct = (cnt / total) * 100;
+          const pctStr = pct.toFixed(1);
 
-        catSvgHtml += '<circle cx="18" cy="18" r="15.915" fill="none" stroke="' + color + '" stroke-width="4.2" stroke-dasharray="' + pct + ' ' + (100 - pct) + '" stroke-dashoffset="' + dashoffset + '"><title>' + l1Name + ': ' + cnt + '条 (' + pctStr + '%)</title></circle>';
-        catOffset += pct;
+          let dasharray = '';
+          if (catCount === 1) {
+            dasharray = '100 0';
+          } else {
+            dasharray = pct.toFixed(2) + ' ' + (100 - pct).toFixed(2);
+          }
+          const dashoffset = catOffset === 0 ? 0 : (100 - catOffset).toFixed(2);
 
-        catLegHtml += '<div class="legend-item" onclick="openLvl1Modal(&quot;' + l1Name + '&quot;)" title="点击查看此一级分类下的二级/三级明细">' +
-            '<div class="legend-left"><span class="legend-dot" style="background-color: ' + color + ';"></span><span>' + l1Name + '</span></div>' +
-            '<span class="legend-count">' + cnt + '条 (' + pctStr + '%) ↗</span></div>';
-      });
+          catSvgHtml += '<circle cx="18" cy="18" r="15.915" fill="none" stroke="' + color + '" stroke-width="4.2" stroke-dasharray="' + dasharray + '" stroke-dashoffset="' + dashoffset + '"><title>' + l1Name + ': ' + cnt + '条 (' + pctStr + '%)</title></circle>';
+          catOffset += pct;
+
+          catLegHtml += '<div class="legend-item" onclick="openLvl1Modal(&quot;' + l1Name.replace(/"/g, '&quot;') + '&quot;)" title="点击查看此一级分类下的二级/三级明细">' +
+              '<div class="legend-left"><span class="legend-dot" style="background-color: ' + color + ';"></span><span>' + l1Name + '</span></div>' +
+              '<span class="legend-count">' + cnt + '条 (' + pctStr + '%) ↗</span></div>';
+        });
+      }
 
       document.getElementById('categoryPieSvg').innerHTML = catSvgHtml;
       document.getElementById('categoryPieLegend').innerHTML = catLegHtml;
@@ -1930,13 +1958,11 @@
         '<div class="complaint-orig">' + origHtmlModal + '</div>' +
         '<div class="complaint-trans">' + transHtmlModal + '</div>' +
         '<div style="text-align: right; margin-top: 4px;"><a href="' + item.url + '" target="_blank" class="url-link">' + (item.platform === "Google Play" ? "🔍 搜索该条评论出处 ↗" : (item.platform === "X (Twitter)" ? "🐤 查看 X 推文讨论 ↗" : "📌 直达楼层原文 ↗")) + '</a></div>';
-      return card;return card;
+      return card;
     }
 
     function openSentimentModal(sentimentType) {
-      const pItems = activeProduct === 'ALL'
-        ? rawData.filter(d => d.sentiment === sentimentType)
-        : rawData.filter(d => d.product === activeProduct && d.sentiment === sentimentType);
+      const pItems = getScopedItems().filter(d => d.sentiment === sentimentType);
 
       let labelText = '正向好评';
       let titleBadgeColor = '#22C55E';
@@ -1944,7 +1970,8 @@
       if (sentimentType === 'Negative') { labelText = '负面痛点'; titleBadgeColor = '#EF4444'; }
 
       const prodName = activeProduct === 'ALL' ? '全量竞品汇总' : activeProduct;
-      document.getElementById('modalCategoryTitle').innerText = '【' + prodName + '】' + labelText + '分类明细 (按三级体系归类展示)';
+      const scopeSuffix = (activeProduct === 'Simeji' && activeVoiceScope === 'VOICE') ? ' (⚡ 仅看语音视角)' : '';
+      document.getElementById('modalCategoryTitle').innerText = '【' + prodName + scopeSuffix + '】' + labelText + '分类明细 (按三级体系归类展示)';
       document.getElementById('modalCategorySub').innerText = '共计 ' + pItems.length + ' 条相关真实评论，已按一级大类/二级分类自动拆分分组：';
 
       const modalBody = document.getElementById('modalBody');
@@ -1958,7 +1985,8 @@
 
       const groupMap = {};
       pItems.forEach(item => {
-        const gName = (item.category_lvl1 || '') + ' ▸ ' + (item.category_lvl2 || '') + ' ▸ ' + (item.category_lvl3 || '');
+        const l1 = item.category_lvl1 || '二、AI润色与文本处理';
+        const gName = l1 + ' ▸ ' + (item.category_lvl2 || '通用') + ' ▸ ' + (item.category_lvl3 || item.tag || '其他');
         if (!groupMap[gName]) groupMap[gName] = [];
         groupMap[gName].push(item);
       });
@@ -1978,12 +2006,14 @@
     }
 
     function openLvl1Modal(lvl1Name) {
-      const pItems = activeProduct === 'ALL'
-        ? rawData.filter(d => d.category_lvl1 === lvl1Name)
-        : rawData.filter(d => d.product === activeProduct && d.category_lvl1 === lvl1Name);
+      const pItems = getScopedItems().filter(d => {
+        const l1 = d.category_lvl1 || '二、AI润色与文本处理';
+        return l1 === lvl1Name;
+      });
 
       const prodName = activeProduct === 'ALL' ? '全量竞品汇总' : activeProduct;
-      document.getElementById('modalCategoryTitle').innerText = '【' + prodName + '】一级领域明细：' + lvl1Name;
+      const scopeSuffix = (activeProduct === 'Simeji' && activeVoiceScope === 'VOICE') ? ' (⚡ 仅看语音视角)' : '';
+      document.getElementById('modalCategoryTitle').innerText = '【' + prodName + scopeSuffix + '】一级领域明细：' + lvl1Name;
       document.getElementById('modalCategorySub').innerText = '包含共计 ' + pItems.length + ' 条相关用户真实吐槽与反馈记录：';
 
       const modalBody = document.getElementById('modalBody');
@@ -1997,7 +2027,7 @@
 
       const groupMap = {};
       pItems.forEach(item => {
-        const gName = (item.category_lvl2 || '') + ' ▸ ' + (item.category_lvl3 || '');
+        const gName = (item.category_lvl2 || '通用') + ' ▸ ' + (item.category_lvl3 || item.tag || '其他');
         if (!groupMap[gName]) groupMap[gName] = [];
         groupMap[gName].push(item);
       });
@@ -2017,12 +2047,14 @@
     }
 
     function openLvl3Modal(lvl3Name, count) {
-      const pItems = activeProduct === 'ALL'
-        ? rawData.filter(d => d.category_lvl3 === lvl3Name || d.tag === lvl3Name)
-        : rawData.filter(d => d.product === activeProduct && (d.category_lvl3 === lvl3Name || d.tag === lvl3Name));
+      const pItems = getScopedItems().filter(d => {
+        const l3 = d.category_lvl3 || d.tag;
+        return l3 === lvl3Name;
+      });
 
       const prodName = activeProduct === 'ALL' ? '全量竞品汇总' : activeProduct;
-      document.getElementById('modalCategoryTitle').innerText = '【' + prodName + '】三级核心关注点：' + lvl3Name;
+      const scopeSuffix = (activeProduct === 'Simeji' && activeVoiceScope === 'VOICE') ? ' (⚡ 仅看语音视角)' : '';
+      document.getElementById('modalCategoryTitle').innerText = '【' + prodName + scopeSuffix + '】三级核心关注点：' + lvl3Name;
       document.getElementById('modalCategorySub').innerText = '共计 ' + pItems.length + ' 条相关用户真实反馈记录 (按情感分组)：';
 
       const modalBody = document.getElementById('modalBody');
@@ -2100,6 +2132,7 @@
     }
 
     function setVoiceScopeFilter(scope, btnEl) {
+      if (activeProduct !== 'Simeji') return;
       activeVoiceScope = scope;
       document.querySelectorAll('#voiceScopeFilters .filter-chip').forEach(b => b.classList.remove('active'));
       btnEl.classList.add('active');
@@ -2588,6 +2621,10 @@
 
     window.onload = async function() {
       initPromptConfig();
+      const voiceScopeBar = document.getElementById('voiceScopeFilters');
+      if (voiceScopeBar) {
+        voiceScopeBar.style.display = (activeProduct === 'Simeji') ? 'flex' : 'none';
+      }
       try {
         await loadVerifiedInterfaceData();
       } catch (error) {
