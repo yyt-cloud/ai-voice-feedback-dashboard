@@ -1,0 +1,13 @@
+{
+  "name": "ai-voice-feedback-verified-data",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "collect": "node collector/collect.mjs",
+    "validate": "node validator/validate.mjs",
+    "update-data": "npm run collect && npm run validate"
+  },
+  "dependencies": {
+    "google-play-scraper": "^10.1.2"
+  }
+}
