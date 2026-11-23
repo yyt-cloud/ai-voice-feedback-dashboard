@@ -2554,8 +2554,13 @@
       }
     }
 
-    window.onload = function() {
+    window.onload = async function() {
       initPromptConfig();
+      try {
+        await loadVerifiedInterfaceData();
+      } catch (error) {
+        console.error('Verified comment interface load failed:', error);
+      }
       onMonthChange();
     };
   </script>
