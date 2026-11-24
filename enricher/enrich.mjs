@@ -101,13 +101,45 @@ async function enrichBatch(records, attempt = 1) {
   return parsed.records;
 }
 
+async function enrichAndValidate(records, attempt = 1) {
+  try {
+    const results = await enrichBatch(records);
+    const byId = new Map(results.map(result => [result.id, result]));
+    return records.map(source => ({ source, enrichment: validate(byId.get(source.id), source) }));
+  } catch (error) {
+    if (attempt < 3) {
+      console.warn(`Enrichment validation failed (attempt ${attempt}/3): ${error.message}`);
+      await new Promise(resolve => setTimeout(resolve, attempt * 1000));
+      return enrichAndValidate(records, attempt + 1);
+    }
+    throw error;
+  }
+}
+
 console.log(`Enriching ${pending.length} of ${payload.records.length} verified records.`);
+const failed = [];
 for (let offset = 0; offset < pending.length; offset += batchSize) {
   const batch = pending.slice(offset, offset + batchSize);
-  const results = await enrichBatch(batch);
-  const byId = new Map(results.map(result => [result.id, result]));
-  for (const source of batch) Object.assign(source, validate(byId.get(source.id), source));
+  let validated = [];
+  try {
+    validated = await enrichAndValidate(batch);
+  } catch (batchError) {
+    console.warn(`Batch validation failed; retrying ${batch.length} records individually: ${batchError.message}`);
+    for (const source of batch) {
+      try {
+        validated.push(...await enrichAndValidate([source]));
+      } catch (error) {
+        failed.push({ id: source.id, error: error.message });
+        console.error(`Skipped enrichment for ${source.id}: ${error.message}`);
+      }
+    }
+  }
+  for (const { source, enrichment } of validated) Object.assign(source, enrichment);
   await writeFile(dataPath, JSON.stringify(payload, null, 2) + '\n');
   console.log(`Enriched ${Math.min(offset + batch.length, pending.length)}/${pending.length}`);
+}
+
+if (failed.length) {
+  console.warn(`Enrichment completed with ${failed.length} skipped record(s): ${failed.map(item => item.id).join(', ')}`);
 }
 
