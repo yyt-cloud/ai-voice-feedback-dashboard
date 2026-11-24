@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1600776631"
+    },
+    "name": {
+      "label": "Zarly A."
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-15T14:52:32-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "2.0.1"
+  },
+  "id": {
+    "label": "14795461290"
+  },
+  "title": {
+    "label": "Glitches"
+  },
+  "content": {
+    "label": "There were so many adds on YouTube so I finally gave in and downloaded Wispr flow but there has been glitches and it’s been a day and it is not letting me use my mic",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

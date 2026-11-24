@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id370756330"
+    },
+    "name": {
+      "label": "knknmkmk11"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-13T05:28:40-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14785362949"
+  },
+  "title": {
+    "label": "UI改悪"
+  },
+  "content": {
+    "label": "UIの位置を入れ替えられて使い勝手が最悪になりました。\nマイク邪魔すぎるド改悪。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

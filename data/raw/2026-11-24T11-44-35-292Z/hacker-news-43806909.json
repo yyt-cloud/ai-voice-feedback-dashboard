@@ -1,0 +1,39 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "darccio"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Confetti [0] was shared recently here at HN. It's described as &quot;simple, typeless, and localization-friendly configuration language designed for human-editable configuration files&quot;.<p>0: <a href=\"https://news.ycombinator.com/item?id=43534240\">https://news.ycombinator.com/item?id=43534240</a>"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "CONL: \"Markdown\" for your config files"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://cirw.in/blog/conl"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_darccio",
+    "story_43804489"
+  ],
+  "author": "darccio",
+  "comment_text": "Confetti [0] was shared recently here at HN. It&#x27;s described as &quot;simple, typeless, and localization-friendly configuration language designed for human-editable configuration files&quot;.<p>0: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=43534240\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=43534240</a>",
+  "created_at": "2025-04-26T20:30:15Z",
+  "created_at_i": 1745699415,
+  "objectID": "43806909",
+  "parent_id": 43805200,
+  "story_id": 43804489,
+  "story_title": "CONL: \"Markdown\" for your config files",
+  "story_url": "https://cirw.in/blog/conl",
+  "updated_at": "2025-04-26T23:48:41Z"
+}

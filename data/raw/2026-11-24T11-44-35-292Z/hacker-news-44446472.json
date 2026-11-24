@@ -1,0 +1,44 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "moomin"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Your basic problem is that your programming language can’t express the concept cleanly. You need what’s called “Higher-Kinded Types”.<p>To give you a concrete example, in C#<p>Func&lt;A, B&gt;, List&lt;A&gt; -&gt; List&lt;B&gt;<p>Func&lt;A, B&gt;, Task&lt;A&gt; -&gt; Task&lt;B&gt;<p>Func&lt;A, B&gt;, Func&lt;C, A&gt; -&gt; Func&lt;C, B&gt;<p>Can’t be expressed using a generalisation. But in Haskell, you can write<p>(Functor F) =&gt; Func&lt;A,B&gt;, F&lt;A&gt; -&gt; F&lt;B&gt;<p>One of the biggest things that makes monads hard to understand is that the type systems of most languages can’t represent them. Annoying, that includes the “typeless” ones."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "A list is a monad"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://alexyorke.github.io//2025/06/29/a-list-is-a-monad/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_moomin",
+    "story_44414965"
+  ],
+  "author": "moomin",
+  "children": [
+    44448888,
+    44450834,
+    44447090
+  ],
+  "comment_text": "Your basic problem is that your programming language can’t express the concept cleanly. You need what’s called “Higher-Kinded Types”.<p>To give you a concrete example, in C#<p>Func&lt;A, B&gt;, List&lt;A&gt; -&gt; List&lt;B&gt;<p>Func&lt;A, B&gt;, Task&lt;A&gt; -&gt; Task&lt;B&gt;<p>Func&lt;A, B&gt;, Func&lt;C, A&gt; -&gt; Func&lt;C, B&gt;<p>Can’t be expressed using a generalisation. But in Haskell, you can write<p>(Functor F) =&gt; Func&lt;A,B&gt;, F&lt;A&gt; -&gt; F&lt;B&gt;<p>One of the biggest things that makes monads hard to understand is that the type systems of most languages can’t represent them. Annoying, that includes the “typeless” ones.",
+  "created_at": "2025-07-02T17:29:47Z",
+  "created_at_i": 1751477387,
+  "objectID": "44446472",
+  "parent_id": 44446327,
+  "story_id": 44414965,
+  "story_title": "A list is a monad",
+  "story_url": "https://alexyorke.github.io//2025/06/29/a-list-is-a-monad/",
+  "updated_at": "2025-07-04T01:42:28Z"
+}

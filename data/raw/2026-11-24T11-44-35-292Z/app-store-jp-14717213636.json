@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id126661817"
+    },
+    "name": {
+      "label": "おじぽ神"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-27T03:58:50-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14717213636"
+  },
+  "title": {
+    "label": "「Simeji」毎日のように使わせていただいてます！(小４です語彙力がなくてすみません。)"
+  },
+  "content": {
+    "label": "友達とLINEやってて、絵文字使う度に「可愛すぎない？！」や「何それ！私にも教えて！」と言われてとっても嬉しいです！私も「入れて良かったなぁ」と心から思っています！皆様も是非「Simeji」入れてみてください！",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

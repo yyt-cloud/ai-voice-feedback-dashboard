@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1551992044"
+    },
+    "name": {
+      "label": "仕事疲れで病み期"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-05T04:08:20-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14753416132"
+  },
+  "title": {
+    "label": "Xの広告"
+  },
+  "content": {
+    "label": "Xでの広告のキーボード画像がアプリ内には無いのに､広告では病みかわキーボードを手に入れよう!なんて書いてあって何回か騙された｡アプリ内で表示してないキーボードの画像を広告として出さないで欲しいです｡見た感じAI画像っぽいですが､広告として出すならアプリでも使えるようにしてください｡",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

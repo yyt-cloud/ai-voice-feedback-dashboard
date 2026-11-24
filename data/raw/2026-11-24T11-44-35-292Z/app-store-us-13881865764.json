@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1503464476"
+    },
+    "name": {
+      "label": "Gononea01"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-03-24T06:03:18-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.2.1"
+  },
+  "id": {
+    "label": "13881865764"
+  },
+  "title": {
+    "label": "Excellent application"
+  },
+  "content": {
+    "label": "I can translate faster and communicate with many people from my work and my partner, it’s perfect for me.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

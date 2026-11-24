@@ -1,0 +1,29 @@
+{
+  "id": "4214f461-4c4c-48bb-b6a5-78fe330d7cde",
+  "userName": "村人Lv0.5",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIdvOJgJUGZuF2Vvrp6KaB2wat5bRt2YLTxD-I0iFwf2z0_bLw=mo",
+  "date": "2026-09-09T10:28:21.805Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=4214f461-4c4c-48bb-b6a5-78fe330d7cde",
+  "title": null,
+  "text": "キーボードを開くと出てくる邪魔で無意味なポップアップと左下の顔文字ボタン。めちゃくちゃな変換と並び(不快な変換候補の数々)。設定上部の目障りなバナー。総じて使いにくく、おすすめできるアプリではない。",
+  "replyDate": "2026-09-11T03:24:14.153Z",
+  "replyText": "レビューいただきありがとうございます。\n\nご不便をおかけし、申し訳ございません。\nいただいたご意見を真摯に受け止め、今後もより良いサービスをご提供できるよう改善に努めてまいります。\n\n今後ともSimejiをよろしくお願いいたします。",
+  "version": "23.0.1",
+  "thumbsUp": 3,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_visual_appeal",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 3
+    }
+  ]
+}

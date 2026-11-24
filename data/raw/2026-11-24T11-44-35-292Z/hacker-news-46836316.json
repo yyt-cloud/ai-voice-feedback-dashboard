@@ -1,0 +1,42 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "keyle"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Everyone wants to take credit for a naming convention, become part of history I suppose!<p>I'll do my own, narcissistically: Typeless programming!"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Automatic Programming"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://antirez.com/news/159"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_keyle",
+    "story_46835208"
+  ],
+  "author": "keyle",
+  "children": [
+    46849461
+  ],
+  "comment_text": "Everyone wants to take credit for a naming convention, become part of history I suppose!<p>I&#x27;ll do my own, narcissistically: Typeless programming!",
+  "created_at": "2026-01-31T13:04:06Z",
+  "created_at_i": 1769864646,
+  "objectID": "46836316",
+  "parent_id": 46835681,
+  "story_id": 46835208,
+  "story_title": "Automatic Programming",
+  "story_url": "https://antirez.com/news/159",
+  "updated_at": "2026-03-05T23:27:54Z"
+}

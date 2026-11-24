@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1804164566"
+    },
+    "name": {
+      "label": "Keegan.rose"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-04-08T18:38:20-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.2.3"
+  },
+  "id": {
+    "label": "13937678598"
+  },
+  "title": {
+    "label": "How I Dictated 8,000 Words in 49 Minutes at 243 WPM"
+  },
+  "content": {
+    "label": "I'm using Typeless right now while saying this, which is honestly the best proof I could give. I dictated 8,000 words in 49 minutes (at 243 words per minute) and saved over 4 hours. That is absurd.\n\nMost tools claim they can help you move faster, but this is one of the first ones where the bottleneck is actually gone. Typing slows me down, kills momentum, and makes me lose parts of the thought before they ever make it onto the screen. Typeless fixes that in a way that is immediately obvious the second you use it.\n\nI can just talk, keep going, and actually get the full idea out while it's still alive. It feels less like typing and more like finally letting my brain operate at speed. If your thoughts are faster than your hands, this is not a small upgrade; it is a completely better way to work.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

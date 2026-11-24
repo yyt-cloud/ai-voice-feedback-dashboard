@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1276468927"
+    },
+    "name": {
+      "label": "Misses Vixen"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2025-02-10T16:27:58-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "14.9.2"
+  },
+  "id": {
+    "label": "12296122951"
+  },
+  "title": {
+    "label": "If your American your not lucky"
+  },
+  "content": {
+    "label": "No english makes it impossible for me to use",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

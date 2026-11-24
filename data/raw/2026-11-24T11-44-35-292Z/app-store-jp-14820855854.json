@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1703572064"
+    },
+    "name": {
+      "label": "化学の人"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-22T06:44:24-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "17.6"
+  },
+  "id": {
+    "label": "14820855854"
+  },
+  "title": {
+    "label": "全体的に良い"
+  },
+  "content": {
+    "label": "タップ変換をオフに出来たり、好きな着せ替えに出来たり等は完璧。コンパネのカスタマイズが有料なのは妥当だと思うが、コンパネのデフォルトで、AI音声入力がデカイのが害悪。コンパネに追加したりするのが有料なのは良いが、コンパネから削除するのは無料にして頂きたい。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

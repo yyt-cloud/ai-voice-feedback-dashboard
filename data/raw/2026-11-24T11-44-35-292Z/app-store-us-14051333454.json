@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id15264005"
+    },
+    "name": {
+      "label": "compgeek821"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-05-10T20:58:30-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "1.5.0"
+  },
+  "id": {
+    "label": "14051333454"
+  },
+  "title": {
+    "label": "Please add apple Vision Pro support"
+  },
+  "content": {
+    "label": "This app works great on all other devices however, sadly, it doesn’t support Apple Vision Pro, where this is needed the most in my case",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

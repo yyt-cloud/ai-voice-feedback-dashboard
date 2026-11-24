@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id630743265"
+    },
+    "name": {
+      "label": "luluneedsalife"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2021-11-26T15:31:35-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "10.6"
+  },
+  "id": {
+    "label": "8066801628"
+  },
+  "title": {
+    "label": "English issue"
+  },
+  "content": {
+    "label": "The app is awesome yes I love it!! But the issue is where’s the tab to switch it into English because many of us are very concerned and confused onto how to get the tab there’s pictures showing the English version but where is it? Do you think you can hand us an update on it?",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "2"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "2"
+  }
+}

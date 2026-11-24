@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id429811804"
+    },
+    "name": {
+      "label": "Accidentalspy"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-19T15:52:36-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "2.0.3"
+  },
+  "id": {
+    "label": "14810500777"
+  },
+  "title": {
+    "label": "Paid reviews"
+  },
+  "content": {
+    "label": "All these 5 star reviews are paid for. They use your voice and data for training ai models",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

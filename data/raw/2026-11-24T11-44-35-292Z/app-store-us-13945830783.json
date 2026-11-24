@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1910353262"
+    },
+    "name": {
+      "label": "Lukasmule"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-04-11T02:34:48-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "1.2.3"
+  },
+  "id": {
+    "label": "13945830783"
+  },
+  "title": {
+    "label": "The price is surprising."
+  },
+  "content": {
+    "label": "I have never seen an input method that costs this much per year.So it expired, and I just stopped using it.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

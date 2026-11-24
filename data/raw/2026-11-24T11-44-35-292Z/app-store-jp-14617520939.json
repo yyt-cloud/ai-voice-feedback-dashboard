@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id383417739"
+    },
+    "name": {
+      "label": "ヌムバコ"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-01T21:42:20-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14617520939"
+  },
+  "title": {
+    "label": "もどして"
+  },
+  "content": {
+    "label": "音声入力の位置がドラックで移動が元々あった場所に来たせいで誤タップがストレス。音声入力なんて使わないから必要ないし、ドラックで移動出来るのが便利でSimejiを使ってたのに改悪すぎる。音声入力のボタンだけ幅が広いのもキモイ。ui改善したつもりでユーザーに不便をしいている仕事した気になってるだけ",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "3"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "3"
+  }
+}

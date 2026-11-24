@@ -1,0 +1,29 @@
+{
+  "id": "c4f9813d-7a20-4b2a-aa58-9ff58fad9170",
+  "userName": "まくら",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVSAOxpOswl0GRgDZmD96zm8qdjfHo_0XtlilsmsNT2lNUmoHN2",
+  "date": "2026-10-01T00:07:20.981Z",
+  "score": 2,
+  "scoreText": "2",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=c4f9813d-7a20-4b2a-aa58-9ff58fad9170",
+  "title": null,
+  "text": "長年Simejiが使いやすく愛用しています。 特に音声入力が瞬時に入力してくれるところが好きでした。 ほかの音声入力に比べても完璧では無いものの、かなり高精度に聞き取ってくれて大変重宝していました。 ですが、AIが音声入力に入ったことでAIのロード時間？的なのが入って入力が遅くなった…。 しかも勝手に敬語に変えられたりする…。 個人的にはそこがすごく痛い… AIが入ったことによって助かってる人もいるとは思います。 なので無くせということではなく、OFFにできたりすると 本当に助かります…。 他に音声入力でいいのがないか探したくらいです… ですが今のところ Simeji以上の音声入力に出会っていないのでどうか改善してくれたら嬉しいです…。",
+  "replyDate": "2026-10-01T06:22:50.279Z",
+  "replyText": "レビューをお寄せいただきありがとうございます。\n\nこちらのAIによる自動リライト機能につきましては、アプリ内の設定からオフに切り替えていただくことで、お話しされた内容をそのまま入力できるようになります。\n\n設定手順\n① Simejiアプリを開き、右下の「設定」をタップします。\n② 「入力補助」をタップします。\n③ 「音声入力設定」をタップします。\n④ 「AI自動リライト」をオフに切り替えてください。\n\nお手数をおかけいたしますが、一度設定をお試しいただけますと幸いです。\n\n今後ともSimejiをよろしくお願いいたします。",
+  "version": "23.6.1",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_ads_presence",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 1
+    }
+  ]
+}

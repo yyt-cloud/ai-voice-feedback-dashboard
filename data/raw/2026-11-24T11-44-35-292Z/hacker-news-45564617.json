@@ -1,0 +1,42 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "cdaringe"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Why is typeless a positive trait? Just due to the simplicity of the matter? What are the sharp edges?"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "MAML – A new configuration language"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://maml.dev/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_cdaringe",
+    "story_45562056"
+  ],
+  "author": "cdaringe",
+  "children": [
+    45564923
+  ],
+  "comment_text": "Why is typeless a positive trait? Just due to the simplicity of the matter? What are the sharp edges?",
+  "created_at": "2025-10-13T04:13:58Z",
+  "created_at_i": 1760328838,
+  "objectID": "45564617",
+  "parent_id": 45562912,
+  "story_id": 45562056,
+  "story_title": "MAML – A new configuration language",
+  "story_url": "https://maml.dev/",
+  "updated_at": "2026-03-05T22:51:17Z"
+}

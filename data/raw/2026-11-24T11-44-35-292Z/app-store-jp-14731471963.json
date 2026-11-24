@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1750930904"
+    },
+    "name": {
+      "label": "見ろ🫵︎"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-30T16:20:46-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14731471963"
+  },
+  "title": {
+    "label": "いいじゃん"
+  },
+  "content": {
+    "label": "着せ替えがいっぱいです絵文字も(≧∇≦)b文字も変えられる！",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

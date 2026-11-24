@@ -1,0 +1,39 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "ryukoposting"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Nice! I like it. I've always liked INI for the exact advantage you cite - typelessness.<p>Blah blah blah it doesn't have a spec. Lack of a spec doesn't matter from the user's POV in this problem domain, as all configuration files are categorically application-specific anyway. It doesn't matter to the developer either, insofar as whatever implementation you use fits your needs. This isn't object notation, it's not data interchange, it's <i>configuration</i>."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Show HN: I made Confetti: a configuration language file format"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://confetti.hgs3.me/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_ryukoposting",
+    "story_43534240"
+  ],
+  "author": "ryukoposting",
+  "comment_text": "Nice! I like it. I&#x27;ve always liked INI for the exact advantage you cite - typelessness.<p>Blah blah blah it doesn&#x27;t have a spec. Lack of a spec doesn&#x27;t matter from the user&#x27;s POV in this problem domain, as all configuration files are categorically application-specific anyway. It doesn&#x27;t matter to the developer either, insofar as whatever implementation you use fits your needs. This isn&#x27;t object notation, it&#x27;s not data interchange, it&#x27;s <i>configuration</i>.",
+  "created_at": "2025-04-02T12:49:09Z",
+  "created_at_i": 1743598149,
+  "objectID": "43556066",
+  "parent_id": 43534240,
+  "story_id": 43534240,
+  "story_title": "Show HN: I made Confetti: a configuration language file format",
+  "story_url": "https://confetti.hgs3.me/",
+  "updated_at": "2025-04-02T13:34:10Z"
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1741464553"
+    },
+    "name": {
+      "label": "キノコちゃん🍄"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-31T18:06:22-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14735785427"
+  },
+  "title": {
+    "label": "とってもおすすめ！！"
+  },
+  "content": {
+    "label": "とてもたくさんのキーボードがあり、可愛らしいものもあり、自分で作ることもできるので、自分に合ったキーボードを見つけることが必ずできると思います！！\n私ら、季節ごとに毎月変えています！\nそれぐらい種類があるのでオススメです！",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1912386506"
+    },
+    "name": {
+      "label": "知られていない人"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-22T04:09:06-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14696776861"
+  },
+  "title": {
+    "label": "絵文字が可愛い"
+  },
+  "content": {
+    "label": "いろんな絵文字があって使いどきがめっちゃある‎( > ·̫ <)👍🏻🌟日本語ローマ字を追加してもらえると助かります　　　　　( ᴖ⩊ᴖ💧",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "johnecheck"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Hmm, I disagree with Ousterhout's dichotomy and conclusions.<p>First, my understanding of his points - a language is either a systems language like C or a scripting language like TCL or python. Systems language have &quot;strong&quot; types and are for data structures/algorithms, scripting languages are &quot;typeless&quot; and are for &quot;gluing things together&quot;.<p>The main claim is that scripting languages are more concise and allow for faster development when gluing due to their 'typeless' nature.<p>In his example, he creates a button in Tcl.<p>button .b -text Hello! -font {Times\n16} -command {puts hello}<p>He goes on to say:<p>With C++\nand Microsoft Foundation Classes (MFC), it requires\nabout 25 lines of code in three procedures. 1 Just set-\nting the font requires several lines of code in MFC:\nCFont *fontPtr = new CFont();\nfontPtr-&gt;CreateFont(16, 0, 0, 0, 700,\n0, 0, 0, ANSI_CHARSET,\nOUT_DEFAULT_PRECIS,\nCLIP_DEFAULT_PRECIS,\nDEFAULT_QUALITY,\nDEFAULT_PITCH|FF_DONTCARE,\n“Times New Roman”);\nbuttonPtr-&gt;SetFont(fontPtr);<p>Much of this code is a consequence of the strong typ-\ning[...] In Tcl, the essential characteristics of the\nfont (typeface Times, size 16 points) can be used\nimmediately with no declarations or conversions.\nFurthermore, Tcl allows the button’s behavior\nto be included directly in the command that cre-\nates the button, while C++ and Java require it to\nbe placed in a separately declared method.<p>End quote.<p>We've come a long way, and examples have made clear that this dichotomy is a false one. Ousterhout's view was colored by his limited experience, resulting in him misunderstanding what he actually likes about Tcl.<p>Let's talk about syntax. His exact Tcl code as presented could be parsed and compiled by a language that does static type analysis. It's not, because he's running it in an interpreter that only checks types at runtime. But the point is that whether code is compiled or interpreted is an implementation detail that has very little to do with the syntax. He likes his syntax because his syntax is obviously better than C++, nothing more.<p>And types: he claims that 'typeless' languages allow for faster development because of fewer restrictions. This is, ofc, nonsense. The amount of restrictions you have is a function of your problem, not your language. If it feels like dynamic typing is letting you develop faster, that's because you're putting off encountering those restrictions til later.<p>It's better to guarantee we encounter all type errors before the program even runs. But since you can do static type analysis for any language, why don't all languages do that?<p>Because it's hard. Type theory is complicated. Not all type systems are decidable, we need to pick one that is for practical reasons. Ones that are may require annotations or complex algorithms/semantics restrictions like Hindley-Milner.<p>As a PL designer, it's a whole lot easier to just give up and only check types at runtime. And that makes a whole lot of sense if your priority is just embedding a usable language ASAP. But let's not pretend that it's because it's actually better."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Writing that changed how I think about programming languages"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://bernsteinbear.com/blog/pl-writing/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_johnecheck",
+    "story_43980760"
+  ],
+  "author": "johnecheck",
+  "children": [
+    43986718,
+    43988641,
+    43983546,
+    43988063,
+    43984469,
+    43983573,
+    43983855,
+    43984830,
+    43985197
+  ],
+  "comment_text": "Hmm, I disagree with Ousterhout&#x27;s dichotomy and conclusions.<p>First, my understanding of his points - a language is either a systems language like C or a scripting language like TCL or python. Systems language have &quot;strong&quot; types and are for data structures&#x2F;algorithms, scripting languages are &quot;typeless&quot; and are for &quot;gluing things together&quot;.<p>The main claim is that scripting languages are more concise and allow for faster development when gluing due to their &#x27;typeless&#x27; nature.<p>In his example, he creates a button in Tcl.<p>button .b -text Hello! -font {Times\n16} -command {puts hello}<p>He goes on to say:<p>With C++\nand Microsoft Foundation Classes (MFC), it requires\nabout 25 lines of code in three procedures. 1 Just set-\nting the font requires several lines of code in MFC:\nCFont *fontPtr = new CFont();\nfontPtr-&gt;CreateFont(16, 0, 0, 0, 700,\n0, 0, 0, ANSI_CHARSET,\nOUT_DEFAULT_PRECIS,\nCLIP_DEFAULT_PRECIS,\nDEFAULT_QUALITY,\nDEFAULT_PITCH|FF_DONTCARE,\n“Times New Roman”);\nbuttonPtr-&gt;SetFont(fontPtr);<p>Much of this code is a consequence of the strong typ-\ning[...] In Tcl, the essential characteristics of the\nfont (typeface Times, size 16 points) can be used\nimmediately with no declarations or conversions.\nFurthermore, Tcl allows the button’s behavior\nto be included directly in the command that cre-\nates the button, while C++ and Java require it to\nbe placed in a separately declared method.<p>End quote.<p>We&#x27;ve come a long way, and examples have made clear that this dichotomy is a false one. Ousterhout&#x27;s view was colored by his limited experience, resulting in him misunderstanding what he actually likes about Tcl.<p>Let&#x27;s talk about syntax. His exact Tcl code as presented could be parsed and compiled by a language that does static type analysis. It&#x27;s not, because he&#x27;s running it in an interpreter that only checks types at runtime. But the point is that whether code is compiled or interpreted is an implementation detail that has very little to do with the syntax. He likes his syntax because his syntax is obviously better than C++, nothing more.<p>And types: he claims that &#x27;typeless&#x27; languages allow for faster development because of fewer restrictions. This is, ofc, nonsense. The amount of restrictions you have is a function of your problem, not your language. If it feels like dynamic typing is letting you develop faster, that&#x27;s because you&#x27;re putting off encountering those restrictions til later.<p>It&#x27;s better to guarantee we encounter all type errors before the program even runs. But since you can do static type analysis for any language, why don&#x27;t all languages do that?<p>Because it&#x27;s hard. Type theory is complicated. Not all type systems are decidable, we need to pick one that is for practical reasons. Ones that are may require annotations or complex algorithms&#x2F;semantics restrictions like Hindley-Milner.<p>As a PL designer, it&#x27;s a whole lot easier to just give up and only check types at runtime. And that makes a whole lot of sense if your priority is just embedding a usable language ASAP. But let&#x27;s not pretend that it&#x27;s because it&#x27;s actually better.",
+  "created_at": "2025-05-14T11:57:51Z",
+  "created_at_i": 1747223871,
+  "objectID": "43983431",
+  "parent_id": 43982439,
+  "story_id": 43980760,
+  "story_title": "Writing that changed how I think about programming languages",
+  "story_url": "https://bernsteinbear.com/blog/pl-writing/",
+  "updated_at": "2025-05-21T15:26:32Z"
+}

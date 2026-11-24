@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1880694217"
+    },
+    "name": {
+      "label": "該当データなし"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-10T01:48:20-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14648966294"
+  },
+  "title": {
+    "label": "これ自体はいいんだけど"
+  },
+  "content": {
+    "label": "Simejiでキーボードが可愛くなるのはめっちゃ嬉しいし楽しいです！\n\n だけど、2013年くらいに、情報が中国のバイドゥに無断送信されてた事例があるので怖いですね。\n\n これを知ったのは最近なんですけど、そっからはIDとか打つ時は絶対ノーマルに戻してます。\n\n あとは、変換予測みたいなやつをOFFにして、変換学習もリセットさせました。\n\n こうすることをオススメします。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

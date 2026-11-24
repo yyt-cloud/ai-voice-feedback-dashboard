@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1436049255"
+    },
+    "name": {
+      "label": "レイン！"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2024-08-27T22:14:26-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "14.3"
+  },
+  "id": {
+    "label": "11661075630"
+  },
+  "title": {
+    "label": "かわいい！"
+  },
+  "content": {
+    "label": "私はこれをやってからキーボードがいっぱい可愛いのあってこのキーボードは、最高と思いました！！👍これがあってとても良かったと思います！👍だからー！\n星は★★★★★です！",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

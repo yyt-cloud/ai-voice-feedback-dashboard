@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1020708734"
+    },
+    "name": {
+      "label": "Cait 647"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2020-08-07T12:45:47-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "9.0"
+  },
+  "id": {
+    "label": "6292099050"
+  },
+  "title": {
+    "label": "Please add English option"
+  },
+  "content": {
+    "label": "I physically cannot read any of it and I really want to use this app because it looks like so much fun but it’s kinda hard when you can’t read anything.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

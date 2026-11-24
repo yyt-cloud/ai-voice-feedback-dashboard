@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id532809925"
+    },
+    "name": {
+      "label": "Njlve"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-10T13:18:31-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14651157861"
+  },
+  "title": {
+    "label": "セキュリティ面の不安"
+  },
+  "content": {
+    "label": "皆さん！情報漏洩が嫌なら、ほかのキーボードに変えた方がいいですよ…。🇨🇳のアプリなのでいつ抜かれるかわかんないですよ。使い続けるなら、フルアクセスは許可しないを選ぶこと。あと重要な情報、クレカやパスワードを入力する際は元々iPhoneやAndroidに搭載されてるキーボードで入力しましょう！",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

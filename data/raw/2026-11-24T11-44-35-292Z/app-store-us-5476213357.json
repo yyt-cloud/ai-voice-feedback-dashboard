@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1115742950"
+    },
+    "name": {
+      "label": "lolsont ick"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2020-02-01T14:51:48-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "8.4"
+  },
+  "id": {
+    "label": "5476213357"
+  },
+  "title": {
+    "label": "So good"
+  },
+  "content": {
+    "label": "I love Japanese I can learn it sometimes (also my YouTube channel is lolcatXD444 plz sub to meh)",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

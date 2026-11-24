@@ -1,0 +1,29 @@
+{
+  "id": "c83f1793-4746-4421-963f-1c763b54a62e",
+  "userName": "Joezana Tyler",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVFeDiJTVnEpX2KCC_u3iVyTs3bfXKfY8RflseHkf7u34qbco-j",
+  "date": "2026-11-19T18:48:22.159Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.wispr.flowapp&reviewId=c83f1793-4746-4421-963f-1c763b54a62e",
+  "title": null,
+  "text": "It was awesome 😎",
+  "replyDate": null,
+  "replyText": null,
+  "version": null,
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_phase1_collaboration",
+      "rating": 1
+    }
+  ]
+}

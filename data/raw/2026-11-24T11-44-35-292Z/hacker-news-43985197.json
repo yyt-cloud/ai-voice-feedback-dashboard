@@ -1,0 +1,39 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "coldtea"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "&gt;<i>We've come a long way, and examples have made clear that this dichotomy is a false one.</i><p>I wouldn't be so sure. Even Javascript, when is added types in the form of Typescript, looks more like the convoluted Windows API example and less like the TCL example.<p>&gt;<i>Let's talk about syntax. His exact Tcl code as presented could be parsed and compiled by a language that does static type analysis. It's not, because he's running it in an interpreter that only checks types at runtime. But the point is that whether code is compiled or interpreted is an implementation detail that has very little to do with the syntax.</i><p>Pedantically true. You can of course compile anything, including BASIC and TCL, or intepret C++ if you wished so.<p>But to really take advantage of compilation, languages tend to add types and other annotations or semantic constructs (like Haskell does). And so compiled languages tend to a certain syntax/semantics, and interpreted languages to another.<p>&gt;<i>And types: he claims that 'typeless' languages allow for faster development because of fewer restrictions. This is, ofc, nonsense. The amount of restrictions you have is a function of your problem, not your language. If it feels like dynamic typing is letting you develop faster, that's because you're putting off encountering those restrictions til later.</i><p>So it's not &quot;nonsense&quot;, but rather a tradeoff, just like Ousterhout puts it.<p>For many, it is much faster to &quot;putting off encountering those restrictions til later&quot;, as that's a large part of exploring the problem space.<p>See, while &quot;the amount of restrictions you have is a function of your problem&quot;, you don't always know your exact problem, its boundaries, and the form you'll use to solve it, until you've experimented and played with early prototype solutions and changed them, etc. While doing so, having to tackle hard restrictions based on assumptions that can and will change or be discarded, slows you down.<p>&gt;<i>It's better to guarantee we encounter all type errors before the program even runs.</i><p>Only if it doesn't entail other issues, like it making our exploratory programming to end up with a design for our program slower and more tedious."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Writing that changed how I think about programming languages"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://bernsteinbear.com/blog/pl-writing/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_coldtea",
+    "story_43980760"
+  ],
+  "author": "coldtea",
+  "comment_text": "&gt;<i>We&#x27;ve come a long way, and examples have made clear that this dichotomy is a false one.</i><p>I wouldn&#x27;t be so sure. Even Javascript, when is added types in the form of Typescript, looks more like the convoluted Windows API example and less like the TCL example.<p>&gt;<i>Let&#x27;s talk about syntax. His exact Tcl code as presented could be parsed and compiled by a language that does static type analysis. It&#x27;s not, because he&#x27;s running it in an interpreter that only checks types at runtime. But the point is that whether code is compiled or interpreted is an implementation detail that has very little to do with the syntax.</i><p>Pedantically true. You can of course compile anything, including BASIC and TCL, or intepret C++ if you wished so.<p>But to really take advantage of compilation, languages tend to add types and other annotations or semantic constructs (like Haskell does). And so compiled languages tend to a certain syntax&#x2F;semantics, and interpreted languages to another.<p>&gt;<i>And types: he claims that &#x27;typeless&#x27; languages allow for faster development because of fewer restrictions. This is, ofc, nonsense. The amount of restrictions you have is a function of your problem, not your language. If it feels like dynamic typing is letting you develop faster, that&#x27;s because you&#x27;re putting off encountering those restrictions til later.</i><p>So it&#x27;s not &quot;nonsense&quot;, but rather a tradeoff, just like Ousterhout puts it.<p>For many, it is much faster to &quot;putting off encountering those restrictions til later&quot;, as that&#x27;s a large part of exploring the problem space.<p>See, while &quot;the amount of restrictions you have is a function of your problem&quot;, you don&#x27;t always know your exact problem, its boundaries, and the form you&#x27;ll use to solve it, until you&#x27;ve experimented and played with early prototype solutions and changed them, etc. While doing so, having to tackle hard restrictions based on assumptions that can and will change or be discarded, slows you down.<p>&gt;<i>It&#x27;s better to guarantee we encounter all type errors before the program even runs.</i><p>Only if it doesn&#x27;t entail other issues, like it making our exploratory programming to end up with a design for our program slower and more tedious.",
+  "created_at": "2025-05-14T14:47:52Z",
+  "created_at_i": 1747234072,
+  "objectID": "43985197",
+  "parent_id": 43983431,
+  "story_id": 43980760,
+  "story_title": "Writing that changed how I think about programming languages",
+  "story_url": "https://bernsteinbear.com/blog/pl-writing/",
+  "updated_at": "2025-05-17T19:54:54Z"
+}

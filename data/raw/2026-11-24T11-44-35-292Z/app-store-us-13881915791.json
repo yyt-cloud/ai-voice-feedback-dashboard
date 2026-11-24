@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1659456983"
+    },
+    "name": {
+      "label": "Max.-🤘"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-03-24T06:20:27-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "1.2.1"
+  },
+  "id": {
+    "label": "13881915791"
+  },
+  "title": {
+    "label": "No theater application"
+  },
+  "content": {
+    "label": "Esta aplicación es absolutamente una completa basura. Cuando la uso, el micrófono se queda encendido, y eso lo están haciendo para duplicar y robar nuestras voces para hacerse pasar por nosotros.\n\nEsas personas son unos malditos estafadores, hijos de perra. Hay que borrar esta aplicación lo antes posible.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

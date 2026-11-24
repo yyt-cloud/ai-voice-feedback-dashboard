@@ -1,0 +1,29 @@
+{
+  "id": "b3b51535-6606-421a-8a51-0b4e2c3f8926",
+  "userName": "Brian Wong",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVXe9pu28OdiX8aQcSUIjsEu_MpNbWx1Kk-mY3lB_gt8jC_RS24PQ",
+  "date": "2026-08-09T00:31:59.200Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=b3b51535-6606-421a-8a51-0b4e2c3f8926",
+  "title": null,
+  "text": "What an amazing app! The accuracy is way better than Google Voice Typing. Also, it takes my entire audio recording and transcribes it in context, with all the proper nouns correct, and sometimes even with an enhanced sentence structure. I can even switch to Chinese mid-sentence, and it can detect the switch. Admittedly, this gets better with a paid subscription, though. I type nearly 1,000 words on my phone every day as a long-time diarist, and this app is saving me so much time! no numpad tho",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.3.0",
+  "thumbsUp": 8,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_visual_appeal",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 2
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id10181613"
+    },
+    "name": {
+      "label": "mpfjelsted"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-14T17:48:05-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "2.0.1"
+  },
+  "id": {
+    "label": "14791768470"
+  },
+  "title": {
+    "label": "Dictation is amazing but the keyboard is awful"
+  },
+  "content": {
+    "label": "The dictation on this is truly so much better than what is built into iOS. I love it. The problem is the keyboard that it is integrated into is awful. It is so much worse than Apple’s keyboard that I have to switch back to Apple’s keyboard for regular typing. and then back again to Wispr Flow every time I want to use dictation. So I only end up using Wispr Flow for longer dictation. I hope they put some work into the keyboard so that it can be only keyboard I use on iOS.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

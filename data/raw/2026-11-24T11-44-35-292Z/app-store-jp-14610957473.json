@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id490387612"
+    },
+    "name": {
+      "label": "ちょぴこん"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-09-30T06:23:55-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14610957473"
+  },
+  "title": {
+    "label": "なぜかなぁ"
+  },
+  "content": {
+    "label": "地球儀マークにSimejiはあるのに押しても起動せず唐突に使えなくなるバグあるからそこが治れば完璧なんだけどなー",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id326267596"
+    },
+    "name": {
+      "label": "后期笙笙"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-02T08:17:58-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14619250131"
+  },
+  "title": {
+    "label": "Simejiレビュー"
+  },
+  "content": {
+    "label": "広告は見るけど、そんなやりにくく無くてやりやすかったですね！！",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

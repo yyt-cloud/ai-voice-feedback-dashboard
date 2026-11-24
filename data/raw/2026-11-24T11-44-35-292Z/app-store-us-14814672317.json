@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id125960256"
+    },
+    "name": {
+      "label": "CDMX2XMAS"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-20T17:37:24-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.0.4"
+  },
+  "id": {
+    "label": "14814672317"
+  },
+  "title": {
+    "label": "Exactly what it says it is"
+  },
+  "content": {
+    "label": "Title says it all",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

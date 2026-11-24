@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id646079727"
+    },
+    "name": {
+      "label": "e6e7e8g2f4"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-17T19:08:41-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.0.2"
+  },
+  "id": {
+    "label": "14803300659"
+  },
+  "title": {
+    "label": "Awesome for everyday use."
+  },
+  "content": {
+    "label": "I use Wispr every day for any task it can be used for. Since it has a layer of AI after voice-to-text, you can cut out any stutter and make any correction in the text you would want to make. It is incredibly good at taking backtracks.\n\nThings such as that, and its usage gets severely enhanced when on Mac with transforms and meeting notes. Because of their consistent updates, it is getting better and better. Would recommend.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

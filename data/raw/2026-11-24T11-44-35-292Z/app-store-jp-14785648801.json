@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1718109869"
+    },
+    "name": {
+      "label": "耳のニキビ"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-13T06:49:08-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14785648801"
+  },
+  "title": {
+    "label": "とても使いやすい"
+  },
+  "content": {
+    "label": "Appleのキーボードより打ちやすいです。変換も色々出てきて優先順位もつけれるのでとても便利で5年ほど愛用しています。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

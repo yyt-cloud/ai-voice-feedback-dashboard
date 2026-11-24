@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1977085081"
+    },
+    "name": {
+      "label": "心実薦"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-12T05:14:01-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14781376319"
+  },
+  "title": {
+    "label": "楽しい"
+  },
+  "content": {
+    "label": "Simejiは、キーボードも好きなようにできるし、人それぞれで作れるから、自分だけのキーボードを作って、楽しく出来るから、星5にしましたჱ̒՞ ̳ᴗ ̫ ᴗ ̳՞꒱",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

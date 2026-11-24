@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id100335305"
+    },
+    "name": {
+      "label": "Kevkas"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-02T07:18:31-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14742120217"
+  },
+  "title": {
+    "label": "Really strong"
+  },
+  "content": {
+    "label": "Much better than the built in iPhone dictation and no need to spell out punctuation marks.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

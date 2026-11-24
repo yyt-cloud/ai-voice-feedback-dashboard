@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id7745086"
+    },
+    "name": {
+      "label": "CliffyD"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-19T16:00:42-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.77"
+  },
+  "id": {
+    "label": "14687198530"
+  },
+  "title": {
+    "label": "Outstanding."
+  },
+  "content": {
+    "label": "This app captures every word as spoken. No misspellings or incorrect words, as you commonly find with Siri.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

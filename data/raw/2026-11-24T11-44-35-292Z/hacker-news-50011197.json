@@ -1,0 +1,43 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "paaloeye"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "wispr",
+        "flow"
+      ],
+      "value": "RIP <em>Wispr</em> <em>Flow</em>"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Whistle: Speech to Text in 16.9 MB"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://cactuscompute.com/blog/whistle"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_paaloeye",
+    "story_50008427"
+  ],
+  "author": "paaloeye",
+  "comment_text": "RIP Wispr Flow",
+  "created_at": "2026-10-08T19:55:54Z",
+  "created_at_i": 1791489354,
+  "objectID": "50011197",
+  "parent_id": 50008427,
+  "story_id": 50008427,
+  "story_title": "Whistle: Speech to Text in 16.9 MB",
+  "story_url": "https://cactuscompute.com/blog/whistle",
+  "updated_at": "2026-10-09T00:17:25Z"
+}

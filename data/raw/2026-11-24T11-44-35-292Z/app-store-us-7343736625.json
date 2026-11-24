@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1274095781"
+    },
+    "name": {
+      "label": "Lacedwi"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2021-05-15T17:02:43-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "10.0.1"
+  },
+  "id": {
+    "label": "7343736625"
+  },
+  "title": {
+    "label": "素晴らしい！"
+  },
+  "content": {
+    "label": "(英語話す人にノート) a note to english speaking people reviewing this app: it’s a JAPANESE keyboard app. Don’t complain about the Japanese interface.\n\nこのアプリが大好きですよ！たくさんのアプリでディフォルトキーボードはバグします。でもSimejiは可愛くて便利なキーボードです。たくさんの人が顔文字と漢字を追加できるのは好きです。とっても良いですよね。\n英語話す人が迷惑だったら本当にごめんなさい。実際で言語の選択肢が大丈夫ですよ。\n文にたくさんの間違いがあったらすみません。まだ勉強しています。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

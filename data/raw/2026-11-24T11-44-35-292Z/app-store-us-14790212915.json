@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id470951936"
+    },
+    "name": {
+      "label": "Bl28585"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-14T08:54:55-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "2.0.1"
+  },
+  "id": {
+    "label": "14790212915"
+  },
+  "title": {
+    "label": "This app is awesome, but…"
+  },
+  "content": {
+    "label": "Really? Why do you have to provide subscriptions for this? All I’m looking for is an app where I can use talk to text without inaccurate words.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

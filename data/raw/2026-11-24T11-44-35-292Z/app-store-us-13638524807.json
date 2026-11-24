@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id245870160"
+    },
+    "name": {
+      "label": "hoyin (Hong Kong)"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-01-15T19:54:35-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "0.3.1"
+  },
+  "id": {
+    "label": "13638524807"
+  },
+  "title": {
+    "label": "喺AI年代最好用嘅輸入法"
+  },
+  "content": {
+    "label": "自從有咗呢個工具之後，我可以好方便咁直接講出我嘅需求，唔使再一隻隻字打。\n\n最正嘅係佢會幫我更正一啲重複嘅字眼，仲會根據我嘅內容去調整，而得出嚟嘅結果同我想表達嘅嘢都唔會相差太遠。特別係當我要同 AI 講嘢或者有內容要表達嘅時候，呢個工具真係幫我慳咗非常之多嘅時間。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

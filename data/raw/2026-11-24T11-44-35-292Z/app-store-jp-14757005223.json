@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1835213232"
+    },
+    "name": {
+      "label": "@さよ"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-06T02:23:36-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14757005223"
+  },
+  "title": {
+    "label": "音声入力ゴミ"
+  },
+  "content": {
+    "label": "スペルを打つのが面倒くさくて、音声入力を使って英語を入力していたんですけど、アップデート前はちゃんと入力できていたのに、今は英語で話しても何故か日本語に入力されてすごく不便で使いづらいです。\n直してください。前の方が良かった",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id391410604"
+    },
+    "name": {
+      "label": "Dre Alvarez"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-05-11T20:04:34-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.5.0"
+  },
+  "id": {
+    "label": "14054820689"
+  },
+  "title": {
+    "label": "Best in the Apple Store."
+  },
+  "content": {
+    "label": "The best voice dictation nobody knows about.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

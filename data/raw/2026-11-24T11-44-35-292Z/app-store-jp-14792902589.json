@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1794969345"
+    },
+    "name": {
+      "label": "すずね！！"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-15T01:18:46-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14792902589"
+  },
+  "title": {
+    "label": "個人的にいいと思うけど…"
+  },
+  "content": {
+    "label": "ホーム画面の時には普通のキーボードに逆戻りしてしまうので顔文字や絵文字等が使う事が出来ません(¯―¯💧) 少し細く言わせてもらいますね、制限で使えない。という訳ではなく、ホーム画面だとSimejiのキーボードは何度もやってますが出来ない設定なのですか？？？（今もSimejiの制限が切れていますが使えています。）後、何か上の方のキーボードを見た時に左から5番目にあるʕ•ᴥ•ʔ（熊）の押しボタンは何ですか、どうやって使えばいいのですか？今使おうとしたのですが、 “コピー済み。入力欄にペーストしよう”と出るのですがペーストが使えなく、2回押せば行けると思うんですけどどれを押せば良いのか分からなくて可愛いのに使えないままなので教えて貰いたいです。後、1番初めの動画で、🍓や🎀などのスタンプはどこから出していますか？よろしくお願いします🙏🏻💫",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

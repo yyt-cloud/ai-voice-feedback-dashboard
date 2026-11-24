@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1480474027"
+    },
+    "name": {
+      "label": "SangerZonvolt"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-05-14T05:01:03-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "1.5.0"
+  },
+  "id": {
+    "label": "14063247595"
+  },
+  "title": {
+    "label": "Needs work"
+  },
+  "content": {
+    "label": "The understanding when using voice to text is good. But the constant having to read the excerpt on the app and swipe back is so tiresome. And you must manually swap back to a regular keyboard after. They do have their own keyboard but the autocorrect is basically offline and of course there are no emojis available. They need to fully integrate with Apple. Because it’s just not worth the hassle for daily primary use.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

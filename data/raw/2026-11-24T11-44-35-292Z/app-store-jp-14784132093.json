@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1675375517"
+    },
+    "name": {
+      "label": "satika( ･ᴗ･  )"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-12T21:26:31-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14784132093"
+  },
+  "title": {
+    "label": "◝(  ˙ ꒳ ˙  )◜ｱﾏｯ!!"
+  },
+  "content": {
+    "label": "とても絵文字種類が豊富ですごく使いやすいです！(*ˊᗜˋ)",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

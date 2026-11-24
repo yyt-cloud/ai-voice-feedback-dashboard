@@ -1,0 +1,29 @@
+{
+  "id": "e56d5954-157f-4214-98e3-597d4601d270",
+  "userName": "assamusic",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLqlfb6jGIsxwW5gyl4j1he_nj7eXsgtiAY_iI-Efuzx_3hSQ=mo",
+  "date": "2026-08-30T11:59:46.867Z",
+  "score": 3,
+  "scoreText": "3",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=e56d5954-157f-4214-98e3-597d4601d270",
+  "title": null,
+  "text": "可愛いけど広告を見ないとパーツが貰えない",
+  "replyDate": "2026-08-31T05:35:40.428Z",
+  "replyText": "レビューをお寄せいただき、ありがとうございます。\n\nきせかえパーツを気に入っていただけて嬉しく思います。一方で、広告を視聴しないと一部のパーツを獲得できない点について、ご不便をおかけし申し訳ございません。\n\nいただいたご意見は担当部署へ共有し、今後より快適にお楽しみいただけるサービスづくりの参考とさせていただきます。\n\n今後ともSimejiをよろしくお願いいたします。",
+  "version": "23.4.1",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_ads_presence",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_ads_frequency",
+      "rating": 1
+    }
+  ]
+}

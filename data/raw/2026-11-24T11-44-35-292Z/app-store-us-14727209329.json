@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id15745894"
+    },
+    "name": {
+      "label": "Aulloa4"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-29T14:33:25-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14727209329"
+  },
+  "title": {
+    "label": "Super helpful across all platforms"
+  },
+  "content": {
+    "label": "Writing this review in Wispr Flow, it has been much easier for me to use AI prompts, draft emails, and interact on chat with Wispr Flow across both Windows and Apple apps. I'm building out my dictionary of terms so that my dictation is bespoke to what exists in my sphere. What's really nice about Wispr Flow is that it uses grammar and my tone in delivering messages, whether it be for correspondence that's formal or quick for text.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

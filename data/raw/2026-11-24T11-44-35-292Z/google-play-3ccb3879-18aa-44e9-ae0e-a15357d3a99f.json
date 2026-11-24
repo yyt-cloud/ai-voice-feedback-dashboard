@@ -1,0 +1,29 @@
+{
+  "id": "3ccb3879-18aa-44e9-ae0e-a15357d3a99f",
+  "userName": "Christina Weiss",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX6KjAqhkmLqzvcZ3Caja9ZCYxtsNzXWcS6fM9_KHc0M3aj0wVD",
+  "date": "2026-09-21T19:16:20.249Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=3ccb3879-18aa-44e9-ae0e-a15357d3a99f",
+  "title": null,
+  "text": "I'm only giving this app one star because it won't let me get past the sign-in page. I click to sign in with my Gmail account, and it then asks me whether I want to open it in the app. I say yes, and then I'm hit back with the same sign-in screen. I click again to sign in, and it just goes in a circle. I never get past the sign-in page.",
+  "replyDate": null,
+  "replyText": null,
+  "version": null,
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_app_quality_usability",
+      "rating": 3
+    }
+  ]
+}

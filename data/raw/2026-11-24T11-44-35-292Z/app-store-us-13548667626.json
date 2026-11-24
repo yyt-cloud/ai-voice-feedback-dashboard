@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id232616812"
+    },
+    "name": {
+      "label": "vic_moonshot"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2025-12-23T22:01:34-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "0.1.1"
+  },
+  "id": {
+    "label": "13548667626"
+  },
+  "title": {
+    "label": "Huge productivity booster."
+  },
+  "content": {
+    "label": "I feel like it's 10 times faster than the phone keyboard. Works great\n\nThe rewrite feature is awesome. I just want to have this feature for every selected text.\n\nBy the way, wrote this review completely with this awesome keyboard.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

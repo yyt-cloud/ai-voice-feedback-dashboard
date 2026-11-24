@@ -1,0 +1,43 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "somat"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "I am not much of a programmer so I was trying to figure out what generics are. And I am sure they are great, but my inner gremlin goes in sarcastic tone &quot;we want these elaborate type systems, but we also want typeless because that is far more convenient to use, so we invented generics, a method to untype your type system&quot;<p>But really while I was reading up on what generics are I went, isn't that just python, strongly typed but your functions don't have built in type checks."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "PHP compile time generics: yay or nay?"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://thephp.foundation/blog/2025/08/05/compile-generics/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_somat",
+    "story_44823272"
+  ],
+  "author": "somat",
+  "children": [
+    44860814,
+    44861290
+  ],
+  "comment_text": "I am not much of a programmer so I was trying to figure out what generics are. And I am sure they are great, but my inner gremlin goes in sarcastic tone &quot;we want these elaborate type systems, but we also want typeless because that is far more convenient to use, so we invented generics, a method to untype your type system&quot;<p>But really while I was reading up on what generics are I went, isn&#x27;t that just python, strongly typed but your functions don&#x27;t have built in type checks.",
+  "created_at": "2025-08-11T04:21:05Z",
+  "created_at_i": 1754886065,
+  "objectID": "44860733",
+  "parent_id": 44823272,
+  "story_id": 44823272,
+  "story_title": "PHP compile time generics: yay or nay?",
+  "story_url": "https://thephp.foundation/blog/2025/08/05/compile-generics/",
+  "updated_at": "2026-03-05T22:32:41Z"
+}

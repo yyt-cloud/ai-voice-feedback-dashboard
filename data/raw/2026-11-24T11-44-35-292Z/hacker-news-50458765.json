@@ -1,0 +1,37 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "spapas82"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "wispr",
+        "flow"
+      ],
+      "value": "Thank you very much. <em>Wispr</em> <em>Flow</em> is great and it also transcribes my primary language, which is Greek"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Ask HN: Software engineer with broken arm, any tips?"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_spapas82",
+    "story_50456164"
+  ],
+  "author": "spapas82",
+  "comment_text": "Thank you very much. Wispr Flow is great and it also transcribes my primary language, which is Greek",
+  "created_at": "2026-11-11T21:15:13Z",
+  "created_at_i": 1794431713,
+  "objectID": "50458765",
+  "parent_id": 50457725,
+  "story_id": 50456164,
+  "story_title": "Ask HN: Software engineer with broken arm, any tips?",
+  "updated_at": "2026-11-11T21:18:00Z"
+}

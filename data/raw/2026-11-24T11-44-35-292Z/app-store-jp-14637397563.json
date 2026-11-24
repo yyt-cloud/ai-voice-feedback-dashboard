@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id496203623"
+    },
+    "name": {
+      "label": "Gagging offerings"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-07T01:39:53-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14637397563"
+  },
+  "title": {
+    "label": "いつか会える日まで"
+  },
+  "content": {
+    "label": "AIマイクの改悪に関して炎上していますが、個人的には納得しています\n\n金が入る仕組みを作らないといけないとか、AIを使わせないといけないみたいな理由なのかなって推測してます。同情しますよ😭\n\nただ、3ヶ月以上待っても直っていない現状を踏まえ、私はFlickに移ります。長い間お世話になりました",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

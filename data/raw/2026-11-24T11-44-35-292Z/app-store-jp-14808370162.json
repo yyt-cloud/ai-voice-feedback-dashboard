@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1652966212"
+    },
+    "name": {
+      "label": "(⑉• ฅ •⑉)"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-19T03:56:39-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.6"
+  },
+  "id": {
+    "label": "14808370162"
+  },
+  "title": {
+    "label": "ぜひ見て"
+  },
+  "content": {
+    "label": "良い点↓ \nキーボードの種類がたくさん！\n投稿は、面白い！\n打つのも素早くなる！\n絵文字、スタンプ大量！\n音が気持ちいい！\n自分でキーボードを作れる！\n男女関係なく楽しめる！\n超便利！\n\n悪い点↓ \n課金した方が可愛いキーボードが沢山ある。\n時間が経つとキーボード購入が課金か、広告になる。\n投稿は、面白いけど口使いが悪い。\n\n参考に",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

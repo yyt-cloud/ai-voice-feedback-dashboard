@@ -1,0 +1,29 @@
+{
+  "id": "975f8915-48c1-497e-9b35-3259983bcab4",
+  "userName": "Andrew Randall",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKOjjOk1SAolxYwscWIWopdZ3lnMrzOKXn_eW6Llup3v_samw=mo",
+  "date": "2026-11-19T13:42:34.247Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.wispr.flowapp&reviewId=975f8915-48c1-497e-9b35-3259983bcab4",
+  "title": null,
+  "text": "I have been using this app for almost 5 months now, and it is absolutely impressive. Its ability to learn my vocab, learn the specialty words I say, and to get better and better is amazing. I'm averaging over 150 words a minute and typing barely typing anything anymore. The support is excellent as well. There were two glitches recently and the response was instant. The accuracy of helping me identify the error was timely and spot on. Well worth the investment.",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.8.7",
+  "thumbsUp": 19,
+  "criterias": [
+    {
+      "criteria": "vaf_phase1_messaging",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_phase1_collaboration",
+      "rating": 3
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id532628832"
+    },
+    "name": {
+      "label": "lonelybooky"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-01-15T00:43:20-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "0.3.1"
+  },
+  "id": {
+    "label": "13635399400"
+  },
+  "title": {
+    "label": "Love it!"
+  },
+  "content": {
+    "label": "I was recommended by a friend to use Typeless. I realized this is the best tool for me to free my hand when texting to friends while I'm busy and take notes of my ideas, especially for very long texts.\n\nI have found the iOS system's speech dictation so difficult to use and so inaccurate. I'm so satisfied with Typeless. Keep up the good work!",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

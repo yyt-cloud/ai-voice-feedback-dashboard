@@ -1,0 +1,43 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "heroprotagonist"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Not to promote something, but Wispr Flow does that for me automatically if I trigger a setting for it..<p>While it's a commercial product with a subscription, I spent a long time on the free tier not even hitting their limits until I started using it so extensively that I wanted to pay for it.<p>And I've used Whisper in the past, mostly for tinkering.  I tried it for a couple of use cases but haven't touched the base project in a while.  But I do regularly use Faster-Whisper-XXL, an open source project based on Whisper, for subtitle generation.<p>Though, for subtitle generation, I decided to support the project and mainly use the non-public build of Faster-Whisper-XXL Pro built for donators to the open source project.<p>The extra features smooth out the subtitle editing process very substantially.  Toss in &quot;--roformer_overlap 0.125  --roformer_vram 16 --best_of 15 --ff_vocal_extract mb-roformer  --vad_method pyannote_v3&quot; to the cli parameters  (and sometimes --realign) and you have much less work to do in SubtitleEdit or Tero Subtitler afterwards to clean it up."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Removing 'um' from a recording is harder than it sounds"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_heroprotagonist",
+    "story_48498421"
+  ],
+  "author": "heroprotagonist",
+  "children": [
+    48501517,
+    48500697
+  ],
+  "comment_text": "Not to promote something, but Wispr Flow does that for me automatically if I trigger a setting for it..<p>While it&#x27;s a commercial product with a subscription, I spent a long time on the free tier not even hitting their limits until I started using it so extensively that I wanted to pay for it.<p>And I&#x27;ve used Whisper in the past, mostly for tinkering.  I tried it for a couple of use cases but haven&#x27;t touched the base project in a while.  But I do regularly use Faster-Whisper-XXL, an open source project based on Whisper, for subtitle generation.<p>Though, for subtitle generation, I decided to support the project and mainly use the non-public build of Faster-Whisper-XXL Pro built for donators to the open source project.<p>The extra features smooth out the subtitle editing process very substantially.  Toss in &quot;--roformer_overlap 0.125  --roformer_vram 16 --best_of 15 --ff_vocal_extract mb-roformer  --vad_method pyannote_v3&quot; to the cli parameters  (and sometimes --realign) and you have much less work to do in SubtitleEdit or Tero Subtitler afterwards to clean it up.",
+  "created_at": "2026-06-12T02:57:30Z",
+  "created_at_i": 1781233050,
+  "objectID": "48499341",
+  "parent_id": 48498421,
+  "story_id": 48498421,
+  "story_title": "Removing 'um' from a recording is harder than it sounds",
+  "story_url": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/",
+  "updated_at": "2026-06-12T14:26:18Z"
+}

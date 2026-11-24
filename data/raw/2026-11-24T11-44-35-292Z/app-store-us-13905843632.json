@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1215914668"
+    },
+    "name": {
+      "label": "外卖小哥赵德柱"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-03-30T22:32:15-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.2.1"
+  },
+  "id": {
+    "label": "13905843632"
+  },
+  "title": {
+    "label": "语音输入法的天花板"
+  },
+  "content": {
+    "label": "在试用了多款语音输入法后，我终于找到了 Typeless。它完全解决我工作中的实际痛点，特别是对词库词汇的调用非常精准，不像其他软件容易出现识别错误。这款软件对词库内容的匹配度极高，准确率几乎达到了 100%，真心推荐。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

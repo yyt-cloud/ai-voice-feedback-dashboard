@@ -1,0 +1,39 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "larusso"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Over 10 years ago I was a bit more invested in the ruby environment and the whole duck typing thing. I really liked dynamically typed languages. One thing I remember was when learning rsync that other libraries loved to write specs where all kinds of types and values gets thrown at a function to see how it behaved. Since these languages have no compile step one needs to check how they do at runtime. I remember I picked up a pattern to check if something is looking like a string or number or can be turned into Omer etc. It definitely blows up your test specs but also makes your awesome function even more flexible for the future. Hey you never know what you throw at it tomorrow. Maybe you need to call it with an a number array in string format. \nI stopped doing that and concentrated to test for the types I expect. Which really breaks with the typeless nature of a language but that is more philosophical. Needless to say I think all these helper packages are way overboard. There is also the tendency under programmers to really “never repeat yourself”. Which ends up in a utility function that has to be introduced into every library or project and starts to grow because of different edge cases from all the different use-cases. Let’s add some flags and overloads. Not excepting the fact that it is sometimes cleaner to just have a copy with special adjustment of code then desperately trying to generalize it."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "The bloat of edge-case first libraries"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://43081j.com/2025/09/bloat-of-edge-case-libraries"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_larusso",
+    "story_45319399"
+  ],
+  "author": "larusso",
+  "comment_text": "Over 10 years ago I was a bit more invested in the ruby environment and the whole duck typing thing. I really liked dynamically typed languages. One thing I remember was when learning rsync that other libraries loved to write specs where all kinds of types and values gets thrown at a function to see how it behaved. Since these languages have no compile step one needs to check how they do at runtime. I remember I picked up a pattern to check if something is looking like a string or number or can be turned into Omer etc. It definitely blows up your test specs but also makes your awesome function even more flexible for the future. Hey you never know what you throw at it tomorrow. Maybe you need to call it with an a number array in string format. \nI stopped doing that and concentrated to test for the types I expect. Which really breaks with the typeless nature of a language but that is more philosophical. Needless to say I think all these helper packages are way overboard. There is also the tendency under programmers to really “never repeat yourself”. Which ends up in a utility function that has to be introduced into every library or project and starts to grow because of different edge cases from all the different use-cases. Let’s add some flags and overloads. Not excepting the fact that it is sometimes cleaner to just have a copy with special adjustment of code then desperately trying to generalize it.",
+  "created_at": "2025-09-21T07:08:18Z",
+  "created_at_i": 1758438498,
+  "objectID": "45320698",
+  "parent_id": 45319399,
+  "story_id": 45319399,
+  "story_title": "The bloat of edge-case first libraries",
+  "story_url": "https://43081j.com/2025/09/bloat-of-edge-case-libraries",
+  "updated_at": "2026-03-05T22:40:58Z"
+}

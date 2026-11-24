@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id695081460"
+    },
+    "name": {
+      "label": "Very Functional Tool"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-04-19T19:30:18-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.0.9"
+  },
+  "id": {
+    "label": "13976836347"
+  },
+  "title": {
+    "label": "Cool and Function Tool"
+  },
+  "content": {
+    "label": "Used this to help me translate messages to Spanish in real time. Works very well. The ability to edit messages instead of starting over is what makes it so useful. Highly recommended.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6759074969&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

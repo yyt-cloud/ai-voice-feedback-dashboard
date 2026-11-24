@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1858808356"
+    },
+    "name": {
+      "label": "少女きのこ"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-07T02:39:45-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14637534862"
+  },
+  "title": {
+    "label": "Simejiキーボード･顔文字"
+  },
+  "content": {
+    "label": "可愛いキーボードが沢山あってすごく使いやすいです！\n色んな種類の顔文字もすごく可愛いです！",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

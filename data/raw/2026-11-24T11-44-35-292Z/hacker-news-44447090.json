@@ -1,0 +1,39 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "hollerith"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "&gt;One of the biggest things that makes monads hard to understand is that the type systems of most languages can’t represent them. Annoying, that includes the “typeless” ones.<p>Well, yeah, since a monad is a <i>type</i>, then a &quot;typeless&quot; PL will not be able to represent it."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "A list is a monad"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://alexyorke.github.io//2025/06/29/a-list-is-a-monad/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_hollerith",
+    "story_44414965"
+  ],
+  "author": "hollerith",
+  "comment_text": "&gt;One of the biggest things that makes monads hard to understand is that the type systems of most languages can’t represent them. Annoying, that includes the “typeless” ones.<p>Well, yeah, since a monad is a <i>type</i>, then a &quot;typeless&quot; PL will not be able to represent it.",
+  "created_at": "2025-07-02T18:19:07Z",
+  "created_at_i": 1751480347,
+  "objectID": "44447090",
+  "parent_id": 44446472,
+  "story_id": 44414965,
+  "story_title": "A list is a monad",
+  "story_url": "https://alexyorke.github.io//2025/06/29/a-list-is-a-monad/",
+  "updated_at": "2025-07-03T22:10:57Z"
+}

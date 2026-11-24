@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id505083070"
+    },
+    "name": {
+      "label": "Rameet Mangun"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-05-11T14:59:20-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.5.0"
+  },
+  "id": {
+    "label": "14054097246"
+  },
+  "title": {
+    "label": "无法切换翻译语种"
+  },
+  "content": {
+    "label": "翻译语种设置为泰语之后，就一直只能翻译成泰语，无法切换成其他的翻译语种。麻烦在下个版本优化一下这个能力",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

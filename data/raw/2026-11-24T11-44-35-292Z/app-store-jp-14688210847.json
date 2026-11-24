@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1615936843"
+    },
+    "name": {
+      "label": "( *´꒳`*)( *´꒳`*)( *´꒳`*)"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-19T23:11:36-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14688210847"
+  },
+  "title": {
+    "label": "タイトル分からない🙂"
+  },
+  "content": {
+    "label": "たくさん機能があって楽しいけど、iPadでは着せ替えの種類が少なくて悲しい(´；ω；｀)",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

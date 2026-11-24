@@ -1,0 +1,29 @@
+{
+  "id": "72e8e51d-19ac-4363-ae51-c1e0760400c0",
+  "userName": "Ameria",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKuXU4pLytTnWde1cVYN-57YFQ9QjD2-LNNfeOaQ1ALMMPK_g=mo",
+  "date": "2026-10-08T12:08:04.724Z",
+  "score": 4,
+  "scoreText": "4",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=72e8e51d-19ac-4363-ae51-c1e0760400c0",
+  "title": null,
+  "text": "友達のは連発コメができるのに私のはできません 何故でしょうか？？ 機種の問題なのでしょうか？",
+  "replyDate": "2026-11-02T04:21:41.391Z",
+  "replyText": "レビューいただきありがとうございます。\n本件につきまして詳しい原因をお調べするため、お客様の発生状況についてもう少し詳しくお教えいただけますでしょうか。\n\n①連発コメのボタン（アイコンやタブ）自体が見つからない状態でしょうか。②連発コメの画面は表示されるものの、タップしても文字が送信できない状態でしょうか。\n\n大変お手数ではございますが、上記のどちらの状態にあてはまるか詳細をお教えいただけますと幸いです。\n\nまた、不具合の状況をより正確に確認させていただくため、実際に連発コメを操作して正常に動かない様子を「画面録画」で撮影いただき、Simejiアプリ内の「設定」＞「お問い合わせ」よりお送りいただけますでしょうか。\nお手数をおかけいたしますが、ご協力のほど何卒よろしくお願い申し上げます。",
+  "version": null,
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_usability",
+      "rating": 2
+    }
+  ]
+}

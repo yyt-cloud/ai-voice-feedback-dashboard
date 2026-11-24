@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1733476128"
+    },
+    "name": {
+      "label": "HAPI (はぴ)"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-17T06:26:18-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14677492173"
+  },
+  "title": {
+    "label": "これどうするの？"
+  },
+  "content": {
+    "label": "ぷよぷよコラボのシグとか自分で作れやりもするからめっちゃいい！けど自分ローマ字使ってて、好きなキーボードがローマ字で使えない…これってローマ字とかできないのかな？それとも私の確認不足なんでしょうか？\nまぁどちらにせよキーボードで推し活とかできるのめっちゃいいと思います！‪",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

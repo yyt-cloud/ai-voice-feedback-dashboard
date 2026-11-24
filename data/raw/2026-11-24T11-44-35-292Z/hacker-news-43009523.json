@@ -1,0 +1,42 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "hyperhello"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "The syntax? Probably a little. It’s a typeless C. As for what you can use it for, it’s limited to browsers, practically, so not really comparable."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Fun with C++26 reflection: Keyword Arguments"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://pydong.org/posts/KwArgs/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_hyperhello",
+    "story_43006536"
+  ],
+  "author": "hyperhello",
+  "children": [
+    43009629
+  ],
+  "comment_text": "The syntax? Probably a little. It’s a typeless C. As for what you can use it for, it’s limited to browsers, practically, so not really comparable.",
+  "created_at": "2025-02-11T06:09:24Z",
+  "created_at_i": 1739254164,
+  "objectID": "43009523",
+  "parent_id": 43009505,
+  "story_id": 43006536,
+  "story_title": "Fun with C++26 reflection: Keyword Arguments",
+  "story_url": "https://pydong.org/posts/KwArgs/",
+  "updated_at": "2025-02-11T19:16:09Z"
+}

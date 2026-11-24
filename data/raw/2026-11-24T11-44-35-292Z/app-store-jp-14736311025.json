@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id851166245"
+    },
+    "name": {
+      "label": "ひょうみゃけんみゃ"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-31T21:37:18-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14736311025"
+  },
+  "title": {
+    "label": "凄く使いやすい"
+  },
+  "content": {
+    "label": "みんなが使ってるキーボードなども気になっていましたが自分だけのキーボードなどを作ると凄く嬉しくなってテンションが上がります！みなさんもやってみたらテンション上がるんじゃないでさょ！私は友達との写真などもやってみんなにすごーいって言われるの最高ですよ！",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

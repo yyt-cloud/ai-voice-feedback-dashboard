@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1965067343"
+    },
+    "name": {
+      "label": "Julianna0308"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-09-04T16:12:21-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.4.1"
+  },
+  "id": {
+    "label": "14511359808"
+  },
+  "title": {
+    "label": "Will switch to voiskey for typing"
+  },
+  "content": {
+    "label": "Not perfect but genuinely better than Gboard’s voice typing for me. Fewer weird misheard words, especially with names.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6766791501&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

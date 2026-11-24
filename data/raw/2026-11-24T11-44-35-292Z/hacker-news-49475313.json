@@ -1,0 +1,43 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "alxndr13"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "aqua",
+        "voice"
+      ],
+      "value": "missing <em>aqua</em> <em>voice</em>'s avalon 1.5 model there."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Gemini-3.5-Transcribe"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_alxndr13",
+    "story_49468818"
+  ],
+  "author": "alxndr13",
+  "comment_text": "missing aqua voice&#x27;s avalon 1.5 model there.",
+  "created_at": "2026-08-28T07:06:34Z",
+  "created_at_i": 1787900794,
+  "objectID": "49475313",
+  "parent_id": 49473626,
+  "story_id": 49468818,
+  "story_title": "Gemini-3.5-Transcribe",
+  "story_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+  "updated_at": "2026-08-28T07:07:42Z"
+}

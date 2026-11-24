@@ -1,0 +1,39 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "maherbeg"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "This is really pretty, but I'm surprised it doesn't have a microphone. I know it's just rebranding the existing work louder creator keyboard, but a mic would really, really help with this product. Especially one that is really effective at Wispr Flow-type speaking."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Codex Micro"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://openai.com/supply/co-lab/work-louder/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_maherbeg",
+    "story_48923079"
+  ],
+  "author": "maherbeg",
+  "comment_text": "This is really pretty, but I&#x27;m surprised it doesn&#x27;t have a microphone. I know it&#x27;s just rebranding the existing work louder creator keyboard, but a mic would really, really help with this product. Especially one that is really effective at Wispr Flow-type speaking.",
+  "created_at": "2026-07-15T21:07:28Z",
+  "created_at_i": 1784149648,
+  "objectID": "48927014",
+  "parent_id": 48923079,
+  "story_id": 48923079,
+  "story_title": "Codex Micro",
+  "story_url": "https://openai.com/supply/co-lab/work-louder/",
+  "updated_at": "2026-07-16T08:26:39Z"
+}

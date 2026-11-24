@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id901991104"
+    },
+    "name": {
+      "label": "こんにちは(*^ω^*)"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-27T20:54:23-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14720251484"
+  },
+  "title": {
+    "label": "めっちゃ愛用してます♡"
+  },
+  "content": {
+    "label": "非の打ち所がないと言いたいところですが、完璧なものはないので、言わせていただきます！ 1、VIP限定が多すぎる💦 課金しないと使えない機能が多くて辛いです😭 2、着せ替えすると打ちにくい💦 よくADで見るものの多くはキーボードの着せ替えがありますが、自分で選んだ写真をぼーどにするとキーボードにすると文字どうしの境目(？)みたいなところが無くなってしまい、打ち間違えることが多々あります😭 この2点をできる限り改善に近づけていただけると幸いです✨️",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

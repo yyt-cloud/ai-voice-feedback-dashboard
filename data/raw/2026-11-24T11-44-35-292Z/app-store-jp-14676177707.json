@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1845573627"
+    },
+    "name": {
+      "label": "来夢音0727"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-16T22:22:30-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14676177707"
+  },
+  "title": {
+    "label": "可愛さ•便利さ"
+  },
+  "content": {
+    "label": "可愛さはダントツでめちゃくちゃ可愛すぎます😍色々なキーボードに特徴があってとてもいいです✨\n便利さもダントツでいいです！\nSimejiを入れる前は、使い方やわざわざ変えるのがめんどくさい時にSimejiのキーボードを使って色々とできることがあってとても便利です！\nやっぱり私的には星5超えて100までです（笑）",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

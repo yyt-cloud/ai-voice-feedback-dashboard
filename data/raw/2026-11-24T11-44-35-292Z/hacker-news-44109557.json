@@ -1,0 +1,39 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "bfrog"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "I’ve tried a few times now, it’s great when you don’t have to actually write nix yourself. At scale though the typeless dictionary style parameter approach is so impossibly unreadable, constantly hunting down some nixos helper and its underspecified parameters is painful. Its honestly a lot of the same pain yaml has at scale. Lack of typing means more burden on me to remember everything, except nix adds to this a really tough debugging story as it’s lazy and the error messages aren’t usually that helpful."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "I think it's time to give Nix a chance"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://maych.in/blog/its-time-to-give-nix-a-chance/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_bfrog",
+    "story_44098605"
+  ],
+  "author": "bfrog",
+  "comment_text": "I’ve tried a few times now, it’s great when you don’t have to actually write nix yourself. At scale though the typeless dictionary style parameter approach is so impossibly unreadable, constantly hunting down some nixos helper and its underspecified parameters is painful. Its honestly a lot of the same pain yaml has at scale. Lack of typing means more burden on me to remember everything, except nix adds to this a really tough debugging story as it’s lazy and the error messages aren’t usually that helpful.",
+  "created_at": "2025-05-27T18:38:47Z",
+  "created_at_i": 1748371127,
+  "objectID": "44109557",
+  "parent_id": 44098605,
+  "story_id": 44098605,
+  "story_title": "I think it's time to give Nix a chance",
+  "story_url": "https://maych.in/blog/its-time-to-give-nix-a-chance/",
+  "updated_at": "2025-05-27T22:29:50Z"
+}

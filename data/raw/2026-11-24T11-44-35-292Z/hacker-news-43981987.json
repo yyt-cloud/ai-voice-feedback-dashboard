@@ -1,0 +1,42 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "agos"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "tsc can be configured to avoid implicit use of any (&quot;noImplicitAny&quot;: true) and ESLint can be set up to avoid explicit use of any. Typeless JS code is also a thing of the past.<p>But the devil is in the details - some libraries are typed quite crappily, some have unnecessary complex types, and the code that the LLMs was trained on is probably not the best in the world"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Type-constrained code generation with language models"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://arxiv.org/abs/2504.09246"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_agos",
+    "story_43978357"
+  ],
+  "author": "agos",
+  "children": [
+    43984833
+  ],
+  "comment_text": "tsc can be configured to avoid implicit use of any (&quot;noImplicitAny&quot;: true) and ESLint can be set up to avoid explicit use of any. Typeless JS code is also a thing of the past.<p>But the devil is in the details - some libraries are typed quite crappily, some have unnecessary complex types, and the code that the LLMs was trained on is probably not the best in the world",
+  "created_at": "2025-05-14T07:47:40Z",
+  "created_at_i": 1747208860,
+  "objectID": "43981987",
+  "parent_id": 43981003,
+  "story_id": 43978357,
+  "story_title": "Type-constrained code generation with language models",
+  "story_url": "https://arxiv.org/abs/2504.09246",
+  "updated_at": "2025-05-14T14:21:12Z"
+}

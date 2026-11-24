@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1378640918"
+    },
+    "name": {
+      "label": "THawk212"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-04-08T14:03:30-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.2.3"
+  },
+  "id": {
+    "label": "13937026169"
+  },
+  "title": {
+    "label": "Great app"
+  },
+  "content": {
+    "label": "I suggested this app for my wife, and I wound up liking it so much that I downloaded it myself. It's really good.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

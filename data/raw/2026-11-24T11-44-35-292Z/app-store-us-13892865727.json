@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1474227627"
+    },
+    "name": {
+      "label": "姚354"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-03-27T08:06:06-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.2.1"
+  },
+  "id": {
+    "label": "13892865727"
+  },
+  "title": {
+    "label": "太优雅了"
+  },
+  "content": {
+    "label": "产品体验十分方便，不需要我配置 API。\n\n而且词典功能在我纠正之后，它也能将新纠正的词自动记载到词典里面等，提供了十分无感且方便的体验。\n\n现在唯一的问题就是手机端没有标点符号。有些地方想要重新编辑，不知道是不是我用的方法不对，感觉不太方便",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

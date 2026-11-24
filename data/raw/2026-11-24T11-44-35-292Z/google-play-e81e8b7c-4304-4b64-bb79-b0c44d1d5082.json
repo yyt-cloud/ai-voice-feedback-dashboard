@@ -1,0 +1,29 @@
+{
+  "id": "e81e8b7c-4304-4b64-bb79-b0c44d1d5082",
+  "userName": "AIRI",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJcIgSDpUxtNRQe9V2jpUlZOBn82ZYIRmifJTfrHCcfKTCidW0=mo",
+  "date": "2026-10-11T09:04:58.893Z",
+  "score": 2,
+  "scoreText": "2",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=e81e8b7c-4304-4b64-bb79-b0c44d1d5082",
+  "title": null,
+  "text": "使用してみると分かりにくかったりする。キーボードを変えられると聞いたのでみてみたらよくわからない機能（真面目に説明厳しい）が出てきて固まりそこから何もできなくなったのでやり直しても直らなかったのでアンインストールしました",
+  "replyDate": "2026-11-02T04:18:04.761Z",
+  "replyText": "レビューいただきありがとうございます。\n\nご不便をおかけし、申し訳ございません。\nいただいたご意見を真摯に受け止め、今後もより良いサービスをご提供できるよう改善に努めてまいります。\n\n今後ともSimejiをよろしくお願いいたします。",
+  "version": null,
+  "thumbsUp": 1,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_visual_appeal",
+      "rating": 3
+    }
+  ]
+}

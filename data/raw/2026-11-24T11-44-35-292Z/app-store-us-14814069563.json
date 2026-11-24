@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id164902995"
+    },
+    "name": {
+      "label": "Majombec"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-20T13:50:13-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.0.4"
+  },
+  "id": {
+    "label": "14814069563"
+  },
+  "title": {
+    "label": "Amazing"
+  },
+  "content": {
+    "label": "Today the day has finally come and they made it seamless within the iPhone now to turn it on and off. You don't have to switch apps anymore. Good for you Wispr. I've been patiently waiting for this day and now you've earned the five-star review.\n\nI've already been a paid member for many months. I just use this app on my phone. I don't use it on the computer. I just use it as my voice-to-text dictation and it has become indispensable. It is so many miles ahead of Apple's internal one that I'd... Don't even have the words to do it justice.\n\nI raved to all my family and friends about how great Wispr is but now you have truly made it perfect. Thank you for figuring this out. Today's update, where now it's fully integrated with iPhone without having to switch apps, is what makes this literally the best day.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id173596569"
+    },
+    "name": {
+      "label": "🌸hello world🌸"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2021-03-08T12:05:41-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "9.6.1"
+  },
+  "id": {
+    "label": "7080714811"
+  },
+  "title": {
+    "label": "AWSOME!!!"
+  },
+  "content": {
+    "label": "It was a dream to learn Japanese in this app Helps it’s incredible and you can speak Japanese with it it’s so cool it helps me a lot so thanks! ʕ•ᴥ•ʔʕ•ᴥ•ʔʕ•ᴥ•ʔʕ•ᴥ•ʔʕ•ᴥ•ʔʕ•ᴥ•ʔʕ•ᴥ•ʔʕ•ᴥ•ʔʕ•ᴥ•ʔʕ•ᴥ•ʔ",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1979560187"
+    },
+    "name": {
+      "label": "腐女子兼夢女子キラー"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-14T07:17:25-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14665762023"
+  },
+  "title": {
+    "label": "使い方がよくわからない……"
+  },
+  "content": {
+    "label": "｢タップして着せ替えGET｣と広告で流れてくることがあり、可愛いのでタップしてるんですけど、アプリにとぶだけで着せ替えをゲームできません……。私だけでしょうか、？",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

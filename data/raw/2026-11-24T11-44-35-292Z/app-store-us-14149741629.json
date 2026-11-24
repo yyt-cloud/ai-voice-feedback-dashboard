@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1721396164"
+    },
+    "name": {
+      "label": "ssoul404"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-06-06T00:30:46-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "1.8.0"
+  },
+  "id": {
+    "label": "14149741629"
+  },
+  "title": {
+    "label": "Изменяет полностью сказанное"
+  },
+  "content": {
+    "label": "Если это ИИ, то хуже даже представить нельзя. Я записывал монолог, он решил че надо делать. 0",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

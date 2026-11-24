@@ -1,0 +1,29 @@
+{
+  "id": "010119f3-2ef2-40f3-915b-694cacda63d5",
+  "userName": "L Paul",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLWElfxEuqC-Xaq_IFGwZvEF78xcVyuQOa7mHTRaMPX2e2wZA=mo",
+  "date": "2026-09-02T21:36:44.167Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=010119f3-2ef2-40f3-915b-694cacda63d5",
+  "title": null,
+  "text": "It rather a.i hype like Mythos does not work and unviable Dead 🪾. Stay far.",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.6.0",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_ads_frequency",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 2
+    }
+  ]
+}

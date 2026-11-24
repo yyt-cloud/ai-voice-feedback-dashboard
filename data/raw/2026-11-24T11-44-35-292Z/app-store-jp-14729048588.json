@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1738017492"
+    },
+    "name": {
+      "label": "サカバンパシピス"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-30T03:30:00-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14729048588"
+  },
+  "title": {
+    "label": "マイタグがつけれない"
+  },
+  "content": {
+    "label": "マイタグの付け方分からないです。Simeji部の方に聞いてもマイタグってらんがないんです。設定にも。どうすれば良いでしょうか？",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

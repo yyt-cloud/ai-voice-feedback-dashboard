@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1396430181"
+    },
+    "name": {
+      "label": "STPov123"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-03-23T18:23:26-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.2.1"
+  },
+  "id": {
+    "label": "13880401943"
+  },
+  "title": {
+    "label": "Voice input + Fortmat"
+  },
+  "content": {
+    "label": "After using the regular iOS microphone and may other apps to improve voice speaking, this app is definitely the best. It perfectly places things where they should be, deletes stutters, and captures everything you say.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

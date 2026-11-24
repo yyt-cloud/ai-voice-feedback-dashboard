@@ -1,0 +1,44 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "IshKebab"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "&gt; Confetti does not compete with JSON or XML, it competes with INI.<p>It clearly competes with JSON.<p>I think I would still much rather use JSON5 over this. It's quite similar in terms of structure and terseness, but I don't have to learn anything.<p><pre><code>    // This is a comment.\n    {\n        probe_device: [&quot;eth0&quot;, &quot;eth1&quot;],\n        users: [\n            {\n                user: &quot;*&quot;,\n                login: &quot;anonymous&quot;,\n                password: &quot;${ENV:ANONPASS}&quot;,\n                machine: &quot;167.89.14.1&quot;,\n                proxy: {\n                    try_ports: [582, 583, 584],\n                },\n            },\n            {\n                user: &quot;Joe Williams&quot;,\n                login: &quot;joe&quot;,\n                machine &quot;167.89.14.1&quot;,\n            },\n        ],\n    }\n</code></pre>\nStill, it seems fairly well designed and elegant. Way better than YAML or TOML for example. Typeless seems like a bad decision in some ways but I can see the advantages.<p>Top marks on the name!"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Show HN: I made Confetti: a configuration language file format"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://confetti.hgs3.me/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_IshKebab",
+    "story_43534240"
+  ],
+  "author": "IshKebab",
+  "children": [
+    43556049,
+    43555025,
+    43556229
+  ],
+  "comment_text": "&gt; Confetti does not compete with JSON or XML, it competes with INI.<p>It clearly competes with JSON.<p>I think I would still much rather use JSON5 over this. It&#x27;s quite similar in terms of structure and terseness, but I don&#x27;t have to learn anything.<p><pre><code>    &#x2F;&#x2F; This is a comment.\n    {\n        probe_device: [&quot;eth0&quot;, &quot;eth1&quot;],\n        users: [\n            {\n                user: &quot;*&quot;,\n                login: &quot;anonymous&quot;,\n                password: &quot;${ENV:ANONPASS}&quot;,\n                machine: &quot;167.89.14.1&quot;,\n                proxy: {\n                    try_ports: [582, 583, 584],\n                },\n            },\n            {\n                user: &quot;Joe Williams&quot;,\n                login: &quot;joe&quot;,\n                machine &quot;167.89.14.1&quot;,\n            },\n        ],\n    }\n</code></pre>\nStill, it seems fairly well designed and elegant. Way better than YAML or TOML for example. Typeless seems like a bad decision in some ways but I can see the advantages.<p>Top marks on the name!",
+  "created_at": "2025-04-02T09:33:41Z",
+  "created_at_i": 1743586421,
+  "objectID": "43554999",
+  "parent_id": 43534240,
+  "story_id": 43534240,
+  "story_title": "Show HN: I made Confetti: a configuration language file format",
+  "story_url": "https://confetti.hgs3.me/",
+  "updated_at": "2025-04-02T14:39:16Z"
+}

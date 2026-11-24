@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id657805740"
+    },
+    "name": {
+      "label": "😇😠😡"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-03T21:39:15-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14625380998"
+  },
+  "title": {
+    "label": "韓国語"
+  },
+  "content": {
+    "label": "設定してないのに、優先して韓国語がひょうじされるのはなぜ？改善しないなら、アプリ削除一択。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

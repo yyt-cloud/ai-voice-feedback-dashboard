@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1010516560"
+    },
+    "name": {
+      "label": "zumbzy"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-04T08:08:41-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "2.10.0"
+  },
+  "id": {
+    "label": "14750288364"
+  },
+  "title": {
+    "label": "Don’t recommend"
+  },
+  "content": {
+    "label": "Typeless works so very badly has horrible word recognition, and even when you add things to the dictionary it still is wrong. What a shame I paid and got scammed. Don’t follow in my footsteps.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

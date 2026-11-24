@@ -1,0 +1,29 @@
+{
+  "id": "176867fd-ff87-4ccf-ad7d-9c1851a4f90a",
+  "userName": "Art Love",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocILZtTxujqPfF9szrZ6FCux9p6vNtkW9md1_l5DKrg-8IAvEg=mo",
+  "date": "2026-11-19T05:46:43.387Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.wispr.flowapp&reviewId=176867fd-ff87-4ccf-ad7d-9c1851a4f90a",
+  "title": null,
+  "text": "this is the app which was needed for so long !! I loved it cause it works flawlessly, it helps draft lists, write emails etc without making any mess . and needs little to no editing and saves a lot of time!",
+  "replyDate": null,
+  "replyText": null,
+  "version": null,
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_phase1_file_sharing",
+      "rating": 3
+    }
+  ]
+}

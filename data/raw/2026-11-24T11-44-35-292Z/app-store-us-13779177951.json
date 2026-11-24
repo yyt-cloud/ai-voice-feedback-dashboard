@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id85390389"
+    },
+    "name": {
+      "label": "Bathsquirrel"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-02-22T19:43:24-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.1.1"
+  },
+  "id": {
+    "label": "13779177951"
+  },
+  "title": {
+    "label": "I cannot live without that."
+  },
+  "content": {
+    "label": "I have used this app for 20 more days and I feel I cannot live without it. It makes my life much easier and my work much more efficient. Thank you.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

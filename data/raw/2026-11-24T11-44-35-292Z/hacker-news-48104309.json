@@ -1,0 +1,42 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "caidish1234"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "typeless"
+      ],
+      "value": "We also have a little community fork of Warp: <a href=\"https://github.com/AndrewWayne/oh-my-warp/tree/main\" rel=\"nofollow\">https://github.com/AndrewWayne/oh-my-warp/tree/main</a><p>Nothing too serious — just for hobbyists. The idea is simple: a clean, fast terminal that is remotely accessible over Tailscale.<p>But oh-my-warp has destroyed me.<p>Now I’m literally talking to my phone through <em>Typeless</em> and vibe coding from wherever I happen to be."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "OpenWarp"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://openwarp.zerx.dev"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_caidish1234",
+    "story_47970622"
+  ],
+  "author": "caidish1234",
+  "comment_text": "We also have a little community fork of Warp: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;AndrewWayne&#x2F;oh-my-warp&#x2F;tree&#x2F;main\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;AndrewWayne&#x2F;oh-my-warp&#x2F;tree&#x2F;main</a><p>Nothing too serious — just for hobbyists. The idea is simple: a clean, fast terminal that is remotely accessible over Tailscale.<p>But oh-my-warp has destroyed me.<p>Now I’m literally talking to my phone through Typeless and vibe coding from wherever I happen to be.",
+  "created_at": "2026-05-12T04:51:51Z",
+  "created_at_i": 1778561511,
+  "objectID": "48104309",
+  "parent_id": 47970622,
+  "story_id": 47970622,
+  "story_title": "OpenWarp",
+  "story_url": "https://openwarp.zerx.dev",
+  "updated_at": "2026-05-12T04:53:15Z"
+}

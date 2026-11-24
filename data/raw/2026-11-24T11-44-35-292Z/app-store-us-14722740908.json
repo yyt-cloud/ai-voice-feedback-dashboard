@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id532294393"
+    },
+    "name": {
+      "label": "JustJonSLC"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-28T11:34:48-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14722740908"
+  },
+  "title": {
+    "label": "Worst interface in the industry"
+  },
+  "content": {
+    "label": "The interface on this renders it totally unusable. Every time you use it it has to open the Wispr app and you have to slide something and then go back to the app you were trying to type into. It’s about 4 steps every time you use it. And something goes wrong and it records nothing often. And the customer service if you can call it that is pure AI slop.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

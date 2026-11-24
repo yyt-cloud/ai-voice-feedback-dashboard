@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1732441544"
+    },
+    "name": {
+      "label": "りんだーぜ！"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-11T19:41:24-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14779980331"
+  },
+  "title": {
+    "label": "お世話になってる"
+  },
+  "content": {
+    "label": "ほんと大好きでもTiktokで個人情報バレるって聞いたけどこれはほんと？",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

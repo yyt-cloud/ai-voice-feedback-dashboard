@@ -1,0 +1,42 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "sophacles"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Python doesn't have &quot;total absense of typing&quot;. It doesn't have static typing, so compile time checks are not possible (well historically, there's some psuedo static typing things these days). The fact that you can call `+` on some objects but not others is literally the result of the objects being different types.<p>A truly typeless language (or maybe more accurately single type for everything language) is ASM, particularly for older CPU designs. You get a word - the bitfield in a register, and can do any operation on it. Is that 64 bits loaded from an array of characters and the programmer intended it to be a string? Cool you can bitwise and it with some other register. Was it a u64, a pointer, a pair of u32s? Same thing - the semantics don't change."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Go Optimization Guide"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://goperf.dev/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_sophacles",
+    "story_43539585"
+  ],
+  "author": "sophacles",
+  "children": [
+    43556679
+  ],
+  "comment_text": "Python doesn&#x27;t have &quot;total absense of typing&quot;. It doesn&#x27;t have static typing, so compile time checks are not possible (well historically, there&#x27;s some psuedo static typing things these days). The fact that you can call `+` on some objects but not others is literally the result of the objects being different types.<p>A truly typeless language (or maybe more accurately single type for everything language) is ASM, particularly for older CPU designs. You get a word - the bitfield in a register, and can do any operation on it. Is that 64 bits loaded from an array of characters and the programmer intended it to be a string? Cool you can bitwise and it with some other register. Was it a u64, a pointer, a pair of u32s? Same thing - the semantics don&#x27;t change.",
+  "created_at": "2025-04-01T20:01:35Z",
+  "created_at_i": 1743537695,
+  "objectID": "43550760",
+  "parent_id": 43545118,
+  "story_id": 43539585,
+  "story_title": "Go Optimization Guide",
+  "story_url": "https://goperf.dev/",
+  "updated_at": "2025-04-02T13:50:55Z"
+}

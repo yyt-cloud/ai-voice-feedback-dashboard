@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1494564047"
+    },
+    "name": {
+      "label": "Filiblood"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-06-21T10:03:35-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "1.10.0"
+  },
+  "id": {
+    "label": "14209797398"
+  },
+  "title": {
+    "label": "Duda"
+  },
+  "content": {
+    "label": "Tengo una curiosidad y es con el acceso completo para poder utilizar el chat de voz ya que sabemos que todo lo que se escriba o diga con el acceso completo la app lo recopila incluyendo datos privados tarjetas entre otros pero mi pregunta real es estos datos solo se recopilan mientras se esté utilizando la función typeless o también si utilizamos el teclado nativo del teléfono ? Porque si solo recopila datos mientras se use la función typeless está bien, pero si también lo hace aún no utilizándola no me agradaría",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

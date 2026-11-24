@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id385302964"
+    },
+    "name": {
+      "label": "レムレムール"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-10T19:57:34-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14775992880"
+  },
+  "title": {
+    "label": "音声入力の誤タップ"
+  },
+  "content": {
+    "label": "かれこれ10年ほど便利に利用させてもらっていたが、アップデートで『音声入力』のキーがカーソル移動の隣に配置されてから不便で、Simeji自体の使用をやめようかと考えている。\n自分は音声入力を使わないため、間違えて触るようなところに置きたくないのだが、このコントロールパネルの配置を変えるには課金が必要らしい。\n間違えてタップすると、強制的にSimejiのアプリが起動/転送される。ここから元の入力しようとしていたアプリやブラウザに自分で戻るわけだが、入力画面に切り替わった瞬間にデフォルトに設定しているキーボード(Simeji)が起動されるため、引き続き音声入力が作動し操作しなくても再びSimejiのアプリへ転送され、音声入力の切替画面が表示される。\nアプリやブラウザの行き来を数回繰り返す羽目になり、スムーズな入力になかなか至らない。ストレスでしかない。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "2"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "2"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1286786972"
+    },
+    "name": {
+      "label": "云中漫步1998"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-19T05:25:08-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.13.0"
+  },
+  "id": {
+    "label": "14808651689"
+  },
+  "title": {
+    "label": "I absolutely love it"
+  },
+  "content": {
+    "label": "I've had the Pro version for a few months and I absolutely love it. It makes chatting with friends and family so much more pleasant, and I use it for work too. I have the PC version installed, saving me so much time. I also really like the AI function; I hardly have any embarrassing autocorrects or typos anymore.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

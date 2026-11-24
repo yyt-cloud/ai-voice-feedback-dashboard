@@ -1,0 +1,39 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "maxandersen"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "I guess I should never use Go because I was stuck not having a working debugger, complain about Python because it is single threaded, or javascript because its a typeless mess, or C# for only running on Windows?<p>I'm happy to say I think all have their upsides and downsides and all of them evolve and should all try not to be stuck in old perceptions. And yes Java is held back by those perceptions and I'm saying lets not get bogged down by perceptions like yours from trying to evolve and improve."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "2026: The Year of Java in the Terminal?"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://xam.dk/blog/lets-make-2026-the-year-of-java-in-the-terminal/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_maxandersen",
+    "story_46445229"
+  ],
+  "author": "maxandersen",
+  "comment_text": "I guess I should never use Go because I was stuck not having a working debugger, complain about Python because it is single threaded, or javascript because its a typeless mess, or C# for only running on Windows?<p>I&#x27;m happy to say I think all have their upsides and downsides and all of them evolve and should all try not to be stuck in old perceptions. And yes Java is held back by those perceptions and I&#x27;m saying lets not get bogged down by perceptions like yours from trying to evolve and improve.",
+  "created_at": "2026-01-01T16:32:57Z",
+  "created_at_i": 1767285177,
+  "objectID": "46455380",
+  "parent_id": 46445934,
+  "story_id": 46445229,
+  "story_title": "2026: The Year of Java in the Terminal?",
+  "story_url": "https://xam.dk/blog/lets-make-2026-the-year-of-java-in-the-terminal/",
+  "updated_at": "2026-03-05T23:17:22Z"
+}

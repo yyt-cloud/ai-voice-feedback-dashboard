@@ -1,0 +1,39 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "trealira"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "It's true that theorem provers can be just sufficiently advanced type systems (the Curry Howard correspondence), but not all theorem provers operate that way. Isabelle/HOL operates on higher order logic. Imperative ones like SPARK or Dafny just rely on encoding preconditions and postconditions and things like loop invariants and just use SMT solvers for verification, IIRC.<p>Having an advanced type system does seem to encourage this sort of informal proof oriented thinking more than imperative and somewhat typeless languages do, though, since preconditions and postconditions and loop invariants and inductive proofs on loops are things you have to do yourself entirely in your head."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "To be a better programmer, write little proofs in your head"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://the-nerve-blog.ghost.io/to-be-a-better-programmer-write-little-proofs-in-your-head/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_trealira",
+    "story_44573409"
+  ],
+  "author": "trealira",
+  "comment_text": "It&#x27;s true that theorem provers can be just sufficiently advanced type systems (the Curry Howard correspondence), but not all theorem provers operate that way. Isabelle&#x2F;HOL operates on higher order logic. Imperative ones like SPARK or Dafny just rely on encoding preconditions and postconditions and things like loop invariants and just use SMT solvers for verification, IIRC.<p>Having an advanced type system does seem to encourage this sort of informal proof oriented thinking more than imperative and somewhat typeless languages do, though, since preconditions and postconditions and loop invariants and inductive proofs on loops are things you have to do yourself entirely in your head.",
+  "created_at": "2025-07-15T18:27:42Z",
+  "created_at_i": 1752604062,
+  "objectID": "44574347",
+  "parent_id": 44574197,
+  "story_id": 44573409,
+  "story_title": "To be a better programmer, write little proofs in your head",
+  "story_url": "https://the-nerve-blog.ghost.io/to-be-a-better-programmer-write-little-proofs-in-your-head/",
+  "updated_at": "2025-07-15T22:27:59Z"
+}

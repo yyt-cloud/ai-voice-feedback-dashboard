@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id936307863"
+    },
+    "name": {
+      "label": "死んだ方がいい燃えないゴミ"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-02T04:22:15-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14618465623"
+  },
+  "title": {
+    "label": "改悪、、、"
+  },
+  "content": {
+    "label": "コンパネにあるカーソル移動を愛用していたのですが、急にアプデで音声入力のボタンと位置が入れ替わっていました。しかも音声入力のボタンの幅が大きく、誤タップが多発し、ストレスになっています。\nコンパネの編集はVIP限定とあり、わざと使いずらくして課金誘導させているのではないかと思いました。\nせめてコンパネ編集は1度だけ無料にしていただきたいてす。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id42604593"
+    },
+    "name": {
+      "label": "Diet Coke Lime"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-05-03T10:39:28-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "1.0.12"
+  },
+  "id": {
+    "label": "14024569500"
+  },
+  "title": {
+    "label": "Not worth the premium"
+  },
+  "content": {
+    "label": "Unfortunately, the casual messaging features don't work. I was hoping for an app that can handle different messaging styles depending on the type of app I'm using. Formal messaging for email and casual messaging for iMessage.\n\nLooks like this app does not do it. Stick with Wisprflow.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6759074969&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

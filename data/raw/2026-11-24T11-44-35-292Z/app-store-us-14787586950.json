@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id229319098"
+    },
+    "name": {
+      "label": "Teacher29681"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-13T17:41:15-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.0.1"
+  },
+  "id": {
+    "label": "14787586950"
+  },
+  "title": {
+    "label": "Awesome, awesome, awesome."
+  },
+  "content": {
+    "label": "This app is amazing. It types everything, and if you want to type it with perfect punctuation, you can choose the formal. I can speak either English or Spanish, and it has other settings, but I am only bilingual. It's wonderful. I love it, love it, love it. What a wonderful app.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

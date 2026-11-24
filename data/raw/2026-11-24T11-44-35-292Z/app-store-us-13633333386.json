@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id406015808"
+    },
+    "name": {
+      "label": "Aikoholic8."
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-01-14T10:23:35-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "16.4.1"
+  },
+  "id": {
+    "label": "13633333386"
+  },
+  "title": {
+    "label": "お願いがあります🙇🏻‍♀️"
+  },
+  "content": {
+    "label": "ipad mini でも使えるように可愛いキーボードとか出して欲しいです( ´･ω･` )",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

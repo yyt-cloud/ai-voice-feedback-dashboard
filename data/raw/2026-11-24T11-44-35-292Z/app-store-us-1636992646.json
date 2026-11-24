@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id455675574"
+    },
+    "name": {
+      "label": "Maemae3210"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2017-06-07T20:11:44-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "5.8.1"
+  },
+  "id": {
+    "label": "1636992646"
+  },
+  "title": {
+    "label": "Good app"
+  },
+  "content": {
+    "label": "I'm not Japanese but I still like it.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

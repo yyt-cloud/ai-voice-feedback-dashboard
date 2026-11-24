@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id147381270"
+    },
+    "name": {
+      "label": "rmsmeltz"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-11T16:03:35-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.0.0"
+  },
+  "id": {
+    "label": "14779408505"
+  },
+  "title": {
+    "label": "Work More Efficiently"
+  },
+  "content": {
+    "label": "I don't normally rate apps, and this one has obviously helped significantly, so I decided I would leave them a review. I started with one of their competitors, and when I found this one and started using it, I've used it more in 2 days of having it installed than I've used most of my other apps (including the ones that are either AI or have AI built into them). I signed up for the free account starting yesterday, and in a couple of hours, I switched over to the paid account. I have been using this for working with Claude, Gemini, ChatGPT, my computer, Chrome, email, text messages, iMessages, and taking notes during meetings. This is one of the few apps I have implemented into my daily use. Again, only in 2 days, which is a very short amount of time, I have actually noticed the increase in productivity and efficiency.\n\nMost people may see this app and say, \"Well, everything has voice-to-text now,\" which is true. However, this automatically integrates with all of those, so you don't need to switch. Your keyboard shortcut stays the same, and all your notes are in one single place: easy to find, easy to reference, and can easily be stored, shared, saved, transferred. Needless to say, I'm pretty confident I'm going to be a customer for an extremely long time.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

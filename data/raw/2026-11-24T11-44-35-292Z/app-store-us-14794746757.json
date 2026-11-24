@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1332720259"
+    },
+    "name": {
+      "label": "benard_the_guy"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-15T10:48:04-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "2.0.1"
+  },
+  "id": {
+    "label": "14794746757"
+  },
+  "title": {
+    "label": "Excellent on Windows, Frustrating on iPhone"
+  },
+  "content": {
+    "label": "I purchased Wispr Flow because I wanted one centralized dictation solution across all my devices. I was tired of switching between Windows native dictation, ChatGPT, and other apps. When I discovered Wispr Flow also offered an iPhone keyboard, I thought I’d found exactly what I needed.\n\nUnfortunately, the iPhone experience has been incredibly frustrating.\n\nFirst, my iPhone goes to the Lock Screen while I’m dictating. I lose visibility into the application I’m using and whether my dictation is still active. ChatGPT’s native dictation interface doesn’t behave this way for me. Why can ChatGPT manage this better than an application whose entire purpose is dictation?\n\nSecond, and far worse, recording stops without any meaningful warning or haptic feedback. ChatGPT provides haptic feedback when recording ends. Wispr Flow doesn’t give me that same reliable indication.\n\nThis is a serious problem because I frequently dictate while walking around, pacing, and thinking out loud. It’s perfectly normal for me to speak for 10 minutes while developing an idea. Imagine discovering that the last three or four minutes of your thoughts weren’t captured because the recording silently stopped. That’s not a minor inconvenience. It’s lost work.\n\nAnd Wispr Flow has a five-minute recording limit on iPhone, making this problem even more frustrating.\n\nI don’t need cute metrics, statistics, or engagement features. I purchased a dictation application because I wanted reliable, intelligent dictation. Basic functionality like clear recording status, dependable stop notifications, and haptic feedback should take priority over everything else.\n\nThe frustrating part is that Wispr Flow works extremely well on Windows. I genuinely like the product there, and I’ll continue using it on my PC.\n\nBut on iPhone? I’m going back to ChatGPT for dictation. It’s disappointing that an application dedicated specifically to dictation provides a worse recording experience than a general-purpose AI chat application. And yes if you’re wondering I used ChatGPT to dictate this review because it works.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

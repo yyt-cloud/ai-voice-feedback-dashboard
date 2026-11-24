@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1490454513"
+    },
+    "name": {
+      "label": "Saho Ai"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-07T02:02:05-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14637447840"
+  },
+  "title": {
+    "label": "最高"
+  },
+  "content": {
+    "label": "いろいろな着せ替とかあって楽しい！絵文字も沢山使えるようになった(´｡✪ω✪｡`)入れてよかったー！🧸💭ྀི",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

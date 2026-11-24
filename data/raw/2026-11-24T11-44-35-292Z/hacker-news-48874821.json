@@ -1,0 +1,39 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "vadimsc"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "When I was collecting data, I spoke silently for more than two hours.<p>After the session, I tried to use Wispr Flow but forgot that I was still speaking silently, so it didn’t work.<p>When I finally said it out loud, it felt like such a hassle that I essentially sold myself on the idea of silent speech."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Silent speech with ultrasound"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://alephneuro.com/blog/silent-speech"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_vadimsc",
+    "story_48825216"
+  ],
+  "author": "vadimsc",
+  "comment_text": "When I was collecting data, I spoke silently for more than two hours.<p>After the session, I tried to use Wispr Flow but forgot that I was still speaking silently, so it didn’t work.<p>When I finally said it out loud, it felt like such a hassle that I essentially sold myself on the idea of silent speech.",
+  "created_at": "2026-07-11T19:09:39Z",
+  "created_at_i": 1783796979,
+  "objectID": "48874821",
+  "parent_id": 48870906,
+  "story_id": 48825216,
+  "story_title": "Silent speech with ultrasound",
+  "story_url": "https://alephneuro.com/blog/silent-speech",
+  "updated_at": "2026-07-11T19:11:24Z"
+}

@@ -1,0 +1,46 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "nevi-me"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "wispr",
+        "flow"
+      ],
+      "value": "With voice dictation (<em>wispr</em> <em>flow</em>), I find it easier for me to talk naturally as if I'm talking to a friend. I'll sometimes give lengthy notes on context for a project, like why I want to do it, e.g. something for my wife to use.<p>So I find it common (and fine, I suppose) for Claude to reply using that context. &quot;Let me know what your wife thinks of the app&quot; etc."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Claude writing a macOS driver for my obscure HP printer built only for Windows"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://twitter.com/kuberwastaken/status/2089377982536388964"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_nevi-me",
+    "story_49344643"
+  ],
+  "author": "nevi-me",
+  "children": [
+    49358956
+  ],
+  "comment_text": "With voice dictation (wispr flow), I find it easier for me to talk naturally as if I&#x27;m talking to a friend. I&#x27;ll sometimes give lengthy notes on context for a project, like why I want to do it, e.g. something for my wife to use.<p>So I find it common (and fine, I suppose) for Claude to reply using that context. &quot;Let me know what your wife thinks of the app&quot; etc.",
+  "created_at": "2026-08-18T22:12:31Z",
+  "created_at_i": 1787091151,
+  "objectID": "49353488",
+  "parent_id": 49353381,
+  "story_id": 49344643,
+  "story_title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+  "story_url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+  "updated_at": "2026-08-20T01:47:27Z"
+}

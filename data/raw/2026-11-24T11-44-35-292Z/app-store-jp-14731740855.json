@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1660986114"
+    },
+    "name": {
+      "label": "૮₍˶•᷄‎ᴖ•᷅˶₎ა👈これ好きな人"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-30T18:02:07-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14731740855"
+  },
+  "title": {
+    "label": "まぁまぁ良い"
+  },
+  "content": {
+    "label": "最近のアプデでVIPのやつも広告で使えるようになったのは良い。けど音声入力ボタンがVIPにならないと使えないのに真ん中にあって微妙にでかい\nでも変えるのもVIPなんないとダメなのはちょっとね…",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1540085305"
+    },
+    "name": {
+      "label": "楽しー(*^^*)"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-20T21:29:19-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14691889008"
+  },
+  "title": {
+    "label": "キーボードの種類たくさん！"
+  },
+  "content": {
+    "label": "とても色んな機能があり、ほとんどのところに対応しているため、何時でも推しを眺められてとてもいいです！\n絵文字もたくさんの種類があってとても満足しまします！とても、得した気分になります！",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

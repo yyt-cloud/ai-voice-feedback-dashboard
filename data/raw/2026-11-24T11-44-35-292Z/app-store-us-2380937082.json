@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id133735461"
+    },
+    "name": {
+      "label": "Pldivine"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2018-04-03T19:21:49-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "6.4"
+  },
+  "id": {
+    "label": "2380937082"
+  },
+  "title": {
+    "label": "I like the Android version of the keyboard better!"
+  },
+  "content": {
+    "label": "This was my favorite keyboard on Android, and excited to find it for iPhone. Unfortunately I was disappointed by the iphone version. You can't customize your flick keywords like on Android phones",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

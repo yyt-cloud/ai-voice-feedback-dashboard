@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1987152115"
+    },
+    "name": {
+      "label": "Alexhchchc"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-03T09:45:32-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.10.0"
+  },
+  "id": {
+    "label": "14746629077"
+  },
+  "title": {
+    "label": "Great app, highly recommended!"
+  },
+  "content": {
+    "label": "I have been using Typeless for a while now and it has completely changed my workflow. The interface is incredibly clean and intuitive, making it easy to stay focused and productive. It’s rare to find an app that is both powerful and so well-designed. Highly recommended for anyone looking to streamline their tasks!",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

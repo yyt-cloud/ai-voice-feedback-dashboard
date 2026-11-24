@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1928356998"
+    },
+    "name": {
+      "label": "leray_kim"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-28T06:17:13-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14721672758"
+  },
+  "title": {
+    "label": "Great!"
+  },
+  "content": {
+    "label": "Nice app! Extremely helpful for someone who spend hours to type on my phone everyday. Thanks Wispr Flow!",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

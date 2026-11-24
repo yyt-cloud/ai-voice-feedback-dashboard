@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id629839637"
+    },
+    "name": {
+      "label": "櫻井春菜"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-01T04:57:16-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14614639437"
+  },
+  "title": {
+    "label": "広告"
+  },
+  "content": {
+    "label": "広告と同じにしたいけどそれと同じのがでてないから残念になってしまう\n使う利用するがかわだと期待を持ってしまう\nそれと同じにするだったらいますぐにでもだすほうがいい\nじゃないと利用するがかわだと裏切りと思う",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

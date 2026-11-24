@@ -1,0 +1,42 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "pasquinelli"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "&gt; The language is intentionally neutral and apolitical, without any stance on social or political issues.<p>does this mean something?<p>i was very confused by your description of xoscript as typeless. only typeless languages i know of are languages where a variable can only be a word. i assume you mean it's dynamically typed.<p>every new language that gets on hn gets two criticisms: they don't show code first thing, and they don't start with what problem is being solved by designing a new language. i'm not very interested in those things. i would, however, like to be told <i>what</i> it is in a concise way. you've basically got, if i understand correctly, a smalltalk-like system here, prototype based instead of class based, with dynamically scoped variables, and you're tooling it with server side scripting in mind. that tells me a lot more than code.<p>as for the what-problem-are-you-solving-by-designing-this-language criticism, if we're honest we can see that every language is either designed as an experiment, &quot;what would a language be like if...?&quot;, or it's designed as a matter of personal ergonomics, &quot;i want language X with differences i, j, and k cuz i like it that way.&quot; i'm completely fine with that."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Show HN: Xoscript"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://xoscript.com/history.xo"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_pasquinelli",
+    "story_46617492"
+  ],
+  "author": "pasquinelli",
+  "children": [
+    46619209
+  ],
+  "comment_text": "&gt; The language is intentionally neutral and apolitical, without any stance on social or political issues.<p>does this mean something?<p>i was very confused by your description of xoscript as typeless. only typeless languages i know of are languages where a variable can only be a word. i assume you mean it&#x27;s dynamically typed.<p>every new language that gets on hn gets two criticisms: they don&#x27;t show code first thing, and they don&#x27;t start with what problem is being solved by designing a new language. i&#x27;m not very interested in those things. i would, however, like to be told <i>what</i> it is in a concise way. you&#x27;ve basically got, if i understand correctly, a smalltalk-like system here, prototype based instead of class based, with dynamically scoped variables, and you&#x27;re tooling it with server side scripting in mind. that tells me a lot more than code.<p>as for the what-problem-are-you-solving-by-designing-this-language criticism, if we&#x27;re honest we can see that every language is either designed as an experiment, &quot;what would a language be like if...?&quot;, or it&#x27;s designed as a matter of personal ergonomics, &quot;i want language X with differences i, j, and k cuz i like it that way.&quot; i&#x27;m completely fine with that.",
+  "created_at": "2026-01-14T17:28:11Z",
+  "created_at_i": 1768411691,
+  "objectID": "46619046",
+  "parent_id": 46624172,
+  "story_id": 46617492,
+  "story_title": "Show HN: Xoscript",
+  "story_url": "https://xoscript.com/history.xo",
+  "updated_at": "2026-03-05T23:24:00Z"
+}

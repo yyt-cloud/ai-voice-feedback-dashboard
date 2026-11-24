@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1398996666"
+    },
+    "name": {
+      "label": "vlvmmddjaaatiajj_"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-03T00:37:02-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14621828852"
+  },
+  "title": {
+    "label": "不快"
+  },
+  "content": {
+    "label": "長年愛用してきましたが急に配置変わるとか迷惑ですし配置変更する為にVIP会員進めるってどうなってるんですか？なんかガッカリですこういうので儲けようなんて、",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

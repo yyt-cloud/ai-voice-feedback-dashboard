@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1843065551"
+    },
+    "name": {
+      "label": "さやか🧸"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-28T18:35:36-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14723895911"
+  },
+  "title": {
+    "label": "かんそう"
+  },
+  "content": {
+    "label": "使ったけど広告を見るのを使いたくて広告を見ました広告長くて💦",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

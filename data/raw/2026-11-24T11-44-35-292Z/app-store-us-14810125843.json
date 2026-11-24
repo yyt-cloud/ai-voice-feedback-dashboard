@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id18651787"
+    },
+    "name": {
+      "label": "J. Meader"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-19T13:25:20-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "2.0.3"
+  },
+  "id": {
+    "label": "14810125843"
+  },
+  "title": {
+    "label": "The iOS app has been ruined"
+  },
+  "content": {
+    "label": "I have used this app for a year, heavily. I loved it. The most recent update (right before my annual renewal) forces you to install their custom keyboard before you can access your dictation history. They have continuously added features I didn’t want and given me no ability to turn them off. And even if I could access my dictation history right now, the app has moved the default landing screen to Notes. I didn’t need another notes app, I needed voice dictation.\n\nI hate that I’m leaving this review. I have loved this app so much for the past year, but I’m not installing a custom keyboard and ruining my typing experience for no reason when it has been just fine for the past 355 days.\n\nI’m willing to revisit in the future, but the team needs to stop bolting on all this junk without giving me a way to turn it off. The best part of Wispr Flow was that it just worked and stayed out of my way. Now that it won’t, I’m gone.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

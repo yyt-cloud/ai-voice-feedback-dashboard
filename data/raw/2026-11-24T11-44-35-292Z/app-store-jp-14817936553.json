@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1979965998"
+    },
+    "name": {
+      "label": "推しのせいで埋もれた"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-21T12:29:38-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "17.6"
+  },
+  "id": {
+    "label": "14817936553"
+  },
+  "title": {
+    "label": "文字がおかしくなる"
+  },
+  "content": {
+    "label": "普通に打ってるのに違うところに文字が行ったり文がぐちゃぐちゃになったりでむかっとくるあとキーボード検索を増やして欲しいそれ以外は使いやすい",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

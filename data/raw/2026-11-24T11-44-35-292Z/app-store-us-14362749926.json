@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id132279720"
+    },
+    "name": {
+      "label": "tetsu76"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-07-29T07:49:47-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "2.2.0"
+  },
+  "id": {
+    "label": "14362749926"
+  },
+  "title": {
+    "label": "能够适配iPad with Magic keyboard"
+  },
+  "content": {
+    "label": "我就想开发者自己亲自去用一下，在有 Magic Keyboard 的 iPad 的情况下，如何正确地使用 Typeless？\n\n这个体验真的是令人发指，是团队里面没有人这么用吗？我配了 硬件键盘，但我还必须要打开软键盘，我才可以用 Typeless，这就是一个本末倒置的事情。而且，我只要切换输入法，软键盘就消失了",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

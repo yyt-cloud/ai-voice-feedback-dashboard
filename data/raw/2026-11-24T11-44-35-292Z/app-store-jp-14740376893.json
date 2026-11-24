@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id194275596"
+    },
+    "name": {
+      "label": "ちなみ1015"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-01T20:16:00-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14740376893"
+  },
+  "title": {
+    "label": "王道楽土なり"
+  },
+  "content": {
+    "label": "キーボードの背景を好きな写真にできるので、「DBはフリーザ編で終わっとけば名作だったんだ！」と迷言を叫んでる時の知人に設定してます😉\n絵文字も、とてもかわいいです！",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

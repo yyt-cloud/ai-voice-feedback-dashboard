@@ -1,0 +1,29 @@
+{
+  "id": "425ac8fe-e310-4bf8-8d87-0d201cf59268",
+  "userName": "おわりはじめ",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXtMIS5NEmqfWXQS97oLi7XMz9316WGJ_486fcZaE6LOhd4iuN9pg",
+  "date": "2026-09-05T11:21:12.729Z",
+  "score": 4,
+  "scoreText": "4",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=425ac8fe-e310-4bf8-8d87-0d201cf59268",
+  "title": null,
+  "text": "音声入力で数字を言うと、漢字変換になってしまいます 普通に数字で表せるようになっていたのに、いつの間にか漢字変換になっています。どうしたら直るのでしょうか",
+  "replyDate": "2026-09-08T09:58:53.462Z",
+  "replyText": "レビューをお寄せいただきありがとうございます。\n\n音声入力で数字を入力した際に漢字へ変換されてしまうとのこと、ご不便をおかけしております。\n\n現在ご利用のSimejiが最新版ではない可能性がございますので、最新版へのアップデートをお試しいただけますと幸いです。\nアップデート後は、音声入力した数字が数字として変換されるよう改善されております。\n\nなお、アップデートが難しい場合は、音声入力開始後、話し終わった際に表示される音声入力バーをタップして文字変換することで、数字として入力できます。\n※音声入力後に「改行」や「確定」を押した場合は、漢字変換になる場合がございます。\n\n今後ともSimejiをよろしくお願いいたします。",
+  "version": "23.5.2",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_visual_appeal",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_ads_presence",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_ads_frequency",
+      "rating": 2
+    }
+  ]
+}

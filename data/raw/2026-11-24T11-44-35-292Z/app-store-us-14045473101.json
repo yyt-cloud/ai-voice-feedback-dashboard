@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id201020720"
+    },
+    "name": {
+      "label": "LelandDutcher"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-05-09T07:54:44-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.5.0"
+  },
+  "id": {
+    "label": "14045473101"
+  },
+  "title": {
+    "label": "getting better evey update"
+  },
+  "content": {
+    "label": "It really is getting better and has become my default keyboard, especially now that they've introduced an English QWERTY layout.\n\nI've literally tried every product on the market specifically to find which one has the QWERTY layout that's most similar to Apple's. This one still leaves something to be desired with functionality to turn off haptics and some other bits and bobs, but the transcription model is seemingly the most resilient. It is the quickest, and their free tier is extremely generous.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

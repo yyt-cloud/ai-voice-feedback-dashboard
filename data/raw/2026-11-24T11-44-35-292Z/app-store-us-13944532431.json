@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id871860505"
+    },
+    "name": {
+      "label": "freddymm88"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-04-10T16:48:40-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "1.0.7"
+  },
+  "id": {
+    "label": "13944532431"
+  },
+  "title": {
+    "label": "Works well, privacy concern"
+  },
+  "content": {
+    "label": "The dictation works well. My only concern is that the microphone is on even when dictation is not being used when the app is running in the background. \n\nClosing the app resolves this, but then every time you want to dictate, you have to go back to the app and restart it.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6759074969&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

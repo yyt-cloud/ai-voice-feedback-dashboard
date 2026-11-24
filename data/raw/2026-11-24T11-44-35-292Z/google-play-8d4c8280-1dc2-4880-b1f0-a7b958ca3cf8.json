@@ -1,0 +1,29 @@
+{
+  "id": "8d4c8280-1dc2-4880-b1f0-a7b958ca3cf8",
+  "userName": "days perfect",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVi9kQSoL-VZ_FigJRHPUFXa9Q7QA7P35duyFlYkNvkfIRUZRw",
+  "date": "2026-11-02T00:24:48.302Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=8d4c8280-1dc2-4880-b1f0-a7b958ca3cf8",
+  "title": null,
+  "text": "何年も使っていますが、文字を打つ時に触っていない文字で入力されたりする よくこのような事がおきます。あと、絵文字を選ぶのが文字を打ってからだと、右上のくをタップして更にバツをタップしないと出ないのが不便。絵文字は常にいつでも入力出来るようにしたいです。できないのでしょうか",
+  "replyDate": null,
+  "replyText": null,
+  "version": "23.7",
+  "thumbsUp": 1,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_usability",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_ads_frequency",
+      "rating": 3
+    }
+  ]
+}

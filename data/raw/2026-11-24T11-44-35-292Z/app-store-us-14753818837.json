@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id417683584"
+    },
+    "name": {
+      "label": "Cali Leche"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-05T06:08:42-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14753818837"
+  },
+  "title": {
+    "label": "Best workflow tool you can get"
+  },
+  "content": {
+    "label": "I love this thing. I use it on my laptop and I use it now on my phone. It just helps you get through the day quicker. It helps you do more tasks more efficiently. You don't have to type and you don't lose your train of thought. It's just amazing",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

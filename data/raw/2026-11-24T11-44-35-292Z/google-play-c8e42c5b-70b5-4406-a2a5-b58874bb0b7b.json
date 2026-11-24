@@ -1,0 +1,29 @@
+{
+  "id": "c8e42c5b-70b5-4406-a2a5-b58874bb0b7b",
+  "userName": "Alexander Krasnov",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVRDUk5DEE6nI8fsYaval1krX68_IBIkK1wgexQnPSncSbQ0nIV",
+  "date": "2026-07-01T12:56:33.637Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=c8e42c5b-70b5-4406-a2a5-b58874bb0b7b",
+  "title": null,
+  "text": "I'm using it right now to write this review. I've been using it recently for pretty much all of my work stuff, and it's been a real lifesaver in terms of saving time. It's great also that it understands other languages, especially relatively rare ones. This is very useful when I don't want to type in other languages where I'm much slower. The fact that it reformats my thoughts correctly, so that there are no vague misunderstandings, is really useful.",
+  "replyDate": null,
+  "replyText": null,
+  "version": "1.11.0",
+  "thumbsUp": 1,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": null
+    },
+    {
+      "criteria": "vaf_app_quality_ads_frequency",
+      "rating": null
+    },
+    {
+      "criteria": "vaf_app_quality_ads_intrusiveness",
+      "rating": null
+    }
+  ]
+}

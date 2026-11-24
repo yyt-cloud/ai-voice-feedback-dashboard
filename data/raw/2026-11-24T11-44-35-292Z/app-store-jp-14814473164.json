@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1082270954"
+    },
+    "name": {
+      "label": "さゆらやなはわなや"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-20T16:23:28-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.6"
+  },
+  "id": {
+    "label": "14814473164"
+  },
+  "title": {
+    "label": "ふわふわどこ？"
+  },
+  "content": {
+    "label": "最近ふわふわのキーボードと壁紙が出たって聞きました。「広告」ででもないんですけど！あと本当に着せ替え200種類あるんですか？なんか、VIP限定とか期間限定とか教えて下さい。でも私はSimejiが大好きなので★★★★‪☆にしました！有難いと思ってください！あと★‪☆‪☆‪☆‪☆の人が危険アプリと言ってたけど改善したんですよね？",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

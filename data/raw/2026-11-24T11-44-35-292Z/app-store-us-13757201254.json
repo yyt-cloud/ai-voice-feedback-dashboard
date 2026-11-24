@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id412717440"
+    },
+    "name": {
+      "label": "Zcac5566783838383"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-02-16T15:50:11-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "1.0.0"
+  },
+  "id": {
+    "label": "13757201254"
+  },
+  "title": {
+    "label": "LOVE but Hit or Miss"
+  },
+  "content": {
+    "label": "When I tell you that this is the best voice to text I have ever used, that is the truth. It gets every word correct, perfect punctuation and even has context to know what you’re talking about so will capitalize capitalize when it needs to. It is also extremely easy to make any edits or changes if you want simply by just using your voice when done.\n\nThat being said, I have a major issue. On my M4 iPad Pro running iOS 26… Very rarely does it work, it opens the app, it says dictate and then when you tap to finish it loads and then just does absolutely nothing. It’s extremely annoying when talking out for a few minutes only for it not to work.\n\nThen on my iPhone 18 Pro Max, running iOS 26… It used to work flawlessly. After the latest update, it no longer works for me. Even after deleting the app and re-downloading it, it won’t work. When you try to switch to the Typeless keyboard, it simply opens a blank space with no option to do anything. It’s really frustrating.\n\nIf the bugs can get fixed, and it can work reliably at all times, this will be one of the greatest voice to text ever.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

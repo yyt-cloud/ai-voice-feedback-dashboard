@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id44072484"
+    },
+    "name": {
+      "label": "plchan"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-03-15T21:55:59-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "1.1.2"
+  },
+  "id": {
+    "label": "13853153018"
+  },
+  "title": {
+    "label": "Great software, but it acts badly on the translation"
+  },
+  "content": {
+    "label": "When I click on theDictator, I spoke in Cantonese, but it showed the simplified Chinese. It does not have a setting to allow setting the display language or character set.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

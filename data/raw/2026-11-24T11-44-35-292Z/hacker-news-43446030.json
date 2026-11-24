@@ -1,0 +1,44 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "bluGill"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "I've programmed in typeless languages and they are great for small programs - less than 10,000 lines of code and 5 developers (these numbers are somewhat arbitrary, but close enough from discussion).  As you get over that number you start to run into issues because fundamentally your word/array of byte/multi-dimensional array of floats/ ... has deeper meaning and when you get it wrong the code might parse and give a result but the result is wrong.<p>Types give me a language enforced way to track what the data really means.  For small programs I don't care, but types are one of the most powerful tricks needed for thousands of developers to work on a program with millions of lines of code."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Don't Be Afraid of Types"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://lmika.org/2025/03/18/dont-be-afraid-of-types.html"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_bluGill",
+    "story_43403321"
+  ],
+  "author": "bluGill",
+  "children": [
+    43446287,
+    43446294,
+    43446919
+  ],
+  "comment_text": "I&#x27;ve programmed in typeless languages and they are great for small programs - less than 10,000 lines of code and 5 developers (these numbers are somewhat arbitrary, but close enough from discussion).  As you get over that number you start to run into issues because fundamentally your word&#x2F;array of byte&#x2F;multi-dimensional array of floats&#x2F; ... has deeper meaning and when you get it wrong the code might parse and give a result but the result is wrong.<p>Types give me a language enforced way to track what the data really means.  For small programs I don&#x27;t care, but types are one of the most powerful tricks needed for thousands of developers to work on a program with millions of lines of code.",
+  "created_at": "2025-03-22T14:49:57Z",
+  "created_at_i": 1742654997,
+  "objectID": "43446030",
+  "parent_id": 43445593,
+  "story_id": 43403321,
+  "story_title": "Don't Be Afraid of Types",
+  "story_url": "https://lmika.org/2025/03/18/dont-be-afraid-of-types.html",
+  "updated_at": "2025-03-29T04:56:05Z"
+}

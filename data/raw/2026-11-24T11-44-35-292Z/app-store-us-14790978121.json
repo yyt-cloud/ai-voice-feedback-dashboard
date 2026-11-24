@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1461870191"
+    },
+    "name": {
+      "label": "qinlinj"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-14T12:55:16-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.12.0"
+  },
+  "id": {
+    "label": "14790978121"
+  },
+  "title": {
+    "label": "已适配duo，但还是有小bug"
+  },
+  "content": {
+    "label": "偶发bug，键盘不出现只剩下灰色面板",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

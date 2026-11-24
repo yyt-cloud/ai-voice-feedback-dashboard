@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1985498927"
+    },
+    "name": {
+      "label": "ℝ𝕖𝕚𝕟𝕒🌌"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-06T02:09:52-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14756971226"
+  },
+  "title": {
+    "label": "ちょー可愛い"
+  },
+  "content": {
+    "label": "マジで！絶対入れた方がいい！誤字も直してくれるし、絵文字とかローマ字の種類もめっちゃ増えるから、ちょーオススメ！変換もすぐ出てくる！あと、自分でもキーボード作れて好きなようにできるらマジでオススメ！！ちょー可愛い！！\"(∩>ω<∩)\"",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

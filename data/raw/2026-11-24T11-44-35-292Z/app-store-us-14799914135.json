@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id283044560"
+    },
+    "name": {
+      "label": "Tracy Krl"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-16T18:32:16-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.0.1"
+  },
+  "id": {
+    "label": "14799914135"
+  },
+  "title": {
+    "label": "So far it’s great"
+  },
+  "content": {
+    "label": "I've only been using it for a short time so I'm not sure if there are hidden fees or how much it's going to cost. There has not been a price show up yet but it's working really well across messages, notes, and email. You can even whisper really quietly, like this, and it catches what you're saying, which is cool.\n\nI'm giving it 5 stars right now. I really like it and it seems to be a great app. From what I can tell it's free but I might have that wrong. I would check that, double-check that, and maybe I signed up before. It's working great across everything right now and it does catch everything I say. It lets you choose between formal and casual, go back and forth, and you can also edit what you say.\n\nVery very handy for people like me, writers, and people who talk a lot and need to save their hands some. It's really coming in handy. Thank the developer for that. Give it a try.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

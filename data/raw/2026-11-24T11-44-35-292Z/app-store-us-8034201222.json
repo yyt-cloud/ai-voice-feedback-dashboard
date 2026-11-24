@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1187787381"
+    },
+    "name": {
+      "label": "NGlovesmyheroacademiaforever"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2021-11-17T09:38:34-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "10.6"
+  },
+  "id": {
+    "label": "8034201222"
+  },
+  "title": {
+    "label": "❤️❤️❤️"
+  },
+  "content": {
+    "label": "I love this thank u",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

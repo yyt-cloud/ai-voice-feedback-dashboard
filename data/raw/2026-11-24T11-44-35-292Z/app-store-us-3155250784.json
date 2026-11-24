@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id873657005"
+    },
+    "name": {
+      "label": "Jky07"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2018-09-05T01:54:12-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "6.9"
+  },
+  "id": {
+    "label": "3155250784"
+  },
+  "title": {
+    "label": "Interface of simeji"
+  },
+  "content": {
+    "label": "How to set the app interface to english language? I like simeji been using it for 5 years now in my samsung phone and now i’m change to iphone but its kinda complicated simeji in iphone with the app interface and with the keyboard layout especially when you want to flick some of the sign in alphabet like ex , . ? ! You can barely see it visible its so small especially when u used your own picture theme. You can even see it. Will give it 3 star for now. Please reply to this and give advice and solution. Thanks.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "2"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "2"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1952170097"
+    },
+    "name": {
+      "label": "アホの子(っᐛ c)"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-29T04:50:25-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14725341265"
+  },
+  "title": {
+    "label": "までぃ‎( ꒪⌓꒪)"
+  },
+  "content": {
+    "label": "マジで最高すぎる。音声の自動入力も可能だし、色々とできて最高！滅❣",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

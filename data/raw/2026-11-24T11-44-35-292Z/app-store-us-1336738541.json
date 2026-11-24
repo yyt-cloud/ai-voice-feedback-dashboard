@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id493405374"
+    },
+    "name": {
+      "label": "Xhere14"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2016-02-21T17:00:27-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "5.1"
+  },
+  "id": {
+    "label": "1336738541"
+  },
+  "title": {
+    "label": "English"
+  },
+  "content": {
+    "label": "I can't read kanji in the keyboard settings. I want to customize and set size for keyboard please",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

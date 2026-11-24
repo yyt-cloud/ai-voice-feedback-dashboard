@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id449549519"
+    },
+    "name": {
+      "label": "まいあらしあんず"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-17T19:05:28-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14679809071"
+  },
+  "title": {
+    "label": "不具合なら即修正求"
+  },
+  "content": {
+    "label": "バグなのか最近使えなくて標準キーボードで事なきを得てはいるが、消して入れ直しても連携し直しても使えないのは　アプリとしてよくないのではないか",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1875541710"
+    },
+    "name": {
+      "label": "9mxs2"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-01T06:39:40-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14614984066"
+  },
+  "title": {
+    "label": "△"
+  },
+  "content": {
+    "label": "アプリ自体はいいけど配置が急に変わったり音声入力が真ん中に来たから使いにくい。慣れてる配置があるからコロコロ変えないでほしい",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1756138907"
+    },
+    "name": {
+      "label": "幸せの妖精(*´꒳`*)"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-03T18:38:03-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14748127977"
+  },
+  "title": {
+    "label": "いもい"
+  },
+  "content": {
+    "label": "いもい（※詐欺よくない所じゃないふざけないでください）",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

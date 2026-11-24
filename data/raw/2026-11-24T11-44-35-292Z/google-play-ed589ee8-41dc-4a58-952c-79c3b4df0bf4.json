@@ -1,0 +1,29 @@
+{
+  "id": "ed589ee8-41dc-4a58-952c-79c3b4df0bf4",
+  "userName": "Sherman Leeper",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWwui-M4bIAPNVEPlMaVlMXcNRTEpTkpwiNSyq3qp7aOaaaGnwH",
+  "date": "2026-06-27T17:30:09.408Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=ed589ee8-41dc-4a58-952c-79c3b4df0bf4",
+  "title": null,
+  "text": "this is by far the most accurate voi ce to text app I have used",
+  "replyDate": null,
+  "replyText": null,
+  "version": "1.10.1",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_usability",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_phase1_messaging",
+      "rating": 3
+    }
+  ]
+}

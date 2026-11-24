@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1002182231"
+    },
+    "name": {
+      "label": "BanginMovieReview"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2025-12-30T06:04:02-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "0.1.1"
+  },
+  "id": {
+    "label": "13572949018"
+  },
+  "title": {
+    "label": "Great with major flaws"
+  },
+  "content": {
+    "label": "I really enjoy this app. The dictation works extremely well; I'm actively writing with it right now.\n\nHowever, the main issue is the fact that the app constantly has to be on. I don't enjoy my microphone always being active, but if I turn it off, I have to open the Typeless app every time I want to use it. \n\nThere has to be a workaround or a better solution to make this more seamless.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

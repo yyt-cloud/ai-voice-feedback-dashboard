@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1953971911"
+    },
+    "name": {
+      "label": "PennyAppleP"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-08-31T23:06:55-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "2.6.0"
+  },
+  "id": {
+    "label": "14496653614"
+  },
+  "title": {
+    "label": "Bug"
+  },
+  "content": {
+    "label": "Please fix the Auto-Lock issue\n\nI’m an annual paid subscriber because I genuinely like Typeless and want to keep using it. Unfortunately, the app currently prevents iPhone and iPad from Auto-Locking whenever the Typeless main app is left running in the background.\n\nI’ve reproduced this consistently on both devices. Background App Refresh and Live Activities are already disabled, and the problem immediately disappears after force-quitting Typeless.\n\nThis is not a minor inconvenience—it causes unnecessary battery drain and can leave private content visible on screen. The issue has also remained through recent updates. Please prioritize a fix and communicate its status to users.\n\nTypeless is a great product, but this bug seriously affects everyday use.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id85616082"
+    },
+    "name": {
+      "label": "Codeman906"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-21T08:31:54-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14693693658"
+  },
+  "title": {
+    "label": "Terrible. Don’t trust these reviews"
+  },
+  "content": {
+    "label": "Absolutely terrible. Every time you want to dictate it forces you to open another app. The worst.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

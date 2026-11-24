@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1284994844"
+    },
+    "name": {
+      "label": "ArjunaGrey"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-08-10T16:21:36-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "1.2.1"
+  },
+  "id": {
+    "label": "14412348883"
+  },
+  "title": {
+    "label": "Invasive"
+  },
+  "content": {
+    "label": "Immediately wants superuser access to keyboard. I understand that, and it didn't immediately put me off, but I don't like that it replaced my well used predictive text and immediately signed me up for the subscription without actually asking me or giving me an option to cancel.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6766791501&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

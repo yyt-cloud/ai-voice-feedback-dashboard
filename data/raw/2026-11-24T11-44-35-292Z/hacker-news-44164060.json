@@ -1,0 +1,46 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "rockfishroll"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Biopure was a company doing something similar in the US. They imploded in the early 2000s, but they had created an &quot;oxygen therapeutic&quot; (blood substitute) by isolating hemoglobin based oxygen carrying molecules FROM COW BLOOD!<p>The fact that they weren't using whole red blood cells meant the product was typeless, room temp stable, and better at perfusing around arterial blockages and into tissue since the molecules were so small.<p>Unfortunately, the company was kind of a mess. They managed to get licensed for sale in South Africa, and in the US for the veterinary product, but never managed FDA approval. It's a shame. Everyone could see the promise of the product, and it really actually worked, but they just couldn't seem to make the business viable.<p><a href=\"https://en.wikipedia.org/wiki/Biopure\" rel=\"nofollow\">https://en.wikipedia.org/wiki/Biopure</a><p>Edit: When I say they imploded, I really mean it. They got prosecuted for misleading statements to investors about the state of US clinical trials, and the legal proceedings became farcical.<p>&quot;On March 11, 2009 [Senior VP] Howard Richman pleaded guilty in U.S. District Court and admitted he had instructed his lawyers to tell a judge he was gravely ill with colon cancer. He also admitted to posing as his doctor in a phone call with his lawyer so that she would tell the judge that his cancer had spread and that he was undergoing chemotherapy.&quot;<p>That guys was sentenced to 3 years in prison. Here's hoping this new blood substitute has a happier outcome!"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Japanese scientists develop artificial blood compatible with all blood types"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://www.tokyoweekender.com/entertainment/tech-trends/japanese-scientists-develop-artificial-blood/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_rockfishroll",
+    "story_44163428"
+  ],
+  "author": "rockfishroll",
+  "children": [
+    44164650,
+    44165191,
+    44167623,
+    44167900,
+    44165608
+  ],
+  "comment_text": "Biopure was a company doing something similar in the US. They imploded in the early 2000s, but they had created an &quot;oxygen therapeutic&quot; (blood substitute) by isolating hemoglobin based oxygen carrying molecules FROM COW BLOOD!<p>The fact that they weren&#x27;t using whole red blood cells meant the product was typeless, room temp stable, and better at perfusing around arterial blockages and into tissue since the molecules were so small.<p>Unfortunately, the company was kind of a mess. They managed to get licensed for sale in South Africa, and in the US for the veterinary product, but never managed FDA approval. It&#x27;s a shame. Everyone could see the promise of the product, and it really actually worked, but they just couldn&#x27;t seem to make the business viable.<p><a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Biopure\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Biopure</a><p>Edit: When I say they imploded, I really mean it. They got prosecuted for misleading statements to investors about the state of US clinical trials, and the legal proceedings became farcical.<p>&quot;On March 11, 2009 [Senior VP] Howard Richman pleaded guilty in U.S. District Court and admitted he had instructed his lawyers to tell a judge he was gravely ill with colon cancer. He also admitted to posing as his doctor in a phone call with his lawyer so that she would tell the judge that his cancer had spread and that he was undergoing chemotherapy.&quot;<p>That guys was sentenced to 3 years in prison. Here&#x27;s hoping this new blood substitute has a happier outcome!",
+  "created_at": "2025-06-02T22:46:04Z",
+  "created_at_i": 1748904364,
+  "objectID": "44164060",
+  "parent_id": 44163428,
+  "story_id": 44163428,
+  "story_title": "Japanese scientists develop artificial blood compatible with all blood types",
+  "story_url": "https://www.tokyoweekender.com/entertainment/tech-trends/japanese-scientists-develop-artificial-blood/",
+  "updated_at": "2025-06-05T15:27:54Z"
+}

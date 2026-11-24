@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1612374652"
+    },
+    "name": {
+      "label": "723natu"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-05T21:46:00-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14633118306"
+  },
+  "title": {
+    "label": "合わなかった"
+  },
+  "content": {
+    "label": "予測変換は強いですがどこか過剰で、ユーザーが自由に登録できるのか、内輪ネタと思わせるようなものや、視覚的にうるさく感じられる表現が多数出てきます。これがSimejiのいいところでもあるのかもしれませんが、私には合いませんでした。\n\nまた、そんなつもりでもなく「そこ」等と入力しただけで「♡」や「///」といった、直接的ではなくともセンシティブな表現が続いて表示され、気持ち悪さを覚えてしまいます。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

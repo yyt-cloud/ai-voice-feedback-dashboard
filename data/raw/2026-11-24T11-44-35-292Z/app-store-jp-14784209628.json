@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1910669431"
+    },
+    "name": {
+      "label": "コナン大好き(和葉と服部付き合え！)"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-12T22:03:23-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14784209628"
+  },
+  "title": {
+    "label": "AIイラスト"
+  },
+  "content": {
+    "label": "AI反対の人々が過激なことをしてくるので、AIイラストのことをどうするか決めて欲しいです。\nAIイラスト禁止か禁止しないか",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

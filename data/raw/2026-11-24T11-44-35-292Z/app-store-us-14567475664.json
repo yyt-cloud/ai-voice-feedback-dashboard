@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1970342043"
+    },
+    "name": {
+      "label": "Superb Amy"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-09-19T01:42:18-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.6"
+  },
+  "id": {
+    "label": "14567475664"
+  },
+  "title": {
+    "label": "fast easy to use"
+  },
+  "content": {
+    "label": "Fast easy to use and I don’t have to type anymore super intelligent",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6766791501&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

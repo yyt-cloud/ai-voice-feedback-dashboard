@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1391035679"
+    },
+    "name": {
+      "label": "Discord is junk"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-28T14:19:48-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14723223931"
+  },
+  "title": {
+    "label": "Easy to set up"
+  },
+  "content": {
+    "label": "Really easy to set up, and I will use it a lot because it's a challenge for me to send messages.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "d6d68f50-5d8c-4eb1-bc5b-23b573dcd31c",
+  "userName": "叶",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIGpb6YfXnS2lpND3ZxoF_kbbW-mKCZxvBgI1_j4_dWZtaTbw=mo",
+  "date": "2026-09-04T12:04:22.115Z",
+  "score": 3,
+  "scoreText": "3",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=d6d68f50-5d8c-4eb1-bc5b-23b573dcd31c",
+  "title": null,
+  "text": "コンパネのカスタマイズがVIPのみの使用なのが納得いきません。 そうすればもっと使いやすく、ダウンロードするひとが増えると思うのに……普通の人も出来るようにしてほしいです。 それ以外はとてもいいのに残念です",
+  "replyDate": null,
+  "replyText": null,
+  "version": "23.5.2",
+  "thumbsUp": 3,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_app_quality_usability",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_ads_intrusiveness",
+      "rating": 2
+    }
+  ]
+}

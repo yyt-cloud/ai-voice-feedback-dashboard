@@ -1,0 +1,47 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "lukko"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "wispr",
+        "flow"
+      ],
+      "value": "Thanks for building!<p>I was thinking of creating a local replacement for <em>Wispr</em> <em>Flow</em> - does this have a hotkey for speech to text?"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Show HN: Yogurt – Free, private, open-source alternative to Granola"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://github.com/FrigadeHQ/yogurt"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_lukko",
+    "story_50454625"
+  ],
+  "author": "lukko",
+  "children": [
+    50470211,
+    50559369
+  ],
+  "comment_text": "Thanks for building!<p>I was thinking of creating a local replacement for Wispr Flow - does this have a hotkey for speech to text?",
+  "created_at": "2026-11-12T11:55:45Z",
+  "created_at_i": 1794484545,
+  "objectID": "50465894",
+  "parent_id": 50454625,
+  "story_id": 50454625,
+  "story_title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+  "story_url": "https://github.com/FrigadeHQ/yogurt",
+  "updated_at": "2026-11-19T12:58:08Z"
+}

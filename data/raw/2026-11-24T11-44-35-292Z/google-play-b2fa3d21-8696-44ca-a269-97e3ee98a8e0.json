@@ -1,0 +1,29 @@
+{
+  "id": "b2fa3d21-8696-44ca-a269-97e3ee98a8e0",
+  "userName": "Joe L",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX4_YAHUGiuxSgUodm_CSSlIQC9FB77dvQC9OJP5eYs8pY0B3_k",
+  "date": "2026-11-21T12:02:58.722Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.wispr.flowapp&reviewId=b2fa3d21-8696-44ca-a269-97e3ee98a8e0",
+  "title": null,
+  "text": "it sucks. didn't work. btw im using s25 8gb/256gb",
+  "replyDate": null,
+  "replyText": null,
+  "version": null,
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_phase1_file_sharing",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 2
+    }
+  ]
+}

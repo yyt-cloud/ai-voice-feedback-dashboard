@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id154362441"
+    },
+    "name": {
+      "label": "NickyChan123"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-07-06T13:39:56-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.0.7"
+  },
+  "id": {
+    "label": "14271407910"
+  },
+  "title": {
+    "label": "Best voice typing app!"
+  },
+  "content": {
+    "label": "I have tried multiple dictation apps, and by far this is the most accurate I've used. It will automatically organize and format my to-do list on my notepad and email",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6766791501&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

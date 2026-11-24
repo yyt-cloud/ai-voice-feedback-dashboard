@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1744864832"
+    },
+    "name": {
+      "label": "sinrnlnlxntya"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-07T19:06:06-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14764082390"
+  },
+  "title": {
+    "label": "キーボード音の種類を増やしてほしい"
+  },
+  "content": {
+    "label": "絵文字とかは本当に種類がたくさんあってとっても可愛いので使ってます！\nキーボードの音をもっと可愛い音とか増やして欲しいです！！！！\nきっともっと人気が出ます😍",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

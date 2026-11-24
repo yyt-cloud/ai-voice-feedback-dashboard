@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id12821516"
+    },
+    "name": {
+      "label": "lukner"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-05T07:26:26-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14754085469"
+  },
+  "title": {
+    "label": "Issues with Messaging Integration, Activation Delay, and macOS Installation"
+  },
+  "content": {
+    "label": "update: The app has been improved significantly. More information to come Description:\nYesterday, the app worked seamlessly with text messaging. Today, it no longer functions directly in that context. The underlying algorithm is performing very well, and—unlike Apple’s built-in voice dictation (which has consistently been unusable due to poor transcription quality)—Wispr Flow delivers accurate, coherent dictation.\n\nHowever, Wispr Flow does not integrate seamlessly with text messaging. To use it there, I must manually activate it, and it appears to take a noticeable amount of time before it becomes functional. This delay makes quick messaging impractical. Currently, the only reliable workflow is to dictate within the Wispr Flow app, save the note, and then copy and paste the text into a message.\n\nAdditionally, I cannot install the macOS version. The website keeps looping between the “Download” and “Get Started” pages, preventing installation.\n\nSteps to Reproduce:\n\t1.\tAttempt to use Wispr Flow dictation directly in text messages.\n\t2.\tObserve that it requires manual activation and delays before working, if it begins at all.\n\t3.\tAttempt to download the macOS app.\n\t4.\tNote that the site repeatedly redirects between “Download” and “Get Started.”\n\nExpected Behavior:\n\t•\tWispr Flow should operate seamlessly and activate instantly within text messages, as it did yesterday.\n\t•\tmacOS installation should complete without redirect loops.\n\nActual Behavior:\n\t•\tWispr Flow dictation in text messages requires manual activation and suffers from delays—often it doesn’t start at all.\n\t•\tThe macOS download page loops indefinitely between “Download” and “Get Started,” preventing installation.\n\nEnvironment:\n\t•\tiOS version: 18.1 (latest)\n\t•\tmacOS version: macOS Sonoma 14.6.1 (latest)\n\t•\tWispr Flow app version: 1.14 (released August 13, 2025)  ￼\n\nRequest:\nPlease advise on resolving:\n\t•\tThe messaging integration issue, specifically the delayed or non-functioning activation.\n\t•\tThe macOS installation problem due to the redirect loop.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

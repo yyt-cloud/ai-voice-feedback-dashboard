@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id16151583"
+    },
+    "name": {
+      "label": "Jennmdlcr"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-21T12:26:21-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14694463173"
+  },
+  "title": {
+    "label": "So far, so good."
+  },
+  "content": {
+    "label": "Downloaded this one this week, and I am loving how accurate it is and the fact that I can whisper, so if my kids are sleeping, I can still do work.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

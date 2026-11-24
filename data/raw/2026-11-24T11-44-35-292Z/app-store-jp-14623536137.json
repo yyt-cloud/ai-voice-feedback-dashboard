@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id239523743"
+    },
+    "name": {
+      "label": "ルーキッシュ"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-03T10:00:40-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14623536137"
+  },
+  "title": {
+    "label": "機能ボタンの配置改悪"
+  },
+  "content": {
+    "label": "なんで機能ボタンのマイクを中心に移動したんですか？いちいちミスタッチして使いにくい。配置の入れ替えとか個別のオンオフをしたい。使わない機能外させてください。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

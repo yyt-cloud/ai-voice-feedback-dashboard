@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1007615450"
+    },
+    "name": {
+      "label": "澜·Noesis"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-07-10T17:19:45-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "2.0.0"
+  },
+  "id": {
+    "label": "14288091291"
+  },
+  "title": {
+    "label": "Too many nag prompts"
+  },
+  "content": {
+    "label": "The app keeps nagging me to upgrade — it’s too intrusive.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

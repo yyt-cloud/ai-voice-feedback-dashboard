@@ -1,0 +1,42 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "treyd"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "TypeScript is arguably one of the weaker statically typed languages, with how it allows `any` to quietly violate the type checked assumptions.  It <i>makes it harder to</i> do a lot of the basic typing mistakes in JS, but it doesn't prevent them by any means, especially if you have to interface with (typeless) JS code.<p>So for these reasons alone I would be against using TS as a lingua franca for LLM codegen (as is GP I assume).  As another commenter mentioned, LLMs have a tendency to throw their hands^Hlogits up when presented with complex TS type errors and just resort to using `any` to get it to compile (and probably hiding bugs).<p>And that doesn't even touch the issues with the JS/TS ecosystem and runtimes more broadly."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Type-constrained code generation with language models"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://arxiv.org/abs/2504.09246"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_treyd",
+    "story_43978357"
+  ],
+  "author": "treyd",
+  "children": [
+    43981987
+  ],
+  "comment_text": "TypeScript is arguably one of the weaker statically typed languages, with how it allows `any` to quietly violate the type checked assumptions.  It <i>makes it harder to</i> do a lot of the basic typing mistakes in JS, but it doesn&#x27;t prevent them by any means, especially if you have to interface with (typeless) JS code.<p>So for these reasons alone I would be against using TS as a lingua franca for LLM codegen (as is GP I assume).  As another commenter mentioned, LLMs have a tendency to throw their hands^Hlogits up when presented with complex TS type errors and just resort to using `any` to get it to compile (and probably hiding bugs).<p>And that doesn&#x27;t even touch the issues with the JS&#x2F;TS ecosystem and runtimes more broadly.",
+  "created_at": "2025-05-14T05:00:58Z",
+  "created_at_i": 1747198858,
+  "objectID": "43981003",
+  "parent_id": 43979428,
+  "story_id": 43978357,
+  "story_title": "Type-constrained code generation with language models",
+  "story_url": "https://arxiv.org/abs/2504.09246",
+  "updated_at": "2025-05-15T06:45:00Z"
+}

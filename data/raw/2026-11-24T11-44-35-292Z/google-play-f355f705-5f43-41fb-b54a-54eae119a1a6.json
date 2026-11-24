@@ -1,0 +1,29 @@
+{
+  "id": "f355f705-5f43-41fb-b54a-54eae119a1a6",
+  "userName": "にいがさい",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUpzZ9cSgPTVoHDEuBoT4wIePLGMBqIAbw4aDBUxyptR6BLGVY1Xw",
+  "date": "2026-11-21T11:16:41.763Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=f355f705-5f43-41fb-b54a-54eae119a1a6",
+  "title": null,
+  "text": "最近使い勝手がひどくなった。昔のほうが良かったって感じ。なんで劣化するの？？アプデ本当してるのかってぐらい酷いんだけど。まず、入力するんだけどすぐ欲しいのが全く候補に入ってこないんだよね、、、、。こんなのキーボードと言えない、、、がっかり。",
+  "replyDate": null,
+  "replyText": null,
+  "version": "23.7",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_ads_presence",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_ads_frequency",
+      "rating": 2
+    }
+  ]
+}

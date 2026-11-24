@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1782824194"
+    },
+    "name": {
+      "label": "生存確認担当者"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-01T03:36:51-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14737348683"
+  },
+  "title": {
+    "label": "好きだけど…"
+  },
+  "content": {
+    "label": "Simeji部、というSNSの簡潔化したようなものがあったり、可愛い絵文字もたくさんあって可愛い◜.  ̫.◝\n\n以前はそんなことなかったのですが、最近はキーボードが広告を見ないとGETできなくなってしまい残念です😭\n\nVIPにならないとGET出来ないキーボードもあったり…\n\n自作できるので、私はそれを使用しています",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

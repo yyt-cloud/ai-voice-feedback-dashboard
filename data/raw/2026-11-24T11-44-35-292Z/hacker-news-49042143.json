@@ -1,0 +1,42 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "gysakai"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "typeless"
+      ],
+      "value": "Hi HN,<p>Why did I make this?<p>I had been using <em>Typeless</em> for voice input on Android. But it did not even have simple buttons for moving the cursor left and right. And if you want to use it a lot, you need a paid plan, which is not cheap. I was not happy with that.<p>OpenAI’s transcription API provides low enough latency for this kind of voice input, and it can be used at a very low cost compared with many existing voice-input applications.<p>So I thought: why not make something for myself first?<p>And I did. That became KoIME.<p>KoIME is BYOK, and I operate no backend server. More importantly, it was just the right size of project for learning and experimenting with the IME internals of an Android application.<p>The STT engine is separated behind a small interface, so I hope people will fork the project and experiment with it themselves. For example, you could insert an LLM layer that rewrites the transcription for a particular domain. That kind of modification is exactly what I would like people to try.<p>The name KoIME also contains a small Japanese joke.<p>The Japanese word for “voice” is koe, written 声. A voice IME can therefore be described as a “Koe IME,” which I shortened to KoIME.<p>But KoIME also sounds like the Japanese word 濃いめ, meaning something like “a little stronger” or “richer.”<p>The design philosophy has become rather concentrated too, so I think the name fits. :)"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Show HN: KoIME – A BYOK voice-input keyboard for Android"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://github.com/sakai-sktech/koime"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_gysakai",
+    "story_49042134"
+  ],
+  "author": "gysakai",
+  "comment_text": "Hi HN,<p>Why did I make this?<p>I had been using Typeless for voice input on Android. But it did not even have simple buttons for moving the cursor left and right. And if you want to use it a lot, you need a paid plan, which is not cheap. I was not happy with that.<p>OpenAI’s transcription API provides low enough latency for this kind of voice input, and it can be used at a very low cost compared with many existing voice-input applications.<p>So I thought: why not make something for myself first?<p>And I did. That became KoIME.<p>KoIME is BYOK, and I operate no backend server. More importantly, it was just the right size of project for learning and experimenting with the IME internals of an Android application.<p>The STT engine is separated behind a small interface, so I hope people will fork the project and experiment with it themselves. For example, you could insert an LLM layer that rewrites the transcription for a particular domain. That kind of modification is exactly what I would like people to try.<p>The name KoIME also contains a small Japanese joke.<p>The Japanese word for “voice” is koe, written 声. A voice IME can therefore be described as a “Koe IME,” which I shortened to KoIME.<p>But KoIME also sounds like the Japanese word 濃いめ, meaning something like “a little stronger” or “richer.”<p>The design philosophy has become rather concentrated too, so I think the name fits. :)",
+  "created_at": "2026-07-24T22:01:11Z",
+  "created_at_i": 1784930471,
+  "objectID": "49042143",
+  "parent_id": 49042134,
+  "story_id": 49042134,
+  "story_title": "Show HN: KoIME – A BYOK voice-input keyboard for Android",
+  "story_url": "https://github.com/sakai-sktech/koime",
+  "updated_at": "2026-07-24T22:05:09Z"
+}

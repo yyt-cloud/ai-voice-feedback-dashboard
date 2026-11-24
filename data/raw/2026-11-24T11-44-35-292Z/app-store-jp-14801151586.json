@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1728630614"
+    },
+    "name": {
+      "label": "愛梨ちいかわ"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-17T03:38:23-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.6"
+  },
+  "id": {
+    "label": "14801151586"
+  },
+  "title": {
+    "label": "ありがとうございます"
+  },
+  "content": {
+    "label": "色んなキーボードがあってすごいなと思いました。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

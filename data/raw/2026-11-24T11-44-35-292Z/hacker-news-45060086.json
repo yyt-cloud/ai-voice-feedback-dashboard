@@ -1,0 +1,42 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "WD-42"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "I feel so similar. I love python, I’ve spent most of my career writing it. It’s done well for me. \nBut damn is it just not fun anymore. Runtime errors are not fun anymore. Runtimes are not fun.  Virtualenvs are not fun anymore even though uv is trying. Typeless loosy goosy code that passes dictionaries all over the place is just not fun. \nRust ruined it for me. Or maybe I’m just bored."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Python: The Documentary [video]"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://www.youtube.com/watch?v=GfH4QL4VqJ0"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_WD-42",
+    "story_45058171"
+  ],
+  "author": "WD-42",
+  "children": [
+    45060629
+  ],
+  "comment_text": "I feel so similar. I love python, I’ve spent most of my career writing it. It’s done well for me. \nBut damn is it just not fun anymore. Runtime errors are not fun anymore. Runtimes are not fun.  Virtualenvs are not fun anymore even though uv is trying. Typeless loosy goosy code that passes dictionaries all over the place is just not fun. \nRust ruined it for me. Or maybe I’m just bored.",
+  "created_at": "2025-08-29T04:11:24Z",
+  "created_at_i": 1756440684,
+  "objectID": "45060086",
+  "parent_id": 45059052,
+  "story_id": 45058171,
+  "story_title": "Python: The Documentary [video]",
+  "story_url": "https://www.youtube.com/watch?v=GfH4QL4VqJ0",
+  "updated_at": "2026-03-05T22:33:46Z"
+}

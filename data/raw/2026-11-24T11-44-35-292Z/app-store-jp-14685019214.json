@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1976717010"
+    },
+    "name": {
+      "label": "ニジマス市長"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-19T03:58:43-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14685019214"
+  },
+  "title": {
+    "label": "まじ最高"
+  },
+  "content": {
+    "label": "キーボードを作るとき広告ウザイけどちゃんとできるしまじ最高よ、これ入れる前「なんか怪しい」て言ってたけど入れたら入れたですごい👏👏褒めれるくらい、みんなも入れてみて、ロブロックスやってる人はオススメしない、なんでかというとめっちゃバグったりやりずらくなるからです。長くなったけどみんないれてみて～",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

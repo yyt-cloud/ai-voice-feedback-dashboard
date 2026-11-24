@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1850486498"
+    },
+    "name": {
+      "label": "深海魚おじさんのキーボードの人"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-24T00:53:10-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14704450896"
+  },
+  "title": {
+    "label": "めちゃ可愛くて良き"
+  },
+  "content": {
+    "label": "Simejiでテンション上がるしバカ最高！\n全人類に使って欲しいわw",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

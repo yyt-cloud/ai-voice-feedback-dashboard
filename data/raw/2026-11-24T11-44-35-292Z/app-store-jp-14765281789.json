@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1376380676"
+    },
+    "name": {
+      "label": "鉄塔の落とし子"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-08T03:18:17-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14765281789"
+  },
+  "title": {
+    "label": "楽しいけど！"
+  },
+  "content": {
+    "label": "楽しんで使ってるんですが、Simeji部の自分の投稿にきたコメントが閲覧できないバグ？不具合？が起きています、泣\nアップデートはしてます…\nどうすれば直るんですかね、",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

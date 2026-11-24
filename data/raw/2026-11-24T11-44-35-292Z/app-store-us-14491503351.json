@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id142079253"
+    },
+    "name": {
+      "label": "North_906"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-08-30T14:44:19-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "2.5.0"
+  },
+  "id": {
+    "label": "14491503351"
+  },
+  "title": {
+    "label": "Quality is degrading"
+  },
+  "content": {
+    "label": "This used to be one of my favorite apps, and I would recommend it to everyone. However, the last couple of updates has caused a measurable drop-off in its quality. It has become overly aggressive at trying to polish your words, often completely changing the intent by needlessly rewriting entire sentences or annoyingly trying to convert everything to bullet points and numbered lists. Additionally its censorship is equally increasing in its aggressiveness. This is no longer an app that I can recommend.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

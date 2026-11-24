@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1899982614"
+    },
+    "name": {
+      "label": "Yang, Y-A-N-G."
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-03-12T08:28:19-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.1.2"
+  },
+  "id": {
+    "label": "13840579667"
+  },
+  "title": {
+    "label": "A magical app"
+  },
+  "content": {
+    "label": "This is arguably the most amazing app I have come across recently. It has significantly improved my typing efficiency, giving me a much clearer flow of thought and a stronger desire to communicate exactly what is on my mind.\n\nIn the past, I never had the motivation to write this much. Now, I can handle it effortlessly through this tool.\n\nWhat's even more impressive is that I am actually speaking in Chinese right now, yet it has already automatically translated my speech into English. The translation is both fluent and accurate. I really love this app!",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

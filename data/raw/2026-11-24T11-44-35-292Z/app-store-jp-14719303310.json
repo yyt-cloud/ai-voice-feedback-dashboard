@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id416654750"
+    },
+    "name": {
+      "label": "lego monoxxx"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-27T14:44:35-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14719303310"
+  },
+  "title": {
+    "label": "おもろ可愛い！"
+  },
+  "content": {
+    "label": "䨻龘䲜靐䨺齉䖇䴒䶫齾䯂䰱䴑爩鱻麤龗䨊灪籲龖䚖䡿䴐灩䂅䆐䉹䖅䖆䶑とかおもろ可愛いでしょ♥๑´ ³`)ﾉ♥βyё",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "masklinn"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "&gt; &quot;we want these elaborate type systems, but we also want typeless because that is far more convenient to use, so we invented generics, a method to untype your type system&quot;<p>It's rather the exact opposite. Parametric types are a way to properly type &quot;deeply&quot; instead of just the topmost layer. Just like inference, type parameters don't <i>remove</i> types.<p>&gt; isn't that just python, strongly typed but your functions don't have built in type checks.<p>That doesn't really make any sense? Static types mean you don't have runtime type checks, since the types are known statically."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "PHP compile time generics: yay or nay?"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://thephp.foundation/blog/2025/08/05/compile-generics/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_masklinn",
+    "story_44823272"
+  ],
+  "author": "masklinn",
+  "children": [
+    44861936
+  ],
+  "comment_text": "&gt; &quot;we want these elaborate type systems, but we also want typeless because that is far more convenient to use, so we invented generics, a method to untype your type system&quot;<p>It&#x27;s rather the exact opposite. Parametric types are a way to properly type &quot;deeply&quot; instead of just the topmost layer. Just like inference, type parameters don&#x27;t <i>remove</i> types.<p>&gt; isn&#x27;t that just python, strongly typed but your functions don&#x27;t have built in type checks.<p>That doesn&#x27;t really make any sense? Static types mean you don&#x27;t have runtime type checks, since the types are known statically.",
+  "created_at": "2025-08-11T06:32:59Z",
+  "created_at_i": 1754893979,
+  "objectID": "44861290",
+  "parent_id": 44860733,
+  "story_id": 44823272,
+  "story_title": "PHP compile time generics: yay or nay?",
+  "story_url": "https://thephp.foundation/blog/2025/08/05/compile-generics/",
+  "updated_at": "2026-03-05T22:32:48Z"
+}

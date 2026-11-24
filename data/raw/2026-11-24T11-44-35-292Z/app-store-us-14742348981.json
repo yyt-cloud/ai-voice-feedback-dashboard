@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id464343273"
+    },
+    "name": {
+      "label": "DS.Senior"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-02T08:25:40-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14742348981"
+  },
+  "title": {
+    "label": "2 Days of Using This & I’m Already Sold!!!"
+  },
+  "content": {
+    "label": "It’s surprising how good this works!!! I’ve been using the ever living snot out of this app since finding it a couple days ago!  It’s rare to find an app that actually works as well as the sales pitch infers!!  1-hundo-% worth the subscription, and I’m not even 2 days into the free trial lol.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

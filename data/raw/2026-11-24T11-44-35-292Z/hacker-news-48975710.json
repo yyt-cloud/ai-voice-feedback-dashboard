@@ -1,0 +1,42 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "qubex"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "typeless"
+      ],
+      "value": "One immediate advantage that rescheduling-capable cores have that rigid compiler-based ones don’t nor ever would is that reschedules can notice patterns in execution in the current context and keep the ALU fed from well-provisioned caches even going as far as speculative execution. IA-64 and <em>typeless</em> or typed-at-runtime (JIT scripts, for example, like JavaScript or Python) would’ve been implemented very differently on Itanium."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "A new Intel Itanium (IA-64) emulator that boots Windows"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_qubex",
+    "story_48971566"
+  ],
+  "author": "qubex",
+  "comment_text": "One immediate advantage that rescheduling-capable cores have that rigid compiler-based ones don’t nor ever would is that reschedules can notice patterns in execution in the current context and keep the ALU fed from well-provisioned caches even going as far as speculative execution. IA-64 and typeless or typed-at-runtime (JIT scripts, for example, like JavaScript or Python) would’ve been implemented very differently on Itanium.",
+  "created_at": "2026-07-20T08:18:17Z",
+  "created_at_i": 1784535497,
+  "objectID": "48975710",
+  "parent_id": 48973801,
+  "story_id": 48971566,
+  "story_title": "A new Intel Itanium (IA-64) emulator that boots Windows",
+  "story_url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
+  "updated_at": "2026-07-20T08:21:52Z"
+}

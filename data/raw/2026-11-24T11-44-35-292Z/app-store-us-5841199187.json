@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id723814360"
+    },
+    "name": {
+      "label": "erirose8"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2020-04-20T18:23:41-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "8.7"
+  },
+  "id": {
+    "label": "5841199187"
+  },
+  "title": {
+    "label": "英語"
+  },
+  "content": {
+    "label": "ずっとAndroidで使って、いいと思いますが、iPhoneに変わって、英語の設定がなさそうです．．．よかったら設定に英語の言語を追加しますか？",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

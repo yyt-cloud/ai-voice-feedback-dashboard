@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1374315818"
+    },
+    "name": {
+      "label": "James.W-1"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-07-01T17:27:12-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "1.11.0"
+  },
+  "id": {
+    "label": "14251585353"
+  },
+  "title": {
+    "label": "battery drops too fast"
+  },
+  "content": {
+    "label": "Optimize the battery usage when i set 12hours liveactivity. You could use mic only when i start dictation",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

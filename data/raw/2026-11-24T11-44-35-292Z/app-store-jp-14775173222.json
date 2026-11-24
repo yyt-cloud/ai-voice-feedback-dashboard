@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1974980266"
+    },
+    "name": {
+      "label": "むむさたろたわや"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-10T14:41:19-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14775173222"
+  },
+  "title": {
+    "label": "音声入力いらない"
+  },
+  "content": {
+    "label": "オフにさせてくれ誤操作で反応してアプリ開かれるのが不快すぎる",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

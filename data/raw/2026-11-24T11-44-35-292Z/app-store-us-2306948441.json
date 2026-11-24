@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id492369196"
+    },
+    "name": {
+      "label": "Artistplays"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2018-03-14T19:07:43-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "6.4"
+  },
+  "id": {
+    "label": "2306948441"
+  },
+  "title": {
+    "label": "Nearly Ripped My Hair Out"
+  },
+  "content": {
+    "label": "The app looks like so much fun, seeing the cute animated critters and emojis really makes it seem cool, but I cannot understand a lick of it. In the description of this app, it says there is an English option but how does one obtain that? How does one actually GET the app in English? Seriously, I have been searching for 2 hours now and haven’t found an answer. Is it cause I am on IOS? Or am I doing something wrong? Please, put a thing at the beginning to change the language settings in the app. Thank you.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "2"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "4"
+  }
+}

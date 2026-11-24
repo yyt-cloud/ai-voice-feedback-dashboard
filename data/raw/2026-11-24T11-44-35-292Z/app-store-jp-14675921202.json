@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1840215751"
+    },
+    "name": {
+      "label": "@あどしぷ"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-16T20:32:23-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14675921202"
+  },
+  "title": {
+    "label": "最高なSimejiキーボード！"
+  },
+  "content": {
+    "label": "可愛らしいキーボードやかっこいいキーボード、オリジナルキーボードが作れる素敵なアプリです！\nですが、Simejiは中国アプリであり、個人情報漏れの可能性があると噂されているので不安です😥",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

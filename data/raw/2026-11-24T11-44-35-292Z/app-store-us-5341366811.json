@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id699510813"
+    },
+    "name": {
+      "label": "Y0iy0"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2019-12-30T21:07:48-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "8.3.1"
+  },
+  "id": {
+    "label": "5341366811"
+  },
+  "title": {
+    "label": "Its great"
+  },
+  "content": {
+    "label": "I really love it but what happened to being able to play games inside the keyboard?",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

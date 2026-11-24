@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id477578856"
+    },
+    "name": {
+      "label": "yojfrco"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-12T12:42:34-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14782795891"
+  },
+  "title": {
+    "label": "出てきて欲しい予測変換より意味分からん顔文字が優先される"
+  },
+  "content": {
+    "label": "タイトルの通りです。本当に邪魔。今って打ったら時間出てくれるから愛用してたのに、予測変換の行全部埋め尽くすようなもうウザい顔文字だらけで、今の時間を一発変換したくてもまぁ邪魔で邪魔で仕方なくなり全然使ってない。何これ。クソかよ",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

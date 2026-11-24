@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1901684627"
+    },
+    "name": {
+      "label": "Phoenix young888"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-03-17T06:09:36-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.1.2"
+  },
+  "id": {
+    "label": "13857576556"
+  },
+  "title": {
+    "label": "非常好，自动化的功能"
+  },
+  "content": {
+    "label": "主要是两点：\n\n1. 它可以自动迭代。也就是说你错了，手工调整过来之后，它会自动加到词库里面\n2. 它好像更熟悉你的风格",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

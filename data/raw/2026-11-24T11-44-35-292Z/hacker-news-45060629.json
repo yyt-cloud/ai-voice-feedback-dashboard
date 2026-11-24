@@ -1,0 +1,42 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "morningsam"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "&gt;Typeless loosy goosy code that passes dictionaries all over the place is just not fun.<p>mypy --strict in CI &amp; don't let dict[str, Any] pass review if the keys are constants, insist on a dataclass or at least a TypedDict."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Python: The Documentary [video]"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://www.youtube.com/watch?v=GfH4QL4VqJ0"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_morningsam",
+    "story_45058171"
+  ],
+  "author": "morningsam",
+  "children": [
+    45062053
+  ],
+  "comment_text": "&gt;Typeless loosy goosy code that passes dictionaries all over the place is just not fun.<p>mypy --strict in CI &amp; don&#x27;t let dict[str, Any] pass review if the keys are constants, insist on a dataclass or at least a TypedDict.",
+  "created_at": "2025-08-29T05:42:39Z",
+  "created_at_i": 1756446159,
+  "objectID": "45060629",
+  "parent_id": 45060086,
+  "story_id": 45058171,
+  "story_title": "Python: The Documentary [video]",
+  "story_url": "https://www.youtube.com/watch?v=GfH4QL4VqJ0",
+  "updated_at": "2026-03-05T22:33:46Z"
+}

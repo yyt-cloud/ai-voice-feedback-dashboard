@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1846270938"
+    },
+    "name": {
+      "label": "ニックネーム使われすぎで涙"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-15T00:38:18-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14668548066"
+  },
+  "title": {
+    "label": "使いやすい"
+  },
+  "content": {
+    "label": "フォントも変えれて凄い使いやすいが、iPadとスマホのキーボード編集の差画凄すぎるなと思いました。\n\nえっとぉ……予測変換のところもフォントを変えられるようにして欲しいです",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

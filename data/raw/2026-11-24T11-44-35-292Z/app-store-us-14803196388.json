@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1354342234"
+    },
+    "name": {
+      "label": "DJ EXTRODINARE"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-17T18:27:07-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.0.2"
+  },
+  "id": {
+    "label": "14803196388"
+  },
+  "title": {
+    "label": "⭐⭐⭐⭐⭐ Great App, Just One Small Downside!"
+  },
+  "content": {
+    "label": "I’m really enjoying using Wispr Flow so far! I’m currently using the free version, and I have to say, it works really well.\n\nMy only complaint is that you have to remember to open or activate the app BEFORE you start speaking your message. Sometimes you just want to start talking without having to think about that extra step.\n\nOther than that, it’s a great app! I’m happy with the free version so far, and I definitely recommend giving it a try!",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

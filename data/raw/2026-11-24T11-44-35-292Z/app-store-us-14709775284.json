@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id16132406"
+    },
+    "name": {
+      "label": "G.D."
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-25T07:22:20-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14709775284"
+  },
+  "title": {
+    "label": "Simple and sophisticated."
+  },
+  "content": {
+    "label": "This app was easy to install on my MacBook and on my iPhone. It's easy to understand with the many tutorials that help me get started. I'm looking forward to having this app make my mental notes organized and things efficient in my life, instead of having to pull out my MacBook or open up an app on my phone and type the little things I want to remember that come to me throughout the day.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

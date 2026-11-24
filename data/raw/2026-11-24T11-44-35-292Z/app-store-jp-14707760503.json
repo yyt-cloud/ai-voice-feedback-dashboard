@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1680065834"
+    },
+    "name": {
+      "label": "この世界にハーゲンダッツを"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-24T19:00:48-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14707760503"
+  },
+  "title": {
+    "label": "たまに、ね"
+  },
+  "content": {
+    "label": "たまにLINEとかで反映されないことあるけど、それ以外はまぁ良き！あと広告とかで見るエモいやつは探してもない。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

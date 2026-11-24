@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1760955165"
+    },
+    "name": {
+      "label": "ホホホホホ☆"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-22T00:24:43-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "17.6"
+  },
+  "id": {
+    "label": "14819756888"
+  },
+  "title": {
+    "label": "もうちょっと......."
+  },
+  "content": {
+    "label": "読みにくい所がありますごめんなさい                              キーボードなどがとても可愛いです！顔文字なども沢山あって👍テンション上がります笑笑でも、ふたつ改善して欲しいところがあります\n1つ目は、たまに基本のキーボードになっていることがあります\n毎回直すのが正直面倒なのでそこを改善して欲しいです\n2つ目は音声入力なんですけど昔は良かったのに最近は正直あまりよくないんですよ.......文字修正もされないし、全然違う言葉になったりしてまして.......それとさっきのを改善して欲しいです\nそれ以外はめっちゃいいです！",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1598708552"
+    },
+    "name": {
+      "label": "iskerwin"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-05-26T19:11:13-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "1.6.0"
+  },
+  "id": {
+    "label": "14110273845"
+  },
+  "title": {
+    "label": "Avoid This App – Completely Useless Input Method"
+  },
+  "content": {
+    "label": "This is a terrible app. The keyboard (input method) forces you to log in just to use it, but no matter which method I tried — Google, Email, or Apple ID — none of them worked. The network service is horribly unreliable, and the app is filled with tons of suspicious ad request links in the background.\nI really don’t understand what the developers were thinking. A basic keyboard shouldn’t be this frustrating and intrusive. Total garbage. Do not download.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

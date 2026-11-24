@@ -1,0 +1,29 @@
+{
+  "id": "d11ed9f3-fc4f-40a0-86f7-88bbcab966b2",
+  "userName": "Bazelais fils Masse",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLFxB67I8B6-n44AMOg-MDwgnVKJE11W366hSjwJCejbalmIg=mo",
+  "date": "2026-07-27T22:38:13.241Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.creativeapp.voiceinput&reviewId=d11ed9f3-fc4f-40a0-86f7-88bbcab966b2",
+  "title": null,
+  "text": "one star do not get it doesn't even work with French talk about Haitian Creole am pretty sure it only works with English.",
+  "replyDate": "2026-07-28T09:56:56.560Z",
+  "replyText": "Hi! Voiskey supports French & Haitian Creole (100+ languages) — just pin your language at the top under Input Language in settings. French has a keyboard, Haitian Creole doesn't yet. Still stuck? Email official@voiskey.ai for a reward.",
+  "version": "1.1.1",
+  "thumbsUp": 10,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_visual_appeal",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_usability",
+      "rating": 2
+    }
+  ]
+}

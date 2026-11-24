@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1957958844"
+    },
+    "name": {
+      "label": "Belle_enha7"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-13T04:21:44-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.0.0"
+  },
+  "id": {
+    "label": "14785137538"
+  },
+  "title": {
+    "label": "AMAZING APP"
+  },
+  "content": {
+    "label": "OMG I LOVE THIS APP SO MUCH. I thought this was gonna be oh you need to pay for this type of app and NO it’s really amazing and most of the things are free and in my opinion the pro isn’t rlly affordable but, you still get the whole experience with the free version!🤍🤍🤍🤍",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

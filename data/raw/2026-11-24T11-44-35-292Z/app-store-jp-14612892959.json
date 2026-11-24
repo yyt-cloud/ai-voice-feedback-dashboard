@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1863287185"
+    },
+    "name": {
+      "label": "ktt-mom"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-09-30T17:14:36-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14612892959"
+  },
+  "title": {
+    "label": "キーボードが勝手に変わっちゃう"
+  },
+  "content": {
+    "label": "キーボードはSimejiに設定してるのに、いざキーボードを使おうと思ったら、Simejiが消えてる(･･;)\nまた、設定しないといけないのが、面倒🥲\n\nあれはなんとかならないのでしょうか？\n\nあと、サイトによっては、Simejiが使えないようですね？\nそれは相手側の都合だから、このままでしょうか？",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

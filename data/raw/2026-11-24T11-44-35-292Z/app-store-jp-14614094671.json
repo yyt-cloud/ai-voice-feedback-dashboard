@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1916747356"
+    },
+    "name": {
+      "label": "ワイン厨"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-01T01:30:21-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14614094671"
+  },
+  "title": {
+    "label": "可愛いけど,,,"
+  },
+  "content": {
+    "label": "情報か漏れていたり伝えられてるって聞いて怖いです……",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

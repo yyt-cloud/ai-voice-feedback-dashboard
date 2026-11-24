@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1973109052"
+    },
+    "name": {
+      "label": "‎꒰ˆ•ﻌ•ˆ꒱"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-15T05:35:57-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14669348300"
+  },
+  "title": {
+    "label": "使った方がいい!!!"
+  },
+  "content": {
+    "label": "かわいいものがいっぱいだし、自分だけのものも作れておすすめします！",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

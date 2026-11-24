@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1944358454"
+    },
+    "name": {
+      "label": "George M. Jensen"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-07-12T23:46:34-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.1"
+  },
+  "id": {
+    "label": "14296996910"
+  },
+  "title": {
+    "label": "nice productivity tool"
+  },
+  "content": {
+    "label": "is a useful tool for everyday writing. I use it to draft notes, messages, and ideas. It helps me organize my thoughts faster than typing on a keyboard.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6766791501&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

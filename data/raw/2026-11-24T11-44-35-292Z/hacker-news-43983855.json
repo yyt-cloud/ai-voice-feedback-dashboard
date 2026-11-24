@@ -1,0 +1,42 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "yason"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "&gt; And types: he claims that 'typeless' languages allow for faster\n&gt; development because of fewer restrictions. This is, ofc, nonsense.\n&gt; The amount of restrictions you have is a function of your problem,\n&gt; not your language.<p>Unless you're implementing something that's already known, you're effectively carving out your problem when you're in the process of writing code. There are more unknowns than there are knowns. A strongly typed language forces you to focus on satisfying the types before you can do anything, at a point where you don't exactly yet know what you want to do. The right time to cast your data rigidly into types is gradually when your data structures settle in their own place one by one; in other words when you're pretty sure things won't change too easily anymore. This allows writing code that works first and then, depending on your needs, gets next correct and then fast, or next fast and then correct. You use the weakly typed or &quot;typeless&quot; style as a prototyping tool that generates snippets of solid code that you can then typefy and write down for good."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Writing that changed how I think about programming languages"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://bernsteinbear.com/blog/pl-writing/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_yason",
+    "story_43980760"
+  ],
+  "author": "yason",
+  "children": [
+    43991124
+  ],
+  "comment_text": "&gt; And types: he claims that &#x27;typeless&#x27; languages allow for faster\n&gt; development because of fewer restrictions. This is, ofc, nonsense.\n&gt; The amount of restrictions you have is a function of your problem,\n&gt; not your language.<p>Unless you&#x27;re implementing something that&#x27;s already known, you&#x27;re effectively carving out your problem when you&#x27;re in the process of writing code. There are more unknowns than there are knowns. A strongly typed language forces you to focus on satisfying the types before you can do anything, at a point where you don&#x27;t exactly yet know what you want to do. The right time to cast your data rigidly into types is gradually when your data structures settle in their own place one by one; in other words when you&#x27;re pretty sure things won&#x27;t change too easily anymore. This allows writing code that works first and then, depending on your needs, gets next correct and then fast, or next fast and then correct. You use the weakly typed or &quot;typeless&quot; style as a prototyping tool that generates snippets of solid code that you can then typefy and write down for good.",
+  "created_at": "2025-05-14T12:44:46Z",
+  "created_at_i": 1747226686,
+  "objectID": "43983855",
+  "parent_id": 43983431,
+  "story_id": 43980760,
+  "story_title": "Writing that changed how I think about programming languages",
+  "story_url": "https://bernsteinbear.com/blog/pl-writing/",
+  "updated_at": "2025-05-15T01:58:14Z"
+}

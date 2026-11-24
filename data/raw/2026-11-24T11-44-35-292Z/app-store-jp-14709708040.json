@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1973668825"
+    },
+    "name": {
+      "label": "マグロぉぉぉぁぉ！、"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-25T07:04:23-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14709708040"
+  },
+  "title": {
+    "label": "ひどい"
+  },
+  "content": {
+    "label": "音声機能が敬語にできないし文字もめっちゃミスる",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

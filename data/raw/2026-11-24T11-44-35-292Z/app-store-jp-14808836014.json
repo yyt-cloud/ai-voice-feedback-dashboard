@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id875566335"
+    },
+    "name": {
+      "label": "ぴぉ𐄑𐅁̂ ⩊፟ ̂𐅀𐄑"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-19T06:19:58-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "17.6"
+  },
+  "id": {
+    "label": "14808836014"
+  },
+  "title": {
+    "label": "愛用していますが…"
+  },
+  "content": {
+    "label": "愛用しています。概ね満足しているんですが、キーボードの再編集が出来るようになると嬉しいなと思います。1度作った後にちょっと直したい部分があるときに最初から作らなきゃいけないのが地味にストレス…💦",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

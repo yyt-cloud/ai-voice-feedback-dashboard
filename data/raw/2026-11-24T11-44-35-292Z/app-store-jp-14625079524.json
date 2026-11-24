@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id598456468"
+    },
+    "name": {
+      "label": "remone-do"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-03T19:32:32-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14625079524"
+  },
+  "title": {
+    "label": "普段使いしてるからこそ残念でならない"
+  },
+  "content": {
+    "label": "今まで特に使いにくくもなくストレスフリーで気に入ってたから使ってたのにも関わらず、気が付けばカーソル移動と音声入力の位置が入れ替わっており誤タップが増え有り得ないほどストレスが溜まる。\n予測ではあるけど押しやすい位置に移動してくれたから良かれとの思案だとは思うけど慣れ親しんだ場所に指を運んでしまうから課金要素にしてしまうんではなくここのUI自体は月1回カスタマイズ自由であって欲しかった。\n「使いにくいよね?じゃあカスタマイズしたいなら課金しなよ^^」って強制させてくる様にしか感じられなくなるのが更に不快感増してくるのが嫌だった\nガチで使い勝手は他のアプリより随一だし改善を今も考案して下さってるとは思うので暫くは使いたいけど悪化する、もしくはこのままの位置で固定するなら他アプリに移動しようと思う。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

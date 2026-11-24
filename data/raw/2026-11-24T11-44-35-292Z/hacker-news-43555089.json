@@ -1,0 +1,39 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "voodooEntity"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "So i get your point with date/time - while i may be an oldie with still preferring just having an integer seconds - but thats subjective to me.<p>Tho the quote for string argument i can't fully agree on. While sure in for example a json i would have to quote the values if i want them &quot;typeless as string&quot; - tho json is far supported everywhere and i'm able to interpret the parsed string values in whatever way i want to.<p>Adding a new dependency (confetti parsing) to spare out quotes doesn't seem to be worth the convenience to me.<p>Tho - both probably very subjective things to me."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Show HN: I made Confetti: a configuration language file format"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://confetti.hgs3.me/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_voodooEntity",
+    "story_43534240"
+  ],
+  "author": "voodooEntity",
+  "comment_text": "So i get your point with date&#x2F;time - while i may be an oldie with still preferring just having an integer seconds - but thats subjective to me.<p>Tho the quote for string argument i can&#x27;t fully agree on. While sure in for example a json i would have to quote the values if i want them &quot;typeless as string&quot; - tho json is far supported everywhere and i&#x27;m able to interpret the parsed string values in whatever way i want to.<p>Adding a new dependency (confetti parsing) to spare out quotes doesn&#x27;t seem to be worth the convenience to me.<p>Tho - both probably very subjective things to me.",
+  "created_at": "2025-04-02T09:49:36Z",
+  "created_at_i": 1743587376,
+  "objectID": "43555089",
+  "parent_id": 43554943,
+  "story_id": 43534240,
+  "story_title": "Show HN: I made Confetti: a configuration language file format",
+  "story_url": "https://confetti.hgs3.me/",
+  "updated_at": "2025-04-02T12:09:39Z"
+}

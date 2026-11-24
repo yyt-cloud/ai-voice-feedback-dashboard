@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1429517048"
+    },
+    "name": {
+      "label": "jhgscbkoff"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2025-04-08T13:50:15-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "15.2.1"
+  },
+  "id": {
+    "label": "12519973792"
+  },
+  "title": {
+    "label": "5 stars but it’s a little annoying"
+  },
+  "content": {
+    "label": "I can’t do anything properly because it’s all in Japanese",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

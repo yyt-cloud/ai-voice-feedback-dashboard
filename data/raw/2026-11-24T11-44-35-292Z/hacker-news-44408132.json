@@ -1,0 +1,43 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "AlienRobot"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "No, we rename Javascript to Typelessscript."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "JavaScript Trademark Update"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://deno.com/blog/deno-v-oracle4"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_AlienRobot",
+    "story_44407139"
+  ],
+  "author": "AlienRobot",
+  "children": [
+    44408329,
+    44408230
+  ],
+  "comment_text": "No, we rename Javascript to Typelessscript.",
+  "created_at": "2025-06-28T20:56:45Z",
+  "created_at_i": 1751144205,
+  "objectID": "44408132",
+  "parent_id": 44407668,
+  "story_id": 44407139,
+  "story_title": "JavaScript Trademark Update",
+  "story_url": "https://deno.com/blog/deno-v-oracle4",
+  "updated_at": "2025-06-29T18:48:42Z"
+}

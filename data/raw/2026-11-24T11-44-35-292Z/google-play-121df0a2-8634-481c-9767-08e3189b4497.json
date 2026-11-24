@@ -1,0 +1,29 @@
+{
+  "id": "121df0a2-8634-481c-9767-08e3189b4497",
+  "userName": "YAM",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocI-fTrrE4DLpuB3FMwfOGr6o0ulFsKzUewf_GVMScvHjCZqHA=mo",
+  "date": "2026-07-10T22:41:07.951Z",
+  "score": 3,
+  "scoreText": "3",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=121df0a2-8634-481c-9767-08e3189b4497",
+  "title": null,
+  "text": "use it often. Has some bugs. Tap the mic button, say nothing then stop the mic, typeless fills in random text from languages you dont speak. Wish the keyboard wasn't a second-class afterthought bolted on. But... grateful they listened to criticism to finnaly and added one.",
+  "replyDate": null,
+  "replyText": null,
+  "version": null,
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_phase1_collaborative_editing",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 1
+    }
+  ]
+}

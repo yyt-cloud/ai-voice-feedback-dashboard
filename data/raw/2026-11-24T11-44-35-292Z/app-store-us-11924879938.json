@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1567591920"
+    },
+    "name": {
+      "label": "Baby baby baby girllll"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2024-11-07T19:05:06-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "14.6.1"
+  },
+  "id": {
+    "label": "11924879938"
+  },
+  "title": {
+    "label": "If you speak Japanisch then download it"
+  },
+  "content": {
+    "label": "I don’t speak Japanisch so🥲 can’t use the app😢",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id168445903"
+    },
+    "name": {
+      "label": "shimeji love"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2018-07-25T05:23:05-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "6.7"
+  },
+  "id": {
+    "label": "2966894541"
+  },
+  "title": {
+    "label": "英単語"
+  },
+  "content": {
+    "label": "SHIMEJIは、大好きで…だけど英語の文字もあってほしいな",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

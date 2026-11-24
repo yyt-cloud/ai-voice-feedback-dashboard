@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id380235234"
+    },
+    "name": {
+      "label": "つぐつぐたんたん"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-08T15:53:18-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14643705362"
+  },
+  "title": {
+    "label": "最近使えないと気付く"
+  },
+  "content": {
+    "label": "以前なら★4~5だったけど、今はiPhoneとSimejiのユーザー辞書連携ONだけど連携されてないから★下がった。\n前からおかしいなと思ってたけど、やはり連携されてないわ。\niPhone12だと連携されているのに、iPhone16だと連携されていないので使いにくい。\n共に設定は同じなんだけどな…",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

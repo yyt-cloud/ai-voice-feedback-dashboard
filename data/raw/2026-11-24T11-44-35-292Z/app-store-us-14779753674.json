@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1627461542"
+    },
+    "name": {
+      "label": "Wednesday time"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-11T18:12:04-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.0.0"
+  },
+  "id": {
+    "label": "14779753674"
+  },
+  "title": {
+    "label": "It's a really good app. I'm actually using it right now to write this."
+  },
+  "content": {
+    "label": "The app is really quick, and every time I pause for something, it doesn't just turn off. It waits for me to finish, and when it's done, I try to speak clearly, and it listens. It's really good if you often are too busy to text or if you just prefer voice messages but the other person can't hear them. It'd be really cool!",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

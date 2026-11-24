@@ -1,0 +1,43 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "bonkler59"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "aqua",
+        "voice"
+      ],
+      "value": "My experience is that <em>Aqua</em> <em>voice</em> does a good job of this with custom dictionary and replacements."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://github.com/matthartman/ghost-pepper"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_bonkler59",
+    "story_47666024"
+  ],
+  "author": "bonkler59",
+  "comment_text": "My experience is that Aqua voice does a good job of this with custom dictionary and replacements.",
+  "created_at": "2026-04-06T22:28:35Z",
+  "created_at_i": 1775514515,
+  "objectID": "47668181",
+  "parent_id": 47667271,
+  "story_id": 47666024,
+  "story_title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
+  "story_url": "https://github.com/matthartman/ghost-pepper",
+  "updated_at": "2026-04-06T22:30:22Z"
+}

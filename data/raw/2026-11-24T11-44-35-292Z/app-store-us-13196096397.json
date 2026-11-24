@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id181657421"
+    },
+    "name": {
+      "label": "localhost8"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2025-09-28T06:36:07-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "15.8.5"
+  },
+  "id": {
+    "label": "13196096397"
+  },
+  "title": {
+    "label": "Annoying about access"
+  },
+  "content": {
+    "label": "It keeps asking for full keyboard access, when the base features are available without it. So annoying and dubious",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

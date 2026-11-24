@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id483154044"
+    },
+    "name": {
+      "label": "Trey1999sloth"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-20T04:27:16-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.0.3"
+  },
+  "id": {
+    "label": "14812318648"
+  },
+  "title": {
+    "label": "So far so good"
+  },
+  "content": {
+    "label": "I just downloaded this last night still getting used to it but very easy to use and the dictation is very intuitive (doesn’t misinterpret what I’m saying)",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

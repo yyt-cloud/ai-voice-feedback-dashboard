@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1787606630"
+    },
+    "name": {
+      "label": "ꜱᴀʟᴛ"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-20T23:10:37-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "17.6"
+  },
+  "id": {
+    "label": "14815479238"
+  },
+  "title": {
+    "label": "これは果たしてダレナノーカ"
+  },
+  "content": {
+    "label": "なんか\nAIみたいなのあるんですけど\nそれになんか\n「絵師〇〇_」的な書いてあって\nそれ本当に人が描いてるんですかって感じでなんかもう全部似てて\nこれマジでAIじゃないんですか？",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

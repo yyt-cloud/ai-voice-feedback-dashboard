@@ -1,0 +1,44 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "seabass-labrax"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "aqua",
+        "voice"
+      ],
+      "value": "&gt; People want something flashy: &quot;Up to 7x fewer errors than macOS dictation&quot; is cool, a comparison table is not.<p>Respectfully disagree on this one: as a startup, you can't effectively compete with the likes of Apple on flashiness. However, the very target market of those dictating large amounts of text will include a significant number of people in academia themselves. For those people, <em>Aqua</em> <em>Voice</em> will feel relevant. Those who aren't interested in comparison tables will simply skip over them :)"
+    },
+    "story_title": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "aqua",
+        "voice"
+      ],
+      "value": "Launch HN: <em>Aqua</em> <em>Voice</em> (YC W24) – <em>Voice</em>-driven text editor"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_seabass-labrax",
+    "story_39828686"
+  ],
+  "author": "seabass-labrax",
+  "children": [
+    39836256
+  ],
+  "comment_text": "&gt; People want something flashy: &quot;Up to 7x fewer errors than macOS dictation&quot; is cool, a comparison table is not.<p>Respectfully disagree on this one: as a startup, you can&#x27;t effectively compete with the likes of Apple on flashiness. However, the very target market of those dictating large amounts of text will include a significant number of people in academia themselves. For those people, Aqua Voice will feel relevant. Those who aren&#x27;t interested in comparison tables will simply skip over them :)",
+  "created_at": "2024-03-26T23:17:55Z",
+  "created_at_i": 1711495075,
+  "objectID": "39833948",
+  "parent_id": 39831259,
+  "story_id": 39828686,
+  "story_title": "Launch HN: Aqua Voice (YC W24) – Voice-driven text editor",
+  "updated_at": "2025-07-23T12:59:58Z"
+}

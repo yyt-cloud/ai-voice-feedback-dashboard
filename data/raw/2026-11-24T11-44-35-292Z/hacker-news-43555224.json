@@ -1,0 +1,42 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "gampleman"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "I think you missed the &quot;typeless&quot; idea. That basically means every value is a string and so it's up for the application to parse and validate."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Show HN: I made Confetti: a configuration language file format"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://confetti.hgs3.me/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_gampleman",
+    "story_43534240"
+  ],
+  "author": "gampleman",
+  "children": [
+    43556304
+  ],
+  "comment_text": "I think you missed the &quot;typeless&quot; idea. That basically means every value is a string and so it&#x27;s up for the application to parse and validate.",
+  "created_at": "2025-04-02T10:14:24Z",
+  "created_at_i": 1743588864,
+  "objectID": "43555224",
+  "parent_id": 43555157,
+  "story_id": 43534240,
+  "story_title": "Show HN: I made Confetti: a configuration language file format",
+  "story_url": "https://confetti.hgs3.me/",
+  "updated_at": "2025-04-26T23:41:26Z"
+}

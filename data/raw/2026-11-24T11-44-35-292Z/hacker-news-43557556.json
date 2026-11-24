@@ -1,0 +1,39 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "EdgeExplorer"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Whoa. This is really cool. I've thought a lot about markup / configuration languages. Aside from types (won't get into typed/typeless here) there are basically just a few possible structures: lists, maps, tables (lists of maps with same keys), and trees (xml-like with nested nodes of particular types) are the ones I think about.<p>Most existing formats are really bad for at least one of these. Tables in JSON have tons of repetition. XML doesn't have a clear and obvious way to do maps. Almost anything other than XML is awkward at best for node trees.<p>Confetti seems to cover maps, trees, and non-nested lists really well, which isn't a combination any other format I'm aware of covers as well.<p>Nested lists and tables seem like they would be more awkward, though from what I can tell &quot;-&quot; is a legal argument, so you could do:<p><pre><code>    nestedlist {\n        - { - 1 ; - 2 }\n        - {\n            - { - a ; - b }\n            - { - c ; - d }\n        }\n    }\n</code></pre>\nTo get something like [[1, 2], [[a, b], [c, d]]]. Of course you could also name the items (item { item 1 ; item 2 }), but either way this is certainly more awkward than a nested list in JSON or YAML.<p>I think a table could be done like JSON/HTML with repeated keys, but maybe also like:<p><pre><code>    table name age favorite-color {\n        row Bob 87 red\n        row &quot;Someone else&quot; 106 &quot;bright neon green&quot;\n    }\n</code></pre>\nThis is actually pretty nice.<p>In any event, I love seeing more exploration of configuration languages, so thanks for sharing this!<p>My number 1 request is a parser on the documentation page that shows parse tree and converts to JSON or other formats so you can play with it."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Show HN: I made Confetti: a configuration language file format"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://confetti.hgs3.me/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_EdgeExplorer",
+    "story_43534240"
+  ],
+  "author": "EdgeExplorer",
+  "comment_text": "Whoa. This is really cool. I&#x27;ve thought a lot about markup &#x2F; configuration languages. Aside from types (won&#x27;t get into typed&#x2F;typeless here) there are basically just a few possible structures: lists, maps, tables (lists of maps with same keys), and trees (xml-like with nested nodes of particular types) are the ones I think about.<p>Most existing formats are really bad for at least one of these. Tables in JSON have tons of repetition. XML doesn&#x27;t have a clear and obvious way to do maps. Almost anything other than XML is awkward at best for node trees.<p>Confetti seems to cover maps, trees, and non-nested lists really well, which isn&#x27;t a combination any other format I&#x27;m aware of covers as well.<p>Nested lists and tables seem like they would be more awkward, though from what I can tell &quot;-&quot; is a legal argument, so you could do:<p><pre><code>    nestedlist {\n        - { - 1 ; - 2 }\n        - {\n            - { - a ; - b }\n            - { - c ; - d }\n        }\n    }\n</code></pre>\nTo get something like [[1, 2], [[a, b], [c, d]]]. Of course you could also name the items (item { item 1 ; item 2 }), but either way this is certainly more awkward than a nested list in JSON or YAML.<p>I think a table could be done like JSON&#x2F;HTML with repeated keys, but maybe also like:<p><pre><code>    table name age favorite-color {\n        row Bob 87 red\n        row &quot;Someone else&quot; 106 &quot;bright neon green&quot;\n    }\n</code></pre>\nThis is actually pretty nice.<p>In any event, I love seeing more exploration of configuration languages, so thanks for sharing this!<p>My number 1 request is a parser on the documentation page that shows parse tree and converts to JSON or other formats so you can play with it.",
+  "created_at": "2025-04-02T15:10:17Z",
+  "created_at_i": 1743606617,
+  "objectID": "43557556",
+  "parent_id": 43534240,
+  "story_id": 43534240,
+  "story_title": "Show HN: I made Confetti: a configuration language file format",
+  "story_url": "https://confetti.hgs3.me/",
+  "updated_at": "2025-04-02T16:11:26Z"
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id101127462"
+    },
+    "name": {
+      "label": "実使用レビュー王"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-10T22:19:02-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14652511982"
+  },
+  "title": {
+    "label": "iOSのマイク復活する方法と私が欲しい機欲しい機能について"
+  },
+  "content": {
+    "label": "右下のiOSの文字入力のマイクが消える現象ですが、Simejiの設定の音声入力のところに右下のマイクを消すと言う項目があるので、そこの機能をオフにするとマイクが復活しますよ\n\n\n確定アンドゥ\n\nタップすると震える\n\nアルファベット入力のまま数字も入力できる（aを下にやると2とか。キーボードを切り替える手間が省ける）\n\n左右のカーソルキー\n\n不便なのが入力を始めると予測変換が出てきます。そうするとカーソルがキーボードで移動できなくなります。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

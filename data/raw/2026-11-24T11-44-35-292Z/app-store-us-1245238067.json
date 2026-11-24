@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id428101585"
+    },
+    "name": {
+      "label": "Teito145"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2015-08-18T20:26:16-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "3.0.1"
+  },
+  "id": {
+    "label": "1245238067"
+  },
+  "title": {
+    "label": "Wish it was in English"
+  },
+  "content": {
+    "label": "It's a great app. I like all the features except it's not in English and that's a downside for us non Japanese speakers. It has so many features but yet I can't use some of them because I'm not sure what it's saying. If only it could be changed between Japanese and English.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

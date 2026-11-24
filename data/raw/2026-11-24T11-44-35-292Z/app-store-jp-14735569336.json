@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1854863492"
+    },
+    "name": {
+      "label": "雨依0503"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-31T16:37:09-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14735569336"
+  },
+  "title": {
+    "label": "良き！"
+  },
+  "content": {
+    "label": "私は親から制限かけられてるけど、制限から逃れてるから\n(◜ᴗ◝ )そしてBL見れるのが\nとっっっっても♡",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

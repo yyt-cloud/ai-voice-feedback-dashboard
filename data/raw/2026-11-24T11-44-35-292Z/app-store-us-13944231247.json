@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id34768675"
+    },
+    "name": {
+      "label": "libre_talent"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-04-10T14:40:04-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.0.7"
+  },
+  "id": {
+    "label": "13944231247"
+  },
+  "title": {
+    "label": "Best iOS dictation app as of April 2026."
+  },
+  "content": {
+    "label": "This might be even better than their desktop app, which is really saying something. The ability to edit any dictation immediately after auto-pasting it is a huge advantage over the other modern dictation apps.\n\nThis is definitely going to become my daily driver.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6759074969&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1841827866"
+    },
+    "name": {
+      "label": "ムウマル"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-10T02:17:59-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14649039155"
+  },
+  "title": {
+    "label": "とにかくいい"
+  },
+  "content": {
+    "label": "使いやすいし、\"(∩>ω<∩)\"可愛いと調べるだけで、⬆️これが出る！初心者様におすすめです☆",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

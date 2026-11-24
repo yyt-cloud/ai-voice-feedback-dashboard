@@ -1,0 +1,29 @@
+{
+  "id": "32253a49-8f9f-4535-abc6-793d74416bc3",
+  "userName": "Fiona",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLymgdolC6i3A64YTpKvQraY2x6cqAL-qx_S4jVat5jr32UJnAF=mo",
+  "date": "2026-08-15T14:48:32.227Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=32253a49-8f9f-4535-abc6-793d74416bc3",
+  "title": null,
+  "text": "This keyboard—actually, no, this app—is so accurate, it surprises me. It knows when I make a mistake and it knows how to format without being told. For example: 1. It doesn't lose track with long texts. 2. It stays on when I pause too long 3. It even paraphrases how I talk 4. It numbered this without being told 5. I made a mistake in this review, but it picked up on my mistake and corrected it. It's like someone is living inside this app and it knew I was talking about it lol",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.3.1",
+  "thumbsUp": 1,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_visual_appeal",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_phase1_collaborative_editing",
+      "rating": 3
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id495537768"
+    },
+    "name": {
+      "label": "AKM138"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-05-29T05:15:56-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "1.7.0"
+  },
+  "id": {
+    "label": "14119225251"
+  },
+  "title": {
+    "label": "For $30 it should be more accurate"
+  },
+  "content": {
+    "label": "I used this app for 2 months doing everything from texts, writing for work, etc. for $30 it should not have been such an exercise in frustration. I have a very slight accent from a European accent, that’s not my delusional self assessment a lot of people don’t even hear it. Except this app. But it doesn’t think I’m from a European country, oh no, it thinks I say completely different words than I do and every 3rd paragraph has mandarin in it. I don’t speak mandarin. No I did not enable mandarin. Uninstalled it now I can’t deal with the constant corrections that are cumbersome and slow because once it has decided you said a certain thing it will stick to it even if you try to enunciate very very clearly.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

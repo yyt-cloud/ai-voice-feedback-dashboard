@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id18240701"
+    },
+    "name": {
+      "label": "TheTaxperson"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-09-07T15:40:27-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.0.31"
+  },
+  "id": {
+    "label": "14523126748"
+  },
+  "title": {
+    "label": "Much more accurate."
+  },
+  "content": {
+    "label": "I find the dictation through Aqua Voice to be much more accurate on my iPhone and my Windows laptop computer than the native approaches to dictation. Aqua Voice saves me time.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6759074969&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

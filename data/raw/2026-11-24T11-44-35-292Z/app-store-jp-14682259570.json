@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1871369030"
+    },
+    "name": {
+      "label": "めんたいこーひー"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-18T09:36:41-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14682259570"
+  },
+  "title": {
+    "label": "未だに改善されない"
+  },
+  "content": {
+    "label": "曲のフレーズの一部分をおじさん構文（？）にするのやめて欲しい。\nその曲を大切に思ってる人もいるのに、ほんとやだ‪。\nしかも特に嫌なところが私の好きな曲の場合、曲名を打ってもその文が出てこないのに「アイドル」等と打ったら出てくるところなんです（分かりずらくてごめんなさい）。\n作曲者のことも原曲も知らないTikTokで流行ってるcoverとかしか知らないのかなって思っちゃいます😞\n未だに改善はされません…面白いとでも思ってるのかな？普通に不快に思ってる人の方が多いですよ^^;",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id9146365"
+    },
+    "name": {
+      "label": "marcfiore"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-06-22T10:33:29-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "1.0.18"
+  },
+  "id": {
+    "label": "14213677519"
+  },
+  "title": {
+    "label": "Useless"
+  },
+  "content": {
+    "label": "As much as I love the Mac version that I use literally all the time, the iPhone version is totally useless. The way it works. It’s so clunky that you end up reverting to the basic keyboard and dictation feature of the iPhone, which is bad.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6759074969&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

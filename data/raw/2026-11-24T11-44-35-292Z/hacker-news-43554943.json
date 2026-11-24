@@ -1,0 +1,42 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "ablob"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "I guess its because you can allow for custom data formats. You'll have to validate/parse the file anyways, and maybe having utc timestamps is worse than local date-time notation. Especially if the user is supposed to edit the file by hand.<p>I know for sure I'd like &quot;timeout: 1h6m10s&quot; more than &quot;timeout: 3970&quot;. So unless you want to support really specific datatypes just being typeless is better. Putting everything in double quotes to get a string, while spec-wise would be typed, is not enough when the backing data type is not going to be a string. So you might as well throw it away and let the program handle all type conversion."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Show HN: I made Confetti: a configuration language file format"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://confetti.hgs3.me/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_ablob",
+    "story_43534240"
+  ],
+  "author": "ablob",
+  "children": [
+    43555089
+  ],
+  "comment_text": "I guess its because you can allow for custom data formats. You&#x27;ll have to validate&#x2F;parse the file anyways, and maybe having utc timestamps is worse than local date-time notation. Especially if the user is supposed to edit the file by hand.<p>I know for sure I&#x27;d like &quot;timeout: 1h6m10s&quot; more than &quot;timeout: 3970&quot;. So unless you want to support really specific datatypes just being typeless is better. Putting everything in double quotes to get a string, while spec-wise would be typed, is not enough when the backing data type is not going to be a string. So you might as well throw it away and let the program handle all type conversion.",
+  "created_at": "2025-04-02T09:18:43Z",
+  "created_at_i": 1743585523,
+  "objectID": "43554943",
+  "parent_id": 43554894,
+  "story_id": 43534240,
+  "story_title": "Show HN: I made Confetti: a configuration language file format",
+  "story_url": "https://confetti.hgs3.me/",
+  "updated_at": "2025-04-02T09:50:24Z"
+}

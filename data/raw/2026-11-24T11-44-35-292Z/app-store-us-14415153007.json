@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1307864416"
+    },
+    "name": {
+      "label": "Hotbed scrawl condor"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-08-11T09:02:08-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.0.28"
+  },
+  "id": {
+    "label": "14415153007"
+  },
+  "title": {
+    "label": "It's fantastic."
+  },
+  "content": {
+    "label": "It works much, much better than the native voice-to-text on my iPhone. Highly recommended.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6759074969&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "c7f74c7d-589c-4c9b-bfd2-959e9abbdb7f",
+  "userName": "Ben Couch",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWUSaNj2FWUjULMyVEwBNR9XoMJHH22-I7wZq8thFRTCh6ihCaRzA",
+  "date": "2026-07-05T03:14:10.124Z",
+  "score": 3,
+  "scoreText": "3",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=c7f74c7d-589c-4c9b-bfd2-959e9abbdb7f",
+  "title": null,
+  "text": "The voice recognition is honestly incredible, the best I've seen. Since they've got that nailed, I hope later editions include more UX/UI development. The manual keyboard is dreadful. It doesn't allow for slide typing, and it has no punctuation on the main keyboard, so I have to tap over to another keyboard view every time I want a comma. There are also no customization/long press options. In short, there's nothing better IMO for voice to text. On everything ancillary to that, it underwhelms.",
+  "replyDate": null,
+  "replyText": null,
+  "version": "1.11.0",
+  "thumbsUp": 10,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_usability",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_ads_intrusiveness",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_phase1_collaborative_editing",
+      "rating": 2
+    }
+  ]
+}

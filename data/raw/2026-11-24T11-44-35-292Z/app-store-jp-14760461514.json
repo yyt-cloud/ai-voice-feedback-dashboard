@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1971802364"
+    },
+    "name": {
+      "label": "やはやかやにめさ（か"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-06T22:32:56-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14760461514"
+  },
+  "title": {
+    "label": "あまり……"
+  },
+  "content": {
+    "label": "キーボードの背景とかはいいんですけど音声入力でいちいちSimejiを開かないといけないのと文字がまとまらないのが\n少し使いにくいです",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id386542591"
+    },
+    "name": {
+      "label": "魔神ブーブー"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-17T00:25:43-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "17.6"
+  },
+  "id": {
+    "label": "14800687599"
+  },
+  "title": {
+    "label": "使い勝手は良い"
+  },
+  "content": {
+    "label": "ただちょいちょい広告入るのが本当にストレス\n文字消してると毎回必ず出てくる\n腹たってアンスト",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

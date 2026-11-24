@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id78026647"
+    },
+    "name": {
+      "label": "d_captain"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-18T18:40:51-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "2.0.3"
+  },
+  "id": {
+    "label": "14807089371"
+  },
+  "title": {
+    "label": "iPhone Duo support when?"
+  },
+  "content": {
+    "label": "New features (yay Notetaker!) but no basic support for 27.1 to prevent small unoptimized view on the Duo is wild. Hopefully when it finally comes it's brought up to the level of apps that are taking full advantage of the Duo's layout and stay lagging behind. I love this app so much and want to see it shine without being hindered by the current state of its UI.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

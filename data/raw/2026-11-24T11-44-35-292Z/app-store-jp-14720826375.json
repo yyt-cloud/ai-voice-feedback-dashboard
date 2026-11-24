@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1888817600"
+    },
+    "name": {
+      "label": "いくみんさんさん"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-28T01:25:25-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14720826375"
+  },
+  "title": {
+    "label": "(っ´∀｀)っ ﾏｧﾏｧ"
+  },
+  "content": {
+    "label": "おまたの写真を投稿とかしてる人がいます。気持ち悪いです＿|￣|○､;'.･ ｵｪｪｪｪｪ",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

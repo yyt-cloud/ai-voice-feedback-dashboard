@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id532874217"
+    },
+    "name": {
+      "label": "Orphic—-"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2019-12-08T13:16:44-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "8.3.1"
+  },
+  "id": {
+    "label": "5249860134"
+  },
+  "title": {
+    "label": "HOW DO YOU CHANGE THE JAPANESE TO ENGLISH"
+  },
+  "content": {
+    "label": "I used this app because i wanted tiny thingy mabobers on my phone but it’s stuck in Japanese! Please help!",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

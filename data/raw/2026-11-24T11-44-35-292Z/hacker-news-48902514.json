@@ -1,0 +1,39 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "daniel_iversen"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "How would it compare to Wispr Flow? I recently started using it and it feels so much more robust than anything out there (and in fact the one in iOS and MacOS 26 seemed pretty poor in comparison)... and do we know if Wispr Flow uses the Whisper tech behind the scenes or if they have their own model etc?"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_daniel_iversen",
+    "story_48894752"
+  ],
+  "author": "daniel_iversen",
+  "comment_text": "How would it compare to Wispr Flow? I recently started using it and it feels so much more robust than anything out there (and in fact the one in iOS and MacOS 26 seemed pretty poor in comparison)... and do we know if Wispr Flow uses the Whisper tech behind the scenes or if they have their own model etc?",
+  "created_at": "2026-07-14T05:06:31Z",
+  "created_at_i": 1784005591,
+  "objectID": "48902514",
+  "parent_id": 48894752,
+  "story_id": 48894752,
+  "story_title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+  "story_url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+  "updated_at": "2026-07-14T05:08:30Z"
+}
