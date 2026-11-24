@@ -4,6 +4,11 @@ import path from 'node:path';
 
 const root = process.cwd();
 const input = JSON.parse(await readFile(path.join(root, 'data/collected.json'), 'utf8'));
+let previousById = new Map();
+try {
+  const previous = JSON.parse(await readFile(path.join(root, 'comments.json'), 'utf8'));
+  previousById = new Map((previous.records || []).map(record => [`${record.source}:${record.source_id}`, record]));
+} catch {}
 const required = ['source', 'source_id', 'product', 'platform', 'author', 'published_at', 'content_original', 'fetched_at', 'raw_sha256', 'evidence_ref', 'url'];
 const hosts = {
   'Google Play': new Set(['play.google.com']),
@@ -39,7 +44,15 @@ for (const record of input.records || []) {
     if (actualHash !== record.raw_sha256) reasons.push('mismatch:evidence_hash');
   } catch { reasons.push('missing:evidence_file'); }
   if (reasons.length) rejected.push({ record, reasons });
-  else verified.push(record);
+  else {
+    const previous = previousById.get(compoundId);
+    if (previous?.enrichment_sha256 === record.raw_sha256) {
+      for (const field of ['content_translation', 'sentiment', 'sentimentLabel', 'tag', 'category_lvl1', 'category_lvl2', 'category_lvl3', 'summary', 'enrichment_provider', 'enrichment_model', 'enrichment_sha256', 'enriched_at']) {
+        if (previous[field] !== undefined) record[field] = previous[field];
+      }
+    }
+    verified.push(record);
+  }
 }
 
 await mkdir(path.join(root, 'data/rejected'), { recursive: true });

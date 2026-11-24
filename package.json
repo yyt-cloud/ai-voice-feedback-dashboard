@@ -5,7 +5,8 @@
   "scripts": {
     "collect": "node collector/collect.mjs",
     "validate": "node validator/validate.mjs",
-    "update-data": "npm run collect && npm run validate"
+    "enrich": "node enricher/enrich.mjs",
+    "update-data": "npm run collect && npm run validate && npm run enrich"
   },
   "dependencies": {
     "google-play-scraper": "^10.1.2"
