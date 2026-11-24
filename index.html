@@ -954,7 +954,8 @@
   <div class="date-range-banner">
     <span>🗓️ 统计时间范围:</span>
     <select id="monthSelect" class="week-select" onchange="onMonthChange()" title="第一个下拉框：选择月份/年度范围">
-      <option value="2026-ALL" selected>🗓️ 2026年全量数据 (1083条)</option>
+      <option value="ALL-TIME" selected>🗓️ 全部年份数据</option>
+      <option value="2026-ALL">🗓️ 2026年全量数据 (1083条)</option>
       <option value="2026-11">📅 2026年11月 (266条)</option>
       <option value="2026-10">📅 2026年10月 (284条)</option>
       <option value="2026-09">📅 2026年09月 (101条)</option>
@@ -1275,10 +1276,14 @@
         datasetCountText.innerText = '· 全量纯净真机数据集 (' + allData.length.toLocaleString() + ' 条记录)';
       }
       Array.from(monthSelect.options).forEach(option => {
-        const count = option.value === '2026-ALL'
+        const count = option.value === 'ALL-TIME'
           ? allData.length
-          : allData.filter(item => item.date.startsWith(option.value + '-')).length;
-        option.text = option.text.replace(/\(\d+条\)/, '(' + count + '条)');
+          : option.value === '2026-ALL'
+            ? allData.filter(item => item.date.startsWith('2026-')).length
+            : allData.filter(item => item.date.startsWith(option.value + '-')).length;
+        option.text = /\(\d+条\)/.test(option.text)
+          ? option.text.replace(/\(\d+条\)/, '(' + count + '条)')
+          : option.text + ' (' + count + '条)';
       });
     }
 
@@ -1303,6 +1308,13 @@
     let rawData = [];
 
     const WEEKS_BY_MONTH = {
+      "ALL-TIME": [
+            {
+                  "label": "🗓️ 全部年份总计",
+                  "value": "0000-01-01|9999-12-31",
+                  "default": true
+            }
+      ],
       "2026-ALL": [
             {
                   "label": "🗓️ 2026全年总计 (1083条)",
@@ -1622,7 +1634,9 @@
         const rangeStart = rangeParts[0] + ' 00:00';
         const rangeEnd = rangeParts[1] + ' 23:59';
         const rangeCount = allData.filter(item => item.date >= rangeStart && item.date <= rangeEnd).length;
-        opt.innerText = w.label.match(/\(\d+条\)/) ? w.label.replace(/\(\d+条\)/, '(' + rangeCount + '条)') : w.label;
+        opt.innerText = w.label.match(/\(\d+条\)/)
+          ? w.label.replace(/\(\d+条\)/, '(' + rangeCount + '条)')
+          : w.label + ' (' + rangeCount + '条)';
         if (w.default) opt.selected = true;
         weekSelect.appendChild(opt);
       });
@@ -1644,7 +1658,8 @@
 
       const monthVal = document.getElementById('monthSelect').value;
       let labelPrefix = '选定时间';
-      if (monthVal === '2026-ALL') labelPrefix = '2026全年';
+      if (monthVal === 'ALL-TIME') labelPrefix = '全部年份';
+      else if (monthVal === '2026-ALL') labelPrefix = '2026全年';
       else if (val.includes('-01|')) labelPrefix = monthVal.substring(5,7) + '月全月';
       else labelPrefix = '选定周度';
 
@@ -1756,8 +1771,8 @@
       const monthVal = document.getElementById('monthSelect').value;
       const weekVal = document.getElementById('weekSelect').value;
 
-      let timeScopeText = '2026年度';
-      if (monthVal !== '2026-ALL') {
+      let timeScopeText = monthVal === 'ALL-TIME' ? '全部年份' : '2026年度';
+      if (monthVal !== 'ALL-TIME' && monthVal !== '2026-ALL') {
         timeScopeText = monthVal.substring(5,7) + '月';
         if (weekVal && !weekVal.includes('-01|')) {
           timeScopeText += '特定周';
@@ -2260,7 +2275,7 @@
           let riskClass = item.risk_status === 'Verified' ? 'risk-verified' : 'risk-warn';
 
           const origText = item.content_original || '';
-          const transText = item.content_translation || '';
+          const transText = item.content_translation || '暂无中文翻译（原文已完整展示）';
 
           let transHtml = '';
           if (transText.length > 100) {
