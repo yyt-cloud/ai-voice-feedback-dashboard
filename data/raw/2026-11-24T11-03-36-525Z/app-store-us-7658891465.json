@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1246310953"
+    },
+    "name": {
+      "label": "🖤 • Pixxiara • 🤍"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2021-08-05T11:42:44-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "10.3"
+  },
+  "id": {
+    "label": "7658891465"
+  },
+  "title": {
+    "label": "HELP"
+  },
+  "content": {
+    "label": "IM TRYNA ENABLE FULL ACCESS IN GENERAL, THEN KEYBOARDS BUT THE OPTION FOT SIMEJI ISNT THERE ITS SO FRUSTRATING HELP PLEASE ONLY THE SIRI AND PHOTO ACCESS OPTION IS THERE",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

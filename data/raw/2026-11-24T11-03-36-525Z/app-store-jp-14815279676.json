@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1558333651"
+    },
+    "name": {
+      "label": "馬鹿なAI"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-20T21:40:54-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.6"
+  },
+  "id": {
+    "label": "14815279676"
+  },
+  "title": {
+    "label": "ロブロックスにだけ適応してないの？( ´･ω･` )"
+  },
+  "content": {
+    "label": "ロブロックスで友達とチャットする時に自分のキーボードが閲覧されてませんm(_ _)mそこ何とか修正してください！お願いしますm(*_ _)m",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

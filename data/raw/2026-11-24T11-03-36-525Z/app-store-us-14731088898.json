@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1493413064"
+    },
+    "name": {
+      "label": "Patcrabtree"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-30T13:57:03-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14731088898"
+  },
+  "title": {
+    "label": "Wispr Flow"
+  },
+  "content": {
+    "label": "I love it. It is more convenient, faster, everything all around. You can't beat it.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

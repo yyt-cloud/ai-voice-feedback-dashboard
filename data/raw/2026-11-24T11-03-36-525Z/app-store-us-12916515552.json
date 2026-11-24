@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1653324886"
+    },
+    "name": {
+      "label": "もニャ"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2025-07-20T17:53:18-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "15.6"
+  },
+  "id": {
+    "label": "12916515552"
+  },
+  "title": {
+    "label": "可愛い"
+  },
+  "content": {
+    "label": "めっちゃ可愛いし、字を打つのが楽しい(๑♡∀♡๑)",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

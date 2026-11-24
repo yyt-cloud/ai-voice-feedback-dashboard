@@ -1,0 +1,25 @@
+{
+  "id": "6aacd6d0-5967-48eb-a4a5-42108a7e9dd7",
+  "userName": "Elver Yoplac Chavez",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXIUOoyd8g-mG4pv0o9aqdcmeVWTaBPE3yFMdepgPwhjZlROtIK",
+  "date": "2026-10-04T21:19:45.803Z",
+  "score": 3,
+  "scoreText": "3",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=6aacd6d0-5967-48eb-a4a5-42108a7e9dd7",
+  "title": null,
+  "text": "Me encantaría que pongan más opciones, como por ejemplo: 1. Que se pueda cambiar el tema del fondo del teclado 2. Que el reconocimiento de idioma sea automático 3. Que las letras del teclado se puedan agrandar más Feature request: “Mute when dictating” for Android Please add a “Mute when dictating” option to the Android version of Typeless. When I start voice dictation, Typeless should automatically mute or pause the audio from other apps that are playing in the background, such as TikTok, YouTu",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.7.1",
+  "thumbsUp": 1,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_visual_appeal",
+      "rating": 1
+    }
+  ]
+}

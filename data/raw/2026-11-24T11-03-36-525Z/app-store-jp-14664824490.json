@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1913018629"
+    },
+    "name": {
+      "label": "ワカメんちょす"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-14T01:56:18-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14664824490"
+  },
+  "title": {
+    "label": "控えめに言って最高"
+  },
+  "content": {
+    "label": "お金がほとんどかからなくて広告を見るだけでキーボードデザインを手にいられるのは° ✧最𝑎𝑛𝑑高° ✧",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

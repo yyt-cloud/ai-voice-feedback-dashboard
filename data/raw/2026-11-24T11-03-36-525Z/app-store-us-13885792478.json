@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1458259060"
+    },
+    "name": {
+      "label": "RichardS_23"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-03-25T08:31:40-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "1.2.1"
+  },
+  "id": {
+    "label": "13885792478"
+  },
+  "title": {
+    "label": "Works fine, but microphone stays on"
+  },
+  "content": {
+    "label": "The app works fine, but the microphone stays on even when not using the keyboard. On the Dynamic Island, it shows the microphone is still on! There’s no way around it? Please fix this!",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

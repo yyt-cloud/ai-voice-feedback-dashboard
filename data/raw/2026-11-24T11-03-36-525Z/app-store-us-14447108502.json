@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id570161907"
+    },
+    "name": {
+      "label": "琪琪777777777777胖琪琪"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-08-19T07:48:06-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.4.0"
+  },
+  "id": {
+    "label": "14447108502"
+  },
+  "title": {
+    "label": "gooood"
+  },
+  "content": {
+    "label": "goodddd",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

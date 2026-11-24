@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id431035165"
+    },
+    "name": {
+      "label": "りりりりii"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-01T07:48:18-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14615225796"
+  },
+  "title": {
+    "label": "マイクとカーソル位置の変更が最悪"
+  },
+  "content": {
+    "label": "普段レビューはかかないのですが、あまりにもストレスが大きいので投稿します。\n\n10年以上愛用していましたが、1番便利で直感的に使っていたのがカーソル移動でした。\n操作感が体に染み付いているので入力位置を変更しようとしても真ん中上部を触るとマイクが起動します。この投稿を作成している時も何度も誤って触ってしまいました。\n何とか位置を変えられないのかと調べたら‘’課金‘’によって変えられることがわかりました。\n今までの操作感に戻したいだけなのに課金をしなければいけないのがあまりにも馬鹿にされているように感じます。\nユーザーの意見をみて戻してくれるのを期待していますが、毎日使うものでストレスを感じるのが嫌なのでiPhoneのデフォルトに慣れる練習をしようと思います。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "5"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "5"
+  }
+}

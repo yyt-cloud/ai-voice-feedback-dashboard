@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id129657460"
+    },
+    "name": {
+      "label": "nrbrous"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-12T08:36:57-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.0.0"
+  },
+  "id": {
+    "label": "14782055738"
+  },
+  "title": {
+    "label": "Works Great"
+  },
+  "content": {
+    "label": "I haven’t had any issues so far. I’m not brand new to dictating, but I also never used it that much before. I’m trying to make it a habit now to write and work faster. \n\nThe only complaint I have is a minor one: I wish I could designate the spot on my computer that Flow docks to. It currently attaches to the center of the bottom or sides, which inevitably gets in the way when I’m trying to click something else.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1669921541"
+    },
+    "name": {
+      "label": "DUiChol"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-19T02:22:23-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "2.0.2"
+  },
+  "id": {
+    "label": "14808115951"
+  },
+  "title": {
+    "label": "The best"
+  },
+  "content": {
+    "label": "We should pull over",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

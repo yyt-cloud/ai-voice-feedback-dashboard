@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1015736032"
+    },
+    "name": {
+      "label": "Si*_non"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-10T04:35:54-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14649407194"
+  },
+  "title": {
+    "label": "悪いところ無し！"
+  },
+  "content": {
+    "label": "キーボードを変えれるのが夢で、音も変えたかった時、このSimejiを見つけてから全てが変わりました！始める時たまに広告が流れるだけ、しかも3秒だけなのが神すぐる！言いたいことをまとめます\nとにかく楽しい-----！！！！ヽ(*´∀｀*)ノ\nなのでわるいところは𝐙𝐄𝐑𝐎だと思います(*^^*)",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

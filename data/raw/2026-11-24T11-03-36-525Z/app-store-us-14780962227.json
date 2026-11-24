@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id109774736"
+    },
+    "name": {
+      "label": "d.feo"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-12T02:58:22-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "2.0.0"
+  },
+  "id": {
+    "label": "14780962227"
+  },
+  "title": {
+    "label": "Full of glitches on iOS"
+  },
+  "content": {
+    "label": "I love the app on my Mac, but on iOS it's full of glitches. It's cumbersome, stays stuck on the welcome screen, doesn't have dark mode, and doesn't have the same features as the app on my Mac.\n\nAlthough I understand it's a different way to develop an app for iOS than for macOS, basic stuff like dark mode should be a basic fix. They take forever to make any update and don't offer any solutions. I honestly don't know what their development team is doing. They seem to be focusing more on advertising rather than improving their product for customers who pay for it",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

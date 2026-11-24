@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1916325823"
+    },
+    "name": {
+      "label": "K-pop143"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-13T23:32:22-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14788466443"
+  },
+  "title": {
+    "label": "トニカクカワイイ( ु ›ω‹ ) ु♡"
+  },
+  "content": {
+    "label": "可愛い〜！(∩˃o˂∩)·͜·ᰔᩚ",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

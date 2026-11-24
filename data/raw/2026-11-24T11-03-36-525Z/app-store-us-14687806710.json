@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1392913604"
+    },
+    "name": {
+      "label": "I feel scammed by Lumen"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-19T20:03:19-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14687806710"
+  },
+  "title": {
+    "label": "Broken App Still Being Sold"
+  },
+  "content": {
+    "label": "Wispr Flow acknowledges that their IOS app is broken, yet still sells it through the App Store, wasting lots of time and energy",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

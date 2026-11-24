@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1921131052"
+    },
+    "name": {
+      "label": "CharlieS230"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-07-15T17:00:07-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.0.22"
+  },
+  "id": {
+    "label": "14308104372"
+  },
+  "title": {
+    "label": "Voice-to-text Fixed!"
+  },
+  "content": {
+    "label": "I used to use voice to text all the time but I think Apple did a bad job. This app fixes grammar, punctuation and everything. Definitely a solution to everyone’s problem. I ramble my thoughts into the ai and then it creates a clearly worded proper statement. Brilliant!",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6759074969&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

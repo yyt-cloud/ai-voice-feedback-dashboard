@@ -1,0 +1,21 @@
+{
+  "id": "8aa5277c-21db-4714-a2cf-eccb24279c0d",
+  "userName": "Dan Wyry",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXrNMrSzdis7R-QSF6qGBsaSaaJHH2rQXyHS7WT0NTU7KstNt9y",
+  "date": "2026-09-19T10:33:17.234Z",
+  "score": 3,
+  "scoreText": "3",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=8aa5277c-21db-4714-a2cf-eccb24279c0d",
+  "title": null,
+  "text": "the translation option mainly. but I lacks a couple things. the keyboard inputs are very badly designed: - punctuation keys not in the main keyboard screen - unlike gboard,there is no option to quicky change the keyboard input when I want to do that, do I have to go to settings > languages & input manually every time, it's really impractical - no swipe Also, as the transcripts are obviously done with the same AI model as the translations', it sometimes changes your words",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.6.2",
+  "thumbsUp": 1,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_visual_appeal",
+      "rating": 2
+    }
+  ]
+}

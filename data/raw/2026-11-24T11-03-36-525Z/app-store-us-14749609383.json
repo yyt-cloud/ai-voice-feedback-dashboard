@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id22956588"
+    },
+    "name": {
+      "label": "Tuna fish killer"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-04T04:50:29-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14749609383"
+  },
+  "title": {
+    "label": "Costly"
+  },
+  "content": {
+    "label": "The app is kind of costly. Unfortunately, you don't find out about it until after you've signed up and gone through all the steps with it.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

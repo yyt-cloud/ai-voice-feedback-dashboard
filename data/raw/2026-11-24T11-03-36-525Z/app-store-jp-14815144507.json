@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1877540313"
+    },
+    "name": {
+      "label": "♬ੈ⟡𝐦𝐚𝐬𝐚"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-20T20:41:03-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.6"
+  },
+  "id": {
+    "label": "14815144507"
+  },
+  "title": {
+    "label": "キーボード使うのが楽しいです!!"
+  },
+  "content": {
+    "label": "Simejiを使い始めてキーボードを打つのが楽しくなった気がします！普通のキーボードでは使えないマークなどもあって顔文字などもすぐ出たりするのでとても使いやすいです！‎すぐに変換できたりするのもオススメです。キーボード以外にもスタンプや背景画像などもあり、自分で投稿できたりもします!!\nただ、少し広告も多かったりすることがあります。\nサンリオ系のキーボードなどはVIP専用で課金しないと使えない感じです💦\nAIを使う制限などもあったりしますがそれ以外なら自分はとても満足しています✨️",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

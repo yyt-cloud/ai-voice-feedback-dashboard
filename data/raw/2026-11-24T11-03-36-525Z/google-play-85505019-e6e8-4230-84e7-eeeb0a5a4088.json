@@ -1,0 +1,29 @@
+{
+  "id": "85505019-e6e8-4230-84e7-eeeb0a5a4088",
+  "userName": "Paolo c",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWNCnxCequJ5Y8joKqfX_TrNlpX0ZYJ-OvbEREqvA9JsqAVwQ0-",
+  "date": "2026-11-22T03:05:56.557Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.wispr.flowapp&reviewId=85505019-e6e8-4230-84e7-eeeb0a5a4088",
+  "title": null,
+  "text": "heavyduty 4 heavy workloads",
+  "replyDate": null,
+  "replyText": null,
+  "version": null,
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_visual_appeal",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_phase1_file_sharing",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 1
+    }
+  ]
+}

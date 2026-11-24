@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id373363317"
+    },
+    "name": {
+      "label": "明たん"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-19T04:15:39-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.6"
+  },
+  "id": {
+    "label": "14808427501"
+  },
+  "title": {
+    "label": "AI 嫌い"
+  },
+  "content": {
+    "label": "Simejiは長年使用し大好きでしたがAI音声は最悪です。自分の声をAIに利用されたくないし、１ヶ月前まではAIなしで音声入力出来ました。AIなしの選択が欲しいです。\n不便ですがプライバシーのため、マイクを消しました。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

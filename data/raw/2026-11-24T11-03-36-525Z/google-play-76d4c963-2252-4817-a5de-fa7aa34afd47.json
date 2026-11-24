@@ -1,0 +1,29 @@
+{
+  "id": "76d4c963-2252-4817-a5de-fa7aa34afd47",
+  "userName": "Manit Ahuja",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ48SKM3iva73FFc38ox4QcbUK6h1tTar-39Brr4XWQaLc-jw=mo",
+  "date": "2026-11-21T14:31:41.535Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.wispr.flowapp&reviewId=76d4c963-2252-4817-a5de-fa7aa34afd47",
+  "title": null,
+  "text": "the flow bubble doesn't appear ever in any keyboard",
+  "replyDate": null,
+  "replyText": null,
+  "version": null,
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_phase1_collaborative_editing",
+      "rating": 2
+    }
+  ]
+}

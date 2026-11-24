@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id822105063"
+    },
+    "name": {
+      "label": "まま^_^めめ"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-07T02:48:37-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14761092542"
+  },
+  "title": {
+    "label": "(っ'ヮ'c)>ｴｸﾞｽｷﾞｲｲイイ"
+  },
+  "content": {
+    "label": "いろんな絵文字、着せ替え、1番がダウンロードしている人が沢山いる✨✨✨✨✨✨✨✨✨",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ca694ba1-1c86-489f-ba6c-8dd473e9d4b0",
+  "userName": "Wylie Ketchum",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVn1jNzsKYDrK6oQdgF6j1clIV9x86kUEtM4JoVet3Ig-rn5_4",
+  "date": "2026-10-11T17:35:02.113Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=ca694ba1-1c86-489f-ba6c-8dd473e9d4b0",
+  "title": null,
+  "text": "Very nice app formats everything nicely and quickly the only problem I've found is the time limit.",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.7.1",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_phase1_collaborative_editing",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_visual_appeal",
+      "rating": 1
+    }
+  ]
+}

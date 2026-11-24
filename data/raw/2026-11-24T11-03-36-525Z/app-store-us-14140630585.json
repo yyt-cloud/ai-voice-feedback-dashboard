@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id298828995"
+    },
+    "name": {
+      "label": "John ze artiste"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-06-03T14:41:09-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "1.8.0"
+  },
+  "id": {
+    "label": "14140630585"
+  },
+  "title": {
+    "label": "Doesn’t work"
+  },
+  "content": {
+    "label": "The idea behind this app is great, but the execution was completely unreliable for me. I gave the keyboard full access, microphone permission, and every setting it asked for. The app clearly showed that it was listening to me, but when I hit the button to transcribe/insert the text, nothing happened. No transcription, no error message, no useful feedback — just nothing.\n\nThat is especially frustrating because the whole point of a voice keyboard is speed and convenience. If I have to open the main app every time, switch back and forth, or babysit the process just to maybe get a transcription, then it defeats the purpose. Native iOS dictation may be less polished, but at least it actually puts words into the text field.\n\nThis app could be useful if the keyboard extension becomes reliable, but right now it feels buggy and unfinished. A voice keyboard needs to do one thing consistently: listen, transcribe, and insert the text. In my experience, it failed at the most important step.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

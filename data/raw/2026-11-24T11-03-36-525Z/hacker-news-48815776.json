@@ -1,0 +1,39 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "ilbert"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Software like this make me questioning a lot the defensibility of products such as Wispr Flow.<p>A friend of mine created something similar with just a few prompts, allo working locally, and he's stopped using Wispr Flow"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Voice Is My New Keyboard"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://sanju.sh/wisprflow/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_ilbert",
+    "story_48815637"
+  ],
+  "author": "ilbert",
+  "comment_text": "Software like this make me questioning a lot the defensibility of products such as Wispr Flow.<p>A friend of mine created something similar with just a few prompts, allo working locally, and he&#x27;s stopped using Wispr Flow",
+  "created_at": "2026-07-07T10:15:51Z",
+  "created_at_i": 1783419351,
+  "objectID": "48815776",
+  "parent_id": 48815637,
+  "story_id": 48815637,
+  "story_title": "Voice Is My New Keyboard",
+  "story_url": "https://sanju.sh/wisprflow/",
+  "updated_at": "2026-07-07T13:13:22Z"
+}

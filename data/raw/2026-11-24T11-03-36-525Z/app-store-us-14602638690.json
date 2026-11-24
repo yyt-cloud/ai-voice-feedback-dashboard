@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1473740275"
+    },
+    "name": {
+      "label": "Yeahyea588"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-09-28T01:55:37-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "2.7.0"
+  },
+  "id": {
+    "label": "14602638690"
+  },
+  "title": {
+    "label": "Sorry, but 2000 words is never enough"
+  },
+  "content": {
+    "label": "The limit was8000 words per week, now it’s 2000 words.  I have to say this is a good app. But 2000 is way too low.it only takes 3 days that I hit the limit.  8000 is quite excellent idea, I wish Typeless could change it back",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

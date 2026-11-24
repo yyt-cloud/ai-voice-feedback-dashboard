@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id236718482"
+    },
+    "name": {
+      "label": "Matthewthomasg"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-04-11T14:41:15-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.0.7"
+  },
+  "id": {
+    "label": "13947902949"
+  },
+  "title": {
+    "label": "huge time saver"
+  },
+  "content": {
+    "label": "I love the product. I was using voice to text before, but it was so janky. This is a huge improvement.\n\nA couple of things that I would recommend adding as features:\n\n- When I try to use Aqua Voice while I have other media playing like YouTube or Spotify, it would be nice if it paused the other media during use. This is how it works on the integrated voice to text feature with iOS. \n- On the casual messaging feature, it would be nice if we could choose which apps that applies to. For example, I type in lowercase on Twitter typically, but the casual messaging feature doesn't work there and it uses capitalization as normal.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6759074969&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

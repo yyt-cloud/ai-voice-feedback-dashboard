@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id140359724"
+    },
+    "name": {
+      "label": "thedollbaby710"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-03-20T17:32:49-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "1.2.0"
+  },
+  "id": {
+    "label": "13869745291"
+  },
+  "title": {
+    "label": "Limits. Back to wispr"
+  },
+  "content": {
+    "label": "They now have limits",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id86953734"
+    },
+    "name": {
+      "label": "Jamesbiz"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-17T06:27:58-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "2.0.2"
+  },
+  "id": {
+    "label": "14801697246"
+  },
+  "title": {
+    "label": "Awful horrible useless keyboard"
+  },
+  "content": {
+    "label": "Funny enough I'm writing this review using their program. LOL .Why can't we just use the native keyboard? And why do we have to constantly be taken to their app and then swipe right?",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

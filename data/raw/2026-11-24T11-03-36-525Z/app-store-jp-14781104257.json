@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1946887303"
+    },
+    "name": {
+      "label": "眠いニダ"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-12T03:48:46-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14781104257"
+  },
+  "title": {
+    "label": "普通ぐらい"
+  },
+  "content": {
+    "label": "キーボードの画面の背景を変えれるのは、すごい楽しいんですが今はAIをよく使う時代になってきて数学の質問をする時に文字を打ち込むと自分が打ちたい単語が出てこない現象がよく起きます。 また、普通に文字を打とうとしてもそういう現象がよく起きてきて良くないと思うのでそこを直して欲しいです。 ひ",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

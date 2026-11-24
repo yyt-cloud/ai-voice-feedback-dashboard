@@ -1,0 +1,41 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "jaypio"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "wispr",
+        "flow"
+      ],
+      "value": "i built <a href=\"https://typewaveai.com\" rel=\"nofollow\">https://typewaveai.com</a> after struggling with windows voice typing and <em>wispr</em> <em>flow</em>. give it a try"
+    },
+    "story_title": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "wispr",
+        "flow"
+      ],
+      "value": "Anyone using a <em>Wispr</em> <em>Flow</em> alternative that is non-cloud?"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_jaypio",
+    "story_49809670"
+  ],
+  "author": "jaypio",
+  "comment_text": "i built <a href=\"https:&#x2F;&#x2F;typewaveai.com\" rel=\"nofollow\">https:&#x2F;&#x2F;typewaveai.com</a> after struggling with windows voice typing and wispr flow. give it a try",
+  "created_at": "2026-09-23T14:06:59Z",
+  "created_at_i": 1790172419,
+  "objectID": "49816417",
+  "parent_id": 49809670,
+  "story_id": 49809670,
+  "story_title": "Anyone using a Wispr Flow alternative that is non-cloud?",
+  "updated_at": "2026-09-23T16:06:36Z"
+}

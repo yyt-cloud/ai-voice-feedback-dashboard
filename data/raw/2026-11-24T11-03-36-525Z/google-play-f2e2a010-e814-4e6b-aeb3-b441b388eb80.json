@@ -1,0 +1,29 @@
+{
+  "id": "f2e2a010-e814-4e6b-aeb3-b441b388eb80",
+  "userName": "ゆりひめ",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWdfVkAfYcORfT9Y2zNNocFULv-Y_102p_T4Ws2GjTCj5k76D8",
+  "date": "2026-11-03T09:57:46.373Z",
+  "score": 2,
+  "scoreText": "2",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=f2e2a010-e814-4e6b-aeb3-b441b388eb80",
+  "title": null,
+  "text": "大きめのタブレットでは使いにくかったです",
+  "replyDate": null,
+  "replyText": null,
+  "version": null,
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_ads_frequency",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_app_quality_usability",
+      "rating": 1
+    }
+  ]
+}

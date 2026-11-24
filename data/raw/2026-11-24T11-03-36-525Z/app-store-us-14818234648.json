@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id85978502"
+    },
+    "name": {
+      "label": "Sentinel_PJ"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-21T14:18:31-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.0.4"
+  },
+  "id": {
+    "label": "14818234648"
+  },
+  "title": {
+    "label": "Best dictation. Period."
+  },
+  "content": {
+    "label": "This is by far the best dictation app I've ever used. Without a doubt nothing comes close on the market",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

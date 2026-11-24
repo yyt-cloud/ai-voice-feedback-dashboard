@@ -1,0 +1,21 @@
+{
+  "id": "095343d4-ec16-4162-b45b-83df80edae0e",
+  "userName": "Chris Watkins",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUOsEebDG707PpETe7A_YPMIsPeWJvg93wkd9k5jF8esVqNxBCB",
+  "date": "2026-10-06T00:23:49.627Z",
+  "score": 4,
+  "scoreText": "4",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=095343d4-ec16-4162-b45b-83df80edae0e",
+  "title": null,
+  "text": "Good accuracy. The LLM cleanup of the text is useful but goes harder than I would like, and I wish I could dial it back. E.g. if it can interpret your words as a bullet point list, it will.",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.7.1",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_ads_presence",
+      "rating": 2
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id182864075"
+    },
+    "name": {
+      "label": "Rezacpu"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-19T19:13:54-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "2.0.3"
+  },
+  "id": {
+    "label": "14811016621"
+  },
+  "title": {
+    "label": "خوب کار می‌کنه، ولی جا داشت بهتر باشه."
+  },
+  "content": {
+    "label": "من رو iOS\n باهاش کار کردم و فکر می‌کنم که یه جاهایی باگ داره و کند می‌شه، ولی در مجموع کار راه بندازه.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

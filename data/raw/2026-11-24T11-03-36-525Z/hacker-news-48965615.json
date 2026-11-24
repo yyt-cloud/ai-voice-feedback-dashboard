@@ -1,0 +1,43 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "fragmede"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "wispr",
+        "flow"
+      ],
+      "value": "For STT, <em>wispr</em> <em>flow</em> has a generous free tier. For TTS, I have Claude read out loud what it just finished as a stop hook, so I know which claude finished up."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Speech Recognition and TTS in less than 500kb"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://github.com/moonshine-ai/moonshine/tree/main/micro"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_fragmede",
+    "story_48911793"
+  ],
+  "author": "fragmede",
+  "comment_text": "For STT, wispr flow has a generous free tier. For TTS, I have Claude read out loud what it just finished as a stop hook, so I know which claude finished up.",
+  "created_at": "2026-07-19T07:00:44Z",
+  "created_at_i": 1784444444,
+  "objectID": "48965615",
+  "parent_id": 48965388,
+  "story_id": 48911793,
+  "story_title": "Speech Recognition and TTS in less than 500kb",
+  "story_url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+  "updated_at": "2026-07-19T07:06:34Z"
+}

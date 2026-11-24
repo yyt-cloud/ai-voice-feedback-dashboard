@@ -1,0 +1,43 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "starik36"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "wispr",
+        "flow"
+      ],
+      "value": "I run my own custom version of BlueBubbles and a locally run clone of <em>Wispr</em> <em>Flow</em>.\nIn addition, I've vibe-coded lots of nonsense throwaway apps that helped me with a one time boring task.<p>Wouldn't have been possible."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "AI needs $6T in annual revenue to justify data centre boom"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_starik36",
+    "story_49898952"
+  ],
+  "author": "starik36",
+  "comment_text": "I run my own custom version of BlueBubbles and a locally run clone of Wispr Flow.\nIn addition, I&#x27;ve vibe-coded lots of nonsense throwaway apps that helped me with a one time boring task.<p>Wouldn&#x27;t have been possible.",
+  "created_at": "2026-09-29T21:05:05Z",
+  "created_at_i": 1790715905,
+  "objectID": "49900529",
+  "parent_id": 49900246,
+  "story_id": 49898952,
+  "story_title": "AI needs $6T in annual revenue to justify data centre boom",
+  "story_url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
+  "updated_at": "2026-09-30T11:43:57Z"
+}

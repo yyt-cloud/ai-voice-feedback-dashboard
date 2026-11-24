@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id552825237"
+    },
+    "name": {
+      "label": "sion_ppp"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-19T04:10:40-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14685052765"
+  },
+  "title": {
+    "label": "使いやすいし面白いけど"
+  },
+  "content": {
+    "label": "とにかくお高い…全開放を維持するのは、このご時世、キツい…\nお試し期間が設定されているようだが、使い方やら設定がややこしかったり、うまく起動しない、機能しない…で、困っているだけで、お試し期間が終わり、何一つ「お試せない」で、つい課金して試して、やっぱり高い…と、懐が痛み、元のプランに戻す。\nこの繰り返しでガックリする無限ループです。\n継続して使いたいのですが、ちょっとだけプライスダウンを希望します😭",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

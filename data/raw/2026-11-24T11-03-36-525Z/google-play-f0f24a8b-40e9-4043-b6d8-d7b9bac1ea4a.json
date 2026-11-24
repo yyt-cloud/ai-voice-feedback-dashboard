@@ -1,0 +1,29 @@
+{
+  "id": "f0f24a8b-40e9-4043-b6d8-d7b9bac1ea4a",
+  "userName": "Adam Rankin",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ0u9mMaU45wiFpwCM1q41_4H5gbw75OUT5L50UkfbnGtwlNJv1=mo",
+  "date": "2026-10-07T07:56:03.336Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.creativeapp.voiceinput&reviewId=f0f24a8b-40e9-4043-b6d8-d7b9bac1ea4a",
+  "title": null,
+  "text": "first of all the price is ridiculous... started the pro trial saw how difficult the app was so I went to delete the app and make sure the subscription was stopped and would not get more charges the step I am on now is the most aggravating because the app all of a sudden is saying it is not responding maybe I'll get a response on here but least of all I will have some documentation if anyone has some type of way to contact thses ppl plz let me know I have had to deal with Google pay refund",
+  "replyDate": "2026-10-09T09:03:52.220Z",
+  "replyText": "Hi Adam, sorry for the frustration. Deleting the app doesn’t cancel a subscription. To cancel: Google Play > Profile > Payments & subscriptions > Subscriptions > Voiskey > Cancel. For any further help, email official@voiskey.ai and we’ll sort it out. We’re also investigating the “not responding” issue.",
+  "version": "1.7",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_phase1_collaborative_editing",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_phase1_messaging",
+      "rating": 2
+    }
+  ]
+}

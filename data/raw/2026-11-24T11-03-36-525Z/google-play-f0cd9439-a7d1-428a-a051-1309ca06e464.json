@@ -1,0 +1,29 @@
+{
+  "id": "f0cd9439-a7d1-428a-a051-1309ca06e464",
+  "userName": "Akshat Awasthi",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJGJh0ah_xnZLw_NTrM3ItC83HNRx-hIwdlK5ulpcHDBhZYeQ=mo",
+  "date": "2026-11-21T04:46:48.805Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.wispr.flowapp&reviewId=f0cd9439-a7d1-428a-a051-1309ca06e464",
+  "title": null,
+  "text": "Bro, this app is very, very good, very, very nice. I used to use the voice from the WhatsApp app, which gave you voice commands that you could do, but that was not like \"give me points, like I say, you have to bring these things.\" It does not give me that, but when I use Wispr Flow, it does not make a single mistake, like any other voice assistant, and this is very good AI. I recommend you use it. And I'm writing this from Wispr Flow only.",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.8.7",
+  "thumbsUp": 1,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_ads_intrusiveness",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_phase1_file_sharing",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_phase1_collaboration",
+      "rating": 3
+    }
+  ]
+}

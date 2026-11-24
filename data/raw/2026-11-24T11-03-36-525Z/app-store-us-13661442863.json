@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id107907968"
+    },
+    "name": {
+      "label": "十字"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-01-21T20:23:16-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "0.4.0"
+  },
+  "id": {
+    "label": "13661442863"
+  },
+  "title": {
+    "label": "真正的AI时代语音输入法"
+  },
+  "content": {
+    "label": "这个输入法对于中文语义的理解和标点符号的应用，简直让我大为震惊。这才是 AI 时代下真正的语音输入法，也是 AI 大模型在现实生活中的让人惊艳的应用。\n\n在我使用的几天时间里面，它完全代替了键盘，让我的语音输入效率得到了质的飞跃！",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

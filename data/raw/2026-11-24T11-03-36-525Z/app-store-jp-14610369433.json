@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1971808241"
+    },
+    "name": {
+      "label": "(o🪄◜ω◝ )o🪄(o🪄◜ω◝ )o🪄"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-09-30T03:07:08-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14610369433"
+  },
+  "title": {
+    "label": "可愛い"
+  },
+  "content": {
+    "label": "とても可愛いのが多くてとても良いと思う1つ提案があるけど私は検索欄を作り調べられるようになどそのテーマーに合うような検索欄を作ると良いと思う",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

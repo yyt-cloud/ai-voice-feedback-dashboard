@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1086423683"
+    },
+    "name": {
+      "label": "（；_；）（；_；）"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-26T15:22:10-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14715363081"
+  },
+  "title": {
+    "label": "課金誘導のための改悪"
+  },
+  "content": {
+    "label": "そんなにも課金させたいのか、わざわざコンパネにマイク入力ぶち込んで来やがった\nここのUI担当は無能が揃ってるらしい\n\n追記:改善する様子が見られないのでアンスト。さいなら〜",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

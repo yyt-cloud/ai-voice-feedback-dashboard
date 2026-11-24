@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id331717528"
+    },
+    "name": {
+      "label": "q w er t 54"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2025-07-03T02:52:30-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "15.6"
+  },
+  "id": {
+    "label": "12846833992"
+  },
+  "title": {
+    "label": "加入日語手寫就完美了"
+  },
+  "content": {
+    "label": "何時加入日語手寫。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

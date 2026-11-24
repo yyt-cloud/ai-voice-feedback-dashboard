@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id31849493"
+    },
+    "name": {
+      "label": "asdfsdf asdfasdfafgr3"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-04-12T09:32:50-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.0.7"
+  },
+  "id": {
+    "label": "13950680665"
+  },
+  "title": {
+    "label": "Best dictation software!"
+  },
+  "content": {
+    "label": "Take it from someone who has tried them all! Aqua Voice is the best dictation software. Been wanting Aqua Voice on the App Store for a long time, and it’s awesome to finally have it. The mobility is the biggest thing for me. I can use it while walking around my apartment, writing out thoughts for things like friends’ wedding speeches, or just getting ideas into ChatGPT without being stuck at my desk. It makes the tool feel way more woven into real life. Love having it on my phone.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6759074969&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

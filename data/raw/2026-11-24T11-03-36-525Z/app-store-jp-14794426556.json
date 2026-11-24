@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1772827868"
+    },
+    "name": {
+      "label": "宇宙一シェパード愛してる人"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-15T09:13:50-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14794426556"
+  },
+  "title": {
+    "label": "うん"
+  },
+  "content": {
+    "label": "予想どうりだった。使いやすい。悪い点はあまりない",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

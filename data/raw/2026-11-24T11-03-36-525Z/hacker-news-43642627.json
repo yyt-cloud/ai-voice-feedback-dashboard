@@ -1,0 +1,51 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "razemio"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "aqua",
+        "voice"
+      ],
+      "value": "I just tried it on a M4 Max MacBook Pro. When you have such a processor, it seems to be even faster than <em>Aqua</em> <em>Voice</em> 2, does more, optional supports open router AND is open source? Thank you so much for the recommendation!"
+    },
+    "story_title": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "aqua",
+        "voice"
+      ],
+      "value": "Show HN: <em>Aqua</em> <em>Voice</em> 2 – Fast <em>Voice</em> Input for Mac and Windows"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://withaqua.com"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_razemio",
+    "story_43634005"
+  ],
+  "author": "razemio",
+  "children": [
+    43649521,
+    43643692
+  ],
+  "comment_text": "I just tried it on a M4 Max MacBook Pro. When you have such a processor, it seems to be even faster than Aqua Voice 2, does more, optional supports open router AND is open source? Thank you so much for the recommendation!",
+  "created_at": "2025-04-10T10:46:42Z",
+  "created_at_i": 1744282002,
+  "objectID": "43642627",
+  "parent_id": 43637047,
+  "story_id": 43634005,
+  "story_title": "Show HN: Aqua Voice 2 – Fast Voice Input for Mac and Windows",
+  "story_url": "https://withaqua.com",
+  "updated_at": "2025-04-11T01:22:06Z"
+}

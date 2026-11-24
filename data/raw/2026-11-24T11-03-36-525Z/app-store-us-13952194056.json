@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1910964343"
+    },
+    "name": {
+      "label": "nick1udwig"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-04-12T19:31:37-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.0.7"
+  },
+  "id": {
+    "label": "13952194056"
+  },
+  "title": {
+    "label": "I don't type on my phone anymore"
+  },
+  "content": {
+    "label": "I'm dictating this review right now. It's good enough that there's no reason for me to use my two thumbs to input anymore. I started with the desktop app, but the speed up on the phone is even faster because typing on the phone is slower than the desktop.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6759074969&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

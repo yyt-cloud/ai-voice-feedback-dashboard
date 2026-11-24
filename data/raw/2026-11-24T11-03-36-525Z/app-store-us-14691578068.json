@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1374151455"
+    },
+    "name": {
+      "label": "Virgin destroyer69"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-20T19:13:59-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14691578068"
+  },
+  "title": {
+    "label": "Great"
+  },
+  "content": {
+    "label": "I am using it to write this review, yes, it's funny, but I recently broke my right hand, and I am right-handed, so this has been a lifesaver.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id567390171"
+    },
+    "name": {
+      "label": "ベルダン"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-07T17:18:24-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14763785718"
+  },
+  "title": {
+    "label": "音声入力が邪魔です"
+  },
+  "content": {
+    "label": "音声入力ボタンが中央に移動し誤タップが多発。スクロールをさせる気がない。改悪です。戻したければ課金しろは最悪の対応です。以前の状態に早く戻してください。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

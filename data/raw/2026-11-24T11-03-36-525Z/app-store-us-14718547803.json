@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1944098695"
+    },
+    "name": {
+      "label": "CoyoteColor24"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-27T10:32:54-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14718547803"
+  },
+  "title": {
+    "label": "Total game changer"
+  },
+  "content": {
+    "label": "The Wispr Flow app has been a total game changer. It's increased my productivity at least tenfold and I feel like I could use it even more than I do. I just need to remember to do so.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

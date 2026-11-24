@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id124557966"
+    },
+    "name": {
+      "label": "zeuslaser1"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-21T06:34:30-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14693275220"
+  },
+  "title": {
+    "label": "Too inconsistent to be a daily tool"
+  },
+  "content": {
+    "label": "I've been using Wispr Flow for six months now across Mac OS, Windows, my Android, and iPhone and it's just reliable in some use cases. Yes there are more new features. Note Taker is great as it rolls out.\n\nSome unnecessary bells and whistles, but the fact is that sometimes I could be dictating a very important text message and it just doesn't catch it or doesn't process it for whatever reason. Then I can't even retry it and you end up losing that. It happens once every few days but we're using these tools and paying for them as an insurance policy.\n\nIf the built-in Google text-to-speech works better and works more reliably, why would I use this going forward, outside of if I'm writing a whole ton in a particular month?",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

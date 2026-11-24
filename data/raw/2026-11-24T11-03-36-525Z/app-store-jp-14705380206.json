@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1794323471"
+    },
+    "name": {
+      "label": "〇⁰⃚⃙̴༝ ⁰⃚⃙̴〇ಣ"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-24T06:13:49-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14705380206"
+  },
+  "title": {
+    "label": "壁紙"
+  },
+  "content": {
+    "label": "壁紙が少ない💦",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1850800876"
+    },
+    "name": {
+      "label": "ｳﾗ-ﾗ-ﾗ-ﾗ-"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-10T00:10:21-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14648733322"
+  },
+  "title": {
+    "label": "可愛い楽しい"
+  },
+  "content": {
+    "label": "他の人の投稿を見ることができたり好きなキャラや、推しをキーボードに出来て癒される(♥ó㉨ò)ﾉ、やらなきゃ損♡、ホーム画面も変えれてうれぴい(๐›ω‹๐)੭",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "19f1c69f-dd30-4899-952f-38554c532c4f",
+  "userName": "hitesh K",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW7XRHF1GxKOsX0hftqQxkrr_dIHK3e0O9z2EopP23lkUT6YJGt",
+  "date": "2026-07-14T08:25:59.839Z",
+  "score": 2,
+  "scoreText": "2",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=19f1c69f-dd30-4899-952f-38554c532c4f",
+  "title": null,
+  "text": "Hello, I am a blind person using smartphones with screen reader technology. This keyboard app is good, but it has so many accessibility issues that hinder the experience of screen reader users. Specifically: • Buttons are not labeled properly. • Some buttons are not focusable by the screen reader in the latest update.",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.0.0",
+  "thumbsUp": 1,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_ads_frequency",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_usability",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_ads_intrusiveness",
+      "rating": 2
+    }
+  ]
+}

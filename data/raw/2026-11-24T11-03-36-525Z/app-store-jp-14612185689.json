@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id384602366"
+    },
+    "name": {
+      "label": "うたちねむしり"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-09-30T12:41:37-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14612185689"
+  },
+  "title": {
+    "label": "邪魔"
+  },
+  "content": {
+    "label": "マイクのアイコン邪魔です",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "3"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "3"
+  }
+}

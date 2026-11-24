@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1990863103"
+    },
+    "name": {
+      "label": "Wispr Flow Kevin Worker"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-13T12:03:42-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.0.1"
+  },
+  "id": {
+    "label": "14786664476"
+  },
+  "title": {
+    "label": "5 out of 5 🔥"
+  },
+  "content": {
+    "label": "I'm totally not a secret worker doing this, but it was so fire. It helped me get a job.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

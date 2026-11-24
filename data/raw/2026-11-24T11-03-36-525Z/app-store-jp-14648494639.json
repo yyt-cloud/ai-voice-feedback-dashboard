@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id236042343"
+    },
+    "name": {
+      "label": "ファインオーク"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-09T22:22:18-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14648494639"
+  },
+  "title": {
+    "label": "レビューを不当に消された"
+  },
+  "content": {
+    "label": "コンパネの改悪に関する評価を書いたらレビューを不当に消されました。\nそれはそれとしてUIを一向に元に戻さないので星1です。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

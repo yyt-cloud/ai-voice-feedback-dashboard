@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1622992660"
+    },
+    "name": {
+      "label": "ほわね"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-15T14:25:12-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14671046558"
+  },
+  "title": {
+    "label": "𝐒𝐢𝐦𝐞𝐣𝐢"
+  },
+  "content": {
+    "label": "使用中にたまに広告がでるところ以外、全て完璧です！",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

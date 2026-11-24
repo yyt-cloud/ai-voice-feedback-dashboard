@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1402452118"
+    },
+    "name": {
+      "label": "名前を教えられません"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2022-06-14T16:42:46-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "10.8.3"
+  },
+  "id": {
+    "label": "8774592993"
+  },
+  "title": {
+    "label": "可愛いやつばっかり！"
+  },
+  "content": {
+    "label": "かわいいキーボードばっかりで自分の写真や動画でキーボードを作ることができるところにびっくりしました。特にキーボードを動画に生きると言うのがとても面白かったです。話題のティックトックなどの動画をキーボードにすると次やる時の復讐がわかるようになります。新流してこのアプリはとても凄い！漢字がめちゃめちゃすみません音声でやっていたので漢字がめちゃくちゃになってしまいました。皆さんもこのアプリをやってみて下さい",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

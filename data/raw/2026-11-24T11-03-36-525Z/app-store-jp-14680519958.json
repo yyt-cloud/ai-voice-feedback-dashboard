@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1653295452"
+    },
+    "name": {
+      "label": "かづ～"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-17T23:59:28-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14680519958"
+  },
+  "title": {
+    "label": "可愛い((o(｡･ω･｡)o))"
+  },
+  "content": {
+    "label": "いろんな可愛い絵文字があって大好きです\nでもどんな入力をする時も可愛いので\nちゃんとした文を送りたい時は少し不便です\nでもすごく可愛いので愛用してます(*^^*)",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

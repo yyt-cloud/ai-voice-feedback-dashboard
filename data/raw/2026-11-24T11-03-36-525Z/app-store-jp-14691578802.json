@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1676062482"
+    },
+    "name": {
+      "label": "（め）"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-20T19:14:17-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14691578802"
+  },
+  "title": {
+    "label": "最高"
+  },
+  "content": {
+    "label": "自分の推しや、ペットを\nキーボードにすることができるので、ほんとに最高です！👍",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

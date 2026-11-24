@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1878028060"
+    },
+    "name": {
+      "label": "璃佑"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-09T03:02:10-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14645235668"
+  },
+  "title": {
+    "label": "いつもありがと"
+  },
+  "content": {
+    "label": "いつもお世話になっています。キーボードと言ったら＜Simeji！＞っていう印象になってきた。\n\n要望？なんですけど、\n\n検索機能\n\nが欲しいかなって。\nもうあったらすみません…。\nなければ、追加して欲しいかな、と思います。\nあの量から欲しいものを探すのはちょっと厳しいので……。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

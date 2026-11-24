@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1123599996"
+    },
+    "name": {
+      "label": "はなっげー"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-03T02:40:41-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14622130643"
+  },
+  "title": {
+    "label": "音声入力が邪魔やねんクソ"
+  },
+  "content": {
+    "label": "あ行と行を打つ時にそのすぐ上にある音声入力ボタン押してしまって勝手にSimejiのアプリに飛ばされて毎回クソ腹立つ。もっと端っことかにおけや。もうSimejiのキーボード使いません",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1881454838"
+    },
+    "name": {
+      "label": "しずぴーちゃん"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-09T05:12:30-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14645607022"
+  },
+  "title": {
+    "label": "凄い"
+  },
+  "content": {
+    "label": "投稿とかもできたりするしキーボードとかも結構かわいいやつに変えれるからすごい",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id498159830"
+    },
+    "name": {
+      "label": "らなさやなまめや"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-10T10:14:07-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14650587075"
+  },
+  "title": {
+    "label": "ここ一ヶ月"
+  },
+  "content": {
+    "label": "ここ1ヶ月でSimejiの反応がとても遅くなりました。 キーボードを開いて1番最初の一文字を入力すると、2.3秒フリーズして使いずらいです。 対応お願いします",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

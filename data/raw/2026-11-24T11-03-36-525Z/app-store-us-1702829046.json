@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id536718235"
+    },
+    "name": {
+      "label": "I don't want to see my eye"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2017-07-28T20:53:36-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "5.9"
+  },
+  "id": {
+    "label": "1702829046"
+  },
+  "title": {
+    "label": "Please fix"
+  },
+  "content": {
+    "label": "ADD A FREEKING ENGLISH OPTION DUDE SERIOUSLY I CANT REED CRAP",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id30434909"
+    },
+    "name": {
+      "label": "why nickname??"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-05-26T17:18:59-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "1.6.0"
+  },
+  "id": {
+    "label": "14109996721"
+  },
+  "title": {
+    "label": "No longer working on my iPhone"
+  },
+  "content": {
+    "label": "It keeps going to a dialog page explaining something about limitations imposed by Apple. It used to work great and still does on my Mac. But I’m deleting it off my phone and trying Whispr",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

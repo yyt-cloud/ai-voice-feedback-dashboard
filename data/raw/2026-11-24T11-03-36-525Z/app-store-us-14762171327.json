@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id36895160"
+    },
+    "name": {
+      "label": "Crashcup"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-07T08:09:50-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14762171327"
+  },
+  "title": {
+    "label": "Amazing"
+  },
+  "content": {
+    "label": "After spending a couple years trying to talk to AI chatbots like Claude and ChatGPT, I became so frustrated I wanted to throw my phone or my computer out the damn window. They never could understand homophones, articles, and sometimes pronouns. It was just absolutely maddening. I had to go back and amend 90% of what I spoke. Wispr Flow makes it so much easier, and it's been a breeze to communicate in a variety of formats.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id377910906"
+    },
+    "name": {
+      "label": "VincentWu800"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-08-06T19:08:16-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "2.3.0"
+  },
+  "id": {
+    "label": "14397209381"
+  },
+  "title": {
+    "label": "Burn battery"
+  },
+  "content": {
+    "label": "I paid the annual subscription, Song Huang. I loved the features. But it burns my phone’s battery seriously. After Typeless has been running, Auto-Lock stops working in all foreground apps (even Settings). Force quitting Typeless immediately restores normal Auto-Lock behavior. This looks like the app is leaving the idle timer disabled after voice/background operation.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

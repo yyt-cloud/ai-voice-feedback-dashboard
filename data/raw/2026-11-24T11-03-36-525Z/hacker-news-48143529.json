@@ -1,0 +1,39 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "cm2012"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Wispr flow cuts out ums. I love it"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Codex is now in the ChatGPT mobile app"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://openai.com/index/work-with-codex-from-anywhere/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_cm2012",
+    "story_48140529"
+  ],
+  "author": "cm2012",
+  "comment_text": "Wispr flow cuts out ums. I love it",
+  "created_at": "2026-05-15T01:43:07Z",
+  "created_at_i": 1778809387,
+  "objectID": "48143529",
+  "parent_id": 48142142,
+  "story_id": 48140529,
+  "story_title": "Codex is now in the ChatGPT mobile app",
+  "story_url": "https://openai.com/index/work-with-codex-from-anywhere/",
+  "updated_at": "2026-05-15T03:56:42Z"
+}

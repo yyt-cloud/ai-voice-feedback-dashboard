@@ -1,0 +1,42 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "aasasd"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "simeji"
+      ],
+      "value": "Stepping just a little beyond regular ‘loop and filter’ is already difficult without consulting the manual each time — being exacerbated by the impossibility of finding those things in the manual without skimming through most of it. Making an ‘if’ for variations in the input structure is easily a twenty-minute job. Outside of the basic features, Jq's syntax is increasingly arcane and unintuitive—maybe those working with it daily do remember the ‘advanced’ stuff, but I don't.<p>I actually collected a sizable list of alternatives to Jq:<p><a href=\"https://github.com/TomConlin/json2xpath\" rel=\"nofollow\">https://github.com/TomConlin/json2xpath</a><p><a href=\"https://github.com/antonmedv/fx\" rel=\"nofollow\">https://github.com/antonmedv/fx</a><p><a href=\"https://github.com/simeji/jid\" rel=\"nofollow\">https://github.com/<em>simeji</em>/jid</a><p><a href=\"https://github.com/jmespath/jp\" rel=\"nofollow\">https://github.com/jmespath/jp</a><p><a href=\"https://jsonnet.org\" rel=\"nofollow\">https://jsonnet.org</a><p><a href=\"https://github.com/borkdude/jet\" rel=\"nofollow\">https://github.com/borkdude/jet</a><p><a href=\"https://github.com/jzelinskie/faq\" rel=\"nofollow\">https://github.com/jzelinskie/faq</a><p><a href=\"https://github.com/dflemstr/rq\" rel=\"nofollow\">https://github.com/dflemstr/rq</a><p><a href=\"https://github.com/mgdm/htmlq\" rel=\"nofollow\">https://github.com/mgdm/htmlq</a><p>And there's someone else's list of stuff around Jq: <a href=\"https://github.com/fiatjaf/awesome-jq\" rel=\"nofollow\">https://github.com/fiatjaf/awesome-jq</a><p>However, personally I think that next time I might instead fire up Hy, and use the regular syntax with the functional approach for any convoluted processing I come up with. Last time I mentioned this, another HNer made a Jq-like tool with Lisp-like syntax: <a href=\"https://github.com/cube2222/jql\" rel=\"nofollow\">https://github.com/cube2222/jql</a> (from <a href=\"https://news.ycombinator.com/item?id=21981158\" rel=\"nofollow\">https://news.ycombinator.com/item?id=21981158</a>)."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Tips on adding JSON output to your CLI app"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_aasasd",
+    "story_29435786"
+  ],
+  "author": "aasasd",
+  "comment_text": "Stepping just a little beyond regular ‘loop and filter’ is already difficult without consulting the manual each time — being exacerbated by the impossibility of finding those things in the manual without skimming through most of it. Making an ‘if’ for variations in the input structure is easily a twenty-minute job. Outside of the basic features, Jq&#x27;s syntax is increasingly arcane and unintuitive—maybe those working with it daily do remember the ‘advanced’ stuff, but I don&#x27;t.<p>I actually collected a sizable list of alternatives to Jq:<p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;TomConlin&#x2F;json2xpath\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;TomConlin&#x2F;json2xpath</a><p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;antonmedv&#x2F;fx\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;antonmedv&#x2F;fx</a><p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;simeji&#x2F;jid\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;simeji&#x2F;jid</a><p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;jmespath&#x2F;jp\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;jmespath&#x2F;jp</a><p><a href=\"https:&#x2F;&#x2F;jsonnet.org\" rel=\"nofollow\">https:&#x2F;&#x2F;jsonnet.org</a><p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;borkdude&#x2F;jet\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;borkdude&#x2F;jet</a><p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;jzelinskie&#x2F;faq\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;jzelinskie&#x2F;faq</a><p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;dflemstr&#x2F;rq\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;dflemstr&#x2F;rq</a><p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;mgdm&#x2F;htmlq\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;mgdm&#x2F;htmlq</a><p>And there&#x27;s someone else&#x27;s list of stuff around Jq: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;fiatjaf&#x2F;awesome-jq\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;fiatjaf&#x2F;awesome-jq</a><p>However, personally I think that next time I might instead fire up Hy, and use the regular syntax with the functional approach for any convoluted processing I come up with. Last time I mentioned this, another HNer made a Jq-like tool with Lisp-like syntax: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;cube2222&#x2F;jql\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;cube2222&#x2F;jql</a> (from <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=21981158\" rel=\"nofollow\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=21981158</a>).",
+  "created_at": "2021-12-06T16:07:42Z",
+  "created_at_i": 1638806862,
+  "objectID": "29461447",
+  "parent_id": 29459418,
+  "story_id": 29435786,
+  "story_title": "Tips on adding JSON output to your CLI app",
+  "story_url": "https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/",
+  "updated_at": "2024-09-20T09:59:24Z"
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id499649294"
+    },
+    "name": {
+      "label": "Calipatrickmartin"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-06T16:03:45-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14759470584"
+  },
+  "title": {
+    "label": "Efficient"
+  },
+  "content": {
+    "label": "It makes my workflow and response time much easier. I always felt like I knew what to say, but it was so much harder to put my thoughts into words.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

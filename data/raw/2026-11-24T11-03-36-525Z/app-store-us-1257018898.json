@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id397898254"
+    },
+    "name": {
+      "label": "Rinniechan334"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2015-09-13T08:10:37-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "3.2"
+  },
+  "id": {
+    "label": "1257018898"
+  },
+  "title": {
+    "label": "English?"
+  },
+  "content": {
+    "label": "Can you please add a  english setting to this I would rate it 5 stars if you did 😊🎎",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id306138512"
+    },
+    "name": {
+      "label": "Lucasatlu"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-08-09T22:27:58-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "2.3.0"
+  },
+  "id": {
+    "label": "14409292387"
+  },
+  "title": {
+    "label": "It drains the battery fast, and the phone gets boiling hot."
+  },
+  "content": {
+    "label": "Ever since the last couple of updates, I've run into a major issue: my iPhone gets extremely hot. \n\nWhenever I close Typeless, the problem stops. I tried uninstalling it and downloading the new version, but the issue is still there. \n\nI really hope the developers can fix this soon. My battery gets so hot it honestly feels like it's going to explode.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

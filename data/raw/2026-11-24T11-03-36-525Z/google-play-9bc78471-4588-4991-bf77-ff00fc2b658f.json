@@ -1,0 +1,25 @@
+{
+  "id": "9bc78471-4588-4991-bf77-ff00fc2b658f",
+  "userName": "Alicia Hampton",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIVhmZiEBTUGQuK9riUjKLRYYdzbmPV-X6im2g0Nqp9otSsUQ=mo",
+  "date": "2026-11-03T23:43:56.846Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.creativeapp.voiceinput&reviewId=9bc78471-4588-4991-bf77-ff00fc2b658f",
+  "title": null,
+  "text": "It is good",
+  "replyDate": null,
+  "replyText": null,
+  "version": "1.8",
+  "thumbsUp": 1,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_visual_appeal",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_phase1_messaging",
+      "rating": 1
+    }
+  ]
+}

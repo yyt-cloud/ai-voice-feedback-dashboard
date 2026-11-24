@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id560800697"
+    },
+    "name": {
+      "label": "ttffgcf"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2018-11-01T19:06:03-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "7.0.1"
+  },
+  "id": {
+    "label": "3370552481"
+  },
+  "title": {
+    "label": "Awesome"
+  },
+  "content": {
+    "label": "Awesome",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

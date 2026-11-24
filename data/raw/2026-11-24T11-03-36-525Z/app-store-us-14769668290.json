@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id86353064"
+    },
+    "name": {
+      "label": "Ryan in SF"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-09T05:42:47-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14769668290"
+  },
+  "title": {
+    "label": "Autocorrect when typing is horrendous"
+  },
+  "content": {
+    "label": "The voice mode is incredibly well done, better than Apple's by far. It's unusable, though, because when you do normal typing with this keyboard on, it has the worst spell check on earth. It's nonexistent, really, or even worse, it takes what was correct and makes it incorrect. They need to fix this. Until then I am removing the app",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id518039850"
+    },
+    "name": {
+      "label": "dr4kool4"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-20T04:15:05-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14688915244"
+  },
+  "title": {
+    "label": "Bad user experience"
+  },
+  "content": {
+    "label": "This is probably on Apple's side but the keyboard either is always listening, which I don't want, or it closes automatically and you have to manually open it again in the app. This is just a bad user experience and does not fulfill my use cases. I'd rather deal with Apple's native bad voice dictation than to constantly have to turn this on and off",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

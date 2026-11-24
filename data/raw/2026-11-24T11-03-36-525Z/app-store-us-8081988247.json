@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1350250255"
+    },
+    "name": {
+      "label": "Kawai Uzamailu"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2021-11-30T20:08:46-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "10.6"
+  },
+  "id": {
+    "label": "8081988247"
+  },
+  "title": {
+    "label": "Nice app"
+  },
+  "content": {
+    "label": "THIS APP IS AMAZING I JUST INSTALLED IT ITS AMAZING AND HELPFUL FOR ME TO NOW COMMUNICATE WITH MY JAPANESE FRIEND",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

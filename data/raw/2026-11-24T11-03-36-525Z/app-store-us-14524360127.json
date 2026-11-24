@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1946476737"
+    },
+    "name": {
+      "label": "Crazy Arthur008"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-09-08T00:37:59-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.4.1"
+  },
+  "id": {
+    "label": "14524360127"
+  },
+  "title": {
+    "label": "well ，nice experience"
+  },
+  "content": {
+    "label": "This voice input app is surprisingly good! The speech recognition is fast and accurate, even when I speak at a normal conversational pace. It saves me a lot of time when typing long messages, and the overall experien ce feels smooth and natural. Definitely one of the best voice input tools I've tried so far!",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6766791501&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

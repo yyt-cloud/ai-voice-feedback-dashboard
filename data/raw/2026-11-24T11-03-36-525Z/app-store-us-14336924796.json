@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1945066609"
+    },
+    "name": {
+      "label": "Hao wang11"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-07-22T20:55:47-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "2.1.0"
+  },
+  "id": {
+    "label": "14336924796"
+  },
+  "title": {
+    "label": "频繁中断、内容直接丢失，售后也未解决"
+  },
+  "content": {
+    "label": "我支付了30美元订阅Typeless Pro，实际只使用了大约3—5天。单次录音通常只有1—3分钟，而且是在同一个窗口、没有切换App、也没有任何误操作的情况下，录音仍会突然中断。购买当天十分钟内连续发生了3—4次，几天内累计出现十几次。\n\n最无法接受的不是单纯中断，而是中断后已经口述的内容既没有保存，也没有转录，而是直接消失。这让它根本无法用于任何重要记录。\n\n向客服反馈后，对方让我进入“History”，左滑记录，再点击“More”和“Retry transcript”。但他们提供的只是一张局部界面截图，无法看出适用的设备和系统版本，而且与我iPhone上的Typeless 2.1.0实际界面不一致。我重新下载安装，并使用同一个Apple账号登录，仍然找不到他们所说的页面和恢复入口。反复引导用户操作一个实际无法找到的功能，并没有解决内容丢失的问题。\n\n退款方面，我自己申请过一次，又联系Apple工作人员协助申请过两次，均未成功。Apple客服告诉我是开发者或商家方面没有同意，Typeless则一直让我重新联系Apple。我后来只要求Typeless明确书面回复“是否同意退款”，也始终没有得到正面回答。\n\n此外，在实际使用中，我没有感受到30美元Pro版与免费版之间有什么明显区别。对于一个主打语音记录的产品，频繁中断、内容直接丢失属于根本性问题；售后既没有提供可执行的解决方案，也没有明确回应退款态度。不建议用它记录任何重要内容。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

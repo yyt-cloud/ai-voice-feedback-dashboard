@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1934699985"
+    },
+    "name": {
+      "label": "茉弥🚄💨🩵🩶"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-30T16:37:46-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14731515957"
+  },
+  "title": {
+    "label": "普通のキーボードよりも使いやすい"
+  },
+  "content": {
+    "label": "Simejiは普通のキーボードよりも使いやすくて変換機能もあるからLINEを送る時に使いやすい",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

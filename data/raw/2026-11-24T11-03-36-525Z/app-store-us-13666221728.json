@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id178833819"
+    },
+    "name": {
+      "label": "Elio101"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-01-23T04:56:37-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "0.4.0"
+  },
+  "id": {
+    "label": "13666221728"
+  },
+  "title": {
+    "label": "Great app, questionable active listening selections"
+  },
+  "content": {
+    "label": "I'm writing this review using Typeless. However, I'm not happy with one specific function. The developer hasn't provided enough options to turn off the active listening feature. There are only three selections for when the app becomes inactive: \n1. Never\n2. 5 minutes\n3. 20 minutes\n\nWithout the ability to turn it off manually, the yellow dot (indicating the microphone is on) is always there. This means the app is actively listening, which I do not feel comfortable with. \n\nI think it's a great app, but until the developer fixes this, it's a concern. The microphone should be turned off immediately after I finish talking or after I tap \"finished.\"",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

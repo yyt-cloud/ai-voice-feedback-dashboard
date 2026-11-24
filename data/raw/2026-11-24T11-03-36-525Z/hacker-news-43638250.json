@@ -1,0 +1,50 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "willwade"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "aqua",
+        "voice"
+      ],
+      "value": "You’re real market you need to go hard on is the assistive tech market. You know the biggest companies in this space are those solving problems for dyslexia where govt grants in eg UK fund pretty much all their work? I had an access to work assessment and they recommend like sweets stuff from texthelp. It’s then paid for by the government following these assessments. But it’s crap. It literally is a crap tool for adhd or dyslexia because these users literally CANT remember or deal with barriers like learning how to dictate correctly. <em>Aqua</em> <em>voice</em> solves this. I’m your biggest fan. I recommend it in my AT assessments all the time :)"
+    },
+    "story_title": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "aqua",
+        "voice"
+      ],
+      "value": "Show HN: <em>Aqua</em> <em>Voice</em> 2 – Fast <em>Voice</em> Input for Mac and Windows"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://withaqua.com"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_willwade",
+    "story_43634005"
+  ],
+  "author": "willwade",
+  "children": [
+    43644792
+  ],
+  "comment_text": "You’re real market you need to go hard on is the assistive tech market. You know the biggest companies in this space are those solving problems for dyslexia where govt grants in eg UK fund pretty much all their work? I had an access to work assessment and they recommend like sweets stuff from texthelp. It’s then paid for by the government following these assessments. But it’s crap. It literally is a crap tool for adhd or dyslexia because these users literally CANT remember or deal with barriers like learning how to dictate correctly. Aqua voice solves this. I’m your biggest fan. I recommend it in my AT assessments all the time :)",
+  "created_at": "2025-04-09T21:33:02Z",
+  "created_at_i": 1744234382,
+  "objectID": "43638250",
+  "parent_id": 43634005,
+  "story_id": 43634005,
+  "story_title": "Show HN: Aqua Voice 2 – Fast Voice Input for Mac and Windows",
+  "story_url": "https://withaqua.com",
+  "updated_at": "2025-04-10T15:21:49Z"
+}

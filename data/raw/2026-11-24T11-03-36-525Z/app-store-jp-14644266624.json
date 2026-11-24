@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1219351156"
+    },
+    "name": {
+      "label": "Lapis ‪ஐ‬"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-08T19:40:59-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14644266624"
+  },
+  "title": {
+    "label": "音声入力を元に戻してください"
+  },
+  "content": {
+    "label": "音声入力が裏で開いている動画の音を広うようになった。しかもAIしか無くなったのか立ち上がりに前より時間がかかるし、話しながら何を入力しているか確認出来なくなったのでとても不便。散々話した後に完了を押してみたらAIが作成した文章が全然違うので使えない。前の仕様に戻して欲しい。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

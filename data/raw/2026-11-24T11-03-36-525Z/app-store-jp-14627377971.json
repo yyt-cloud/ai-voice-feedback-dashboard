@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1500641940"
+    },
+    "name": {
+      "label": "ポコポコのすけ"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-04T09:30:33-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14627377971"
+  },
+  "title": {
+    "label": "AIがアホすぎ"
+  },
+  "content": {
+    "label": "SimejiのAIがアホすぎる\n暇だったんでSimejiのAIに質問の所でAIとしりとりをしてみたら、「僕が、最後に「ん」って着いちゃったから、僕の勝ち！」とか言い出して意味不明。\nその後も色々喋ったが、本来の用途の、質問をしてみても全然検討違いな答えを出してくるし、そもそもこのアプリはAIと話すアプリじゃなくて、キーボードアプリっていうのは知ってる、だが流石にAIに学習能力が無さすぎる。\nこれだったらもうこんな機能付けない方がマシだと思います。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

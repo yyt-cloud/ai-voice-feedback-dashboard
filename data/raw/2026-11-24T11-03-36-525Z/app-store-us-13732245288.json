@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1834728758"
+    },
+    "name": {
+      "label": "cha2azuki"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-02-09T16:23:08-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "16.4.1"
+  },
+  "id": {
+    "label": "13732245288"
+  },
+  "title": {
+    "label": "可愛い"
+  },
+  "content": {
+    "label": "可愛いし自分お気に入りのもが作れて楽しいです",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

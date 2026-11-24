@@ -1,0 +1,29 @@
+{
+  "id": "b4fc90e9-f30e-40e7-a9e5-ce789954c819",
+  "userName": "Todd Peters",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXFa4vSn3vxUZ48B56Nat4bxjRuzCfXjOY7fpP0jWPzjvnPzMDp",
+  "date": "2026-11-19T19:02:28.309Z",
+  "score": 3,
+  "scoreText": "3",
+  "url": "https://play.google.com/store/apps/details?id=com.wispr.flowapp&reviewId=b4fc90e9-f30e-40e7-a9e5-ce789954c819",
+  "title": null,
+  "text": "The responsiveness is okay and the accessibility is okay, but the AI feature is sorely lacking. I use another AI voice-to-text (Typeless), and it correctly spells virtually all hockey players' names once it knows what you're talking about, which is impressive. This app did none of that. So the non-intuitive spelling makes it a fail for me.",
+  "replyDate": null,
+  "replyText": null,
+  "version": null,
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_usability",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_phase1_messaging",
+      "rating": 2
+    }
+  ]
+}

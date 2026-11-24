@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id335196854"
+    },
+    "name": {
+      "label": "TannenSkriver"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-01-26T13:14:05-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "0.4.0"
+  },
+  "id": {
+    "label": "13679148841"
+  },
+  "title": {
+    "label": "Actually insanely helpful AI tool"
+  },
+  "content": {
+    "label": "Communicate 10x faster",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

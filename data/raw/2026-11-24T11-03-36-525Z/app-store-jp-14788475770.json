@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1465938982"
+    },
+    "name": {
+      "label": "山口暁美"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-13T23:36:11-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14788475770"
+  },
+  "title": {
+    "label": "かわいほう"
+  },
+  "content": {
+    "label": "わたし的にフルアクセスを許可したくありません\n研究に送信しないと書いてあるがとても正直怖いです中国の会社であり元々は日本の会社である日本の会社ならフルアクセスしなくても行けたと思うが",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "4"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "4"
+  }
+}

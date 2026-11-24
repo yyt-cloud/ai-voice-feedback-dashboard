@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1401323225"
+    },
+    "name": {
+      "label": "ᕱ⑅ᕱ(¯o̴̶̷̤ꑣo̴̶̷̤¯)🍼"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-24T07:15:06-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14705609779"
+  },
+  "title": {
+    "label": "良き"
+  },
+  "content": {
+    "label": "ふつーにかわよくキーボード変えれるしオリジナルでもかえれちゃうからめっちゃ良き！入れてない人はいれたほうがいい！",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

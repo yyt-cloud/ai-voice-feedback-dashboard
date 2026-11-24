@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1303939622"
+    },
+    "name": {
+      "label": "Zombie_Knight24"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-09-07T10:40:21-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "2.6.0"
+  },
+  "id": {
+    "label": "14522257574"
+  },
+  "title": {
+    "label": "PARAPHRASES WHAT YOU WANT TO SAY"
+  },
+  "content": {
+    "label": "I have to say that the concept of typeless is really original and creative, it’s useful in many situations, especially if you want to save time instead from typing, especially if it’s a lot of typing, it especially comes in handy when you are sending a text message as its your voice and tone coming across the speech to text. However, this doesn’t come with its cons and I think this is a huge con that made me rate it a 3 stars instead of a 5 stars; every time I use Typeless it just completely paraphrases what I want to say. It just summarizes your speech instead of just saying what you actually wanted to say, and sometimes I have to go back to the text to fix it because it never gets the point across when I have a lot to say. I think that the developers should work on making typeless say what you are actually saying instead of just paraphrasing what it thinks you are saying. In a way typeless works as the keyboard autocorrector, but for your speech.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

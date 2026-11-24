@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id14271213"
+    },
+    "name": {
+      "label": "jdgvzs"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-22T06:01:15-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "17.6"
+  },
+  "id": {
+    "label": "14820705004"
+  },
+  "title": {
+    "label": "予測変換がおかしい"
+  },
+  "content": {
+    "label": "キーボードのデザインが可愛いのと変換記憶がすぐ消せるのがいいですが、予測変換がおかしいです。一般的にその変換する人は少数派なのでは？と思うものが第一候補に出てくるので使いにくいです。\n主要地名は基本ローマ字やカタカナで出てきてTOKYO駅やヨコハマ駅など、あとは朝昼版とか出てきて毎度うんざりしてます。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

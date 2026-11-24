@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id18882792"
+    },
+    "name": {
+      "label": "The Original Pixelchimp"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-08-10T21:02:00-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.3.1"
+  },
+  "id": {
+    "label": "14413067064"
+  },
+  "title": {
+    "label": "Finally, a speech-to-text that actually works."
+  },
+  "content": {
+    "label": "If I could give it 10 stars, I would. Typeless is one of the best apps I've ever seen, and I gladly paid the yearly subscription after using it for less than 10 minutes. It's that good. You just have to try it to understand. \n\nGreat job, Typeless crew.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

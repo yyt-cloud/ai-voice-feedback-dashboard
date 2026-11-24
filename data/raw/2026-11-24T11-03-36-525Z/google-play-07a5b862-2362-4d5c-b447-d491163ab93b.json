@@ -1,0 +1,29 @@
+{
+  "id": "07a5b862-2362-4d5c-b447-d491163ab93b",
+  "userName": "pablo rovira",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIiplN7Ks5Wcy437U47h3S0eV9ARn-Xf63bz1tDZwdA1QxKmQ=mo",
+  "date": "2026-07-20T02:33:19.140Z",
+  "score": 2,
+  "scoreText": "2",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=07a5b862-2362-4d5c-b447-d491163ab93b",
+  "title": null,
+  "text": "it will be a great app if it wasn't because you have to change from voice typing to normal typing wasting your time and not fluid interface and is ridiculous they are just trying to show the big button for the speech and there is no connection or fluid interaction with the normal typing this is really bad but it could be good right now it's like a work of art with garbage over it",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.1.0",
+  "thumbsUp": 2,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_visual_appeal",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_phase1_collaboration",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_ads_presence",
+      "rating": 2
+    }
+  ]
+}

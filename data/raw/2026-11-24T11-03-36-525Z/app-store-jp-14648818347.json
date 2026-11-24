@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1948121181"
+    },
+    "name": {
+      "label": "🍓=͟͟͞͞=( '-' 🍓 )ｲﾁｺﾞﾊﾟﾝﾁ"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-10T00:46:36-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14648818347"
+  },
+  "title": {
+    "label": "あーね"
+  },
+  "content": {
+    "label": "広告？みたいなんであるキーボードがやりたいんですけどあれっていつ実装されるんですか",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1070362564"
+    },
+    "name": {
+      "label": "Yannnnnnnss"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2021-06-30T07:29:14-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "10.2"
+  },
+  "id": {
+    "label": "7523322510"
+  },
+  "title": {
+    "label": "Help 😀"
+  },
+  "content": {
+    "label": "I very much love this app because my father speaks Japanese so I downloaded this but there's i little bit of a problem...I cant understand i thing they say that there is a English language here but I don't know where to go...so please help 😃",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

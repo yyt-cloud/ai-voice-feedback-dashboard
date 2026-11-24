@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1020913201"
+    },
+    "name": {
+      "label": "Elmo Mimimi"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2020-06-18T01:26:44-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "8.9"
+  },
+  "id": {
+    "label": "6090729165"
+  },
+  "title": {
+    "label": "before i start i have a question"
+  },
+  "content": {
+    "label": "is it safe to allow full access? will my information be safe or is there some sort of malware anywhere? im just a paranoid person so i was just wondering.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

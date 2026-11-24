@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id313409324"
+    },
+    "name": {
+      "label": "MonocIes"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-06-02T22:28:38-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "1.8.0"
+  },
+  "id": {
+    "label": "14137899041"
+  },
+  "title": {
+    "label": "Your biggest weakness is easily fixed."
+  },
+  "content": {
+    "label": "When the app gets opened, give the option for a blank notepad.And implement some shortcuts for the love of God. If you do both of those things, I'll give you a five.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

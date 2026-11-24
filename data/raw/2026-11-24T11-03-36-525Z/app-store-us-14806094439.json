@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id862990797"
+    },
+    "name": {
+      "label": "Finch Fentress"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-18T12:17:41-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "2.0.3"
+  },
+  "id": {
+    "label": "14806094439"
+  },
+  "title": {
+    "label": "App review."
+  },
+  "content": {
+    "label": "This is a fantastic app. However, for 15 dollars a month, I can't afford to pay That much for what I need it to do, which is talk to text across platforms.Not when there's other apps I'm using right now for free.\n\n\nAlso, it'd be nice for it to work without having to switch back and forth between apps sometimes.But again, it is a great app if you can afford the monthly fee.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

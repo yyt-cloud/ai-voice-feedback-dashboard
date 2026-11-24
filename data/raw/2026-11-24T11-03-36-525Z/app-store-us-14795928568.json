@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1091271682"
+    },
+    "name": {
+      "label": "Aelaeos"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-15T17:52:18-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.0.1"
+  },
+  "id": {
+    "label": "14795928568"
+  },
+  "title": {
+    "label": "Wispr Flow is absolutely the best!"
+  },
+  "content": {
+    "label": "I just began using Wispr Flow, and it's amazing! I'm only sorry that I didn't do it months ago. It could have saved me so much time and frustration with the default Apple microphone, which repeatedly, usually in every paragraph and sometimes in every sentence, makes egregious mistakes. \n\nTime is our most precious asset, and having to go back and correct Apple microphone dictate mistakes is an enormous waste of time.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

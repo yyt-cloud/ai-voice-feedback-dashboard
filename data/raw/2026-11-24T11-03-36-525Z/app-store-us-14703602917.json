@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id230521139"
+    },
+    "name": {
+      "label": "SammyGNY"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-23T19:07:38-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14703602917"
+  },
+  "title": {
+    "label": "Better than Apple Voice"
+  },
+  "content": {
+    "label": "I find overall it works better than Apple voice, but it still gets some words incorrect even after I try to speak very clearly.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

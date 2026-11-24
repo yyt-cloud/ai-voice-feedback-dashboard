@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1693095626"
+    },
+    "name": {
+      "label": "Nohojf"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-11T13:51:17-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.7"
+  },
+  "id": {
+    "label": "14655298917"
+  },
+  "title": {
+    "label": "5 stars"
+  },
+  "content": {
+    "label": "The reason I vote five stars is because it never gives you a mistake. Like, when you say a mistake, but you say the right thing, it always clears that mistake. So that's why I love it.\n\nAnd you can get pro just by logging in. When I logged in I got pro, like it originally said, \"Enjoy your one month of pro.\" Y'all need to try it right now",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6766791501&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

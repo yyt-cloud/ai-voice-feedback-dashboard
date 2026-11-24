@@ -1,0 +1,39 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "RZelaya"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "From what I understand Wispr Flow distributes directly from their website and doesn't ship through the Mac App Store, so they don't go through Apple's App Store review at all. They use the Accessibility API the same way the direct version of WhisperPad does. The 2.4.5 limitation really only kicks in if you want App Store presence."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Apple rejected my dictation app for using the accessibility API"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://www.mitmllc.com/blog/apple-rejected-my-dictation-app/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_RZelaya",
+    "story_48369088"
+  ],
+  "author": "RZelaya",
+  "comment_text": "From what I understand Wispr Flow distributes directly from their website and doesn&#x27;t ship through the Mac App Store, so they don&#x27;t go through Apple&#x27;s App Store review at all. They use the Accessibility API the same way the direct version of WhisperPad does. The 2.4.5 limitation really only kicks in if you want App Store presence.",
+  "created_at": "2026-06-02T14:26:07Z",
+  "created_at_i": 1780410367,
+  "objectID": "48370721",
+  "parent_id": 48370522,
+  "story_id": 48369088,
+  "story_title": "Apple rejected my dictation app for using the accessibility API",
+  "story_url": "https://www.mitmllc.com/blog/apple-rejected-my-dictation-app/",
+  "updated_at": "2026-06-02T14:37:09Z"
+}

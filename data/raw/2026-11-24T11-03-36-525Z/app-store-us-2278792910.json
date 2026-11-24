@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id500652468"
+    },
+    "name": {
+      "label": "UsagiAriel626"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2018-03-06T18:13:27-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "6.4"
+  },
+  "id": {
+    "label": "2278792910"
+  },
+  "title": {
+    "label": "love it"
+  },
+  "content": {
+    "label": "other than the fact that i can't read japanese. So far this app is great!!",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

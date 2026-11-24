@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1910538015"
+    },
+    "name": {
+      "label": "Kyle Rewerts"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-04-11T13:20:10-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.0.7"
+  },
+  "id": {
+    "label": "13947705049"
+  },
+  "title": {
+    "label": "Greatest app out there"
+  },
+  "content": {
+    "label": "Aqua Voice just makes everything easier. It’s the convenience factor you never knew you needed. The voice to text is very accurate. You can also put this AI to work, helping with other needs as well. 10/10 great app",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6759074969&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

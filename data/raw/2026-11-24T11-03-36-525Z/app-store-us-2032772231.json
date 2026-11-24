@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id101490059"
+    },
+    "name": {
+      "label": "nes1234"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2017-12-27T11:00:21-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "6.3"
+  },
+  "id": {
+    "label": "2032772231"
+  },
+  "title": {
+    "label": "Good app but..."
+  },
+  "content": {
+    "label": "このアプリは本当に良いです！しかし、ただ英語のオプションがあることを願っています。私はちょうどいくつかのひらがなを知っているので、それを理解するのは難しいです。それが私が5つ星のうち4つを評価した唯一の理由です！素晴らしいアプリ。私は絶対にお勧めします。そして、はい、これを翻訳するためにインターネットを使用している可能性があります。\n\nThis app is really good! However, I do wish that there was an option for just English. I have a hard time understanding it because I only know some hiragana. That is the only reason I rated it 4 out of 5 stars! Great app. I would definitely recommend. And yes a may have used the internet to translate this.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "17"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "26"
+  }
+}

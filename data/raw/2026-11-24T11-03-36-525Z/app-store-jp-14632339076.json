@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id992021424"
+    },
+    "name": {
+      "label": "このニックネームは既に使用されてんぞ。"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-05T16:20:14-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14632339076"
+  },
+  "title": {
+    "label": "予測変換が微妙"
+  },
+  "content": {
+    "label": "好きな画像をキーボードにできたり超変換で普段使う単語を手軽に出せるのはいいけど予測変換が微妙な時が多々ある。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

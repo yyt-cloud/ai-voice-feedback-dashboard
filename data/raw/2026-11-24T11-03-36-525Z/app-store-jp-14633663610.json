@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1952654186"
+    },
+    "name": {
+      "label": "ウォニもち"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-06T02:05:55-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14633663610"
+  },
+  "title": {
+    "label": "、、、"
+  },
+  "content": {
+    "label": "キーボード変えれてモチベ上がるし友達の変顔とかできるからとてもいい嫌なことがあったらキーボード見れば落ち着く",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

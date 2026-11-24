@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1155944661"
+    },
+    "name": {
+      "label": "kehjndjsijshfw"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2022-10-30T17:54:49-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "11.5"
+  },
+  "id": {
+    "label": "9239003481"
+  },
+  "title": {
+    "label": "アプリは良いだから…… The app is good, however......"
+  },
+  "content": {
+    "label": "(下手な日本語を我慢してください)\nアプリは良いだからもしあなたが英語ならあなたは運が悪い。アメリカから来ましたとアプリが大好きだからそれは使用する難しい。英語翻訳がほしい。わかったがほしい。足すを英語翻訳ください。読んでくれてありがとうございます\n\n(Put up with my bad Japanese please)\nThe app is good, however if you're english you're of luck. I'm from America and I love this app but it's hard to use. I want an English translation. I want to understand. Add an English translation please. Thanks for reading",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "2"
+  }
+}

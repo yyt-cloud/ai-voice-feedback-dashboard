@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1438563548"
+    },
+    "name": {
+      "label": "Venusbeanus"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2024-04-21T11:53:24-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "13.4"
+  },
+  "id": {
+    "label": "11185773207"
+  },
+  "title": {
+    "label": "PLEASE FOR THE LOVE OF GOD ADD AN ENGLISH TRANSLATOR"
+  },
+  "content": {
+    "label": "I can’t do anything on the app because I can’t read anything 😭😭",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

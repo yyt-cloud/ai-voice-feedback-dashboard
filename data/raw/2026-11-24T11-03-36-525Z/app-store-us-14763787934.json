@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id257322004"
+    },
+    "name": {
+      "label": "Jester7890"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-07T17:19:12-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14763787934"
+  },
+  "title": {
+    "label": "Inconsistent"
+  },
+  "content": {
+    "label": "It's great when it works, but the number of times it's just started loading and essentially said that it needs to connect to the internet (prior to even having the message) makes me feel as if I should just use regular auto-dictate for the lack of accuracy, for the amount of time that it ultimately adds to me texting, given the number of times it just lags and/or crashes. Very disappointed with the level of consistency.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

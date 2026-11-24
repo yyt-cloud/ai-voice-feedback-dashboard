@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1980153568"
+    },
+    "name": {
+      "label": "依然阿福90"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-15T21:41:07-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "2.8.0"
+  },
+  "id": {
+    "label": "14672112848"
+  },
+  "title": {
+    "label": "功能需求"
+  },
+  "content": {
+    "label": "语音识别各方面都挺好的，但是在拼音上面能不能加上模糊拼音的选项？",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

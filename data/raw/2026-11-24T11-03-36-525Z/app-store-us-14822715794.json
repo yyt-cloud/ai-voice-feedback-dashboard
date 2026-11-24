@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1631857377"
+    },
+    "name": {
+      "label": "very very good Bruv"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-22T16:56:01-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "2.0.4"
+  },
+  "id": {
+    "label": "14822715794"
+  },
+  "title": {
+    "label": "9/10"
+  },
+  "content": {
+    "label": "it's good and all but sometimes it mistakes what i'm saying and it just messes up",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

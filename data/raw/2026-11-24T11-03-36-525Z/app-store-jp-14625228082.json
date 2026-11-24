@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id635950549"
+    },
+    "name": {
+      "label": "みるの。"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-03T20:32:49-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14625228082"
+  },
+  "title": {
+    "label": "結局しばらくは使い続けはするんだろうけど…"
+  },
+  "content": {
+    "label": "予測変換や顔文字などが便利なのでずっと使っていたけど、いつだったかの更新から音声入力のボタンの位置がものすごく邪魔な位置に来てから使いづらい。左右の文字入力位置調整の場所だったのに。\n音声入力たいして使わないから消したいけどメニューの位置調整などの編集は有料会員のみ。\n他にいいアプリ見つけ次第使うのやめるかな…",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

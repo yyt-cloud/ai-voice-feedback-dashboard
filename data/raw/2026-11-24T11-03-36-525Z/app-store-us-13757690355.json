@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id7036709"
+    },
+    "name": {
+      "label": "Wind A"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-02-16T19:23:18-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "1.0.0"
+  },
+  "id": {
+    "label": "13757690355"
+  },
+  "title": {
+    "label": "繁體中文"
+  },
+  "content": {
+    "label": "語言變體的設定似乎有問題。我已經把它設成繁體中文了，但是最近不知道為什麼，常常還是輸出簡體字。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

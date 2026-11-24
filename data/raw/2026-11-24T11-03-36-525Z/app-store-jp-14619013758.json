@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1975130873"
+    },
+    "name": {
+      "label": "ねこリンチー"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-02T07:10:25-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14619013758"
+  },
+  "title": {
+    "label": "少し残念"
+  },
+  "content": {
+    "label": "なかなか可愛いものが多くいいですが、昔使っていたときは無料が多く、広告でゲットなどがなかったので良かったんですけどね、",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

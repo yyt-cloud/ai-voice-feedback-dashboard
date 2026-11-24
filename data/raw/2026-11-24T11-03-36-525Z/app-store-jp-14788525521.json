@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id260765502"
+    },
+    "name": {
+      "label": "≡(^o^)"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-13T23:56:17-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14788525521"
+  },
+  "title": {
+    "label": "UIを戻してほしい"
+  },
+  "content": {
+    "label": "長年気に入って使っていますが初めてレビューを書きます。最近のアップデートにより、カーソル移動ボタンがあった場所にAI音声入力のボタンが表示されるようになって、何度も何度も誤タップしてしまい非常に使いづらいです。よく使用される部分のUIを簡単に変えないでください…どうか早めにカーソル移動ボタンを元の位置に戻して頂けるようお願いします。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

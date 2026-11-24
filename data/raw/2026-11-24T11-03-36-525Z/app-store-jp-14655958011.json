@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1660679049"
+    },
+    "name": {
+      "label": "ここのっち"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-11T18:12:46-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14655958011"
+  },
+  "title": {
+    "label": "ありがとうございました!(´▽｀)"
+  },
+  "content": {
+    "label": "色々な可愛いキーボードやVIP専用のをCMを見て貰えるところに満足しています。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

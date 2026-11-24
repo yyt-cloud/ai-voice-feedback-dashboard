@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id568767081"
+    },
+    "name": {
+      "label": "@kerrihughes15"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-20T06:53:00-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14689428979"
+  },
+  "title": {
+    "label": "⭐️⭐️⭐️⭐️⭐️"
+  },
+  "content": {
+    "label": "My boss recommended Wispr Flow to me after using it for about six months himself. He raved about it constantly and kept telling me how much it would improve my productivity. I finally gave in and downloaded it and I have to admit he was right. It's incredibly user-friendly and I've had absolutely no issues or glitches. It does exactly what it's supposed to do and it does it well.\n\nI was already a regular user of talk-to-text so I honestly wasn't convinced Wispr Flow would be that much different. I couldn't have been more wrong. It's significantly better and I didn't realize how much I was missing until I started using it. Today I upgraded to the Pro plan for the first time and I can confidently say I don't see myself ever going back. It's become one of those tools I didn't know I needed but now can't imagine working without!",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "2"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "2"
+  }
+}

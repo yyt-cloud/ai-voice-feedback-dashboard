@@ -1,0 +1,42 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Adrig"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "&gt; RIP to a lot of the paid apps that simply wrap Whisper<p>I started using a few open source apps for transcription and eventually subscribed to a paid one...<p>On paper, it's not hard to compete, but for this use case, a few rough edges make it really frustrating to use. Like a keyboard that sometimes doubles the letter &quot;e&quot;<p>Automatic dictionary, seamless language switch, no issues with accents, etc... Putting the effort in the last mile makes a world of difference.<p>If anyone has better options, I'm willing to have a look. The best open source solution I found was Handy, and I currently use Wispr Flow"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_Adrig",
+    "story_48894752"
+  ],
+  "author": "Adrig",
+  "children": [
+    48898190
+  ],
+  "comment_text": "&gt; RIP to a lot of the paid apps that simply wrap Whisper<p>I started using a few open source apps for transcription and eventually subscribed to a paid one...<p>On paper, it&#x27;s not hard to compete, but for this use case, a few rough edges make it really frustrating to use. Like a keyboard that sometimes doubles the letter &quot;e&quot;<p>Automatic dictionary, seamless language switch, no issues with accents, etc... Putting the effort in the last mile makes a world of difference.<p>If anyone has better options, I&#x27;m willing to have a look. The best open source solution I found was Handy, and I currently use Wispr Flow",
+  "created_at": "2026-07-13T18:42:16Z",
+  "created_at_i": 1783968136,
+  "objectID": "48896955",
+  "parent_id": 48895462,
+  "story_id": 48894752,
+  "story_title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+  "story_url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+  "updated_at": "2026-07-14T05:15:16Z"
+}

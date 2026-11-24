@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1497439595"
+    },
+    "name": {
+      "label": "ぐりとぐりと名倉"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-23T22:02:59-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14704046403"
+  },
+  "title": {
+    "label": "痒いところに手が届かない"
+  },
+  "content": {
+    "label": "お気に入りの画像や動画をキーボードにできるということで使わせて頂いていて思った着せ替え機能に追加して欲しい機能があるので追加を検討してもらいたいです\n\n・キーボードの文字の周りに任意の色の枠をつけれるようにして欲しい\n「この画像にはこの色がいい」.と思っても背景と同化して見づらくなってしまうことがあるので見やすくするために追加してもらいたいです\n・キー入力ポップアップのデザインを変えられるようにしてもらいたいです\nこちらは何か不便に感じたからとかではなくあればいいなと思ったので追加を検討していただきたいと思いました\n\n以上の機能の追加を検討というかもう検討せずに追加して",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1675270899"
+    },
+    "name": {
+      "label": "Fui39"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2025-03-01T22:59:17-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "15.0"
+  },
+  "id": {
+    "label": "12372193164"
+  },
+  "title": {
+    "label": "Love the App, But Could Use Auto-Capitalization"
+  },
+  "content": {
+    "label": "I really like how you can customize just about everything you need, like the skins and the many sounds effects it has, for example. I also enjoy the emojicons that’s in the app. However, I feel like having the auto-capitalization that Apple has (or something similar) will greatly help users of the English keyboard as it would it make it more efficient for them.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

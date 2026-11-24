@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1991044356"
+    },
+    "name": {
+      "label": "めんどくせぇの"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-16T17:49:27-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.6"
+  },
+  "id": {
+    "label": "14799802122"
+  },
+  "title": {
+    "label": "いらんもの"
+  },
+  "content": {
+    "label": "AI音声機能いりません、消してください。消すためには課金しなくてはならないのもアホくさすぎますどうなってんだ世の中。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

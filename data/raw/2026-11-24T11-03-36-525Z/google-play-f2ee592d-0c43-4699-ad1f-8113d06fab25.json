@@ -1,0 +1,29 @@
+{
+  "id": "f2ee592d-0c43-4699-ad1f-8113d06fab25",
+  "userName": "Thomas D. Crawford",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXe0pJaSORBSfL-getTOndsioq6VE6uXDgYsMUWIL_MCyBiuA43eQ",
+  "date": "2026-11-19T11:08:27.613Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.wispr.flowapp&reviewId=f2ee592d-0c43-4699-ad1f-8113d06fab25",
+  "title": null,
+  "text": "constant voice ,will not shut off, very annoying. takes over your phone and can not uninstall.",
+  "replyDate": null,
+  "replyText": null,
+  "version": null,
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_phase1_collaborative_editing",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_app_quality_ads_frequency",
+      "rating": 2
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1689024439"
+    },
+    "name": {
+      "label": "Zeonjyubornjune"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-01-13T20:38:11-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "0.3.0"
+  },
+  "id": {
+    "label": "13631160358"
+  },
+  "title": {
+    "label": "Bug 奇多，在一样的网络和设置条件下，新版本各种奔溃，录完音之后提示没语音失败重试。"
+  },
+  "content": {
+    "label": "求回滚吧，都没法用了。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id158412196"
+    },
+    "name": {
+      "label": "Swagofstyles"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-03-23T14:59:51-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "1.2.1"
+  },
+  "id": {
+    "label": "13879925334"
+  },
+  "title": {
+    "label": "Fixes needed but still great"
+  },
+  "content": {
+    "label": "So, it just needs to be a little bit more careful with the way the AI works. I just got it yesterday and I've been using it nonstop because it is way better than voice-to-text, but there are times it goes a little overboard. For instance, I was just leaving a comment on Instagram, and it kept putting big spaces in between paragraphs.  Then it made another space at the end and just said, \"Thank you for watching,\" which is way overkill since I didn't make a video. I'm just leaving a comment, like, what the hell? There are a lot of little weird quirks it has like that where it's totally unnecessary.  Also, I was writing a descriptive word for a music industry conversation I was having. We use the term \"hot\" a lot to mean something is too loud, and it was changing that to \"long.\" Obviously, I am not trying to say \"long.\" I kept trying to delete the word \"long\" and say \"hot,\" and it just kept changing it back to \"long.\" I finally had to go into another setting they have where you can edit that word specifically, and then it finally let me do it.  There are a lot of little quirks like this, and it definitely needs to step up a little bit more. I would still give it a 4/5. This is my second comment because, all in all, 90% of it is great. It still makes life faster and it saves me time.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "2"
+  }
+}

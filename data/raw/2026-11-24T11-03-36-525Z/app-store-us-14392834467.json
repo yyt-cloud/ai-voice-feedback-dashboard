@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1730641298"
+    },
+    "name": {
+      "label": "jesse@1234"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-08-05T16:44:55-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "2.3.0"
+  },
+  "id": {
+    "label": "14392834467"
+  },
+  "title": {
+    "label": "There is a bug in the keyboard app: running in the background prevents the screen from turning off."
+  },
+  "content": {
+    "label": "Issue: System auto-lock fails due to background activity.\nDescription: My iPhone is set to auto-lock after 30 seconds. However, once this keyboard app is used, it stays running in the background and overrides the system's auto-lock setting, keeping the screen awake.\nWorkaround: Normal auto-lock behavior is only restored after I manually force quit the app from the app switcher.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "3"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "3"
+  }
+}

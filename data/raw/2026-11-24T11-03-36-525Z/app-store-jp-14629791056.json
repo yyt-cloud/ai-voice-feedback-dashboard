@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1976141217"
+    },
+    "name": {
+      "label": "ｻｲｺｵｫｫｫｫｫｫｫｫｫᑕᕼᗩᑎT"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-05T01:17:59-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14629791056"
+  },
+  "title": {
+    "label": "すごい良かった"
+  },
+  "content": {
+    "label": "すごい可愛いキーボードが無料で使えます！だがサンリオなどの人気なキャラクター類のキーボードは課金が必要です私はとても使って良かったと思います！",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

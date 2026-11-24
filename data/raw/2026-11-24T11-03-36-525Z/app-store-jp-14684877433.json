@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1757626664"
+    },
+    "name": {
+      "label": "たひは54"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-19T03:03:47-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14684877433"
+  },
+  "title": {
+    "label": "とても良いが！！"
+  },
+  "content": {
+    "label": "とても良いんですが、最近冒頭の文字を濁点の着いた文字にしようとすると無理やり候補確定してしまい、打ちにくいです。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

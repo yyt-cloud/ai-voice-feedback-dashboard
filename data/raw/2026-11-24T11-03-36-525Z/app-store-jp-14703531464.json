@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1893786583"
+    },
+    "name": {
+      "label": "。しめじ大好きマン"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-23T18:42:14-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14703531464"
+  },
+  "title": {
+    "label": "めっちゃくちゃ可愛い"
+  },
+  "content": {
+    "label": "キーボードの色とかデザインできるからめちゃくちゃ良い🙆 (🍐•᎑•🍐🍐",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

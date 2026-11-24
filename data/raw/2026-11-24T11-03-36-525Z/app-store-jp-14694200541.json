@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id503191821"
+    },
+    "name": {
+      "label": "UーG⊿"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-21T11:03:13-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14694200541"
+  },
+  "title": {
+    "label": "【改善を強く要求】多くのユーザーが被害。誤操作を招くUI変更と対応の放置に抗議します"
+  },
+  "content": {
+    "label": "毎日文字入力で使用しているアプリなだけに、突然追加された音声認識ボタンによってタイピング中に何度も誤操作を誘発し、非常にストレスを感じています。最新のレビューを確認しても、私だけでなく数多くのユーザーからこの音声認識ボタンに対する否定的な意見が寄せられている状況です。\nまた、10月1日の前回レビュー返答では「改善策で対応する」という趣旨のご連絡をいただいたにもかかわらず、未だに何も対応がなされていないのは大変残念です。\nキーボードのUIは利便性に直結する重要部分です。以前の状態に戻すか、ユーザー側で不要なボタンを非表示・配置変更できる「UIカスタマイズ機能」の導入を早急にご検討ください。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "3"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "3"
+  }
+}

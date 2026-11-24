@@ -1,0 +1,29 @@
+{
+  "id": "89aa1625-a4e6-4afe-aa15-527057d9c882",
+  "userName": "Harry Steeley",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWDaLg3TXgb0LnwMRe7sNJTFGcbGmIE-bOoAc8G9gkf7mKYFXU",
+  "date": "2026-11-22T00:33:10.456Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.wispr.flowapp&reviewId=89aa1625-a4e6-4afe-aa15-527057d9c882",
+  "title": null,
+  "text": "its gets it incorrecly",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.8.7",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_usability",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_phase1_file_sharing",
+      "rating": 3
+    }
+  ]
+}

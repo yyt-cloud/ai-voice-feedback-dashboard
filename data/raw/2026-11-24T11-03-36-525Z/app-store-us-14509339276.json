@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id293281835"
+    },
+    "name": {
+      "label": "Yan Prime 001"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-09-04T05:17:38-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.6.0"
+  },
+  "id": {
+    "label": "14509339276"
+  },
+  "title": {
+    "label": "Simply wonderful"
+  },
+  "content": {
+    "label": "This is the best voice app I've ever tried, and I've tried a lot of them: Aqua Voice, Whisper Flow, Super Whisper, Willow Voice. They don't even come close. Wishing the developer every success.\n\nMy only request: is there any way to add a toggle to enable and disable censorship?",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "bb6c64b3-f632-479f-8a81-f6e10fec1b81",
+  "userName": "Robert S",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUJpm_VICjnmknWQ9VGPIlLxuONOIeIOax8VCA5MEi1RgtFRpH9",
+  "date": "2026-11-16T19:49:48.260Z",
+  "score": 4,
+  "scoreText": "4",
+  "url": "https://play.google.com/store/apps/details?id=com.creativeapp.voiceinput&reviewId=bb6c64b3-f632-479f-8a81-f6e10fec1b81",
+  "title": null,
+  "text": "I like the app, and I think it is one of the better ones out there. I just wish that this company specifically would be more reasonable with pricing. That would be a game changer, and frankly, I think they'd get a ton more business. I don't remember, but I think it's like $15 a month. It is not on my radar for \"worth it\" at that price. You know, $7–$8 max for any of these voice-dictating apps is about where they should go. Frankly, at $5 a month, I think they'll dominate this market entirely.",
+  "replyDate": null,
+  "replyText": null,
+  "version": "1.9",
+  "thumbsUp": 1,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_app_quality_visual_appeal",
+      "rating": 1
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1242551608"
+    },
+    "name": {
+      "label": "SybieWybie"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2021-02-04T19:44:30-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "9.6"
+  },
+  "id": {
+    "label": "6955339474"
+  },
+  "title": {
+    "label": "english?"
+  },
+  "content": {
+    "label": "ok its cute. i wanted to get some little characters to have on my screen BUUUUTTT I CANT READ JAPANESE!! i obviously couldnt find a english setting so now im really sad :,)\nfunny thing is my friend said hers was in english. i even deleted the app and reinstalled to see if it would give me a english option but it didnt :I",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

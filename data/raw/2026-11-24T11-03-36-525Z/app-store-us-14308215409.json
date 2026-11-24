@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1937830190"
+    },
+    "name": {
+      "label": "Azariah Marie Lovecraft"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-07-15T17:43:00-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.1.0"
+  },
+  "id": {
+    "label": "14308215409"
+  },
+  "title": {
+    "label": "Hi"
+  },
+  "content": {
+    "label": "I honestly would give this a solid 10 out of 10. It works perfectly, especially for someone with my level of speech impediment. With its ability to understand what I'm saying, it really does shock me how good it is, because other apps I've tried to use can't even compete.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

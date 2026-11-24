@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1989908356"
+    },
+    "name": {
+      "label": "もりもりカントリー"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-15T20:25:47-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14796306246"
+  },
+  "title": {
+    "label": "やり過ぎかも💦"
+  },
+  "content": {
+    "label": "キーボードを変えられるのはいいのですが、ちょっと模様が多すぎて訳が分からないのが多いかもしれません。ごちゃごちゃしすぎていないのも一応あるのですが、私はごちゃごちゃしすぎていない方が好きなので、もうちょっと落ち着いたやつが欲しいかもです",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

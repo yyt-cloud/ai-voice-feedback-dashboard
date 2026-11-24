@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id274591116"
+    },
+    "name": {
+      "label": "Spencer Mark"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-03T23:18:29-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14748754795"
+  },
+  "title": {
+    "label": "Looking forward to this."
+  },
+  "content": {
+    "label": "Every time that I try to type out something, I usually fat-thumb it and have a ton of punctuation errors. There's just so much frustration, and it takes so much time to write a message. I'm definitely excited about using the phone app and everything within Wispr Flow to help me out, create emails, and practice speaking.\n\nI think the important thing is practicing speaking into my phone and hearing my voice overall and having it make sense so I can get the message across. Overall, I feel the frustration subside because of this.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

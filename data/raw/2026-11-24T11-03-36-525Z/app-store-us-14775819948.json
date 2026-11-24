@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1496263043"
+    },
+    "name": {
+      "label": "Jayla queen ✨✨"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-10T18:47:42-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.0.0"
+  },
+  "id": {
+    "label": "14775819948"
+  },
+  "title": {
+    "label": "Wispr Flow is so good. I'm literally using it right now."
+  },
+  "content": {
+    "label": "Like a 10 out of 100, for it's a good one.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

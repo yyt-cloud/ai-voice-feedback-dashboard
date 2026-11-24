@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id385475731"
+    },
+    "name": {
+      "label": "Kanon-R"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-02T06:29:44-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14618872860"
+  },
+  "title": {
+    "label": "アプデが改悪"
+  },
+  "content": {
+    "label": "着せ替え機能も、変換が優秀なのもあって10年近くずっと愛用していましたが、アプデされてからカーソルの位置が変わりAI音声入力のマイクボタン(誰が使うのか…)がでかでかと真ん中に表示され、多用するカーソルが非常に押しにくくなった上に誤タップしてしまいとても不便です。Simejiを使うのをやめようと思いました。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "2"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "2"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1215426881"
+    },
+    "name": {
+      "label": "Jake (: 😀"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-03-23T16:39:28-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "1.2.1"
+  },
+  "id": {
+    "label": "13880160366"
+  },
+  "title": {
+    "label": "Great app, however…"
+  },
+  "content": {
+    "label": "Overall this a great app and keyboard with almost zero bugs and issues. However it would be nice for it to have an option to only use the microphone when in an app using the keyboard without it needed to be on all the time. Great app!",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

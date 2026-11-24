@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id246183045"
+    },
+    "name": {
+      "label": "大狐狸1024"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2014-10-13T17:06:38-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "1.1"
+  },
+  "id": {
+    "label": "1080017358"
+  },
+  "title": {
+    "label": "not support ipad"
+  },
+  "content": {
+    "label": "please support ipad",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

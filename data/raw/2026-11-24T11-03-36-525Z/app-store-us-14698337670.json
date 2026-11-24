@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id495269738"
+    },
+    "name": {
+      "label": "Angel loves Jesus. 22:21"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-22T11:53:52-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14698337670"
+  },
+  "title": {
+    "label": "I love this app!"
+  },
+  "content": {
+    "label": "Wispr Flow has been a game changer, especially as a student in college. I love how it makes it much easier to complete essays, discussions, posts, or even write emails. It has truly changed the game, from typing to being able to speak on the go and do everything that you want to do conveniently on the go. I absolutely love it!",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

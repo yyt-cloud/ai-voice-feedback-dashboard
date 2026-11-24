@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1512857858"
+    },
+    "name": {
+      "label": "トートカーテン"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-09-30T05:26:11-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14610767632"
+  },
+  "title": {
+    "label": "AI音声入力の項目が本当に邪魔"
+  },
+  "content": {
+    "label": "誤タップして勝手にSimeji開くのが不愉快なので消そうと思ったら、VIP限定とかふざけてんの？",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "2"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "2"
+  }
+}

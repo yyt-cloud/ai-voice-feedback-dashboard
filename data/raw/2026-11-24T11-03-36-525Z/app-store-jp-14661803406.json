@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1712240778"
+    },
+    "name": {
+      "label": "ぃぃねぇ"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-13T06:56:01-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14661803406"
+  },
+  "title": {
+    "label": "最高！"
+  },
+  "content": {
+    "label": "キーボードをつくれたり着せ替えが最高👍着せ替え大丈夫な人とかはノーマルで変換だけSimejiにできるのも最高👍\n\nSimeji部もおもしろぉーいよっ💗入れて損ない‼️",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "2"
+  }
+}

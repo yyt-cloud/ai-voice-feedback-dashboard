@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1606718215"
+    },
+    "name": {
+      "label": "Ariane Foster Kai"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-10T15:54:33-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "2.0.0"
+  },
+  "id": {
+    "label": "14775362076"
+  },
+  "title": {
+    "label": "Super supportive"
+  },
+  "content": {
+    "label": "It’s good but when I selected no caps and no punctuation it still did punctuation but after that is was still good but it’s still doing some stuff wrong",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

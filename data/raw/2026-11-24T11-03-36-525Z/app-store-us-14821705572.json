@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id12940363"
+    },
+    "name": {
+      "label": "Petru Tulnic"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-22T10:53:07-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "2.0.4"
+  },
+  "id": {
+    "label": "14821705572"
+  },
+  "title": {
+    "label": "Over-Intrusive"
+  },
+  "content": {
+    "label": "After updating my phone to the latest ios release, whispr  became an impossible (at least for me, a dumb ph.d. in computer science) to get out of my screen. This, even after deleting the app. Inexistent customer service — the weirdest app behavior I’ve ever seen.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

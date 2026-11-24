@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id415879357"
+    },
+    "name": {
+      "label": "Hạ Hầu"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2017-02-28T19:49:28-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "5.7"
+  },
+  "id": {
+    "label": "1554808177"
+  },
+  "title": {
+    "label": "good app"
+  },
+  "content": {
+    "label": "this is the best app for Japanese, but i'm hope dev add Vietnamese to keyboard. Example: option Japanese-English & Japanese - Vietnamese...etc",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

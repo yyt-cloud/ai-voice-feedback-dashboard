@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id505892542"
+    },
+    "name": {
+      "label": "Li__ne"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-13T10:59:20-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14662623377"
+  },
+  "title": {
+    "label": "余白無くしてほしい。"
+  },
+  "content": {
+    "label": "めちゃくちゃ可愛んですけど、コンパネの上の余白を無くせるようにしてほしいです。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

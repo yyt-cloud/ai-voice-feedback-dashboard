@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id509366574"
+    },
+    "name": {
+      "label": "tengotaro"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-03T02:18:47-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14745146596"
+  },
+  "title": {
+    "label": "改悪しないでくれ"
+  },
+  "content": {
+    "label": "もう何年もsimejiを使っていて、キーボードの上にカーソルを動かすボタンがあるのがすごく気に入っていたのだけど、久々にアップデートしたら広告文が出るわ謎の透かしが入るわキーボード上のボタン配置変わってるわで本当に使いづらい、前の表示にできるようにしてくれ。頼む。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

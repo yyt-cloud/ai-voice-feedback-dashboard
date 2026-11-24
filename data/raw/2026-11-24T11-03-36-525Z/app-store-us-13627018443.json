@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1644530942"
+    },
+    "name": {
+      "label": "船长321"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-01-12T17:38:19-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "0.3.0"
+  },
+  "id": {
+    "label": "13627018443"
+  },
+  "title": {
+    "label": "非常非常好用"
+  },
+  "content": {
+    "label": "超级好用的语音输入工具，感觉效率提升了快 10 倍。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

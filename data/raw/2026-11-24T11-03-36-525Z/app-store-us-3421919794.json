@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id698176502"
+    },
+    "name": {
+      "label": "bluexorcishadow"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2018-11-15T14:06:01-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "7.1"
+  },
+  "id": {
+    "label": "3421919794"
+  },
+  "title": {
+    "label": "English plz?"
+  },
+  "content": {
+    "label": "How do I change it to English? I can guess what it says...somewhat...but English would be better",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

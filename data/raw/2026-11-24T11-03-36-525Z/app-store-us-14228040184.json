@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1817242811"
+    },
+    "name": {
+      "label": "rphlk"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-06-26T03:18:18-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.0.7"
+  },
+  "id": {
+    "label": "14228040184"
+  },
+  "title": {
+    "label": "Best voice input app"
+  },
+  "content": {
+    "label": "Voiskey is easily the top voice typing app on the market, way better and way more stable than Typeless and Wispr combined. The response speed is lightning fast with seamless streaming transcription—no annoying lag whatsoever. What sold me hard is how sharp its text formatting is, I barely have to edit anything after dictating. The other two tools glitch constantly, freeze up and mess up formatting left and right, but Voiskey never skips a beat. Total game changer for anyone who dictates text daily, worth every bit.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6766791501&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

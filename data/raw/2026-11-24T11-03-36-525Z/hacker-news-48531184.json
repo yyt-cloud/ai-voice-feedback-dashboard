@@ -1,0 +1,33 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "throw14082020"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "I built a dictation and meetings after trying other apps (Wispr Flow, Willow Voice, Granola, open source) and realised they're either user hostile, buggy or have limited feature set. For example, many of these dictations app opt you into Context awareness, which means your entire page contents get streamed to their server. The open source apps don't have dictionary, shortcuts (say &quot;linkedin link&quot; → and it pastes your actual link), or ability to use any proprietary API.<p>So I made my own dictation app. Supports arbitrary API providers (e.g. Deepgram, Speechmatics, Elevenlabs), Offline models and a subscription if you want it. Otherwise it's free forever for BYOK and offline models. Deepgram is a YC startup from 2016, and have models that are genuinely good - so it's up to you if you want to use them.<p>Also, Granola doesn't let you read your own meetings after 30 days. So I added a feature in DuckType to import your data from Granola, unlocking all your meetings from their paywall.<p>Another app: OpenCook <a href=\"https://open-cook.com/\" rel=\"nofollow\">https://open-cook.com/</a> . We curated and wrote our own recipes into StashCook, which requires a subscription just to read your own recipes on the web app. So I got Codex to extract our recipes and rebuild one that is open source, OpenAPI and includes AI features.<p>This won me 1 year of GPT Pro at the codex event :)<p>I hope you can tell... I'm tired of companies designing their products to lock you in, to charge you more, with no added value. I build software for people like me. So I'll be building more apps that replace this user hostile software."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Ask HN: What are you working on? (June 2026)"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_throw14082020",
+    "story_48528779"
+  ],
+  "author": "throw14082020",
+  "comment_text": "I built a dictation and meetings after trying other apps (Wispr Flow, Willow Voice, Granola, open source) and realised they&#x27;re either user hostile, buggy or have limited feature set. For example, many of these dictations app opt you into Context awareness, which means your entire page contents get streamed to their server. The open source apps don&#x27;t have dictionary, shortcuts (say &quot;linkedin link&quot; → and it pastes your actual link), or ability to use any proprietary API.<p>So I made my own dictation app. Supports arbitrary API providers (e.g. Deepgram, Speechmatics, Elevenlabs), Offline models and a subscription if you want it. Otherwise it&#x27;s free forever for BYOK and offline models. Deepgram is a YC startup from 2016, and have models that are genuinely good - so it&#x27;s up to you if you want to use them.<p>Also, Granola doesn&#x27;t let you read your own meetings after 30 days. So I added a feature in DuckType to import your data from Granola, unlocking all your meetings from their paywall.<p>Another app: OpenCook <a href=\"https:&#x2F;&#x2F;open-cook.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;open-cook.com&#x2F;</a> . We curated and wrote our own recipes into StashCook, which requires a subscription just to read your own recipes on the web app. So I got Codex to extract our recipes and rebuild one that is open source, OpenAPI and includes AI features.<p>This won me 1 year of GPT Pro at the codex event :)<p>I hope you can tell... I&#x27;m tired of companies designing their products to lock you in, to charge you more, with no added value. I build software for people like me. So I&#x27;ll be building more apps that replace this user hostile software.",
+  "created_at": "2026-06-14T18:56:02Z",
+  "created_at_i": 1781463362,
+  "objectID": "48531184",
+  "parent_id": 48528779,
+  "story_id": 48528779,
+  "story_title": "Ask HN: What are you working on? (June 2026)",
+  "updated_at": "2026-06-14T19:00:27Z"
+}

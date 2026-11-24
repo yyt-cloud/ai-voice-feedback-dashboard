@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1898676566"
+    },
+    "name": {
+      "label": "日曜日にお弁当"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-17T00:50:25-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "17.6"
+  },
+  "id": {
+    "label": "14800741042"
+  },
+  "title": {
+    "label": "いつ新しくなりますか！！"
+  },
+  "content": {
+    "label": "アプリ自体は悪くないと思います。\nだからこそどんどん進化して欲しい\nASMRが流行ってるんだから、今こそ普段使うキーボードの音に対して力を入れるとかはできないですかね？？\n\nまぁ提案してもどうせなかなか変わらないだろうとは思ってます。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

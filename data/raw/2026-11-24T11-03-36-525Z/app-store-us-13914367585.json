@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id247510685"
+    },
+    "name": {
+      "label": "Edward#4"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-04-02T07:01:55-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "1.2.2"
+  },
+  "id": {
+    "label": "13914367585"
+  },
+  "title": {
+    "label": "Latest Update Nerfs the App"
+  },
+  "content": {
+    "label": "Roll that update back — it takes a lot of the value away and is buggy with sharp edges that will make me not keep the subscription",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

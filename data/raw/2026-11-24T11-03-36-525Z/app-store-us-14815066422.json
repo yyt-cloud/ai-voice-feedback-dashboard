@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id33616378"
+    },
+    "name": {
+      "label": "GmanDave"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-20T20:08:14-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.0.4"
+  },
+  "id": {
+    "label": "14815066422"
+  },
+  "title": {
+    "label": "Finally Don’t Have to Switch Apps in iOS!!"
+  },
+  "content": {
+    "label": "This app was perfect except that I had to swipe to the Wispr app before dictating in any other app in iOS. No longer. I can go straight to any app, and Wispr will take my dictation.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

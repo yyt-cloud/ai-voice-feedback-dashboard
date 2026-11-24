@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id27570278"
+    },
+    "name": {
+      "label": "Karynneboese"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-20T16:27:42-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.0.3"
+  },
+  "id": {
+    "label": "14814484477"
+  },
+  "title": {
+    "label": "Love!  Super helpful and beyond!"
+  },
+  "content": {
+    "label": "For someone who is dyslexic and ADHD and needs to talk everything out before she can get clear, this is saving my life with my business !!! and my dear sweet friends. 💖🫶🏼💖",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

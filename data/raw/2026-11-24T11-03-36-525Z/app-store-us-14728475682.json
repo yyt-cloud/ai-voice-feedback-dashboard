@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id944140666"
+    },
+    "name": {
+      "label": "MikeKey25"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-29T23:26:56-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "1.1.1"
+  },
+  "id": {
+    "label": "14728475682"
+  },
+  "title": {
+    "label": "Keyboard breaks the whole iphone experience"
+  },
+  "content": {
+    "label": "Very buggy keyboard, disrupts typing on iphone, very annoying. So good product for desktop but completely broken on iphone.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6759074969&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

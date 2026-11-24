@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id222913785"
+    },
+    "name": {
+      "label": "makomini"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-27T18:05:39-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14719835746"
+  },
+  "title": {
+    "label": "要らない連発コメント(彼女専用とか)"
+  },
+  "content": {
+    "label": "ただでさえ外せない連発コメントが多いのに，一番上に一番使わない連発コメントがあって、邪魔です。使わない機能は外せるようにして欲しい",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

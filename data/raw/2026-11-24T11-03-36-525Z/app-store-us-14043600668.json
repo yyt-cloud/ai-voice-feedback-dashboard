@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id36220070"
+    },
+    "name": {
+      "label": "ThisistheCharles"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-05-08T19:09:37-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "1.0.12"
+  },
+  "id": {
+    "label": "14043600668"
+  },
+  "title": {
+    "label": "Student discount practically impossible to use."
+  },
+  "content": {
+    "label": "I have an edu email that i can use on the desktop, but there is no way to pick that apple id in my phone. It uses the media and purchases id and the is no way to change to my edu email without signing out, which makes a host of problems.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6759074969&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "admiralrohan"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Wispr flow released android version few months back but wasn't supported in my 6 year old phone so made a similar app named Floatspeak. Which motivated me to made a windows version of it and now stopped paying Wispr flow altogether."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Ask HN: What are tools you have made for yourself since the advent of AI?"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_admiralrohan",
+    "story_48449187"
+  ],
+  "author": "admiralrohan",
+  "comment_text": "Wispr flow released android version few months back but wasn&#x27;t supported in my 6 year old phone so made a similar app named Floatspeak. Which motivated me to made a windows version of it and now stopped paying Wispr flow altogether.",
+  "created_at": "2026-06-09T04:27:20Z",
+  "created_at_i": 1780979240,
+  "objectID": "48456396",
+  "parent_id": 48449187,
+  "story_id": 48449187,
+  "story_title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+  "updated_at": "2026-06-09T04:41:04Z"
+}

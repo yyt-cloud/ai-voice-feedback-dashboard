@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1131207341"
+    },
+    "name": {
+      "label": "silverozen1314"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2023-12-25T04:24:13-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "12.9.3"
+  },
+  "id": {
+    "label": "10742817250"
+  },
+  "title": {
+    "label": "Popup ads ridiculous"
+  },
+  "content": {
+    "label": "Was typing something urgently in English, accidentally swapped to shimeji and got a pop up ad that blocks the whole keyboard. Ridiculously intrusive ad placement.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

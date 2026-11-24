@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1992479674"
+    },
+    "name": {
+      "label": "🧆ゐ"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-18T01:30:24-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.6"
+  },
+  "id": {
+    "label": "14804138870"
+  },
+  "title": {
+    "label": "ちょ〜良い画像があります"
+  },
+  "content": {
+    "label": "楽しかったり\n面白かったり\nシンプルだったり\n色々あって💯なぐらい楽しみになります。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

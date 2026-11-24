@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id136722190"
+    },
+    "name": {
+      "label": "Callmesmart"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-03-01T05:38:18-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "1.1.2"
+  },
+  "id": {
+    "label": "13802292071"
+  },
+  "title": {
+    "label": "Absolutely fantastic."
+  },
+  "content": {
+    "label": "It's been absolutely fantastic, and I'm actually typing the whole review using the voice keyboard. I've had very few grammatical errors or misunderstandings; in fact, I can't even think of any off the top of my head.\n\nThe only issue I've run into is when using it, the microphone stays activated even after use. When I'm in the car using CarPlay, it sends music, audio, or whatever through the phone call system, and therefore doesn't sound very good. I have to go into the settings and deactivate the keyboard until the next time I use it. \n\nThat's where I took off the star. I'm sure this is an easy fix, but I'll be keeping the keyboard and I've absolutely enjoyed it.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "2"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "2"
+  }
+}

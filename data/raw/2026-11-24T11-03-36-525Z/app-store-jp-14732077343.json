@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1627918889"
+    },
+    "name": {
+      "label": "亞魔猫*るな"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-30T20:10:13-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14732077343"
+  },
+  "title": {
+    "label": "最強Simeji！"
+  },
+  "content": {
+    "label": "色んな、キーボードや顔文字があるのがめちゃいい！あと、自分で顔文字作れるから最高最強着せ替えアプリ！！",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

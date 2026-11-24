@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id35407633"
+    },
+    "name": {
+      "label": "Joe Borelli"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2025-12-27T10:54:48-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "0.1.1"
+  },
+  "id": {
+    "label": "13561924200"
+  },
+  "title": {
+    "label": "App of the year for 2026 just dropped!"
+  },
+  "content": {
+    "label": "Simply amazing STT with understanding. Treat it as you would a secretary on your lap. Give instructions and she will obey perfectly. Works perfectly with medical jargon. If only Apple had this tech built-in. 👀",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

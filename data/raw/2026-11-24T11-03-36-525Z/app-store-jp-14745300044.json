@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1987020822"
+    },
+    "name": {
+      "label": "🐿だよん"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-03T03:16:11-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14745300044"
+  },
+  "title": {
+    "label": "CMが多いけどめちゃくちゃ良き(*•̀ㅂ•́)و✧"
+  },
+  "content": {
+    "label": "キーボード自体は🙆‍♀️\n逆に良いの•́ω•̀)?って感じ",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

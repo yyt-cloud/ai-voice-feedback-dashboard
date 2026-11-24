@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1869996268"
+    },
+    "name": {
+      "label": "てういあ"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-09T19:40:42-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14772064032"
+  },
+  "title": {
+    "label": "文字数"
+  },
+  "content": {
+    "label": "いつもSimejiを愛用しています！\n\nぜひ追加してほしい機能があります。\nキーボードで文字を入力している最中に、現在何文字入力しているのかをリアルタイムで表示する「文字数カウント機能」を追加してほしいです！\n\nLINEやSNS、プロフィールなど、文字数に制限がある文章を作るときに、毎回別のアプリで文字数を確認する必要がなくなるので、とても便利だと思います。\n\nキーボード上に文字数が常に表示されるようになると嬉しいです！\nぜひご検討よろしくお願いいたします。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

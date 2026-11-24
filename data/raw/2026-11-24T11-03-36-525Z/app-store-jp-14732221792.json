@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id576347353"
+    },
+    "name": {
+      "label": "chicowa"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-30T21:10:18-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14732221792"
+  },
+  "title": {
+    "label": "キーボードでスペースが打てない"
+  },
+  "content": {
+    "label": "キーボードの空白部分に.co.jpが出てスペースが打てない\nやめて欲しい",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

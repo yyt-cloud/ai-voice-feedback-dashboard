@@ -1,0 +1,16 @@
+{
+  "id": "11261531-b530-4a4b-ba93-6628349e95cc",
+  "userName": "くま",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIQc8nnwIKvC_hSbreqajpGIzQFZp8u7Ec3D__h3rxCYkZ7Cg=mo",
+  "date": "2026-10-08T12:04:14.527Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=11261531-b530-4a4b-ba93-6628349e95cc",
+  "title": null,
+  "text": "アンインストールしました。 9月くらいから、削除ボタンを押すと全削除される事が多々あり、原因を調べたところ、 少しでも削除ボタンを上にフリックしたと判定されると全削除コマンドになる仕様になっていたことが判明しました。 連打すると全削除されてたのはこのせいみたいです。 人はいちいち真っ直ぐに画面を押せません。少し斜めに押しただけでフリック判定されて全削除は、悲惨です。 これでいくつもの文が消えました。",
+  "replyDate": "2026-11-02T04:22:08.951Z",
+  "replyText": "レビューいただきありがとうございます。\nご不便をおかけし申し訳ございません。\n本機能は設定よりオフにすることが可能です。\n以下の手順で設定をご確認ください。\n【設定方法】\nアプリ内の設定 → 入力補助 → 入力画面設定 →「一括削除」をオフ\n上記をオフにしていただくことで、上フリックによる全削除は無効になります。\nお手数をおかけいたしますが、お試しいただけますと幸いです。\n今後ともSimejiをよろしくお願いいたします。",
+  "version": null,
+  "thumbsUp": 3,
+  "criterias": []
+}

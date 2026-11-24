@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id24215974"
+    },
+    "name": {
+      "label": "teaneedz"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-14T04:58:58-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "2.0.1"
+  },
+  "id": {
+    "label": "14789364890"
+  },
+  "title": {
+    "label": "does the job for dictation"
+  },
+  "content": {
+    "label": "i'm trying out wispr again. for me connecting it to the action button for dictation seems to be an ok workflow as it allows me to use a keyboard from raycast (without having to switch out of the keyboard necessarily when i want to dictate). it's a bit of a janky workaround but it works. i'm really just happy that i don't have to always use the wispr keyboard when i need to manually type since that keyboard has its issues. i believe the price is a bit rich for what it does though. i'm also not sure why the tone style for \"very casual\" isn't available for all scenarios. it appears to be limited only to personal messages but should carry across other scenarios such as work and other app usages. wispr flow for example has a style option called \"excited\" which makes no sense to me and yet does not have the \"very casual\" style for writing emails. i am finding this dictation app useful when working with agentic ai if that makes any sense, in a peanut butter and chocolate combination kind of way.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

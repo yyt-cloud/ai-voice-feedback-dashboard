@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id614656586"
+    },
+    "name": {
+      "label": "かえたそなんだそ"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2023-10-10T21:49:41-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "12.7"
+  },
+  "id": {
+    "label": "10461365134"
+  },
+  "title": {
+    "label": "予測変換もうちょっと頑張って！"
+  },
+  "content": {
+    "label": "キーボードの画像が選べたり絵文字も使いやすかったりして気に入っていたのですが、ある時から笑と打つと必ず🤪が変換機能で表示され、そこまでの関係性の人に誤って🤪を送信してしまうケースが多く困っています。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

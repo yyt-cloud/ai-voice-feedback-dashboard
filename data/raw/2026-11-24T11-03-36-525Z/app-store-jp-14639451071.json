@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1878969497"
+    },
+    "name": {
+      "label": "うえぃたえええぇぇ？そこまで？"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-07T13:06:41-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14639451071"
+  },
+  "title": {
+    "label": "ゴミアプリ"
+  },
+  "content": {
+    "label": "文字打ってる時にマイクボタン間違えて押すことめっちゃ多くて不便すぎる、あと単純に横画面の場合の文字打ちにくいし他の需要のないアプデとかどうでもいいから先にこっち修正して欲しい",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

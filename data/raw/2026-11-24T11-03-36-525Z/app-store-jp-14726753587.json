@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id899148198"
+    },
+    "name": {
+      "label": "コロポポの飼い主"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-29T11:51:51-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14726753587"
+  },
+  "title": {
+    "label": "コンパネの位置戻して"
+  },
+  "content": {
+    "label": "急にコンパネの位置が変わって不便になった。\nよく使ってた機能の場所と、使わないし必要ない音声入力機能の場所が勝手に変わってしまった。\n押し間違いが発生していちいち音声入力画面に飛ばされるのすごいストレス。\n勝手に変わったくせに元に戻すにはVIPにならないといけないっていう課金誘導。\nすごく嫌な感じ。\n他のレビューに対する返信もその場しのぎみたいだし。\n10年近く重宝してきたアプリだったのにこんなレビュー書かせないでよ。\nお願いだからコンパネの位置戻して。\nお願いします。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

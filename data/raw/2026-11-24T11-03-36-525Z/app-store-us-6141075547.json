@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id332588999"
+    },
+    "name": {
+      "label": "奈麻ら半児"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2020-06-30T11:54:22-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "8.9"
+  },
+  "id": {
+    "label": "6141075547"
+  },
+  "title": {
+    "label": "cute!"
+  },
+  "content": {
+    "label": "I love this app.\nI use most of time Japanese language.\nIt has many cute stamps and emojis \n❀(*´▽`*)❀",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

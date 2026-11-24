@@ -1,0 +1,29 @@
+{
+  "id": "e85cd434-1379-44c7-8bd8-9d92dca7df59",
+  "userName": "topsy Ronke",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVjVK2rhhcT_-ktcNSLL3V4cm4t_u1w2nRlvypelb4AvA3CGrQm",
+  "date": "2026-11-18T19:20:16.120Z",
+  "score": 4,
+  "scoreText": "4",
+  "url": "https://play.google.com/store/apps/details?id=com.wispr.flowapp&reviewId=e85cd434-1379-44c7-8bd8-9d92dca7df59",
+  "title": null,
+  "text": "It helps me type faster without using my hands because I'm too lazy but the main problem is that it adds a full stop to everything I say.",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.8.6",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 3
+    }
+  ]
+}

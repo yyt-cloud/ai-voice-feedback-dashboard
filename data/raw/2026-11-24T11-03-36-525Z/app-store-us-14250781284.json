@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1727019432"
+    },
+    "name": {
+      "label": "RiserXazor"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-07-01T12:36:10-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.11.0"
+  },
+  "id": {
+    "label": "14250781284"
+  },
+  "title": {
+    "label": "You won’t regret it"
+  },
+  "content": {
+    "label": "I promise you guys, you won't regret it. I am doing this review with the Typeless AI voice keyboard, and it is perfect. It always comes out the way I said it, or it makes the sentences make sense.\n\nI have used the text-to-speech on Android, Samsung, and iPhone, and it sucks. It comes out not making sense; sometimes there are no periods, no commas, no nothing. Typeless fixes everything, and the sentences make so much sense. It is the greatest app in the world. You won't deny it, I promise you.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1795661976"
+    },
+    "name": {
+      "label": "ｲｪｰｲ(✿︎´ ꒳ ` )♡︎"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-02T21:11:47-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14744456651"
+  },
+  "title": {
+    "label": "課金"
+  },
+  "content": {
+    "label": "課金がなかったら満点",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

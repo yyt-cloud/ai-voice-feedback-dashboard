@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1740186213"
+    },
+    "name": {
+      "label": "Unicorn queen 34"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2025-05-07T19:36:25-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "15.3.2"
+  },
+  "id": {
+    "label": "12631683163"
+  },
+  "title": {
+    "label": "Good but need some improvement"
+  },
+  "content": {
+    "label": "So it is good but you can’t do that much without having to get vip so that’s the down side but overall pretty good app",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

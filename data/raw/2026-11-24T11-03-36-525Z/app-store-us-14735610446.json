@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id273496918"
+    },
+    "name": {
+      "label": "Coach Brian Parana"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-31T16:54:57-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.10.0"
+  },
+  "id": {
+    "label": "14735610446"
+  },
+  "title": {
+    "label": "One of the best dictation apps"
+  },
+  "content": {
+    "label": "I’ve spoken over 80,000 words to type less in the last two or three months and it’s super helpful and efficient with great accuracy",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id42095968"
+    },
+    "name": {
+      "label": "Mr.iPhone"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-21T13:45:16-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.0.4"
+  },
+  "id": {
+    "label": "14818146034"
+  },
+  "title": {
+    "label": "Great for people with movement disorders like Parkinson’s.  Saves a lot of unnecessary typing!"
+  },
+  "content": {
+    "label": "This is a great app for people with movement disorders like Parkinson’s because it does with accuracy take the notes and eliminates the keyboard, especially for anyone who suffers from neurological disorders with a tremor. It’s a great application that can be used on all of my devices, which is a big bonus. Two thumbs up! P.S. Do you offer any sort of accessibility discount?",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

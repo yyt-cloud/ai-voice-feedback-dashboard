@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id386584162"
+    },
+    "name": {
+      "label": "Hfstvbm"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-09T19:30:43-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14648106888"
+  },
+  "title": {
+    "label": "私のタイプありすぎ"
+  },
+  "content": {
+    "label": "私は変なやつとか面白い「なんじゃこれ」みたいなのが好きでそれがいっぱいあるから好き、あと無料のデザインが多い!さっき言った変なやつも全部ほぼ無料!課金は出来ないから嬉しい( *´꒳`* )",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

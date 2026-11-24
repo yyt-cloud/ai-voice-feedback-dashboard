@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1274760126"
+    },
+    "name": {
+      "label": "ひらた明日"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2021-04-03T19:02:07-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "9.7.1"
+  },
+  "id": {
+    "label": "7180966516"
+  },
+  "title": {
+    "label": "I-"
+  },
+  "content": {
+    "label": "（私は翻訳者を使用しています）それで、Androidでこのアプリを入手したとき、それは英語でした、私はそれを読むことができました！でもIOSを手に入れたら日本語だったので日本語が読めません！設定を調べましたが、言語が英語に変わるようなものは見当たりませんでした。これを修正してください。\n\n(I'm using a translator) So when I got this app on Android it was in English, I was able to read it! But when I got IOS, it was Japanese so I can't read Japanese! I checked the settings, but I couldn't find anything that would change the language to English. Please fix this.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

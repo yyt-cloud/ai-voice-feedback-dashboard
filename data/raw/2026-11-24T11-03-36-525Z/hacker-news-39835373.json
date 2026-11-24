@@ -1,0 +1,41 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "robbomacrae"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "aqua",
+        "voice"
+      ],
+      "value": "Not trying to hijack this. Great demo! But STT can be very much real-time now. Try SoundHound's transcription service available through the Houndify platform [0] (we really don't market this well enough). It's lightning fast and it's half of what powers the Dynamic Interaction demos that we've been putting out.<p>I actually made a demo just like this <em>aqua</em> <em>voice</em> internally (unfortunately didn't get prioritized) but there is really no lag. However it will always be the case where the model will want to &quot;revisit&quot; transcribed words based on what comes next. So if you want the best accuracy you do want to wait a sec or two for the transcription to settle down a bit.<p>[0]: <a href=\"https://www.houndify.com\" rel=\"nofollow\">https://www.houndify.com</a>"
+    },
+    "story_title": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "aqua",
+        "voice"
+      ],
+      "value": "Launch HN: <em>Aqua</em> <em>Voice</em> (YC W24) – <em>Voice</em>-driven text editor"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_robbomacrae",
+    "story_39828686"
+  ],
+  "author": "robbomacrae",
+  "comment_text": "Not trying to hijack this. Great demo! But STT can be very much real-time now. Try SoundHound&#x27;s transcription service available through the Houndify platform [0] (we really don&#x27;t market this well enough). It&#x27;s lightning fast and it&#x27;s half of what powers the Dynamic Interaction demos that we&#x27;ve been putting out.<p>I actually made a demo just like this aqua voice internally (unfortunately didn&#x27;t get prioritized) but there is really no lag. However it will always be the case where the model will want to &quot;revisit&quot; transcribed words based on what comes next. So if you want the best accuracy you do want to wait a sec or two for the transcription to settle down a bit.<p>[0]: <a href=\"https:&#x2F;&#x2F;www.houndify.com\" rel=\"nofollow\">https:&#x2F;&#x2F;www.houndify.com</a>",
+  "created_at": "2024-03-27T03:20:54Z",
+  "created_at_i": 1711509654,
+  "objectID": "39835373",
+  "parent_id": 39834543,
+  "story_id": 39828686,
+  "story_title": "Launch HN: Aqua Voice (YC W24) – Voice-driven text editor",
+  "updated_at": "2024-09-20T16:40:28Z"
+}

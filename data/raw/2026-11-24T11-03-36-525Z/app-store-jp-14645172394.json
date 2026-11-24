@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1641066749"
+    },
+    "name": {
+      "label": "鉛筆削り　　"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-09T02:35:41-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14645172394"
+  },
+  "title": {
+    "label": "大丈夫か？"
+  },
+  "content": {
+    "label": "可愛い絵文字やキーボードがあるのはいいのですが、個人情報などを抜き取られるなどを聞きました。大丈夫なのでしょうか",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

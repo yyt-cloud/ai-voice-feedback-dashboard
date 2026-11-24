@@ -1,0 +1,29 @@
+{
+  "id": "d14e88cc-f30f-4375-a1bc-d357c0f957b4",
+  "userName": "Kinesh Patel",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUC_OpsBvj_sBQycrEa_X32ZRg9ve5hhu7JqDC2kafrfPWljWm7KQ",
+  "date": "2026-09-29T14:14:12.930Z",
+  "score": 4,
+  "scoreText": "4",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=d14e88cc-f30f-4375-a1bc-d357c0f957b4",
+  "title": null,
+  "text": "was great but have dropped the number of words you can use. also needs a swipe keyboard",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.7.1",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_usability",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_ads_frequency",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 1
+    }
+  ]
+}

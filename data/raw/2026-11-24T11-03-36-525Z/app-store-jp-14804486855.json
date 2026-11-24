@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1992516248"
+    },
+    "name": {
+      "label": "神宮寺ヒロMk2"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-18T03:46:09-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.6"
+  },
+  "id": {
+    "label": "14804486855"
+  },
+  "title": {
+    "label": "Simeji！"
+  },
+  "content": {
+    "label": "キーボードからも推しを摂取できるし、色んな絵文字などを使えて最高です！",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1501323821"
+    },
+    "name": {
+      "label": "twgmPpn95"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-01T17:08:10-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14739911160"
+  },
+  "title": {
+    "label": "コンパネの改悪"
+  },
+  "content": {
+    "label": "移動カーソルと音声入力ボタンの位置がアプデ後に何故か入れ替わって誤タップが非常に増えた\n場所変えたければ課金しろと言われる始末\n位置を変える意味も理由も分からない",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

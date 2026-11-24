@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1418471884"
+    },
+    "name": {
+      "label": "FlashNighting"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-03-13T07:56:52-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.1.2"
+  },
+  "id": {
+    "label": "13843896915"
+  },
+  "title": {
+    "label": "Let's create an innovation for mini mode."
+  },
+  "content": {
+    "label": "Voice input is incredibly convenient these days, but I believe we should break away from the traditional keyboard height used by input methods.\n\nVoice input could easily be implemented as a horizontal, low-profile keyboard. This would provide users with much more screen space for reading.  Another issue is that it is currently difficult to dismiss the keyboard because there is no collapse button.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "3"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "6"
+  }
+}

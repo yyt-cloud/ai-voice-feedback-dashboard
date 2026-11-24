@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1633401437"
+    },
+    "name": {
+      "label": "ふざけてんのも大概にせいよ"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-25T02:56:09-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14708922138"
+  },
+  "title": {
+    "label": "本音"
+  },
+  "content": {
+    "label": "広告であいつあんなにゲーム好きだっけ\nこれゲームじゃない",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

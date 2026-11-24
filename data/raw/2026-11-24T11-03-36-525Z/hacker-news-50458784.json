@@ -1,0 +1,37 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "spapas82"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "wispr",
+        "flow"
+      ],
+      "value": "I have tried to use an open-source program, Handy, but it didn't work well for Greek. So I switched to <em>Wispr</em> <em>Flow</em>, which was recommended by another friend, and it works very well."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Ask HN: Software engineer with broken arm, any tips?"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_spapas82",
+    "story_50456164"
+  ],
+  "author": "spapas82",
+  "comment_text": "I have tried to use an open-source program, Handy, but it didn&#x27;t work well for Greek. So I switched to Wispr Flow, which was recommended by another friend, and it works very well.",
+  "created_at": "2026-11-11T21:16:29Z",
+  "created_at_i": 1794431789,
+  "objectID": "50458784",
+  "parent_id": 50456238,
+  "story_id": 50456164,
+  "story_title": "Ask HN: Software engineer with broken arm, any tips?",
+  "updated_at": "2026-11-12T14:03:01Z"
+}

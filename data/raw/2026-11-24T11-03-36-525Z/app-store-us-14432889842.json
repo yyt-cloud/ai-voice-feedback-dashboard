@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id12333562"
+    },
+    "name": {
+      "label": "Oceanway"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-08-15T18:08:25-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.0.29"
+  },
+  "id": {
+    "label": "14432889842"
+  },
+  "title": {
+    "label": "Great for the iPhone."
+  },
+  "content": {
+    "label": "I tried a number of other apps similar to this, but I found this to be the most accurate and easy to use. It's literally saved me hours a week in not having to correct messages due to poor typing skills on my part.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6759074969&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

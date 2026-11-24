@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1197523398"
+    },
+    "name": {
+      "label": "dez-love"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2022-11-25T07:33:02-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "11.6.3"
+  },
+  "id": {
+    "label": "9327517553"
+  },
+  "title": {
+    "label": "Update: earned the 5 stars"
+  },
+  "content": {
+    "label": "I figured it out. I had to translate the text to find out how to do fix it in the setting tho. Love it",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

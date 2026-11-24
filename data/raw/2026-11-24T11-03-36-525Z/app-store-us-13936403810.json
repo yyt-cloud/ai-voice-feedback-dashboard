@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1399077143"
+    },
+    "name": {
+      "label": "mw15273"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-04-08T10:11:08-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.2.3"
+  },
+  "id": {
+    "label": "13936403810"
+  },
+  "title": {
+    "label": "Best voice dictation app."
+  },
+  "content": {
+    "label": "In terms of the quality of work it does, it is by far the best. If you are having a conversation with AI, it saves you a ton of time because you don't have to worry about crafting and wording things perfectly. It does a great job with punctuation, adding air quotes even, and getting great inference from how you say things.\n\nIt is much better than WhisprFlow, which is more focused on writing down exactly what you said. In contrast, this app takes what you said and says it a lot better. You can give it unsorted, rougher thoughts and still get a clean output.\n\nIf you use other voice dictation apps, I think they're a little more stable. This one could use a few bug fixes on the whole \"swipe to get to it\" interaction. Sometimes, being able to get to the keyboard and keeping the voice interface active is a bit difficult. It is also super frustrating when you say something really long and it ends recording on you early.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

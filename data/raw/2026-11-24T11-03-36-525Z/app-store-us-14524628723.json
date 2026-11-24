@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1966330498"
+    },
+    "name": {
+      "label": "Houguan Zhu"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-09-08T02:43:14-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.4.1"
+  },
+  "id": {
+    "label": "14524628723"
+  },
+  "title": {
+    "label": "Excellent app!"
+  },
+  "content": {
+    "label": "Voiskey has honestly changed the way I work. I just talk the way I naturally speak — fillers, stumbles, changing my mind mid-sentence — and it still comes out as clean, ready-to-send text. It even learned my names and jargon, so everything sounds like me. The AI-prompt mode is a killer feature: I describe what I want to build out loud, and it turns it into a structured prompt with files, paths, and commands. At 220+ wpm, it's genuinely 5x faster than my typing, and it works everywhere on my Mac in 100+ languages. Highly recommended!",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6766791501&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

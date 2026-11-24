@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1248115936"
+    },
+    "name": {
+      "label": "Ehちゃん"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2024-03-31T22:59:11-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "13.3"
+  },
+  "id": {
+    "label": "11108511672"
+  },
+  "title": {
+    "label": "最高！！"
+  },
+  "content": {
+    "label": "私は自分のキーボードが可愛くなくて、とっても嫌でした。\nそこで、お友達が可愛いキーボードで言葉を打っていたのをみて、\n\"どうやって変えてるの？\" と聞いて、その返事が\"シメジだよ\"。\n家に帰ってからすぐにインストールしてもらい、可愛いキーボードに変えました。\nそれから何ヶ月後、私は気づいたら、毎日チェックしてました。\n突然、cmが出てくるのはちょっと嫌だけど。　笑笑",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

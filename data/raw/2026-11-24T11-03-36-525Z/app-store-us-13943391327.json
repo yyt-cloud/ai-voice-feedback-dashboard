@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1030213766"
+    },
+    "name": {
+      "label": "Logan M Pierce"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-04-10T09:27:33-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "1.0.7"
+  },
+  "id": {
+    "label": "13943391327"
+  },
+  "title": {
+    "label": "Poor Quality"
+  },
+  "content": {
+    "label": "The App has a very poor transcription quality, not as advertised in their video, constantly gets my words wrong, I work as English Translator at the French Embassy, if you can’t get my English right I don’t know what accuracy they are bragging all about. Wish I could rate it Negative 5 stars",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6759074969&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

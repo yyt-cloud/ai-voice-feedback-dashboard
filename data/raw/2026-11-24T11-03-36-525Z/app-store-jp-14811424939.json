@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1904322885"
+    },
+    "name": {
+      "label": "龍宮精米"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-19T22:19:09-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "17.6"
+  },
+  "id": {
+    "label": "14811424939"
+  },
+  "title": {
+    "label": "音声入力が雑すぎる"
+  },
+  "content": {
+    "label": "ボソボソ声の音声入力で失礼いたします。ボソボソ声で行けると広告では言っていましたが、こうなりますSimejiは本当神で、僕の推しにもできるんですけど。ほんと、もうギャルいですよね。僕はほんとSimejiが大好きです。\n\nボソボソ声でやったら全くできない以外を抜いて。発音が悪いのでしょうか。関係ありません。他になんか言うことがあった気がします。\n\nSimejiは、あ、違う。前までSimejiは食べる方のシメジだと思っていました。まあ、このアプリも1年ぐらい前から愛用しております。ほんと好きです。ですが、音声入力がうまくいかないという点で、星3にさせていただきました",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

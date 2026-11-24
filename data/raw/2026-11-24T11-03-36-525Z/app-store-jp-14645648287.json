@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1225279008"
+    },
+    "name": {
+      "label": "macOS 0.09"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-09T05:25:31-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14645648287"
+  },
+  "title": {
+    "label": "（￣ࠔ￣）ｴｯﾄﾈ"
+  },
+  "content": {
+    "label": "いつもSimeji使わせてもらってます(*^^*)とても楽しいのですが、一つ質問があります。レビューに、情報もれると聞いたのですが、それは本当ですか？と質問している方がいて、調べて見たのですが、色々なサイトがあり、どれが本当か分かりません。なので少し心配しています、どうか、公式の真実を教えてください。\n長文失礼しました、、",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

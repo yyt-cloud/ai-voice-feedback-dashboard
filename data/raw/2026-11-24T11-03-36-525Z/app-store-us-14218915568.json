@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1552397148"
+    },
+    "name": {
+      "label": "Cooltree ss"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-06-23T19:11:37-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.10.0"
+  },
+  "id": {
+    "label": "14218915568"
+  },
+  "title": {
+    "label": "La mejor app"
+  },
+  "content": {
+    "label": "La empecé utilizando en Windows esta aplicación, debido a que vi un vídeo de MrBeast y es fascinante la aplicación de Windows y ahora vine a instalármela en iOS",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

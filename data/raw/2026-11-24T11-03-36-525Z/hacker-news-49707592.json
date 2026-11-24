@@ -1,0 +1,43 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "ericzawo"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "wispr",
+        "flow"
+      ],
+      "value": "Have you tried <em>wispr</em> <em>flow</em>?"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "iOS 27, iPadOS 27, and macOS 27"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_ericzawo",
+    "story_49701004"
+  ],
+  "author": "ericzawo",
+  "comment_text": "Have you tried wispr flow?",
+  "created_at": "2026-09-15T04:09:31Z",
+  "created_at_i": 1789445371,
+  "objectID": "49707592",
+  "parent_id": 49702103,
+  "story_id": 49701004,
+  "story_title": "iOS 27, iPadOS 27, and macOS 27",
+  "story_url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+  "updated_at": "2026-09-15T04:15:38Z"
+}

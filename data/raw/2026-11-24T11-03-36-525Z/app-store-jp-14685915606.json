@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1969872911"
+    },
+    "name": {
+      "label": "やほ*˙︶˙*)ﾉ\""
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-19T08:35:50-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14685915606"
+  },
+  "title": {
+    "label": "とにかくすごい"
+  },
+  "content": {
+    "label": "ギャル語が好きで、予測変換に入れることができた！顔文字もかわいいからハマった！",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

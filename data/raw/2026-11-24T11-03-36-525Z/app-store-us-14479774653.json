@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id114883845"
+    },
+    "name": {
+      "label": "Unmature1979"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-08-27T15:15:20-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.0.31"
+  },
+  "id": {
+    "label": "14479774653"
+  },
+  "title": {
+    "label": "My go to voice to text program"
+  },
+  "content": {
+    "label": "I've tried just about every voice-to-text program out there, and it was critical for me to find a multi-platform program. And Aqua answered the call because it works fantastic on my Mac and on my Windows machine.\n\nThe only thing it was lacking was an iPhone application. And lo and behold, they came out with a very pleasant, easy-to-use solution, which I have been very satisfied to use.\n\nSo once again, bravo to Aqua, because now they are on three platforms and forever my go-to voice-to-text application wherever I need it.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6759074969&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

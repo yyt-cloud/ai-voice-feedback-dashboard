@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id920671810"
+    },
+    "name": {
+      "label": "北風こぞうの寒太郎"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-17T17:58:21-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14679629967"
+  },
+  "title": {
+    "label": "NO SIMEJI NO PHONE"
+  },
+  "content": {
+    "label": "私が小5の頃からハタチの今までお世話になってます。\n\n変換も良くなってるしね。\n一括削除便利",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

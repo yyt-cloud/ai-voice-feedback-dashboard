@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1221322104"
+    },
+    "name": {
+      "label": "ざらめ かずや"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-22T03:50:12-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14696721919"
+  },
+  "title": {
+    "label": "綺麗な色"
+  },
+  "content": {
+    "label": "色んな配色が可愛い！後は文字を押す時の音があればなお良い(≧∇≦)b",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

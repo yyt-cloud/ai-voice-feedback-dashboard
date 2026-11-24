@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id34985507"
+    },
+    "name": {
+      "label": "Jblack1175"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-06-30T11:09:31-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "1.11.0"
+  },
+  "id": {
+    "label": "14246178717"
+  },
+  "title": {
+    "label": "ridiculous session setting"
+  },
+  "content": {
+    "label": "Other similar apps allow you to establish your own timeout setting, but not Typeless. You must turn it on every time you send a message even in the same app. did not last 10 minutes",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}
