@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1440184015"
+    },
+    "name": {
+      "label": "山中ナス"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-01T23:29:58-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14740791814"
+  },
+  "title": {
+    "label": "フォローした人の通知"
+  },
+  "content": {
+    "label": "好きなキーパッドにできるのは嬉しいんだけど、Simeji部でフォローした人の投稿を通知してくれたらもっと嬉しいです",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

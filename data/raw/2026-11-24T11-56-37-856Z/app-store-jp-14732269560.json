@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1886239302"
+    },
+    "name": {
+      "label": "papj#jasdpmj"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-30T21:31:16-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14732269560"
+  },
+  "title": {
+    "label": "神"
+  },
+  "content": {
+    "label": "綺麗だしいい感じだけど、vipならんと全然貰えん",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

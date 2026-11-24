@@ -1,0 +1,29 @@
+{
+  "id": "10d0dfcb-e391-4d27-a648-18d5605ea627",
+  "userName": "Yusif Eenw",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVFx2yK2yqhwFY0fvynZRLbaHfMWHKv6LPJdy3MTGdTF46jHqU",
+  "date": "2026-11-22T14:52:12.269Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.wispr.flowapp&reviewId=10d0dfcb-e391-4d27-a648-18d5605ea627",
+  "title": null,
+  "text": "I HAD ENOUGH OF SEEING THIS APP, I HAD ENOUGH!!!!!!!!!! WHEN I WATCH ADS JUST TO GET REWARDS, THIS AD JUST APPEARS AND I DON'T WANNA SEE IT AGAIN",
+  "replyDate": null,
+  "replyText": null,
+  "version": null,
+  "thumbsUp": 1,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_ads_intrusiveness",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_ads_presence",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 2
+    }
+  ]
+}

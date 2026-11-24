@@ -1,0 +1,29 @@
+{
+  "id": "824c4798-416b-4512-8ce6-4dde31fab9cd",
+  "userName": "Konstantinos Stavropoulos",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJnmB6LVg2XW2cgzPYJ5MBl1Ob9Hsz8aEpws0Cg9h-2unv8Yo8e=mo",
+  "date": "2026-11-20T23:18:31.639Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.wispr.flowapp&reviewId=824c4798-416b-4512-8ce6-4dde31fab9cd",
+  "title": null,
+  "text": "not worth it, this app asks for so many permissions and is glitchy at times that it's not even worth downloading. the amount of permissions and authorization it wants to access your phone is ridiculous at best and it seems like a spyware item for the government. I'm pretty open-minded about many apps and have always given authorization, but this one just seems a little too suspicious for my liking",
+  "replyDate": null,
+  "replyText": null,
+  "version": null,
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_visual_appeal",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_phase1_collaboration",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_phase1_messaging",
+      "rating": 3
+    }
+  ]
+}

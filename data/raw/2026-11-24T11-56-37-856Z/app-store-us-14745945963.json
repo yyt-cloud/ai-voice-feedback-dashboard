@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1344977948"
+    },
+    "name": {
+      "label": "timikad"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-03T06:28:56-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14745945963"
+  },
+  "title": {
+    "label": "Great app."
+  },
+  "content": {
+    "label": "Works great, takes dictation well, and translates it into natural wording. I can't imagine using this phone without this app. Typing sucks, and this app does such an amazing job at converting speech to text in such a way that, even when I mess up and stumble over words, it corrects in such a way that is so natural for what I intended to say.\n\nThe app is magical and beautiful and wonderful, and if you're not using it, get it, use it. If you think typing is your thing, try this app, and you will never type again. Your communication will be so much better and clearer and safer, especially if you're driving. It is so absolutely worth it.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

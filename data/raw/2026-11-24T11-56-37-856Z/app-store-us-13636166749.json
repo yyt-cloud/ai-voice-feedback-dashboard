@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1772828687"
+    },
+    "name": {
+      "label": "Fangerz7"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-01-15T05:40:45-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "0.3.1"
+  },
+  "id": {
+    "label": "13636166749"
+  },
+  "title": {
+    "label": "Can’t live without Typeless anymore"
+  },
+  "content": {
+    "label": "Huge productivity increase for all my chats, emails and notes. One of the only DAU AI products I use",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

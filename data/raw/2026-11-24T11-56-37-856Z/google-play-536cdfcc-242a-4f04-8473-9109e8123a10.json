@@ -1,0 +1,25 @@
+{
+  "id": "536cdfcc-242a-4f04-8473-9109e8123a10",
+  "userName": "Greta Cotter",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLdzgR1qe61zvScABjVioScbfALECo8E6A_lFLpY1htOeNDNQ=mo",
+  "date": "2026-10-08T22:10:08.245Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.creativeapp.voiceinput&reviewId=536cdfcc-242a-4f04-8473-9109e8123a10",
+  "title": null,
+  "text": "It really helps me type because I'm a bad typist. Thank you, voice.",
+  "replyDate": "2026-10-09T09:01:52.266Z",
+  "replyText": "Thank you, Greta! No typing skills needed: just speak and let Voiskey do the rest 😊 We’re so glad it’s making things easier for you. Happy speaking!",
+  "version": "1.7",
+  "thumbsUp": 2,
+  "criterias": [
+    {
+      "criteria": "vaf_phase1_messaging",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_visual_appeal",
+      "rating": 1
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1413277400"
+    },
+    "name": {
+      "label": "akmeds301"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-22T08:51:09-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "2.9.0"
+  },
+  "id": {
+    "label": "14697748486"
+  },
+  "title": {
+    "label": "App is hallucinating"
+  },
+  "content": {
+    "label": "The app used to put exactly what I said now it just writes what it thinks I said. I hate that I cannot turn off Chinese and all the other languages I don’t speak. Choosing 2 max would be fine and leave the auto mode for who ever speaks 200 languages would be fine, but mostly everyone tops at 2 languages. It is ridiculous that I try saying something either in Spanish or English and it thinks I said something in Chinese and it writes in Chinese what it thinks what I said. Please change this approach transcription is not at all there yet.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1390765963"
+    },
+    "name": {
+      "label": "ﾖﾙﾉ ▶︎"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-24T03:30:56-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14704859827"
+  },
+  "title": {
+    "label": "は？ストレス"
+  },
+  "content": {
+    "label": "ios27アップデート後から何故か横向きのキーボードサイズ小さいし、右側の空白気になるし、縦画面から横画面に移動する時に元の画面対応のキーボードのまま最初引っ張られてストレス過ぎる…\nどちらが悪いか分からないからなおストレス。ストレスでしかない、音声入力消す為に課金は草過ぎて無理wwwww",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

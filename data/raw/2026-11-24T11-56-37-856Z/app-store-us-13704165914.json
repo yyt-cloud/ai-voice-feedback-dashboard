@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id661419501"
+    },
+    "name": {
+      "label": "Lee Early"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-02-02T02:41:57-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "0.5.0"
+  },
+  "id": {
+    "label": "13704165914"
+  },
+  "title": {
+    "label": "The latest version is very poor"
+  },
+  "content": {
+    "label": "The latest version is terrible. It is very difficult to use and extremely prone to operational errors.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

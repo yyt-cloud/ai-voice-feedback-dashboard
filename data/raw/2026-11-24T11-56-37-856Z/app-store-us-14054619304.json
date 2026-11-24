@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1386949182"
+    },
+    "name": {
+      "label": "Quan🥊"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-05-11T18:37:14-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "1.5.0"
+  },
+  "id": {
+    "label": "14054619304"
+  },
+  "title": {
+    "label": "怎么让他不在微信里出现"
+  },
+  "content": {
+    "label": "微信里的无感更好，每次都输了两遍语音",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1365576563"
+    },
+    "name": {
+      "label": "IlirMC"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-04-10T00:25:55-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.0.7"
+  },
+  "id": {
+    "label": "13941938872"
+  },
+  "title": {
+    "label": "Aqua"
+  },
+  "content": {
+    "label": "I’m the first to comment I’d like a discount, please. 😂😂 I love the app; I use it on my laptop, and it’s very fast and accurate.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6759074969&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

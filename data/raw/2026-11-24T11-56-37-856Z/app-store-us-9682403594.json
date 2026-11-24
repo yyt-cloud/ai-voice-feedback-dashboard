@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1505551147"
+    },
+    "name": {
+      "label": "情報安全"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2023-03-05T08:24:08-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "11.9.2"
+  },
+  "id": {
+    "label": "9682403594"
+  },
+  "title": {
+    "label": "使いやすいに伴って人の情報を集まってもいます"
+  },
+  "content": {
+    "label": "情報安全性が低い",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

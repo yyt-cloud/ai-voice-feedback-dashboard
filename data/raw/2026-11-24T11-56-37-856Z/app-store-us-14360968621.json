@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id41190702"
+    },
+    "name": {
+      "label": "JACo_OLz™"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-07-28T20:57:47-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.2.0"
+  },
+  "id": {
+    "label": "14360968621"
+  },
+  "title": {
+    "label": "I have to get it, and subscribe."
+  },
+  "content": {
+    "label": "I tried some of the popular ones and ended up settling with Typeless. This is an awesome app, and it's well worth it. You do not even have to swipe because it's going to auto-switch for you. With the simplicity and features it provides, it's one of the best for smartphone and desktop app",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1868111222"
+    },
+    "name": {
+      "label": "︎︎a"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-10T00:22:29-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14772661013"
+  },
+  "title": {
+    "label": "ｵﾓｼﾛｰｲ(´∀`*)"
+  },
+  "content": {
+    "label": "キーボードがたくさんあって面白いです。文字もSimejiでしか打てないのもあるのでおもしろいｵﾓｼﾛｰｲ(´∀`*)",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "c5acca4b-2953-4ea7-b84c-99ab7a81cd64",
+  "userName": "南月",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU9Hk6bmbCG4V-oK_WjgJECD7rMJiPzMqqHPPxY2P-7RU7gyA",
+  "date": "2026-11-08T00:07:51.512Z",
+  "score": 2,
+  "scoreText": "2",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=c5acca4b-2953-4ea7-b84c-99ab7a81cd64",
+  "title": null,
+  "text": "噂だとウイルスの元らしい ロブロックスなどに入ると文字がローマ 字入力になる 可愛い絵文字がふえる おじさん声でチャットできる",
+  "replyDate": null,
+  "replyText": null,
+  "version": "23.7",
+  "thumbsUp": 2,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_app_quality_ads_frequency",
+      "rating": 1
+    }
+  ]
+}

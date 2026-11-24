@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1608390511"
+    },
+    "name": {
+      "label": "Kornysmine4ever"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-11T13:26:23-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "2.0.0"
+  },
+  "id": {
+    "label": "14778989020"
+  },
+  "title": {
+    "label": "It’s good"
+  },
+  "content": {
+    "label": "I saw an ad saying it would copy safe note but it didn’t and also it’s a little bit messed up but I definitely reccomend!",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

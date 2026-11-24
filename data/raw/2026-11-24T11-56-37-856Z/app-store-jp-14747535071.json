@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id829210137"
+    },
+    "name": {
+      "label": "IXa3841"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-03T14:52:35-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14747535071"
+  },
+  "title": {
+    "label": "微妙なところあり"
+  },
+  "content": {
+    "label": "クリップボード実装するのはいいんだけど使い勝手が悪い\nコピーしたのにクリップボードに入っていなかったりする。古い順に消して新しいの追加する仕組みでは無いか、1つのページからコピーできる文が1つしか取得できない仕組みか",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

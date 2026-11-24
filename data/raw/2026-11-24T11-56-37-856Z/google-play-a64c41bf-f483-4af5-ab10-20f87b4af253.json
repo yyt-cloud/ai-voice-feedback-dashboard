@@ -1,0 +1,29 @@
+{
+  "id": "a64c41bf-f483-4af5-ab10-20f87b4af253",
+  "userName": "TOLON KHAN",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUpQ_G9WhVoc_cFpSqLQ-L5_MoHre5n5YHeJviam7B4rtyX7verDg",
+  "date": "2026-10-25T18:25:18.974Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=a64c41bf-f483-4af5-ab10-20f87b4af253",
+  "title": null,
+  "text": "wow",
+  "replyDate": null,
+  "replyText": null,
+  "version": null,
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_ads_frequency",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_phase1_collaboration",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 1
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1811592844"
+    },
+    "name": {
+      "label": "あうえおおおおおのる"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-06T05:03:43-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14757470986"
+  },
+  "title": {
+    "label": "最悪"
+  },
+  "content": {
+    "label": "キーボードが戻らないです。しめじが使えないなんで？",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

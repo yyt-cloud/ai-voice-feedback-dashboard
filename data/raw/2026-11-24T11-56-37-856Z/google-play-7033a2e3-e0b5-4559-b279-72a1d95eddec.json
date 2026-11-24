@@ -1,0 +1,29 @@
+{
+  "id": "7033a2e3-e0b5-4559-b279-72a1d95eddec",
+  "userName": "Hiromi",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIxkiZhKw_kdbcfA6hHkL1aKDOwHXkdi1-PnoWTiNRDPff6Hg=mo",
+  "date": "2026-08-29T14:35:57.793Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=7033a2e3-e0b5-4559-b279-72a1d95eddec",
+  "title": null,
+  "text": "これは、危険です！最近こんじん情報がバレるらしいのでおおすすめしないです。",
+  "replyDate": "2026-08-31T05:43:25.689Z",
+  "replyText": "レビューをお寄せいただき、ありがとうございます。\n\n個人情報の取り扱いについて、ご不安を感じさせてしまい申し訳ございません。Simejiでは、利用規約およびプライバシーポリシーに基づき、ユーザー情報を適切に取り扱っており、入力内容を無断で取得・公開することはございません。\n\n今後も安心してご利用いただけるよう、セキュリティおよびプライバシー保護に努めてまいります。\n\n今後ともSimejiをよろしくお願いいたします。",
+  "version": "23.2.1",
+  "thumbsUp": 1,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_app_quality_ads_intrusiveness",
+      "rating": null
+    }
+  ]
+}

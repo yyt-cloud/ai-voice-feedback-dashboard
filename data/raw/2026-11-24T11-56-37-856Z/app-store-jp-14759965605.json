@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1637756023"
+    },
+    "name": {
+      "label": "こおほむゆ、、"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-06T19:04:13-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14759965605"
+  },
+  "title": {
+    "label": "きのぴ"
+  },
+  "content": {
+    "label": "まあいいと思います。だけど私のやつは着せ替えが少なくて他の友達はVIPじゃなくても広告を見れば着せ替えが増えるのに私のは増えなくて、これってiPadとスマホの違いですか？",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

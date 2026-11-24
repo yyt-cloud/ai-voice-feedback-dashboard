@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1983606606"
+    },
+    "name": {
+      "label": "ボルテえれーじ"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-20T03:40:01-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.6"
+  },
+  "id": {
+    "label": "14812175555"
+  },
+  "title": {
+    "label": "自分の好きなキーボード❣️"
+  },
+  "content": {
+    "label": "自分の写真で書けたり自分の好きなキーボードがたくさんあって嬉しい♡もっと沢山使いたい❣️",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

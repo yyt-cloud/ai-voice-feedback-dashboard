@@ -1,0 +1,29 @@
+{
+  "id": "a2de2d77-a6a8-41d3-b4a4-230368cba6e2",
+  "userName": "Yubaraj Chand",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLvF_SO6Gl8Cig_a7mxKJVH3mhXMaJs6YxilSHGsBga2DtaFg=mo",
+  "date": "2026-11-19T16:20:19.497Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.wispr.flowapp&reviewId=a2de2d77-a6a8-41d3-b4a4-230368cba6e2",
+  "title": null,
+  "text": "Best",
+  "replyDate": null,
+  "replyText": null,
+  "version": null,
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_visual_appeal",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_phase1_file_sharing",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_phase1_messaging",
+      "rating": 1
+    }
+  ]
+}

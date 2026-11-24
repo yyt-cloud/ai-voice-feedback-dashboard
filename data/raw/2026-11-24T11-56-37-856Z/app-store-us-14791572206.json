@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id422389262"
+    },
+    "name": {
+      "label": "Nick Rulof"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-14T16:36:51-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.0.1"
+  },
+  "id": {
+    "label": "14791572206"
+  },
+  "title": {
+    "label": "Love it"
+  },
+  "content": {
+    "label": "It’s already awesome. I can hear me whispering and will edit my text if I change my mind??? Sold!",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

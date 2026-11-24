@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id527618084"
+    },
+    "name": {
+      "label": "鯖煮物"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-19T13:16:37-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14686776996"
+  },
+  "title": {
+    "label": "AI切り抜きについて"
+  },
+  "content": {
+    "label": "毎日活用させて貰ってます。\n\n入力前に写真の主役が浮かび上がる、AI切り抜きという機能がありますが、その主役が浮き出るまでの時間をもう少し短くして欲しいです..",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

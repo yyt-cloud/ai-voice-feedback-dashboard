@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1314239831"
+    },
+    "name": {
+      "label": "Game Thingy Ma Bober"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-06-11T03:40:20-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "1.9.0"
+  },
+  "id": {
+    "label": "14169404264"
+  },
+  "title": {
+    "label": "Spying on my conversations?!?"
+  },
+  "content": {
+    "label": "When I was just normally talking to my friend, it was normal right? Then I shut my phone off. I talked to him for a little bit more. I opened it back up and do you wanna know what I see? Copied and pasted conversation of me and my friend. I didn’t even touch the keyboard or anything it just spy on me friend so yeah that’s why I’m giving this one star, it’s creepy as heck!",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

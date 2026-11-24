@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id751909512"
+    },
+    "name": {
+      "label": "ℛ⃛Ü𝐼"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-31T15:51:38-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14735462227"
+  },
+  "title": {
+    "label": "Simejiを入れて"
+  },
+  "content": {
+    "label": "私は、Simejiと言うアプリを入れてから、なんだか運が良くなった気がするんです。受験にも合格して、テストでも100点が付いて。作ってくれた方に、感謝しかないですm(_ _)m\n弟が居て、受験合格してから1人暮らしを始めたので、ストレス解消出来ました＼(^o^)／全部、Simejiのおかげだと思ってます(*ˊᵕˋ*)",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

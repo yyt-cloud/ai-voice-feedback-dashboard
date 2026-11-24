@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id552359296"
+    },
+    "name": {
+      "label": "weirdalsuperfan"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2022-07-02T04:21:50-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "10.9"
+  },
+  "id": {
+    "label": "8832626175"
+  },
+  "title": {
+    "label": "英語キーボード邪魔"
+  },
+  "content": {
+    "label": "英語のキーボード削除したいのに出来なくて、困ってる(｀_´)",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

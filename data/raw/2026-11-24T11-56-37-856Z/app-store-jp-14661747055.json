@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1812704357"
+    },
+    "name": {
+      "label": "悟飯Love"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-13T06:39:43-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14661747055"
+  },
+  "title": {
+    "label": "39円とかかれていたのに14400円請求され、まだ払っていないが保留となったキャンセルして欲しい"
+  },
+  "content": {
+    "label": "助けてください、アプリはいいのですが謎に多くの請求がきてアプリもダウンロードできずに困っております運営さん速急の対応をお願いします",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

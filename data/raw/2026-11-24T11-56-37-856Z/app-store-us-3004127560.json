@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id519693266"
+    },
+    "name": {
+      "label": "ユーザー登録"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2018-08-01T22:08:57-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "6.8"
+  },
+  "id": {
+    "label": "3004127560"
+  },
+  "title": {
+    "label": "アップデート不具合"
+  },
+  "content": {
+    "label": "アップデート後にフリーズ頻発してます。\n早急にご対応お願い致します！",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

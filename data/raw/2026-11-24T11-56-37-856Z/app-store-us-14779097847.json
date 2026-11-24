@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id495954535"
+    },
+    "name": {
+      "label": "Mike Nease"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-11T14:06:04-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.0.0"
+  },
+  "id": {
+    "label": "14779097847"
+  },
+  "title": {
+    "label": "Great"
+  },
+  "content": {
+    "label": "Game changer",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

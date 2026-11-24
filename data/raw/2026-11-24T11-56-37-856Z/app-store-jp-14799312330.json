@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id183987884"
+    },
+    "name": {
+      "label": "０２１３"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-16T14:41:22-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.6"
+  },
+  "id": {
+    "label": "14799312330"
+  },
+  "title": {
+    "label": "音声入力が邪魔"
+  },
+  "content": {
+    "label": "急いでる時に間違えて押して、画面飛ばされるのウザすぎ。\n音声入力ボタンを消すためには課金とかふざけてませんか？",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

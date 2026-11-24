@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id704992666"
+    },
+    "name": {
+      "label": "Lily……………yiuiy"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-03T07:35:44-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14746184612"
+  },
+  "title": {
+    "label": "Wispr Flow"
+  },
+  "content": {
+    "label": "Wispr Flow is the best app ever! You can talk in any kind of language, and it's so cool. I love it, and it's free.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

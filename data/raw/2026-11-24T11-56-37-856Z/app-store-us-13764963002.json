@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1137743963"
+    },
+    "name": {
+      "label": "Ankith@"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-02-18T20:58:18-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.1.0"
+  },
+  "id": {
+    "label": "13764963002"
+  },
+  "title": {
+    "label": "excellent app"
+  },
+  "content": {
+    "label": "hi guys i'm using your app it's really incredible. i have use other ai voice keyboard apps but nothing is beatable for this app. guys keep going you have builted ac excellent app",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

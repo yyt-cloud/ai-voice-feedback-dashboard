@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1523755527"
+    },
+    "name": {
+      "label": "None of ur business again"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2024-11-13T19:55:28-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "14.7.1"
+  },
+  "id": {
+    "label": "11947560709"
+  },
+  "title": {
+    "label": "ENGLISH"
+  },
+  "content": {
+    "label": "istg I’m not gonna waste my time, I can’t find the stupid English thing ADD A STUPID FREAKIN’ ENGLISH",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

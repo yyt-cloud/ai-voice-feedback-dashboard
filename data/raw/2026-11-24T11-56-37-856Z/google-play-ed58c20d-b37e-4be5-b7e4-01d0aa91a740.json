@@ -1,0 +1,16 @@
+{
+  "id": "ed58c20d-b37e-4be5-b7e4-01d0aa91a740",
+  "userName": "Andrew",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKdcTD6r-3dWAd4j17ayedqJugG5QFRdQv0KeIeLmDyAo1ztQ=mo",
+  "date": "2026-10-22T20:45:47.173Z",
+  "score": 2,
+  "scoreText": "2",
+  "url": "https://play.google.com/store/apps/details?id=com.aquavoice.android&reviewId=ed58c20d-b37e-4be5-b7e4-01d0aa91a740",
+  "title": null,
+  "text": "I installed it I'm logged in and I have no clue how to dictate. I open the app, go to home and there's no way to dictate.",
+  "replyDate": "2026-10-22T20:53:19.177Z",
+  "replyText": "Hey Andrew,\nAqua is used to dictate across other apps, not just within the Aqua Voice app. After you have gone through onboarding and set it up, the blue Aqua button will popup anytime you select a text field across any app. You then press the button and speak to dictate into that field. Sorry for the confusion.",
+  "version": "0.1.17",
+  "thumbsUp": 0,
+  "criterias": []
+}

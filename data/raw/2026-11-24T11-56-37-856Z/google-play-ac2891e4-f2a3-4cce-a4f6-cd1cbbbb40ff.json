@@ -1,0 +1,29 @@
+{
+  "id": "ac2891e4-f2a3-4cce-a4f6-cd1cbbbb40ff",
+  "userName": "Googleユーザー",
+  "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+  "date": "2026-10-26T09:45:27.100Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=ac2891e4-f2a3-4cce-a4f6-cd1cbbbb40ff",
+  "title": null,
+  "text": "ソビエト連邦の打てるようになった",
+  "replyDate": "2026-11-02T04:13:21.295Z",
+  "replyText": "レビューをお寄せいただき、ありがとうございます。\n\nお楽しみいただけているとのこと、大変嬉しく思います！\nこれからも皆さまに快適にご利用いただけるよう、より良いサービスづくりに努めてまいります。\n\n今後ともSimejiをよろしくお願いいたします。",
+  "version": null,
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_ads_intrusiveness",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_usability",
+      "rating": 1
+    }
+  ]
+}

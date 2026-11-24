@@ -1,0 +1,29 @@
+{
+  "id": "07be9fa7-b76b-4f56-a1ec-cab5653f35c3",
+  "userName": "Sankalpa Saha",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLLFHRr5JMonhbxm3qY2ad3qoE-3aW4yfQ0KqBzD5I730u33w=mo",
+  "date": "2026-11-21T14:12:10.344Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.wispr.flowapp&reviewId=07be9fa7-b76b-4f56-a1ec-cab5653f35c3",
+  "title": null,
+  "text": "Good",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.8.7",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_usability",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_phase1_collaborative_editing",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_ads_frequency",
+      "rating": 2
+    }
+  ]
+}

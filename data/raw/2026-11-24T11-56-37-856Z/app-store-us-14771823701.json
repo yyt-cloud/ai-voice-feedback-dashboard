@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1968443806"
+    },
+    "name": {
+      "label": "Helper1$"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-09T18:05:19-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14771823701"
+  },
+  "title": {
+    "label": "This is a good app. Plus, I can do whatever I want on it. Please give this app."
+  },
+  "content": {
+    "label": "This is a good review. I'm giving you a 5-star for effort.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

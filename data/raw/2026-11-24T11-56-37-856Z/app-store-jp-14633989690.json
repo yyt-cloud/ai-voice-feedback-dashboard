@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1605005710"
+    },
+    "name": {
+      "label": "󠀡󠀡 󠀡󠀡 󠀡󠀡"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-06T04:19:51-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14633989690"
+  },
+  "title": {
+    "label": "Perplexityによるバグ"
+  },
+  "content": {
+    "label": "Perplexityアプリだとキーボードが稀にしか出てこない。\n※すでに設定で追加し直したり、バックグラウンド有効にしたり、フルアクセス許可をしている。\n\n無課金だと、文字の間ドラッグで移動の左側の音声入力マークが消せない。非常に不便。改悪。\n\nまた、デフォルト配列Gのダークバージョンも早く出して欲しい。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

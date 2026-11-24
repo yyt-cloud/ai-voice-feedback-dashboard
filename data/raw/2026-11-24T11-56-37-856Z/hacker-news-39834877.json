@@ -1,0 +1,45 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "tkgally"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "aqua",
+        "voice"
+      ],
+      "value": "After watching the video demo and logging in, I was able to compose and edit text easily. Nice job.<p>My own use case is a bit different from many others who have commented here. I'm a reasonably fast typist and don't currently have any physical or neurological issues that might make typing difficult. I have tried <em>voice</em> input methods a number of times over the years, as I thought speaking would be faster than typing, but I always went back to typing due to accuracy problems and difficulty editing.<p><em>Aqua</em> <em>Voice</em> does seem to be a significant advance. I'm going to try it out from time to time to see if I can get comfortable with <em>voice</em> input. If I can, I will subscribe.<p>I drafted this comment using <em>Aqua</em> <em>Voice</em>, but I ended up editing it quite a bit with a keyboard before posting."
+    },
+    "story_title": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "aqua",
+        "voice"
+      ],
+      "value": "Launch HN: <em>Aqua</em> <em>Voice</em> (YC W24) – <em>Voice</em>-driven text editor"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_tkgally",
+    "story_39828686"
+  ],
+  "author": "tkgally",
+  "children": [
+    39835248,
+    39836103
+  ],
+  "comment_text": "After watching the video demo and logging in, I was able to compose and edit text easily. Nice job.<p>My own use case is a bit different from many others who have commented here. I&#x27;m a reasonably fast typist and don&#x27;t currently have any physical or neurological issues that might make typing difficult. I have tried voice input methods a number of times over the years, as I thought speaking would be faster than typing, but I always went back to typing due to accuracy problems and difficulty editing.<p>Aqua Voice does seem to be a significant advance. I&#x27;m going to try it out from time to time to see if I can get comfortable with voice input. If I can, I will subscribe.<p>I drafted this comment using Aqua Voice, but I ended up editing it quite a bit with a keyboard before posting.",
+  "created_at": "2024-03-27T01:43:18Z",
+  "created_at_i": 1711503798,
+  "objectID": "39834877",
+  "parent_id": 39828686,
+  "story_id": 39828686,
+  "story_title": "Launch HN: Aqua Voice (YC W24) – Voice-driven text editor",
+  "updated_at": "2024-09-20T16:40:21Z"
+}

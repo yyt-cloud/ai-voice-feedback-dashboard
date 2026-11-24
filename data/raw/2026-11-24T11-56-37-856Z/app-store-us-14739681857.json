@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id39388718"
+    },
+    "name": {
+      "label": "FencingPoodles"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-01T15:39:57-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14739681857"
+  },
+  "title": {
+    "label": "No more typing."
+  },
+  "content": {
+    "label": "Wispr Flow allows me to get a lot more work done with no carpal tunnel or sitting in strange positions with my arms and shoulders. I use it for emails, messages, and technical documents On my phone, iPad, and laptop, it's extremely accurate, except when I talk too softly.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

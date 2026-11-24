@@ -1,0 +1,29 @@
+{
+  "id": "76819bf6-f153-4077-92f0-1eabeafdac2f",
+  "userName": "平川隼人",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocI2qp-pqudA09fmwOAiLHOs1gNOgV8e12_lKu83uN3qGofYdg=mo",
+  "date": "2026-09-20T11:42:06.648Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=76819bf6-f153-4077-92f0-1eabeafdac2f",
+  "title": null,
+  "text": "めちゃめちゃ絵文字可愛いけど中国産でちょっと心配w",
+  "replyDate": null,
+  "replyText": null,
+  "version": "23.2.1",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_visual_appeal",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_usability",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_ads_frequency",
+      "rating": 2
+    }
+  ]
+}

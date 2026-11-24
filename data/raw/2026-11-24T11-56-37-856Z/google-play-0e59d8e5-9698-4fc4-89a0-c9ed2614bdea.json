@@ -1,0 +1,29 @@
+{
+  "id": "0e59d8e5-9698-4fc4-89a0-c9ed2614bdea",
+  "userName": "Elgin Bailey",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVc0SqTmoWDaDJbQlFH3hU-YSBH7bfzZIS7zJ-Efk-UGnKYTrrB-g",
+  "date": "2026-11-19T12:14:35.183Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.wispr.flowapp&reviewId=0e59d8e5-9698-4fc4-89a0-c9ed2614bdea",
+  "title": null,
+  "text": "Amazing",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.8.7",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_usability",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_app_quality_visual_appeal",
+      "rating": 1
+    }
+  ]
+}

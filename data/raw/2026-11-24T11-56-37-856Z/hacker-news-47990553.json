@@ -1,0 +1,43 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "yNeolh"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "That happens in most speech to text systems, even Superwhisper, Monologue and Wispr Flow. I read somewhere it comes from training on YouTube audio and happens when there is silence. I guess it depends on the model but most of them are based on Whisper which has this problem"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://github.com/microsoft/vscode/pull/310226"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_yNeolh",
+    "story_47989883"
+  ],
+  "author": "yNeolh",
+  "children": [
+    47990769,
+    47991131
+  ],
+  "comment_text": "That happens in most speech to text systems, even Superwhisper, Monologue and Wispr Flow. I read somewhere it comes from training on YouTube audio and happens when there is silence. I guess it depends on the model but most of them are based on Whisper which has this problem",
+  "created_at": "2026-05-02T21:09:28Z",
+  "created_at_i": 1777756168,
+  "objectID": "47990553",
+  "parent_id": 47990423,
+  "story_id": 47989883,
+  "story_title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+  "story_url": "https://github.com/microsoft/vscode/pull/310226",
+  "updated_at": "2026-05-02T22:52:14Z"
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id559631478"
+    },
+    "name": {
+      "label": "家系ラーメンLove"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-01T22:43:17-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14617657323"
+  },
+  "title": {
+    "label": "数字入力後"
+  },
+  "content": {
+    "label": "戻ると記号入力になってるけど「円」とか｢日｣｢月｣｢年｣「cm」｢kg｣とか数字の後に来る一般的な入力するものにして欲しい。年月日とか時間は数字の変換候補に出てくるけど、いちいち探すのが直感的に出来なくてストレス。\nその他は可愛くて無課金でも十分楽しめて感謝してる。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

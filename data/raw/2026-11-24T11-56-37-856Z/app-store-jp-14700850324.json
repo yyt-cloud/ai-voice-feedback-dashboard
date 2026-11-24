@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1426412046"
+    },
+    "name": {
+      "label": "夏に生まれた菜の花"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-23T04:34:51-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14700850324"
+  },
+  "title": {
+    "label": "ここを追加してくれれば…！"
+  },
+  "content": {
+    "label": "Simejiでは、お世話になってるし連続で打っても「あ」から「い」にならないから結構便利！\nあとは、イタリア語も追加して欲しい！\n今イタリア語勉強してるから、イタリア語追加してくれればなぁ…。って思う！\nSimejiさんお願いします！！",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

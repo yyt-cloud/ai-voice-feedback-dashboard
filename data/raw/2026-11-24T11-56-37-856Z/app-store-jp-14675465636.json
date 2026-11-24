@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id568672362"
+    },
+    "name": {
+      "label": "からくれんか"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-16T17:39:31-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14675465636"
+  },
+  "title": {
+    "label": "音声入力いらない"
+  },
+  "content": {
+    "label": "ずっと使い慣れていて使いやすかったのに、よりにもよって1番使うカーソルボタンの部分に音声入力ボタンを割り込まれて本当にストレス。誤って押してしまい、その度にアプリに飛んでしまうのが鬱陶しい。元に戻すか、せめて音声入力を端の方に変えて欲しい。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "2"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "2"
+  }
+}

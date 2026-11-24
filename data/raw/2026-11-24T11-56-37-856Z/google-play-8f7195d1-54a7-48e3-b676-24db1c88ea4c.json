@@ -1,0 +1,29 @@
+{
+  "id": "8f7195d1-54a7-48e3-b676-24db1c88ea4c",
+  "userName": "Gadi Son",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIxeWEUqxdJBVD4Ufn-eYLAw2QjHTKKhRd4kNzbyhzsN6YdDw=mo",
+  "date": "2026-11-21T19:41:19.880Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.wispr.flowapp&reviewId=8f7195d1-54a7-48e3-b676-24db1c88ea4c",
+  "title": null,
+  "text": "terrible app inaccurate super buggy disabling your banking shopping",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.8.7",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_phase1_messaging",
+      "rating": 2
+    }
+  ]
+}

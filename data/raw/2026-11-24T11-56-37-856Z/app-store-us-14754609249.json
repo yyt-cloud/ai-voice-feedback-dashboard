@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1508953374"
+    },
+    "name": {
+      "label": "Thewas if you wanted me too I"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-05T10:09:00-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14754609249"
+  },
+  "title": {
+    "label": "Good"
+  },
+  "content": {
+    "label": "but whenever i try to use the abcs and stuff, whenever i click the numbers, it won't let me go back",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

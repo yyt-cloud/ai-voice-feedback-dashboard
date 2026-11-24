@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1814111685"
+    },
+    "name": {
+      "label": "るるちゃんん"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-17T02:41:44-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14676809672"
+  },
+  "title": {
+    "label": "最高"
+  },
+  "content": {
+    "label": "色んなキーボードがあって文字を打つ度に気分が上がる！自分の好きな写真のキーボードを作れるのもいい！",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1530963841"
+    },
+    "name": {
+      "label": "roucher27"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2025-12-27T20:15:05-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "0.1.1"
+  },
+  "id": {
+    "label": "13563433896"
+  },
+  "title": {
+    "label": "最好用的语音输入法"
+  },
+  "content": {
+    "label": "能自己排版总结，也可以直接提问题。吊打豆包输入法",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

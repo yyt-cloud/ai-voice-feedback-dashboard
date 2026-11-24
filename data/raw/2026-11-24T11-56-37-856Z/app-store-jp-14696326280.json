@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1968213953"
+    },
+    "name": {
+      "label": "ロブロックスアイテム"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-22T01:09:28-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14696326280"
+  },
+  "title": {
+    "label": "💕Simeji🍄(🍄•᎑•🍄)"
+  },
+  "content": {
+    "label": "いつも可愛いキーボードなどをありがとうございます😭😊！これからもたくさん出してください🙇🏻‍♀️",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

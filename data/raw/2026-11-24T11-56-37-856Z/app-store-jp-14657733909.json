@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id241918426"
+    },
+    "name": {
+      "label": "オルケット"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-12T06:12:18-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14657733909"
+  },
+  "title": {
+    "label": "また改悪"
+  },
+  "content": {
+    "label": "コンパネのマイクボタンの改悪にとどまらず、右下に出ていたOSのマイクボタンまで消しやがった…いったいどこまで改悪を続けるんだよ。SimejiのマイクボタンなんていちいちSimejiのアプリに切り替わるのがうっとおしくて使い物にならないのに、右下のOSのマイクボタンまで消すなんてホントありえない運営。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "3"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "3"
+  }
+}

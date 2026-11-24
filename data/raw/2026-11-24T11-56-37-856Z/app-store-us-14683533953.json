@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id361914991"
+    },
+    "name": {
+      "label": "Keith_M."
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-18T17:02:06-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "1.77"
+  },
+  "id": {
+    "label": "14683533953"
+  },
+  "title": {
+    "label": "Has potential"
+  },
+  "content": {
+    "label": "I downloaded this keyboard specifically for its voice-to-text capabilities, and while that feature works well, the app has a long way to go before it can serve as a primary keyboard replacement.\n\nFirst, it lacks essential features found on standard keyboards, most notably glide or swipe typing. Without that core functionality, it’s hard to justify switching away from a default keyboard. Second, the user experience for voice-to-text is cumbersome: having to open the app to enable speech-to-text and then swipe back to your text field breaks the workflow.\n\nFixing these two issues would easily elevate this from a limited utility app to a four-star keyboard.\n\nTo bump it up to five stars would require new functionality. One suggestion might be the ability to polish what was just spoken with another LLM.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

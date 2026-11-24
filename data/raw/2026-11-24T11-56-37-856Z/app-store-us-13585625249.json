@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id547526926"
+    },
+    "name": {
+      "label": "Aung Pyae Sone"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-01-02T07:24:09-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "0.2.0"
+  },
+  "id": {
+    "label": "13585625249"
+  },
+  "title": {
+    "label": "Please add Burmese language support"
+  },
+  "content": {
+    "label": "I really love your idea and this app! This application can help my daily productivity and reduce my typing time because I can now write any message, short or long, using my speech.\n\nRecently, I saw that you support more than 10 languages. I would really like to ask you to add the Burmese language as well. Since I am from Myanmar, I would love to be able to type my paragraphs or text in my mother tongue, Burmese.\n\nThank you very much! 😊",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

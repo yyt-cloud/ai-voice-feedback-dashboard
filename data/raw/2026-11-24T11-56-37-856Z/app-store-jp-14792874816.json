@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id421643428"
+    },
+    "name": {
+      "label": "るるるもち"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-15T01:07:57-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14792874816"
+  },
+  "title": {
+    "label": "いいアプリだが"
+  },
+  "content": {
+    "label": "顔文字好きなのでありがたいです(՞⸝⸝ᵒ̴̶̷᷄꒳ᵒ̴̶̷᷅⸝⸝՞)💕\nだけど年齢制限をもうちょっと\n上げた方がいいとおもいます。\nSNSみたいな機能もありますし、\n子供にはわかりにくいルールもあります。\n(例えばタグ配慮やワンクなど)\nあと、たまにリスカなどの画像がでてきたりして\nちょっと怖いです(´ºωº｀)\nでもいいアプリです✨\n楽しませていただいてます。m(_ _)m",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "763b313c-166e-4961-b68a-6fafda70fcce",
+  "userName": "Erik Neff",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUWVTdqSKbsAqpEBUxhxk97roeIiftWh8BFUJmM5nfEIB5PUVnPVQ",
+  "date": "2026-10-08T20:54:19.990Z",
+  "score": 4,
+  "scoreText": "4",
+  "url": "https://play.google.com/store/apps/details?id=com.aquavoice.android&reviewId=763b313c-166e-4961-b68a-6fafda70fcce",
+  "title": null,
+  "text": "I think Aqua Voice's voice to text translator is the most accurate, most reliable, most featureful voice to text of any that I tested, and I tested about 15, including Whisper. I've been hoping that they would release an Android app for quite some time because it's so nice to voice type on desktop and Google Keyboard's mic btn is just dumb in comparison. however I wish Aqua voice was a full keyboard not a kind of clunky add-on to the existing keyboard. if it was a full keyboard, that's 5* 2me.",
+  "replyDate": null,
+  "replyText": null,
+  "version": "0.1.10",
+  "thumbsUp": 2,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_visual_appeal",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_phase1_collaboration",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_ads_presence",
+      "rating": 2
+    }
+  ]
+}

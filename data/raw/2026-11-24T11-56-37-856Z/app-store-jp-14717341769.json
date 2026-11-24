@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id535784047"
+    },
+    "name": {
+      "label": "gptjaydajxt"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-27T04:40:09-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14717341769"
+  },
+  "title": {
+    "label": "これはちょっと･･･"
+  },
+  "content": {
+    "label": "X等の広告でちょくちょくまだ配布していないキーボードデザインが登場している。期待していた人から見れば詐欺と思われるのでは？",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

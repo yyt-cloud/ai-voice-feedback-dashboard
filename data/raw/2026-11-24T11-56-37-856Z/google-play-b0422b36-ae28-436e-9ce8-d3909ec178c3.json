@@ -1,0 +1,29 @@
+{
+  "id": "b0422b36-ae28-436e-9ce8-d3909ec178c3",
+  "userName": "Roman linley",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXayOJRqcsAoyHhoqX39Ei4xTOKzJR24hleDEn2nIqm6VVPbQ50OA",
+  "date": "2026-11-23T09:08:55.885Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.wispr.flowapp&reviewId=b0422b36-ae28-436e-9ce8-d3909ec178c3",
+  "title": null,
+  "text": "loving it , but was offered pro yesterday for £12 a month, went today it's now £15 . bit of a suprise",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.8.8",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_phase1_collaborative_editing",
+      "rating": 1
+    }
+  ]
+}

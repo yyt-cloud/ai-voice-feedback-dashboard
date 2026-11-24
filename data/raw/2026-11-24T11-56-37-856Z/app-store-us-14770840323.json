@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id543063975"
+    },
+    "name": {
+      "label": "Lanie527"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-09T11:54:59-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14770840323"
+  },
+  "title": {
+    "label": "Not phone friendly"
+  },
+  "content": {
+    "label": "I really love the product on my laptops, but on the phone it doesn’t function well inside of email.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

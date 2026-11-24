@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1377751787"
+    },
+    "name": {
+      "label": "NolanFang"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-06-16T07:21:51-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.10.0"
+  },
+  "id": {
+    "label": "14189668906"
+  },
+  "title": {
+    "label": "revolutionary tool"
+  },
+  "content": {
+    "label": "revolutionary tool",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

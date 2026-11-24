@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1618620285"
+    },
+    "name": {
+      "label": "どっかのりく"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-09-30T23:54:59-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14613877556"
+  },
+  "title": {
+    "label": "マイク機能"
+  },
+  "content": {
+    "label": "キーボード機能はとってもいいです！！✨️\n今後とも使っていきたいと思ってます！\nただ、ひとつ欠点を言えば、マイクのボタンを押すと、Simejiのアプリに飛ばされるのが少し厄介なところ...🤔",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

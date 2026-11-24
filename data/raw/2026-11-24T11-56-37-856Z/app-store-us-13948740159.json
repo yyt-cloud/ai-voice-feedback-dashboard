@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id108185976"
+    },
+    "name": {
+      "label": "iNation"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-04-11T20:42:02-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "1.2.3"
+  },
+  "id": {
+    "label": "13948740159"
+  },
+  "title": {
+    "label": "I love this but.."
+  },
+  "content": {
+    "label": "There is an extra step that make this confusing and almost not usable. I have to slide again after a screen opens to activate the microphone! Had to uninstall. Good job though.. got to try it and it awesome aside from this annoying sliding step.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1174106836"
+    },
+    "name": {
+      "label": "MikeCAB88"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-06-20T10:09:12-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "1.10.0"
+  },
+  "id": {
+    "label": "14205977253"
+  },
+  "title": {
+    "label": "Battery usage and premium payment."
+  },
+  "content": {
+    "label": "The battery sometimes drains because the app keeps running in the background. Everything was fine and I hadn't had any issues, but now it turns out that you have to pay a $30 monthly membership to get more accurate data, which seems way too excessive.\n\nIt was originally free. As a user, I don't think there is a problem with paying a monthly subscription, but $30 a month is too much. Other apps offer this for free, and it is just not worth it anymore, especially since you don't get priority unless you pay.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

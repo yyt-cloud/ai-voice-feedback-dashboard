@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id942589001"
+    },
+    "name": {
+      "label": "wolvesong"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-22T01:08:13-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "2.9.0"
+  },
+  "id": {
+    "label": "14696323461"
+  },
+  "title": {
+    "label": "不好用"
+  },
+  "content": {
+    "label": "从免费的8000字一周缩水到2000字，使用体验也一般，没有笔画输入，很不方便。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

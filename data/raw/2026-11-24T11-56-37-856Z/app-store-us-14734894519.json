@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id601104304"
+    },
+    "name": {
+      "label": "Yaya1dxsc"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-31T12:17:38-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14734894519"
+  },
+  "title": {
+    "label": "it works awesomely"
+  },
+  "content": {
+    "label": "I used Wispr Flow for this review, just so you know, but it's awesome. It corrects mistakes and everything. For instance, if I say, \"Hey, let's meet at 4 pm,\" actually 6 pm, it corrects that, and it's very awesome.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

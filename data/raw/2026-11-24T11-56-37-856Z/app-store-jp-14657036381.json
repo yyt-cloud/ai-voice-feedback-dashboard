@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1978283966"
+    },
+    "name": {
+      "label": "虹羽 みに"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-12T01:59:33-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14657036381"
+  },
+  "title": {
+    "label": "もっと無料なパーツ増やしてほしい"
+  },
+  "content": {
+    "label": "増やしてほしいけど、可愛いのいっぱい",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

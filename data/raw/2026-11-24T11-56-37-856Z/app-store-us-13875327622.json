@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1903465028"
+    },
+    "name": {
+      "label": "PROFEE’s"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-03-22T07:49:31-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "1.2.0"
+  },
+  "id": {
+    "label": "13875327622"
+  },
+  "title": {
+    "label": "Why i can’t login?v?"
+  },
+  "content": {
+    "label": "I can’t login this app",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

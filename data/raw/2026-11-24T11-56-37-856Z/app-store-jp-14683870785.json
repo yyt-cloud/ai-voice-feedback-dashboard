@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1739973494"
+    },
+    "name": {
+      "label": "灰谷¥¥¥"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-18T19:19:36-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14683870785"
+  },
+  "title": {
+    "label": "さいこー"
+  },
+  "content": {
+    "label": "自分の好きなキーボードにできるまじサイコー",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

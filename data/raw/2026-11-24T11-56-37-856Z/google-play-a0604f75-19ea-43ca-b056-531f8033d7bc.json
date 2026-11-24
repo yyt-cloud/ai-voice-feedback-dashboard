@@ -1,0 +1,29 @@
+{
+  "id": "a0604f75-19ea-43ca-b056-531f8033d7bc",
+  "userName": "Ruxo Zheng",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXJFNG6zXsWeoR0E0P0wicE_0Q5ZrRce4vyHCtyHFMVsTjYJH1ngQ",
+  "date": "2026-10-11T01:15:32.505Z",
+  "score": 3,
+  "scoreText": "3",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=a0604f75-19ea-43ca-b056-531f8033d7bc",
+  "title": null,
+  "text": "Translation into other languages is not that good. I mean, it can't translate into proper local language, especially when it comes to specific nouns.But generally, I think it's good for English speakers.But it doesn't have a free trial. You have to pay to use it, and I'm not sure if it's good for the long run.",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.7.1",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_ads_intrusiveness",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_phase1_collaboration",
+      "rating": 2
+    }
+  ]
+}

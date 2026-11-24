@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1148672682"
+    },
+    "name": {
+      "label": "Erl2an"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-07-20T12:37:53-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "2.1.0"
+  },
+  "id": {
+    "label": "14327536425"
+  },
+  "title": {
+    "label": "Low accuracy"
+  },
+  "content": {
+    "label": "Keep getting my voice inputs wrong while I'm writing in a bilingual system. There must be a word blacklist feature.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

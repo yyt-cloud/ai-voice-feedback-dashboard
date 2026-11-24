@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id156457132"
+    },
+    "name": {
+      "label": "Raantuva"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-08-07T07:57:48-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.1"
+  },
+  "id": {
+    "label": "14399257453"
+  },
+  "title": {
+    "label": "Constantly crashing"
+  },
+  "content": {
+    "label": "Unstable since iOS 26\n\nEvery update is worse than the last. Stop messing with it and stabilize it, please.\n\nThis is also now happening on my iPad",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

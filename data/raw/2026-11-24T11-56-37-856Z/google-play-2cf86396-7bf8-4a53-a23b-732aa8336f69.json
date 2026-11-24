@@ -1,0 +1,29 @@
+{
+  "id": "2cf86396-7bf8-4a53-a23b-732aa8336f69",
+  "userName": "Samar ali",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIYwuAs6Z4OFJY4fDBUQygKDRoav3qpC5y5Uufb6jMcD12-KQ=mo",
+  "date": "2026-11-21T18:42:14.644Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.wispr.flowapp&reviewId=2cf86396-7bf8-4a53-a23b-732aa8336f69",
+  "title": null,
+  "text": "\"Even when Urdu is selected as the sole active language, Wispr Flow constantly transcribes spoken Urdu into Hindi (Devanagari script). Please fix this language routing/script bug for Urdu speakers.\" But somehow I also love this app! Because it makes the thing you are writing way too easier",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.8.7",
+  "thumbsUp": 2,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_usability",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_ads_presence",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 3
+    }
+  ]
+}

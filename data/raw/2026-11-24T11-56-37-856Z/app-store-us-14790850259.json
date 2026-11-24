@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id29619969"
+    },
+    "name": {
+      "label": "So stoked to find this."
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-14T12:10:59-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.0.1"
+  },
+  "id": {
+    "label": "14790850259"
+  },
+  "title": {
+    "label": "So much more efficient!"
+  },
+  "content": {
+    "label": "I'm a horrible typist, and I can't ever see my fingers when I type. I'm actually leaving this note in Wispr Flow right now on the review period. I'm hoping it comes through correctly. I have a high level of confidence that it will. \n\nBut I have to tell you that all of my responses via text messages, as well as my iMessages on my Mac, have made me about 40% more efficient because I never learned to type. I can't ever see my keyboard, so this thing works amazing. If you're not already using Wispr Flow, you should be!",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

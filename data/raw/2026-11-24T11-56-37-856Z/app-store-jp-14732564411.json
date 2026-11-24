@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1985832312"
+    },
+    "name": {
+      "label": "Lana JIS BFF"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-30T23:46:20-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14732564411"
+  },
+  "title": {
+    "label": "Lana"
+  },
+  "content": {
+    "label": "You have the best backgrounds for the typing  keyboard\nSo Thank you so much",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

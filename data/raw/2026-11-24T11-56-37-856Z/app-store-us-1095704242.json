@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id378086354"
+    },
+    "name": {
+      "label": "MaasFate"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2014-11-11T23:32:13-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "1.2"
+  },
+  "id": {
+    "label": "1095704242"
+  },
+  "title": {
+    "label": "文字颜色改不了"
+  },
+  "content": {
+    "label": "文字颜色改不了，只有白色",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

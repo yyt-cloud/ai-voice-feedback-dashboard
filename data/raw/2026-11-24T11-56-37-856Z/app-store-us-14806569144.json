@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1973087084"
+    },
+    "name": {
+      "label": "Ilovecatsgamrs223"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-18T15:19:05-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.0.3"
+  },
+  "id": {
+    "label": "14806569144"
+  },
+  "title": {
+    "label": "Great, whenever I want to correct myself"
+  },
+  "content": {
+    "label": "I love that whenever you correct yourself, it doesn’t just transcribe every single word you say",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

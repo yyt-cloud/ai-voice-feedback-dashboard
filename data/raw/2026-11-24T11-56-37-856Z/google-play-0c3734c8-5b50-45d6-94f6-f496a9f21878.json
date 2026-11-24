@@ -1,0 +1,29 @@
+{
+  "id": "0c3734c8-5b50-45d6-94f6-f496a9f21878",
+  "userName": "Lisa M. Berry",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWoCp7GA_UpzGuwEo1bQJwPrk0r2MomUjaRWrrgVJYyZBlrEW843w",
+  "date": "2026-10-01T06:00:11.819Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.creativeapp.voiceinput&reviewId=0c3734c8-5b50-45d6-94f6-f496a9f21878",
+  "title": null,
+  "text": "I totally love this App, it helps and saves so much time for myself, and all my friends seem to be able to text so much quicker than I am. Only now, with this app, I can text just as fast, and it's sometimes even quicker",
+  "replyDate": "2026-10-09T09:08:11.820Z",
+  "replyText": "Thank you, Lisa! Love hearing that you’re now keeping up with your friends, and sometimes even beating them 😄 That’s exactly what Voiskey is for. Happy texting!",
+  "version": null,
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_ads_presence",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 2
+    }
+  ]
+}

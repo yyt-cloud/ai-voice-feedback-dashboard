@@ -1,0 +1,29 @@
+{
+  "id": "7acb56f6-52a2-4040-b943-0ba99854668f",
+  "userName": "武居皇弥",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIi2QPoDKc_rxO5qCiQdvRtLYerwFBt4H6_Qoasb5qY0Cxt3Q=mo",
+  "date": "2026-10-27T00:59:46.627Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=7acb56f6-52a2-4040-b943-0ba99854668f",
+  "title": null,
+  "text": "キーボードの上の余白が邪魔。 はよ消せるようにしてくれ。",
+  "replyDate": "2026-11-02T04:12:57.650Z",
+  "replyText": "レビューいただきありがとうございます。\n\nご不便をおかけし、申し訳ございません。\nいただいたご意見を真摯に受け止め、今後もより良いサービスをご提供できるよう改善に努めてまいります。\n\n今後ともSimejiをよろしくお願いいたします。",
+  "version": null,
+  "thumbsUp": 1,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_ads_presence",
+      "rating": 1
+    }
+  ]
+}

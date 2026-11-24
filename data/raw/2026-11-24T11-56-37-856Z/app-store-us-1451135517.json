@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id472171331"
+    },
+    "name": {
+      "label": "ZombieApex"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2016-09-17T03:30:17-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "5.5"
+  },
+  "id": {
+    "label": "1451135517"
+  },
+  "title": {
+    "label": "BEST APP IM THE WHOLE WORLD"
+  },
+  "content": {
+    "label": "I rate it 5 stars because there is no other japanese app out there this is the only one (that i know of) thanks for the app's existence",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

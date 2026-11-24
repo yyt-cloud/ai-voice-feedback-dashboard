@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id651534803"
+    },
+    "name": {
+      "label": "ハムスターのおもち"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-06T00:43:59-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14756772780"
+  },
+  "title": {
+    "label": "結構いい！(´∀`)"
+  },
+  "content": {
+    "label": "• ───── ✾ ───── •",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

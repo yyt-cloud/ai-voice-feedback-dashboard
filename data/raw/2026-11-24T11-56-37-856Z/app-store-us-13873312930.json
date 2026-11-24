@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id379464296"
+    },
+    "name": {
+      "label": "DrDenticle"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-03-21T17:25:26-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "1.2.0"
+  },
+  "id": {
+    "label": "13873312930"
+  },
+  "title": {
+    "label": "Invasive Mic Usage"
+  },
+  "content": {
+    "label": "The app perpetually uses your mic when it’s open. It doesn’t work in the background at all. The actual function of the app is great but I could not tolerate it constantly having my mic on.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

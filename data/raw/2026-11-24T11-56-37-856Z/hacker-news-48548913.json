@@ -1,0 +1,33 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "matteo8p"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Hey y'all, I'm Matt. I've been working on open source voice dictation for the past couple of weeks. Really wanted to learn how local voice models work, and how apps like Wispr Flow are built.<p>Wanted to share my thoughts on the space, and why I believe voice dictation should be a free commodity."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "[dead]"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_matteo8p",
+    "story_48548912"
+  ],
+  "author": "matteo8p",
+  "comment_text": "Hey y&#x27;all, I&#x27;m Matt. I&#x27;ve been working on open source voice dictation for the past couple of weeks. Really wanted to learn how local voice models work, and how apps like Wispr Flow are built.<p>Wanted to share my thoughts on the space, and why I believe voice dictation should be a free commodity.",
+  "created_at": "2026-06-16T00:18:49Z",
+  "created_at_i": 1781569129,
+  "objectID": "48548913",
+  "parent_id": 48548912,
+  "story_id": 48548912,
+  "story_title": "[dead]",
+  "updated_at": "2026-06-16T00:23:01Z"
+}

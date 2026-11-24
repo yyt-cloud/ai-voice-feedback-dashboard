@@ -1,0 +1,29 @@
+{
+  "id": "3c1337ee-71f9-4f5e-8ace-fc27078c7583",
+  "userName": "いけいちか",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJhuHBoalMp1mGIlXHVTVVhUxM5QGr0czyi34ch7xDF_NJg6Q=mo",
+  "date": "2026-11-14T12:00:53.155Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=3c1337ee-71f9-4f5e-8ace-fc27078c7583",
+  "title": null,
+  "text": "可愛くて良き👍",
+  "replyDate": null,
+  "replyText": null,
+  "version": "23.7",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 1
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "tanpreetjolly"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "wispr",
+        "flow"
+      ],
+      "value": "hey HN, i built an npm library - browser-whisper. it's an abstraction over libraries that lets you transcribe audio/videos completely in the browser using local models, with no api key and no server<p>it currently supports two runtimes - transformers.js and parakeet.js. think of it like a shadcn ecosystem but for in-browser STT models - you can plug n play this feature into your app with just 3 lines of code. in simple words, it's infra shipped with third-party models, and super fast to run in the browser, powered by WebGPU.<p>the latest parakeet model, has low enough latency to build simple <em>Wispr</em> <em>Flow</em>-style apps completely free of cost and in browser<p>repo - github.com/tanpreetjolly/browser-whisper (MIT License). i'd love feedback."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Show HN: Audio Transcription in Browser with WebGPU"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://whisper.tanpreet.xyz/demo/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_tanpreetjolly",
+    "story_50495635"
+  ],
+  "author": "tanpreetjolly",
+  "comment_text": "hey HN, i built an npm library - browser-whisper. it&#x27;s an abstraction over libraries that lets you transcribe audio&#x2F;videos completely in the browser using local models, with no api key and no server<p>it currently supports two runtimes - transformers.js and parakeet.js. think of it like a shadcn ecosystem but for in-browser STT models - you can plug n play this feature into your app with just 3 lines of code. in simple words, it&#x27;s infra shipped with third-party models, and super fast to run in the browser, powered by WebGPU.<p>the latest parakeet model, has low enough latency to build simple Wispr Flow-style apps completely free of cost and in browser<p>repo - github.com&#x2F;tanpreetjolly&#x2F;browser-whisper (MIT License). i&#x27;d love feedback.",
+  "created_at": "2026-11-14T10:02:08Z",
+  "created_at_i": 1794650528,
+  "objectID": "50495661",
+  "parent_id": 50495635,
+  "story_id": 50495635,
+  "story_title": "Show HN: Audio Transcription in Browser with WebGPU",
+  "story_url": "https://whisper.tanpreet.xyz/demo/",
+  "updated_at": "2026-11-14T10:09:52Z"
+}

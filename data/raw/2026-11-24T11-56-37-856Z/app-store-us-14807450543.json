@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1369942091"
+    },
+    "name": {
+      "label": "CrazyCarl666"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-18T21:17:57-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.0.3"
+  },
+  "id": {
+    "label": "14807450543"
+  },
+  "title": {
+    "label": "I use this app on Linux too"
+  },
+  "content": {
+    "label": "App is a game changer.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

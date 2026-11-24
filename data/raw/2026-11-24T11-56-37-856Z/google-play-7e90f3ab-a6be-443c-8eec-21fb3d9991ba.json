@@ -1,0 +1,29 @@
+{
+  "id": "7e90f3ab-a6be-443c-8eec-21fb3d9991ba",
+  "userName": "Dave",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX0TZ3TERhHaL0o5dcgaUqC9E7oSuDL0Jem73yHdKAqcnhVtScwcQ",
+  "date": "2026-09-17T05:59:52.570Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=7e90f3ab-a6be-443c-8eec-21fb3d9991ba",
+  "title": null,
+  "text": "It won't actually let you set it up.",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.6.2",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_usability",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 3
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1763750573"
+    },
+    "name": {
+      "label": "いちごchan🍓"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-01T02:22:38-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14737140857"
+  },
+  "title": {
+    "label": "バグなの？？"
+  },
+  "content": {
+    "label": "タイトル通りバグ？？？なんですか？？？聞いてください。毎日Simejiを開いても変えれる種類が変わってません。直してください。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

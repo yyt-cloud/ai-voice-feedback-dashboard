@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1491438607"
+    },
+    "name": {
+      "label": "nxzedits"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-03T13:04:50-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14747241871"
+  },
+  "title": {
+    "label": "Great software. I prefer that the app doesn't have to be open constantly in the background to use"
+  },
+  "content": {
+    "label": "I'm using Wispr Flow to type this with voice. What I would recommend, if possible, is that every time you press the voice-to-type button, the app doesn't open up. I hope for, somehow, it runs in the background only if you press the microphone, rather than opening it up.\n\nHowever, I like how, whenever you press the voice-type button, it opens up the app and immediately brings you back to your keyboard and whatever you were doing, as if nothing happened, and allows you to voice type. So far, it's been great.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

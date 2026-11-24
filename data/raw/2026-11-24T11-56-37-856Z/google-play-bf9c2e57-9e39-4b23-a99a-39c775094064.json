@@ -1,0 +1,29 @@
+{
+  "id": "bf9c2e57-9e39-4b23-a99a-39c775094064",
+  "userName": "Emi Bernal",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUB2TnSAc1xUrTXkVewJ5_RzUlR8e7kfn_PFOFttEkIqAnq0BJE",
+  "date": "2026-09-09T01:48:59.796Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.creativeapp.voiceinput&reviewId=bf9c2e57-9e39-4b23-a99a-39c775094064",
+  "title": null,
+  "text": "REALLY GOOD APP",
+  "replyDate": "2026-09-09T01:56:14.492Z",
+  "replyText": "Thank you so much for the 5-star review! We're really glad you're enjoying Voiskey. If you ever have suggestions or run into any issues, feel free to let us know!",
+  "version": "1.4.2",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_visual_appeal",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 2
+    }
+  ]
+}

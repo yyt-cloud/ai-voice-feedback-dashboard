@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id527314353"
+    },
+    "name": {
+      "label": "fineracher"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-08-02T06:40:24-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "2.2.0"
+  },
+  "id": {
+    "label": "14378712533"
+  },
+  "title": {
+    "label": "phone Overheating After the Latest Update"
+  },
+  "content": {
+    "label": "Since the latest update, the app causes my iPhone to heat up significantly whenever it is running in the background. This never happened in previous versions.\n\nEven when I’m not actively using the app, it continues consuming resources, making my phone noticeably warm and draining the battery much faster than before. The issue stops once I force-close the app.\n\nPlease investigate the background processing. This is a serious performance issue that affects daily usability. I hope it can be fixed as soon as possible.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

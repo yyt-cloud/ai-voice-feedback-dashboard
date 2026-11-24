@@ -1,0 +1,29 @@
+{
+  "id": "508a0328-d538-4d72-addb-730e7b50c5b2",
+  "userName": "T H",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKlAKP-YTnvQJ8voFViD0SxJwRlTElWYCyKC5KSP6KYd5jhaME=mo",
+  "date": "2026-09-22T12:18:03.272Z",
+  "score": 2,
+  "scoreText": "2",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=508a0328-d538-4d72-addb-730e7b50c5b2",
+  "title": null,
+  "text": "13年以上使ってたけど…… AI導入してからとんでもなく使いにくくなった。簡単な漢字より意味の分からない絵文字が先に来たりコピペもしにくくなった。無駄に機能が増えても、結局やることは文字を打つくらいなので、変な変換が出たりと端的に言うと使いにくくなった。 これなら自分で必要な単語を登録して普通のを使った方がマシ。",
+  "replyDate": "2026-10-01T06:46:46.466Z",
+  "replyText": "レビューいただきありがとうございます。\n\nご不便をおかけし、申し訳ございません。\nいただいたご意見を真摯に受け止め、今後もより良いサービスをご提供できるよう改善に努めてまいります。\n\n今後ともSimejiをよろしくお願いいたします。",
+  "version": "23.5.2",
+  "thumbsUp": 2,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_ads_frequency",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_usability",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_app_quality_ads_intrusiveness",
+      "rating": 2
+    }
+  ]
+}

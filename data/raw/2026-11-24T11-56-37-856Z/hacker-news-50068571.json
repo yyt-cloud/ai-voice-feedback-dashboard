@@ -1,0 +1,43 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "bresc"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "wispr",
+        "flow"
+      ],
+      "value": "My grandmother and her cat build a dictation app. There are so many out there and I really don't get it why anyone would still pay for <em>Wispr</em> <em>Flow</em><p>I did one (it's free) and recent update brought it very close to <em>Wispr</em> on local models only: <a href=\"https://dictator.work\" rel=\"nofollow\">https://dictator.work</a>"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Show HN: BetterWispr – Free, open-source dictation for Mac"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://betterwispr.com/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_bresc",
+    "story_50042333"
+  ],
+  "author": "bresc",
+  "comment_text": "My grandmother and her cat build a dictation app. There are so many out there and I really don&#x27;t get it why anyone would still pay for Wispr Flow<p>I did one (it&#x27;s free) and recent update brought it very close to Wispr on local models only: <a href=\"https:&#x2F;&#x2F;dictator.work\" rel=\"nofollow\">https:&#x2F;&#x2F;dictator.work</a>",
+  "created_at": "2026-10-13T08:42:34Z",
+  "created_at_i": 1791880954,
+  "objectID": "50068571",
+  "parent_id": 50042333,
+  "story_id": 50042333,
+  "story_title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
+  "story_url": "https://betterwispr.com/",
+  "updated_at": "2026-10-13T08:43:25Z"
+}

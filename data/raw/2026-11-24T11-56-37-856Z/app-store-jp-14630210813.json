@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1269100390"
+    },
+    "name": {
+      "label": "しろいぬINU"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-05T04:15:59-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14630210813"
+  },
+  "title": {
+    "label": "Simeji部について"
+  },
+  "content": {
+    "label": "Simeji部という、SNSのように投稿できる、機能があるのですが、そこで、\niPhoneにもブロック機能を付けて欲しいのと、バグで、時々、投稿が反映されない時があるので直して欲しいです。\n\n\n“Simeji部”是一项类似社交媒体、可以发布内容的功能，关于这个功能，\n我希望iPhone版也能增加屏蔽功能，另外，由于Bug导致有时发布的内容无法显示，希望能够修复这个问题。\n↑\nSimejiは、中国のアプリと聞いた事があるので一応中国語も翻訳アプリで翻訳したものを書いておきます",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

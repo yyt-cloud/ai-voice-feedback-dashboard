@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1818343137"
+    },
+    "name": {
+      "label": "kmeilzz"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-11T17:03:22-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14655779830"
+  },
+  "title": {
+    "label": "すごい！"
+  },
+  "content": {
+    "label": "元からあるのも使えるし、自分でも作れます！可愛いのが沢山あるし、自分で作るのならば自分の癒しをキーボードにするのがおすすめです！本当にアプリを入れて良かったです！",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

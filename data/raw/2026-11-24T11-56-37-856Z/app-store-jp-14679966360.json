@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id319979172"
+    },
+    "name": {
+      "label": "楽しいしおもろいしとにかく色々凄い"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-17T20:05:02-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14679966360"
+  },
+  "title": {
+    "label": "Simejiは神✩.*"
+  },
+  "content": {
+    "label": "こんな神のキーボードアプリが人気な理由①飽きない②キーボードがとにかくすごい",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

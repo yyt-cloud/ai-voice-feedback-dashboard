@@ -1,0 +1,44 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "nullbio"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Doesn't Wispr Flow do this though? How did they get past these limitations?"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Apple rejected my dictation app for using the accessibility API"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://www.mitmllc.com/blog/apple-rejected-my-dictation-app/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_nullbio",
+    "story_48369088"
+  ],
+  "author": "nullbio",
+  "children": [
+    48370721,
+    48370692,
+    48374326
+  ],
+  "comment_text": "Doesn&#x27;t Wispr Flow do this though? How did they get past these limitations?",
+  "created_at": "2026-06-02T14:12:23Z",
+  "created_at_i": 1780409543,
+  "objectID": "48370522",
+  "parent_id": 48369088,
+  "story_id": 48369088,
+  "story_title": "Apple rejected my dictation app for using the accessibility API",
+  "story_url": "https://www.mitmllc.com/blog/apple-rejected-my-dictation-app/",
+  "updated_at": "2026-06-02T21:39:54Z"
+}

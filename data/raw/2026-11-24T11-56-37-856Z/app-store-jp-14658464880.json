@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id515842588"
+    },
+    "name": {
+      "label": "ありえっぐ"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-12T09:40:28-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14658464880"
+  },
+  "title": {
+    "label": "AI音声入力"
+  },
+  "content": {
+    "label": "いつもとてもお世話になっています。少しでもお礼に何か課金できたらと思っているのですが、\n\n最近出たAIの音声入力、絵文字や句読点、！や？などの対応をしていただかないと実用できないので ぜひ早めの実装をお願いいたします。それができるようになれば サブスクリプションに登録します。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

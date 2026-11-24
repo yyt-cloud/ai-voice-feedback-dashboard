@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id497081899"
+    },
+    "name": {
+      "label": "Wood Woody"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2023-12-09T21:06:04-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "12.9.2"
+  },
+  "id": {
+    "label": "10677052287"
+  },
+  "title": {
+    "label": "No English?"
+  },
+  "content": {
+    "label": "Is the app only for Japanese natives? How can the app become English friendly?",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

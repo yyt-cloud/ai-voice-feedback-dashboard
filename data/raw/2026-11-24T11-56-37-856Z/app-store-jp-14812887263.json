@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1756937599"
+    },
+    "name": {
+      "label": "緋八"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-20T07:15:19-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.6"
+  },
+  "id": {
+    "label": "14812887263"
+  },
+  "title": {
+    "label": "、"
+  },
+  "content": {
+    "label": "間違えて捨ててしまったキーボードを戻すことができないから。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

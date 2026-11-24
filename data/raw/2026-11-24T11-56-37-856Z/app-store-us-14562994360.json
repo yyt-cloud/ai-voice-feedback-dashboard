@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1969926681"
+    },
+    "name": {
+      "label": "JustLetMeSA"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-09-17T22:04:40-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "2.6.2"
+  },
+  "id": {
+    "label": "14562994360"
+  },
+  "title": {
+    "label": "The constant pressure to upgrade is unacceptable"
+  },
+  "content": {
+    "label": "The free version bombards you with upgrade prompts. These pop-ups have interrupted me mid-session multiple times, leaving important information unrecorded and forcing me to enter everything again. That’s beyond annoying—it makes the app unreliable.\nThe pressure to pay feels greedy and disrespectful of users’ time. If you’re not willing to offer a free version people can actually use, stop offering one. Don’t advertise a free option only to make the experience so frustrating that people feel pushed into paying.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

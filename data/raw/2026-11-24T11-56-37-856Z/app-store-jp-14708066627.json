@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1958848600"
+    },
+    "name": {
+      "label": "ぴぴぴぴぴぴぴぴぴぴぴー太郎"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-24T21:00:03-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14708066627"
+  },
+  "title": {
+    "label": "Simejiの底力!!"
+  },
+  "content": {
+    "label": "キーボードの種類はたくさん！自分で写真を使ってキーボードを作れたり、そのキーボードをデコったり！万能なアプリです！オススメします！",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

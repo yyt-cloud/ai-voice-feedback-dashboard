@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1924603529"
+    },
+    "name": {
+      "label": "SixTONESの京本大我推し！"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-25T05:20:45-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14709340680"
+  },
+  "title": {
+    "label": "最高👍"
+  },
+  "content": {
+    "label": "最近友達に、Simeji使ったら？と言われて使い始めました😊可愛い、キーボードがあるし、可愛い絵文字も( ･ᴗ･ )本当に始めてよかった✌️",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

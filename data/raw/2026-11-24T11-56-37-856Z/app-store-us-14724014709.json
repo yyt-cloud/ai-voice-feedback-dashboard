@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1092760026"
+    },
+    "name": {
+      "label": "Timmy Times Square"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-28T19:22:39-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14724014709"
+  },
+  "title": {
+    "label": "Miracle app"
+  },
+  "content": {
+    "label": "I’m always skeptical when it comes to apps that can dictate but I must say Wispr Flow has completely blown me away with the accuracy the detail and I look forward to making my life 1000 times easier well done bravo!",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

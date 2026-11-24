@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id22143687"
+    },
+    "name": {
+      "label": "Canard22"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-16T16:17:28-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.0.1"
+  },
+  "id": {
+    "label": "14799560393"
+  },
+  "title": {
+    "label": "Amazing"
+  },
+  "content": {
+    "label": "I've been using it to write emails on my computer, iPad, and iPhone for a month or two now. It's pretty incredible. I damaged my tendons years ago and have been using voice recognition since probably 2001 for pretty much everything. It's way better than anything else. I can also see that in the month or two since I've started using it I'm already at 25,000 words transcribed which is pretty wild. The speed, the accuracy, and the light language all make it outstanding.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

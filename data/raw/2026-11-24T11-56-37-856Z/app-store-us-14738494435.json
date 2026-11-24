@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1616648119"
+    },
+    "name": {
+      "label": "Cinnamon Roll FAN￼"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-01T09:04:33-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14738494435"
+  },
+  "title": {
+    "label": "how good it is"
+  },
+  "content": {
+    "label": "this wispr flow is so good. i've used it a lot of times. plus the regular old microphone just copies your voice. this one actually understands what you're saying and what you mean and it understands no matter how fast you are going, which is super cool unlike other ones plus i'm using it right now and it's super cool because i'm talking really fast right now. it is probably calculating what i'm saying",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

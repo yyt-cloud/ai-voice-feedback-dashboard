@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1576977997"
+    },
+    "name": {
+      "label": "er ep er"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-07-12T03:33:16-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "2.0.0"
+  },
+  "id": {
+    "label": "14293613959"
+  },
+  "title": {
+    "label": "It always just stops abruptly and then forgets what I said"
+  },
+  "content": {
+    "label": "It keeps stopping mid-sentence and missing what I said, forcing me to repeat myself, which is really annoying.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

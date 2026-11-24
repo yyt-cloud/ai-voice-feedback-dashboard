@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id140457871"
+    },
+    "name": {
+      "label": "OhToky"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-18T07:15:07-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.0.2"
+  },
+  "id": {
+    "label": "14805171868"
+  },
+  "title": {
+    "label": "Very accurate comprehension"
+  },
+  "content": {
+    "label": "I am thrilled to be able to use an app that understands exactly what I say. Good job would highly recommend it!",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

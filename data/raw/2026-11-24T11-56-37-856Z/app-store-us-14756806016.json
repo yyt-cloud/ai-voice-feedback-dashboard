@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id338622099"
+    },
+    "name": {
+      "label": "XuYungchang"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-06T00:59:06-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "2.10.0"
+  },
+  "id": {
+    "label": "14756806016"
+  },
+  "title": {
+    "label": "双拼"
+  },
+  "content": {
+    "label": "希望支持双拼以及仓颉输入法",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

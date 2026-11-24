@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id192608332"
+    },
+    "name": {
+      "label": "GameBoy1215"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-21T12:27:26-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14694466368"
+  },
+  "title": {
+    "label": "Excellent"
+  },
+  "content": {
+    "label": "So far I am greatly impressed by the accuracy of this talk to type keyboard. I’m trying it out with the option to upgrade and by the look of things I’m gonna get it; it’s just too good whereas the swyping on the tiny keys of my other keyboards with my fingers always leads to bad word predict and having to backspace and type again…and again.  I’m loving this Wispr Flow!!!",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

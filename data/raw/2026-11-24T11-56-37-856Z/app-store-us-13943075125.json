@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id43453918"
+    },
+    "name": {
+      "label": "anonynon"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-04-10T07:47:07-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.0.7"
+  },
+  "id": {
+    "label": "13943075125"
+  },
+  "title": {
+    "label": "Effortless & Accurate"
+  },
+  "content": {
+    "label": "Aqua is the most polished and easiest voice dictation app for iOS. Transcription feels instant. There are great options to customize your style, and the app is high quality. Bravo to the team. This review was written using Aqua Voice!",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6759074969&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

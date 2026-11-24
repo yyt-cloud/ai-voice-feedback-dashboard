@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1826817924"
+    },
+    "name": {
+      "label": "ピチピチの11歳"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-04T02:15:05-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14749156277"
+  },
+  "title": {
+    "label": "いいアプリ"
+  },
+  "content": {
+    "label": "いいアプリで色々できるけれど、広告が多かったりする",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

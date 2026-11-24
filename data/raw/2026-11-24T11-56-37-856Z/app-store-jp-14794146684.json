@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1952237422"
+    },
+    "name": {
+      "label": "Simejiを愛す者。"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-15T07:56:01-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14794146684"
+  },
+  "title": {
+    "label": "いつまで経っても変わらねェいらない機能のデカアイコン"
+  },
+  "content": {
+    "label": "ただでさえコンパネ変えられないのにAI音声入力を魚眼レンズでも通してるのかってくらいでかい、直せれます？\n\n\n追記\n\n\nあれから全然直してないね、時間経過で慣れさせようと思ってるけどほとんどの人が右利きな中で親指がちょうどピンと張ったところに意味不明なデカマイクアイコン、普通誤字を直すための文字の位置調整でしょ？\n\n\n指で試したのかな？\nいちいち指を折り曲げないと文字の位置調整が出来ないのは不便すぎる。\n文字を打つためにキーボードがあるのにボイスを主にするのはナンセンス。\nほとんど必要なものが右に押しやられて任意なものをデッカく表示してもそんなん支持する人少数派だと思うんだけど\nいたとしてもVIPにいる人、いわゆる『コンパネ変えられる人』はノーダメージ。\n\n\nにしても長いな、PRが……\nWindowsのキーボードですらcopilotボタンをスタートボタンとか検索窓表示にカスタマイズできたぜ",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "2"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "2"
+  }
+}

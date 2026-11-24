@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id743679748"
+    },
+    "name": {
+      "label": "nep_99"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-29T14:20:33-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14727174665"
+  },
+  "title": {
+    "label": "ほんまゴミ"
+  },
+  "content": {
+    "label": "コンパネの並び順がアプデで勝手に変えられる。しかも課金しないと元に戻せないときた。\n\n10年使ってきましたが、流石に乗り換えます。\n\nさようなら。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

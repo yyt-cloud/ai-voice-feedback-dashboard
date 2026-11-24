@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id297303787"
+    },
+    "name": {
+      "label": "gbpackerfan89"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-16T20:23:29-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.0.2"
+  },
+  "id": {
+    "label": "14800180015"
+  },
+  "title": {
+    "label": "Life-changing software"
+  },
+  "content": {
+    "label": "I don't say this lightly: Wispr Flow has changed how I work. Most of my use is dictating to generative AI tools, where I think out loud, change direction mid-sentence, and come back to refine. Flow handles all of it. It strips out my verbal tics, turns a stream of thought into something a model can work with, and makes the back-and-forth of iterating on a draft far faster than typing. It has also learned the names I use in my work, including the ones it used to get wrong, so I spend less time correcting and more time thinking. I use it for text messages and other apps too, but the AI work is where it has earned its keep. Highly recommend.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

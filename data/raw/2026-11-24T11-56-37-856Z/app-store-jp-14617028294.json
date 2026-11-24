@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id431632193"
+    },
+    "name": {
+      "label": "かんがえた人"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-01T18:19:33-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14617028294"
+  },
+  "title": {
+    "label": "改悪"
+  },
+  "content": {
+    "label": "最近、コンパネのレイアウトが変わり、慣れている人ほど使いにくくなってます。\nAI音声入力とかいう1番使わないアイコンがデカくなって、間違えて押すとアプリに飛び、バックグラウンドも止まる。\n鬱陶しいから設定変更しようとしたら月額かかるって。\n本当にがめつい。\nSimejiじゃなくてflickがオススメです。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "3"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "3"
+  }
+}

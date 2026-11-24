@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1210379331"
+    },
+    "name": {
+      "label": "Who cares 2025 or 1925"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-04-24T08:49:34-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "1.0.10"
+  },
+  "id": {
+    "label": "13992345692"
+  },
+  "title": {
+    "label": "It shuts off autocorrect"
+  },
+  "content": {
+    "label": "It disabled my iPhone’s autocorrect without any clear warning. All my settings were still on, but autocorrect stopped working completely once I started using the app.\n\nThis is a major drawback and should be clearly disclosed before purchase.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6759074969&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

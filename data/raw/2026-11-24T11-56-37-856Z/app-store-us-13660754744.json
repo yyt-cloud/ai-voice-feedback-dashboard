@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id22180324"
+    },
+    "name": {
+      "label": "MarkFromMaryland"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-01-21T15:37:26-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "0.4.0"
+  },
+  "id": {
+    "label": "13660754744"
+  },
+  "title": {
+    "label": "It works"
+  },
+  "content": {
+    "label": "You talk into it. It takes what you say and makes it legible and presentable. Then you press send. \n\nHuge time saver",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

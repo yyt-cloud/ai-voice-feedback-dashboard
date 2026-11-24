@@ -1,0 +1,37 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "aarushyadav"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "wispr",
+        "flow"
+      ],
+      "value": "- No, from the beginning we will have a free tier with a cap on the amount of words you can dictate, similar to <em>Wispr</em> <em>Flow</em>, but with generous limits for most users. And a paid tier for ~$20/mo with unlimited dictation\n- $20/mo for unlimited dictation\n- Yes, a few months after shipping the glasses we plan to ship a small local model\n- Correct<p>You can reach out at aarush@subvocal.company if you have any other questions, happy to answer :)"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Show HN: Subvocal – Talk to your computer without making noise"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_aarushyadav",
+    "story_50340088"
+  ],
+  "author": "aarushyadav",
+  "comment_text": "- No, from the beginning we will have a free tier with a cap on the amount of words you can dictate, similar to Wispr Flow, but with generous limits for most users. And a paid tier for ~$20&#x2F;mo with unlimited dictation\n- $20&#x2F;mo for unlimited dictation\n- Yes, a few months after shipping the glasses we plan to ship a small local model\n- Correct<p>You can reach out at aarush@subvocal.company if you have any other questions, happy to answer :)",
+  "created_at": "2026-11-04T05:12:53Z",
+  "created_at_i": 1793769173,
+  "objectID": "50361712",
+  "parent_id": 50360644,
+  "story_id": 50340088,
+  "story_title": "Show HN: Subvocal – Talk to your computer without making noise",
+  "updated_at": "2026-11-04T05:14:21Z"
+}

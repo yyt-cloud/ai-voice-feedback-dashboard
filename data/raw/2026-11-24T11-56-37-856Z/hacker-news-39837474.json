@@ -1,0 +1,41 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "evrenesat"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "aqua",
+        "voice"
+      ],
+      "value": "I've just subscribed! Congratulations for this well crafted, immediately useful tool. It's something I was already looking for.<p>Some Feature Requests:<p>- Please implement proper undo/redo history and allow us to use it with <em>voice</em>, GUI and keyboard.<p>- When I take over with keyboard, do not mess while I'm writing.<p>- When I start speaking, if the text cursor is in between words, I'd expect it to insert, not append.    (if you want to avoid this from happening accidentally, after some idle time, you may move cursor to end of the text)<p>- A little advanced feature; It would be very nice to have some form of tagging for sentences and/or paragraphs with numbers, text or colors. So it would be easier to delete, reorganize, move around them by saying like &quot;move the green section before purple one&quot; or &quot;part 12 should go before part 4&quot;, then we can let the language model to do it's magic and rephrase/reformat it a bit. Your AI probably smart enough to understand which sentence we are referring to by just hearing part of it, but as a user we may feel too lazy for that.<p>- Add a cheat-sheet for what's possible next to editor. Something more succinct than the notion doc.<p>- Allow pausing/resuming dictation with <em>voice</em> command.<p>Note: I would really like to be able to benefit from its smart features while I'm not sitting in front of my computer or holding my phone. But I'm not sure there will be a day when Apple let us interface with smarter AI agents like ChatGPT or <em>Aqua</em> <em>Voice</em> on iOS while the screen is locked. IMO, this is gatekeeping of an inferior feature (Siri) in the name of protecting my privacy. I hope some day EU will also intervene with that."
+    },
+    "story_title": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "aqua",
+        "voice"
+      ],
+      "value": "Launch HN: <em>Aqua</em> <em>Voice</em> (YC W24) – <em>Voice</em>-driven text editor"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_evrenesat",
+    "story_39828686"
+  ],
+  "author": "evrenesat",
+  "comment_text": "I&#x27;ve just subscribed! Congratulations for this well crafted, immediately useful tool. It&#x27;s something I was already looking for.<p>Some Feature Requests:<p>- Please implement proper undo&#x2F;redo history and allow us to use it with voice, GUI and keyboard.<p>- When I take over with keyboard, do not mess while I&#x27;m writing.<p>- When I start speaking, if the text cursor is in between words, I&#x27;d expect it to insert, not append.    (if you want to avoid this from happening accidentally, after some idle time, you may move cursor to end of the text)<p>- A little advanced feature; It would be very nice to have some form of tagging for sentences and&#x2F;or paragraphs with numbers, text or colors. So it would be easier to delete, reorganize, move around them by saying like &quot;move the green section before purple one&quot; or &quot;part 12 should go before part 4&quot;, then we can let the language model to do it&#x27;s magic and rephrase&#x2F;reformat it a bit. Your AI probably smart enough to understand which sentence we are referring to by just hearing part of it, but as a user we may feel too lazy for that.<p>- Add a cheat-sheet for what&#x27;s possible next to editor. Something more succinct than the notion doc.<p>- Allow pausing&#x2F;resuming dictation with voice command.<p>Note: I would really like to be able to benefit from its smart features while I&#x27;m not sitting in front of my computer or holding my phone. But I&#x27;m not sure there will be a day when Apple let us interface with smarter AI agents like ChatGPT or Aqua Voice on iOS while the screen is locked. IMO, this is gatekeeping of an inferior feature (Siri) in the name of protecting my privacy. I hope some day EU will also intervene with that.",
+  "created_at": "2024-03-27T10:47:55Z",
+  "created_at_i": 1711536475,
+  "objectID": "39837474",
+  "parent_id": 39828686,
+  "story_id": 39828686,
+  "story_title": "Launch HN: Aqua Voice (YC W24) – Voice-driven text editor",
+  "updated_at": "2024-09-20T16:40:41Z"
+}

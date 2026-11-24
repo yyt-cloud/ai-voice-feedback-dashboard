@@ -1,0 +1,47 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "the_king"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "aqua",
+        "voice"
+      ],
+      "value": "<em>Aqua</em> is in another league when it comes to accuracy. I just ran them side by side on a simple q to ChatGPT and here were the results...<p><em>Aqua</em> <em>Voice</em><p><pre><code>  What is the first recorded eclipse in human history? I'm not asking when the first one occurred, but the first written record we have of an eclipse.\n</code></pre>\nWindows <em>Voice</em> Typing (v11 24H2, Dell XPS 13 9340)<p><pre><code>  What is the first recorded eclipse in human history i'm not asking 1 like the first occurred but the first ridden record we have of an eclipse\n\n</code></pre>\nWindows mistakes were:<p>-&quot;1&quot; should be &quot;when&quot;<p>-&quot;ridden&quot; should be &quot;written&quot;<p>-No punctuation"
+    },
+    "story_title": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "aqua",
+        "voice"
+      ],
+      "value": "Show HN: <em>Aqua</em> <em>Voice</em> 2 – Fast <em>Voice</em> Input for Mac and Windows"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://withaqua.com"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_the_king",
+    "story_43634005"
+  ],
+  "author": "the_king",
+  "comment_text": "Aqua is in another league when it comes to accuracy. I just ran them side by side on a simple q to ChatGPT and here were the results...<p>Aqua Voice<p><pre><code>  What is the first recorded eclipse in human history? I&#x27;m not asking when the first one occurred, but the first written record we have of an eclipse.\n</code></pre>\nWindows Voice Typing (v11 24H2, Dell XPS 13 9340)<p><pre><code>  What is the first recorded eclipse in human history i&#x27;m not asking 1 like the first occurred but the first ridden record we have of an eclipse\n\n</code></pre>\nWindows mistakes were:<p>-&quot;1&quot; should be &quot;when&quot;<p>-&quot;ridden&quot; should be &quot;written&quot;<p>-No punctuation",
+  "created_at": "2025-04-10T02:32:40Z",
+  "created_at_i": 1744252360,
+  "objectID": "43640084",
+  "parent_id": 43639245,
+  "story_id": 43634005,
+  "story_title": "Show HN: Aqua Voice 2 – Fast Voice Input for Mac and Windows",
+  "story_url": "https://withaqua.com",
+  "updated_at": "2025-04-10T15:14:34Z"
+}

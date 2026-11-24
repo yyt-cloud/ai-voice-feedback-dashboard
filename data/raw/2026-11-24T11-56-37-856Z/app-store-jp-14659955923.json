@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1906009449"
+    },
+    "name": {
+      "label": "ベリベリキュートシュークリーム"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-12T18:35:23-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14659955923"
+  },
+  "title": {
+    "label": "キーボードやスタンプは良い🙆‍♀️"
+  },
+  "content": {
+    "label": "1年前から使わせていただいてます！ログインしなくてもキーボードやスタンプの種類も豊富でいいのですが、ログインしてみると\nある人がスタンプで自分の顔を投稿していて、その投稿のコメントを見たら（ブス）(キモイ)(死ね👆(･_･)👎💢)などのコメントが殺到していて、投稿者がSimejiをログアウトしていて心が傷つきましたコメントでアドバイスし合うのもいいことですが、人が傷つく内容を投稿する人もいるので、コメントの🄾🄽or🄾🄵🄵とかを投稿者が決めれるのように、改善してほしいです!!\n傷つく人が少しでも減ることを願います🙏",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

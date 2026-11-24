@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id625213739"
+    },
+    "name": {
+      "label": "おおほほほら"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-02T12:09:26-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14619973873"
+  },
+  "title": {
+    "label": "不具合"
+  },
+  "content": {
+    "label": "Tiktokの配信を見ているとキーボードが出なくなる不具合がずっと修正されない。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

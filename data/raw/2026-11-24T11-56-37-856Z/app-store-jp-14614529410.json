@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1946373235"
+    },
+    "name": {
+      "label": "space lov3"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-01T04:21:29-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14614529410"
+  },
+  "title": {
+    "label": "使いやすい！！"
+  },
+  "content": {
+    "label": "可愛くできてとってもいいです！\nただVIPじゃなきゃ出来ない物が多くて少し嫌ですね",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

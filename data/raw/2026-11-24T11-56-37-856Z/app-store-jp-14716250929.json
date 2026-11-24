@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1070483039"
+    },
+    "name": {
+      "label": "日本リーグ混戦"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-26T20:57:42-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14716250929"
+  },
+  "title": {
+    "label": "元に戻して欲しい"
+  },
+  "content": {
+    "label": "コンパネの位置変わってからめちゃくちゃ誤タップが増えて使いづらくなりました。\n\nカーソルと音声入力の位置元に戻して音声入力の幅も元に戻してください。\n(フィードバックも送りましたが)\n\n改善を求めます。\n\n\n〜〜〜〜\nかなり経ちましたがコンパネの位置こんなに使いづらいのにこのままなんですか？あんなに使いづらいという意見があったのに、、、",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id708932644"
+    },
+    "name": {
+      "label": "Yadi :)"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-06-21T20:50:01-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.0"
+  },
+  "id": {
+    "label": "14211480714"
+  },
+  "title": {
+    "label": "very cool :3"
+  },
+  "content": {
+    "label": "it was a bit difficult to use at first, i had to take screenshots and translate them using my phone but eventually i got the hang of it 👍",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

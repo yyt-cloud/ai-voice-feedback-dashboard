@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1110931667"
+    },
+    "name": {
+      "label": "volelia"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2025-01-15T13:09:38-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "14.9"
+  },
+  "id": {
+    "label": "12188689147"
+  },
+  "title": {
+    "label": "this app needs an auto correct feature"
+  },
+  "content": {
+    "label": "i love this app! im using a simeji keyboard to type right now. however, there is no auto correct feature enabled and i think we really need one. especially for english users! otherwise its perfect",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

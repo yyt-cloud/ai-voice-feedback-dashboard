@@ -1,0 +1,33 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "ipotapov"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Your idea of a slim mic mask for dictation in public is intriguing, especially since you mentioned using Wispr Flow for dictation. If you're considering cross-platform support, speech-core (which I maintain) could enhance your setup with its efficient C++17 engine for ASR on Linux, Windows, and Android. <a href=\"https://github.com/soniqo/speech-core\" rel=\"nofollow\">https://github.com/soniqo/speech-core</a>"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Ask HN: Would you use a soundproof mic mask to dictate to AI in public?"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_ipotapov",
+    "story_48383050"
+  ],
+  "author": "ipotapov",
+  "comment_text": "Your idea of a slim mic mask for dictation in public is intriguing, especially since you mentioned using Wispr Flow for dictation. If you&#x27;re considering cross-platform support, speech-core (which I maintain) could enhance your setup with its efficient C++17 engine for ASR on Linux, Windows, and Android. <a href=\"https:&#x2F;&#x2F;github.com&#x2F;soniqo&#x2F;speech-core\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;soniqo&#x2F;speech-core</a>",
+  "created_at": "2026-06-04T06:55:11Z",
+  "created_at_i": 1780556111,
+  "objectID": "48395031",
+  "parent_id": 48383050,
+  "story_id": 48383050,
+  "story_title": "Ask HN: Would you use a soundproof mic mask to dictate to AI in public?",
+  "updated_at": "2026-06-04T06:56:59Z"
+}

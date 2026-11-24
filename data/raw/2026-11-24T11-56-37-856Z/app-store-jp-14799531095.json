@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1926129348"
+    },
+    "name": {
+      "label": "韓国ギャル"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-16T16:06:22-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "17.6"
+  },
+  "id": {
+    "label": "14799531095"
+  },
+  "title": {
+    "label": "おすすめ"
+  },
+  "content": {
+    "label": "普通の着せ替えアプリとは違って種類が豊富で画像やがホーム画面なども着せ替えできてとても便利です。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id42735752"
+    },
+    "name": {
+      "label": "MatthiasIam"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-04-17T07:47:11-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "1.0.8"
+  },
+  "id": {
+    "label": "13967638162"
+  },
+  "title": {
+    "label": "When it works it works, when it doesn’t it doesn’t"
+  },
+  "content": {
+    "label": "When it’s working it’s probably the best dictation tool. Unfortunately even though I’m pro I tap the mic and it says “time to upgrade”. I sign out, sign in, nope. Quite all apps, nope.\n\nWouldn’t leave this review if there was a support system in the app. I’m not going to hunt down your emails. If you’re charging customers, put support in the app.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6759074969&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id127939890"
+    },
+    "name": {
+      "label": "Jsaturday"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-03-22T11:02:11-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "1.2.0"
+  },
+  "id": {
+    "label": "13875921674"
+  },
+  "title": {
+    "label": "Not clear on how to upgrade"
+  },
+  "content": {
+    "label": "I like it so much on my iPhone that I ran out of free words for the week. The upgrade button shows up but it’s confusing on how to upgrade. So I went and bought a year subscription on the website using my gmail account ( I suppose I should have used my Apple account) but I also want to use it on my windows. So, here I am. Paid 144 for something I can’t use on my iPhone. \n\nI’ve emailed the support email. Waiting for refund or how to upgrade on iPhone.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

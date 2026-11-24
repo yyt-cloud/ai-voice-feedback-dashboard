@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1681068758"
+    },
+    "name": {
+      "label": "Nico"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-15T11:17:25-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "2.0.1"
+  },
+  "id": {
+    "label": "14794841587"
+  },
+  "title": {
+    "label": "BAD"
+  },
+  "content": {
+    "label": "WHY WOULD THEY MAKE IT TO BE IOS 18 NOT 15 I HATE THEM",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

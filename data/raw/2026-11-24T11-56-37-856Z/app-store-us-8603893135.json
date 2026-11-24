@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1184992091"
+    },
+    "name": {
+      "label": "goodfurry"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2022-04-25T00:11:14-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "10.7"
+  },
+  "id": {
+    "label": "8603893135"
+  },
+  "title": {
+    "label": "Not right one I looked for"
+  },
+  "content": {
+    "label": "This isnt the one where u can put chibi charas in ur homechreen and I cant read Japan so no and I don’t need to chat live with bots in stuff",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

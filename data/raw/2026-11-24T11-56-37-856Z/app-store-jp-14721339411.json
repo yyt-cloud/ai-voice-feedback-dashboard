@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1919168960"
+    },
+    "name": {
+      "label": "𝚈𝚄𝚁𝙰❤︎"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-28T04:38:12-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14721339411"
+  },
+  "title": {
+    "label": "めちゃくちゃいい！"
+  },
+  "content": {
+    "label": "めっちゃいい！とにかくいい！なくならないでー",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

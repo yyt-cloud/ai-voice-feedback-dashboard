@@ -1,0 +1,29 @@
+{
+  "id": "f9cb07b4-8d64-414c-b7c7-47dcaa4630b5",
+  "userName": "Alaba Oduola",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVfOSjKF49iFFjWWeMaPK3Lr0zOi3shgYN0JOjpipCbdo569RZG",
+  "date": "2026-08-07T17:15:58.174Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=f9cb07b4-8d64-414c-b7c7-47dcaa4630b5",
+  "title": null,
+  "text": "Very good accuracy",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.2.0",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_ads_intrusiveness",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_phase1_collaborative_editing",
+      "rating": 3
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1553509134"
+    },
+    "name": {
+      "label": "AchieveShe"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-01-29T20:22:42-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "0.5.0"
+  },
+  "id": {
+    "label": "13691557283"
+  },
+  "title": {
+    "label": "不支持苹果快捷指令的输入命令的问题"
+  },
+  "content": {
+    "label": "首先感谢你们创造了如此优秀的产品。但是我经常使用快捷指令中的“请求输入”动作进行文本输入，但是经过我的测试目前typeless并不支持这一点。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

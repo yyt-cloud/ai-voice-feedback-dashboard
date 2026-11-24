@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1947709176"
+    },
+    "name": {
+      "label": "Samuel Emile"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-08T19:32:47-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14768211191"
+  },
+  "title": {
+    "label": "I rated it a 10 out of 10. I don't even need to worry about texting because of how good it is"
+  },
+  "content": {
+    "label": "I thought it was too good to be true but it is good",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id478437412"
+    },
+    "name": {
+      "label": "X.Skyy"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2020-10-24T11:45:39-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "9.2.2"
+  },
+  "id": {
+    "label": "6569934882"
+  },
+  "title": {
+    "label": "um"
+  },
+  "content": {
+    "label": "hi, i really love this app to use for keyboard, but now it's like you need to be VIP to do everything. i cant even use my own pictures to make my own keyboards. please put this into consideration.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

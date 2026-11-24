@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id470096969"
+    },
+    "name": {
+      "label": "LVPDoc"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-11T16:36:46-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.0.0"
+  },
+  "id": {
+    "label": "14779497998"
+  },
+  "title": {
+    "label": "Best talk to text I’ve found!"
+  },
+  "content": {
+    "label": "I have used a lot of talk-to-text, and right now I find myself in a position where I have to use it. It's not an option. I was so thankful when I found this program! It doesn't simply work on AI. It works in text, it works in emails, it works on social media, and it definitely works very well in AI. Gotta recommend it.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

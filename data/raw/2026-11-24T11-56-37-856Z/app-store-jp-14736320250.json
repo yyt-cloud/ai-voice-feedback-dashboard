@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id288042868"
+    },
+    "name": {
+      "label": "みぃるぴよ"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-31T21:41:19-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14736320250"
+  },
+  "title": {
+    "label": "コンパネ使いづらくなった"
+  },
+  "content": {
+    "label": "バージョンアップしたら、コンパネの並びが勝手に変わってた。\nカーソル位置は今までの場所に戻してほしい。\n音声機能なんて一番使わないものをそこに持ってこないで。\n課金でしか変えられないとかほんと最低最悪な仕様変更やめて。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

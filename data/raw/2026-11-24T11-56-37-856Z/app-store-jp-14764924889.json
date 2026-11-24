@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1803090693"
+    },
+    "name": {
+      "label": "森ウサ"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-08T00:58:42-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14764924889"
+  },
+  "title": {
+    "label": "めちゃいいｨｨｮd(ﾟ∀ﾟ*)｡o"
+  },
+  "content": {
+    "label": "自分の推しや好きなのに変えれて、楽しいし、色んな絵文字？顔文字？が使えてとっても楽しいよ！\"(∩>ω<∩)\"",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

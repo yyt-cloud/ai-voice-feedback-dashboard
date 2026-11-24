@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id298075842"
+    },
+    "name": {
+      "label": "とうみんとみん"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-09T21:25:16-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14772292676"
+  },
+  "title": {
+    "label": "変換後の確定が少し手間"
+  },
+  "content": {
+    "label": "文字を変換したあと確定を押さないと変換されないのがiPhoneに慣れていると手間に感じる。\nキーボードを起動した時にたまにAssistiveTouchが移動されるのがうざったい。\nSafariで検索したい文字を打った時にリンクなど検索候補が自動入力された時それを消せないのが困る。\nキーボードの｢記号｣や｢数字｣などの切り替え部分をカスタムしたい。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

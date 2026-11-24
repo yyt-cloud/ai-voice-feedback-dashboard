@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1978628734"
+    },
+    "name": {
+      "label": "めんめ🍜🍝"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-05T22:56:30-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14756543189"
+  },
+  "title": {
+    "label": "まぁまぁ"
+  },
+  "content": {
+    "label": "広告減らして欲しいなぁ\nでも、キーボードとか、絵文字は最高🫶🏻💗🫶🏻💗🫶🏻💗👍👍👍",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

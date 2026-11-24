@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id101288057"
+    },
+    "name": {
+      "label": "elm²"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-07-08T11:36:52-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "2.0.0"
+  },
+  "id": {
+    "label": "14279049337"
+  },
+  "title": {
+    "label": "Dark mode please"
+  },
+  "content": {
+    "label": "Please add full Dark Mode support. The bright white screens are jarring when switching from the rest of iOS, especially for those of us who use Dark Mode all the time.\n\nThis would make the app feel much more polished and consistent with the iPhone experience. It seems like a relatively modest UI improvement compared with many feature requests and I hope you’ll consider adding it in an upcoming update.\n\nOtherwise, I’m enjoying the app.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id107609560"
+    },
+    "name": {
+      "label": "Music This!"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-19T06:00:16-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14685388796"
+  },
+  "title": {
+    "label": "So far, so amazing."
+  },
+  "content": {
+    "label": "This app is kind of blowing my mind. My thought had always been that because SwiftKey and Gboard completely failed to package into an iOS keyboard app that could do great voice dictation, that it was an impossible problem. And I've tried some beta apps out recently that kind of solve the problem, but ultimately it's a hard problem. Wispr Flow is basically rocking it. I've only been testing for a day, but I think it's going to be a huge winner. The fact that it's a $30M investment in the last round makes me think that yeah, it's not an easy problem to solve.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

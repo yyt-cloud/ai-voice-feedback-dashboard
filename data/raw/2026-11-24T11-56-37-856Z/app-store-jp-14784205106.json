@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1932381843"
+    },
+    "name": {
+      "label": "甘井　カステラ"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-12T22:01:11-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14784205106"
+  },
+  "title": {
+    "label": "すんごくいい"
+  },
+  "content": {
+    "label": "とにかく良い！ただ、、、キャラクターがあるので、著作権とか大丈夫かなーってだけですね！",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

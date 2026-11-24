@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1964699753"
+    },
+    "name": {
+      "label": "EmmaSOFour"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-30T19:44:57-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14732013613"
+  },
+  "title": {
+    "label": "A godsend of an app though theres always room for improvement"
+  },
+  "content": {
+    "label": "I love this app since my voice is hard for dictation to pick and i get typos a lot. One suggestion to make this five stars is a lifetime purchase. If Wispr had that even if it’s a lot i’d consider buying it for a one time purchase rather than the monthly or annual membership, I’d bump this up to five. Still an amazing application and tool",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

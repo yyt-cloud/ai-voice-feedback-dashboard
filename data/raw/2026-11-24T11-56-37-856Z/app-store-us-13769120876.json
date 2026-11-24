@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1512753634"
+    },
+    "name": {
+      "label": "YlittleD"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-02-20T02:06:37-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.1.1"
+  },
+  "id": {
+    "label": "13769120876"
+  },
+  "title": {
+    "label": "iOS 26.4 dev beta 预览版环境启动闪退，望适配"
+  },
+  "content": {
+    "label": "作为 Typeless 的重度用户，目前在 iOS 26.4 dev 预览版环境下遇到了严重的闪退问题。表现为：切换至 Typeless 输入法时直接 Crash，无法呼出界面。\n考虑到新版 iOS 系统底层 API 的变动，推测可能存在兼容性断裂。作为 IT 架构从业者，希望能尽快看到针对开发者预览版的适配更新，毕竟这种“Speak to Edit”的生产力工具断了一天，我的 TCO 优化效率都受影响。五星支持，坐等修复。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

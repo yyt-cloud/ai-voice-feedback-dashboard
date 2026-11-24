@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1919909027"
+    },
+    "name": {
+      "label": "Looplynx"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-13T16:29:41-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.0.1"
+  },
+  "id": {
+    "label": "14787388342"
+  },
+  "title": {
+    "label": "Texting"
+  },
+  "content": {
+    "label": "It saved my texting career",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

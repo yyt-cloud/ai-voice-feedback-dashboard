@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id300463906"
+    },
+    "name": {
+      "label": "タムライン"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-08T00:18:35-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14641025984"
+  },
+  "title": {
+    "label": "コンパネカスタマイズ"
+  },
+  "content": {
+    "label": "コンパネのカスタマイズにはVIP会員になる必要がある。それはまだわかるが、アップデートでコンパネを使いづらいようにするのはいかがものか。スライダー機能をよく使い、マイク機能は使わないのに、マイク機能の割合を大きくして使いづらくされた。ユーザーに課金を迫るようUIを下方修正するのは気に入らない",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

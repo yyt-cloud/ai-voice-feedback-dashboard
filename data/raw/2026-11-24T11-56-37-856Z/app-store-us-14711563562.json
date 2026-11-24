@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id377247555"
+    },
+    "name": {
+      "label": "Revgerry"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-25T16:29:02-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14711563562"
+  },
+  "title": {
+    "label": "The best so far!"
+  },
+  "content": {
+    "label": "I've tried a number of different approaches to dictating. Going back and correcting the mistakes is almost as slow as correcting my typing errors. They didn't work all that well for me, but this one is doing an outstanding job. Definitely the best I've used so far. I've upgraded to the Pro subscription, and I'm really starting to get into the groove. Recommended.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

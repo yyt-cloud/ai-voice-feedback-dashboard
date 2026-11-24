@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1850522654"
+    },
+    "name": {
+      "label": "武知はると"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-18T17:06:19-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.6"
+  },
+  "id": {
+    "label": "14806843934"
+  },
+  "title": {
+    "label": "とっても楽しいアプリプ"
+  },
+  "content": {
+    "label": "初めて使った人でも安心使いやすい",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

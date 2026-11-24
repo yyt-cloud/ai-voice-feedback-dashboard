@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1858495855"
+    },
+    "name": {
+      "label": "犬のよもぎ"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-25T04:07:39-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14709116268"
+  },
+  "title": {
+    "label": "かわいい"
+  },
+  "content": {
+    "label": "自分でオリジナルのキーボードを作れるとすごいテンションが上がったりかわいいからSimejiいれてよかったなぁっておもう色んなキーボードに出来るから教えてもらった人に感謝する( * ≧∇≦)",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

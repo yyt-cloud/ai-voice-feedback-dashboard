@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id978363869"
+    },
+    "name": {
+      "label": "hehehfhyd"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2020-03-11T20:13:08-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "8.5"
+  },
+  "id": {
+    "label": "5648346885"
+  },
+  "title": {
+    "label": "Uh, how do I make it English?"
+  },
+  "content": {
+    "label": "I’d like it even more if I had an idea of how to make it English.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

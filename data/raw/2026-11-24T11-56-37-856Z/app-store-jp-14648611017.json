@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1420027889"
+    },
+    "name": {
+      "label": "ねっこ大好きー"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-09T23:16:05-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14648611017"
+  },
+  "title": {
+    "label": "怖い"
+  },
+  "content": {
+    "label": "中国の会社が作ってるって聞いて情報取られてるのかもしれないので消しました。\n絶対使わないでください。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "1"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

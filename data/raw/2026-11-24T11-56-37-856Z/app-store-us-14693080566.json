@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id87008731"
+    },
+    "name": {
+      "label": "Mast Malang"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-21T05:37:59-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14693080566"
+  },
+  "title": {
+    "label": "Can’t live without"
+  },
+  "content": {
+    "label": "I routinely suffered from carpal tunnel, and regardless of which keyboard I used or how I took care of my typing habits, it was always painful. My hand would burn, and my productivity would drop.\n\nNow, with Wispr Flow, this is godsent for me. I had vibe-coded a similar app for myself using a local model, but then I found Wispr Flow. I have been recommending it to everybody. Everybody in my family and at my work uses it, and I certainly believe it helps me improve my productivity, work on the go, and be more engaged at work rather than worried about what information I need to take down.\n\nHow effective and productive can I be if my medical condition returns again? Can't rate it enough for myself",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

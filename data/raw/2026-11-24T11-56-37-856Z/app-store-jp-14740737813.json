@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1986309149"
+    },
+    "name": {
+      "label": "🍒ᩚ🎼ᩚ🪽ྀི"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-01T23:05:02-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14740737813"
+  },
+  "title": {
+    "label": "🥱ᩚ"
+  },
+  "content": {
+    "label": "とってもキーボードが可愛くて満足しました！🥹ᩚ\n絵文字もすごく可愛くて、いつも使わせて貰っております！\nいつもありがとうございま\nす！\n出来ればシンプルな、キーボードも出して欲しいです！",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

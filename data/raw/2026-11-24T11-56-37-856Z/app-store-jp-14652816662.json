@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1797576243"
+    },
+    "name": {
+      "label": "明の星☆。.:＊・゜"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-11T00:29:32-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14652816662"
+  },
+  "title": {
+    "label": "無断転載"
+  },
+  "content": {
+    "label": "Simejiの中の、Simeji部で、無断転載がとても多くなっているのでご確認お願い致します",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1978087621"
+    },
+    "name": {
+      "label": "Beautiful it's so. I l"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-12T11:01:35-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.0.0"
+  },
+  "id": {
+    "label": "14782507099"
+  },
+  "title": {
+    "label": "Love it"
+  },
+  "content": {
+    "label": "Beautiful. It does everything I say, everything I say. Even if I try to message someone it will get the exact words right. I'm even using Wispr Flow to type this review right now",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

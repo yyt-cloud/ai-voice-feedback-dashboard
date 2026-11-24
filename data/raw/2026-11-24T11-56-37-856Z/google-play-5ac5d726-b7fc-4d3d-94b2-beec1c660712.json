@@ -1,0 +1,29 @@
+{
+  "id": "5ac5d726-b7fc-4d3d-94b2-beec1c660712",
+  "userName": "りう",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXCqt5fJ8WwZAoQAETMISJM8W8Bam--uozjGStUhbhayEzYB_w0",
+  "date": "2026-11-20T09:12:49.124Z",
+  "score": 4,
+  "scoreText": "4",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=5ac5d726-b7fc-4d3d-94b2-beec1c660712",
+  "title": null,
+  "text": "キーボードアプリとしてはとても使いやすいです。が不満点がないわけではありません。 韓国語入力時、予測変換が出るようにしてください。 それと、同じく韓国語入力時キーボードUIだとパッチム(ハングル文字の組み合わせ)ができず事実上フリック入力しか使えないので直してください。 それから、辞書登録で日本語とアルファベット以外の文字を登録できるようにしてください。 というかキーボード入力は対応しているのになぜ辞書登録はできないのですか？しかも中国企業なのに中国語の登録すら対応していないとは… あと日本語入力時、誤変換の元になるので文字を入力した一瞬後にめっちゃ長いクラウド変換出てくるのやめて欲しいです。 総合的に見ればかなり良いキーボードアプリですが結構細かい所が不便だと思いました。",
+  "replyDate": null,
+  "replyText": null,
+  "version": "23.6.1",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_ads_presence",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 1
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id262956178"
+    },
+    "name": {
+      "label": "Gandalf of ADHD"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-19T09:02:41-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14686004437"
+  },
+  "title": {
+    "label": "I absolutely love it, but..."
+  },
+  "content": {
+    "label": "This is sincerely the best thing ever and I love it. It's very convenient and comfortable but I have some issues with it.\n- It keeps the microphone kind of live at all times, which is a bit of a battery drain and a privacy situation that I don't like.\n- It keeps jumping into the app always, back and forth and back and forth and back and forth, instead of just being a keyboard of its own, and it's trying to get your attention. It's like, \"Oh you have a stat. Here's how many days you've been using it. Here's what...\" It's like it doesn't know whether it wants to be an app or a keyboard.\n- The main issue is the price. I would have paid, I feel like, maybe $40, maybe even $50, to get this keyboard. I absolutely will not pay a yearly fee of $150 or $15 per month just to have a keyboard that is only slightly better than the dictation I already have on the regular Apple keyboard and the Siri AI and stuff. It's just not an expense that I can justify and that just saddens me because I would have paid for it. I would say that $40 or something is a lot of money to pay for something that is just a keyboard. Even if it is the most amazing and complicated keyboard in the world, it doesn't make sense to me.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

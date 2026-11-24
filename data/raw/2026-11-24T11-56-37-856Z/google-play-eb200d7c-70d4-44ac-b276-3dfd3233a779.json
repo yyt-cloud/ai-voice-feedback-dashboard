@@ -1,0 +1,29 @@
+{
+  "id": "eb200d7c-70d4-44ac-b276-3dfd3233a779",
+  "userName": "Turning blue",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWuE1zPLIHMJOOAPNQtJ8-zVhaLVcw2z6C3gaCFH-0ASOHYIeI",
+  "date": "2026-11-19T19:08:24.800Z",
+  "score": 2,
+  "scoreText": "2",
+  "url": "https://play.google.com/store/apps/details?id=com.wispr.flowapp&reviewId=eb200d7c-70d4-44ac-b276-3dfd3233a779",
+  "title": null,
+  "text": "ok, but messes up easily, not like the ad.",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.8.7",
+  "thumbsUp": 1,
+  "criterias": [
+    {
+      "criteria": "vaf_phase1_collaborative_editing",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_phase1_collaboration",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 2
+    }
+  ]
+}

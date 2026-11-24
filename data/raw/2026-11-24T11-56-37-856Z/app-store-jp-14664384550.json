@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1977882219"
+    },
+    "name": {
+      "label": "卵食ってんじゃねーよ"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-13T22:28:43-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14664384550"
+  },
+  "title": {
+    "label": "いらない"
+  },
+  "content": {
+    "label": "笑と打った際に絵文字が出てきて「もっと見る」というふうに出てくるのですがそれがとても不便です。そのまま連打して使う際や他の文字を打った時などにいちいちでてきて鬱陶しいです。それがなければいいアプリだと思います。",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "2"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "2"
+  }
+}

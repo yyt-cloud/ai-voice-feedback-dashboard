@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1992859622"
+    },
+    "name": {
+      "label": "みこと3535"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-19T03:04:58-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.6"
+  },
+  "id": {
+    "label": "14808224635"
+  },
+  "title": {
+    "label": "可愛すぎる😍"
+  },
+  "content": {
+    "label": "CMを見たら無料でゲットできるのサイコーです",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

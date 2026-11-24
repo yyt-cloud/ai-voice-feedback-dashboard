@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1978019444"
+    },
+    "name": {
+      "label": "ポムポムプリン(´･ω･`)"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-10T05:22:33-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14649552733"
+  },
+  "title": {
+    "label": "良すぎて死ぬ‼️"
+  },
+  "content": {
+    "label": "変換とか欲しい！って思った変換があるから便利すぎる！",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

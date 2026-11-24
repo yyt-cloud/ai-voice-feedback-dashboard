@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1981146692"
+    },
+    "name": {
+      "label": "LT👨🏽‍🎨"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-20T15:42:50-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "2.0.4"
+  },
+  "id": {
+    "label": "14814364519"
+  },
+  "title": {
+    "label": "Very impressive"
+  },
+  "content": {
+    "label": "This is an amazing app. I will spend less time typing and more time talking and I left a review with Wispr",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

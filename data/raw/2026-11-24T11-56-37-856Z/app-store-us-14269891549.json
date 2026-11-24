@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1338325730"
+    },
+    "name": {
+      "label": "Anon10492"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-07-06T06:01:08-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "1.11.0"
+  },
+  "id": {
+    "label": "14269891549"
+  },
+  "title": {
+    "label": "Can not login"
+  },
+  "content": {
+    "label": "\"Continue with email\" button always disable and not clickable",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

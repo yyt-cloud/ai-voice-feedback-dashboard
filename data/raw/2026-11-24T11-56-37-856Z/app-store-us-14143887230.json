@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id151717401"
+    },
+    "name": {
+      "label": "exsonic"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-06-04T11:18:45-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.8.0"
+  },
+  "id": {
+    "label": "14143887230"
+  },
+  "title": {
+    "label": "真的很厉害"
+  },
+  "content": {
+    "label": "这是第一个我觉得在 AI 应用层做得非常好的一个 App。\n\n它能够非常准确地识别我的中英文混合输入，还有很多小众的词、小众的英文也能够准确识别出来。它还能：\n1. 自动分隔自然段\n2. 自动用 Bullet Point\n\n这真的超出了我的预期",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

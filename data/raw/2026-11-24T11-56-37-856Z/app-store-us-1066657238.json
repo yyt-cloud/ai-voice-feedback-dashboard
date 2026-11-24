@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id374255813"
+    },
+    "name": {
+      "label": "Me o:"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2014-09-19T00:08:46-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.0"
+  },
+  "id": {
+    "label": "1066657238"
+  },
+  "title": {
+    "label": "Beautiful"
+  },
+  "content": {
+    "label": "I've been waiting for Apple to allow third party keyboards just for this app and it's perfect",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

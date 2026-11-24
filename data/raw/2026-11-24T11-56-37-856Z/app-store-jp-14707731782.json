@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1950231275"
+    },
+    "name": {
+      "label": "わんこラブリー"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-24T18:50:02-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14707731782"
+  },
+  "title": {
+    "label": "楽しい(≧∇≦)(≧∇≦)(≧∇≦)✌︎"
+  },
+  "content": {
+    "label": "キーボードがかわいいだけじゃなくてオリジナルスタンプや楽しい仕掛け、エフェクトなどのバリエーションが本当にいいです✨️✨️\n顔文字は手軽に使えて便利だしいいところだらけです！\nでも少しCMの時間が\nながいので縮めてくださるのと入れろの圧つよめなので\nもう少しCMについて\n改定してくれると\nもっと楽しめます！",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

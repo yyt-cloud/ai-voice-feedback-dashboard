@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id885022087"
+    },
+    "name": {
+      "label": "biexanz"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-04-14T17:06:44-07:00"
+  },
+  "im:rating": {
+    "label": "2"
+  },
+  "im:version": {
+    "label": "1.2.3"
+  },
+  "id": {
+    "label": "13958709291"
+  },
+  "title": {
+    "label": "Super awesome technology but, unfortunately annoying to use"
+  },
+  "content": {
+    "label": "If all I used my iPhone for was transcribing things from my voice into text, then this would be a really great solution. \n\nBut for the enjoyer of other apps on your phone, you're going to have to spend a decent chunk of your day swiping to and from this app (since it opens every time you try to use the keyboard). You have to go back to the app you're typing in and then look at the Dynamic Island widget —which this app has not-so-humbly plastered its logo right on — to let you know that it is using its microphone access continually, even when you're not typing anything at all. Just doesn’t feel good. \n\nTo really make this a fair shot, I wrote most of this with the Typeless keyboard. But the main weak point is any kind of punctuation, like adding those parentheses, or if you need to change the middle of a sentence. It especially struggles with things like going between \"2 with one 0\" and \"2 with two 0s.\" (<— case in point)\n\nIt is possible to really elaborately explain exactly which characters you want to see in which order, and it can do that from what I've seen, but it sucks for editing. That's really where the whole time-saving claim pretty much falls apart. \n\nIt's a fun exercise, though. Maybe if I needed to rapidly get thoughts textified as I had them, this could possibly make sense, but I don't think paying for this service is really justifiable for the average user (especially just to have to juggle your apps every time you want to type anything).",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

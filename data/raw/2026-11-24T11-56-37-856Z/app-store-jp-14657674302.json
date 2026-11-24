@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1890077553"
+    },
+    "name": {
+      "label": "犯人探しの神"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-12T05:54:28-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14657674302"
+  },
+  "title": {
+    "label": "これはいい"
+  },
+  "content": {
+    "label": "キーボードに自分の保存した写真が使えることに感謝。この機能があることによって重要指名手配のポスターが使えていつでも似ている人を見つけたらすぐに声をかけれるし通報することができてとても良い機能です",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "1"
+  }
+}

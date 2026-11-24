@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1061058866"
+    },
+    "name": {
+      "label": "ごみごみっち"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-28T05:48:52-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14721574308"
+  },
+  "title": {
+    "label": "使いやすいんだけど...."
+  },
+  "content": {
+    "label": "使いやすいんだけど、もっと着せ替えの種類増やして欲しいです、もしかしたら私だけができてないのかもしれないけど、なるべく沢山きせかえの種類増やして欲しい、広告で見たからやってみたけど広告ほど種類豊富じゃないから、でも絵文字とか使いやすさにはすごい満足してます！でもなんか中国会社に買い取られてなんか情報漏れてるとか言われてるから少し心配です、、、",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

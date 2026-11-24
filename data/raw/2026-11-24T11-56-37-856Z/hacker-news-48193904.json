@@ -1,0 +1,44 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "jjice"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "But Apple's uses so few system resources and runs fully on device on newer iPhone models (16+ I believe). It's so efficient. I really enjoy using Handy with Parakeet as the model, but the system resource usage is a monster compared to Apple's (although very good).<p>Looks like Wispr Flow uses a cloud model [0]:<p>&gt; Cloud based speech processing infrastructure for 1B users<p>It gets to be a messy comparison because my iPhone can do STT with no latency pretty well fully on device, but Wispr Flow requires a cloud model, but to be fair, older Apple devices do as well. It's not an apples and oranges comparison, but I think those technical details make this a non direct comparison in a few ways.<p>For on-device with low system resource usage, Apple's is pretty damn good.<p>[0] <a href=\"https://wisprflow.ai/post/technical-challenges\" rel=\"nofollow\">https://wisprflow.ai/post/technical-challenges</a>"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Apple unveils new accessibility features"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_jjice",
+    "story_48192224"
+  ],
+  "author": "jjice",
+  "children": [
+    48195801,
+    48195410,
+    48194629
+  ],
+  "comment_text": "But Apple&#x27;s uses so few system resources and runs fully on device on newer iPhone models (16+ I believe). It&#x27;s so efficient. I really enjoy using Handy with Parakeet as the model, but the system resource usage is a monster compared to Apple&#x27;s (although very good).<p>Looks like Wispr Flow uses a cloud model [0]:<p>&gt; Cloud based speech processing infrastructure for 1B users<p>It gets to be a messy comparison because my iPhone can do STT with no latency pretty well fully on device, but Wispr Flow requires a cloud model, but to be fair, older Apple devices do as well. It&#x27;s not an apples and oranges comparison, but I think those technical details make this a non direct comparison in a few ways.<p>For on-device with low system resource usage, Apple&#x27;s is pretty damn good.<p>[0] <a href=\"https:&#x2F;&#x2F;wisprflow.ai&#x2F;post&#x2F;technical-challenges\" rel=\"nofollow\">https:&#x2F;&#x2F;wisprflow.ai&#x2F;post&#x2F;technical-challenges</a>",
+  "created_at": "2026-05-19T14:38:31Z",
+  "created_at_i": 1779201511,
+  "objectID": "48193904",
+  "parent_id": 48193437,
+  "story_id": 48192224,
+  "story_title": "Apple unveils new accessibility features",
+  "story_url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
+  "updated_at": "2026-05-25T20:57:08Z"
+}

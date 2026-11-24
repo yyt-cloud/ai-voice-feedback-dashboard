@@ -1,0 +1,42 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "xscott"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "typeless"
+      ],
+      "value": "Yeah, other than addressing the topic of this post (Rust), I was trying to avoid praising or criticizing specific languages.  I haven't used C# in more than a decade, but I suspect it and Java are respectable choices.  I think they both might've evolved some implicitness and multiple ways to do the same thing along the way though.  I almost wish we could go back to early versions of Java, but the <em>typeless</em> container thing is problematic."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "What agents mean for Rust (and vice versa)"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_xscott",
+    "story_50084416"
+  ],
+  "author": "xscott",
+  "comment_text": "Yeah, other than addressing the topic of this post (Rust), I was trying to avoid praising or criticizing specific languages.  I haven&#x27;t used C# in more than a decade, but I suspect it and Java are respectable choices.  I think they both might&#x27;ve evolved some implicitness and multiple ways to do the same thing along the way though.  I almost wish we could go back to early versions of Java, but the typeless container thing is problematic.",
+  "created_at": "2026-10-14T12:28:22Z",
+  "created_at_i": 1791980902,
+  "objectID": "50086637",
+  "parent_id": 50086527,
+  "story_id": 50084416,
+  "story_title": "What agents mean for Rust (and vice versa)",
+  "story_url": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
+  "updated_at": "2026-10-15T13:58:02Z"
+}

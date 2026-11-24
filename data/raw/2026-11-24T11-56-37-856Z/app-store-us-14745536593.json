@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1544731396"
+    },
+    "name": {
+      "label": "Lij430"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-03T04:32:18-07:00"
+  },
+  "im:rating": {
+    "label": "3"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14745536593"
+  },
+  "title": {
+    "label": "Good but terrible."
+  },
+  "content": {
+    "label": "I just started the app and it forced me into a subscription, and now I can’t even cancel it. It does help but it’s gonna use money without knowing.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

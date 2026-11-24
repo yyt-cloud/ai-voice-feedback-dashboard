@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id271510411"
+    },
+    "name": {
+      "label": "Kitther"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-01-29T17:17:22-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "0.5.0"
+  },
+  "id": {
+    "label": "13691110172"
+  },
+  "title": {
+    "label": "Great but need microphone access from background process"
+  },
+  "content": {
+    "label": "Overall, the app works very well. However, its reliance on background process’ microphone access degrades the user experience. This issue seems to stem from iOS limitations rather than the app’s design itself.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

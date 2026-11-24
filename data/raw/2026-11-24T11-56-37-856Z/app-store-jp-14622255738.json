@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1975432381"
+    },
+    "name": {
+      "label": "わさびモナカ"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-03T03:30:07-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14622255738"
+  },
+  "title": {
+    "label": "評判通り！！"
+  },
+  "content": {
+    "label": "まだ初めて1年ほどの新参者ですが、自分が使っているキーボードに好きな物などを入れることで、文字を入れる度にモチベーションが上がって、とても助かっています！たまに友達にもキーボード可愛いねと言われたりするのも嬉しいです✨️所持していないものも広告を見ると手に入るので嬉しいです(*^^*)このような記号などもその時の自分の気分に合わせて出てきてくれるので使いやすいです😭",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

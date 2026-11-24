@@ -1,0 +1,29 @@
+{
+  "id": "8928efc9-36d4-46cf-9935-7833fb696413",
+  "userName": "Thomas Boom",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVQ8UgjbkXHVl1R3Nv7ooiCpjDd7GoA5CV-SuFSSIXbJlKNLGg",
+  "date": "2026-11-13T08:08:31.433Z",
+  "score": 3,
+  "scoreText": "3",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=8928efc9-36d4-46cf-9935-7833fb696413",
+  "title": null,
+  "text": "You used to get 8000 words free, now it's only 2000. That's just 25% of what it was before. That's just unacceptable.",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.11.0",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_phase1_collaborative_editing",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_phase1_file_sharing",
+      "rating": 2
+    }
+  ]
+}

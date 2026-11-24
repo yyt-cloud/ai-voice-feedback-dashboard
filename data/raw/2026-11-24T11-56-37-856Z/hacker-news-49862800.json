@@ -1,0 +1,33 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "laoxingAI"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "GLM 5 is the main model I'm currently using. My usage with it is around 90,000 requests per month. Although its capability isn't the strongest, I think that because the quota is so large, it feels really great to use. For certain cases, I'll use the DeepSeek V4 model.<p>Actually, my latest open-source project, vocnly, was developed on GLM 5. It's a local voice-input tool, and it can be seen as an open-source alternative to Typeless. I think it works without any issues.<p>For certain cases, I'll use the DeepSeek V4 flash model."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Ask HN: Which model do you use for work?"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_laoxingAI",
+    "story_49848426"
+  ],
+  "author": "laoxingAI",
+  "comment_text": "GLM 5 is the main model I&#x27;m currently using. My usage with it is around 90,000 requests per month. Although its capability isn&#x27;t the strongest, I think that because the quota is so large, it feels really great to use. For certain cases, I&#x27;ll use the DeepSeek V4 model.<p>Actually, my latest open-source project, vocnly, was developed on GLM 5. It&#x27;s a local voice-input tool, and it can be seen as an open-source alternative to Typeless. I think it works without any issues.<p>For certain cases, I&#x27;ll use the DeepSeek V4 flash model.",
+  "created_at": "2026-09-27T02:39:39Z",
+  "created_at_i": 1790476779,
+  "objectID": "49862800",
+  "parent_id": 49848426,
+  "story_id": 49848426,
+  "story_title": "Ask HN: Which model do you use for work?",
+  "updated_at": "2026-09-27T02:45:01Z"
+}

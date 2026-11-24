@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id883334393"
+    },
+    "name": {
+      "label": "キトキト258"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-21T20:22:25-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "17.4"
+  },
+  "id": {
+    "label": "14695701821"
+  },
+  "title": {
+    "label": "iPhoneにて不具合あり"
+  },
+  "content": {
+    "label": "iPhone13プロマックスにてゲーム中のチャットで横画面で入力する時に下の方が入力できない不具合があります。早く対応してくれないと解約するしかないのだけど...",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

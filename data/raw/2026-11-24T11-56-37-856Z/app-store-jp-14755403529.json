@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/jp/reviews/id1900539487"
+    },
+    "name": {
+      "label": "福岡市の王"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-05T14:56:15-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "17.5"
+  },
+  "id": {
+    "label": "14755403529"
+  },
+  "title": {
+    "label": "とにかく、綺麗！"
+  },
+  "content": {
+    "label": "色々な種類が広告を見ればすぐにつけれるのでとてもキーボードを打つのが楽しくなる！",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/jp/review?id=899997582&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "アプリケーション"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

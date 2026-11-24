@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id293023205"
+    },
+    "name": {
+      "label": "RussellG64"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-25T19:12:14-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.78"
+  },
+  "id": {
+    "label": "14711975658"
+  },
+  "title": {
+    "label": "Game changer"
+  },
+  "content": {
+    "label": "I’ve been a fan of voice to text for a long time and Wispr Flow is by far the best, fastest, and most efficient V2Text tool I have ever used. Couldn’t operate without it.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6497229487&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

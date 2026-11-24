@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id1705791765"
+    },
+    "name": {
+      "label": "Jackcupper"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-01-31T18:55:24-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "0.5.0"
+  },
+  "id": {
+    "label": "13699224332"
+  },
+  "title": {
+    "label": "识别准确"
+  },
+  "content": {
+    "label": "挺准的，粤语也能识别。免费无需会员，好奇怎么盈利",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6749257650&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}
