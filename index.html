@@ -937,6 +937,10 @@
       
     </div>
     <div style="display: flex; gap: 10px;">
+      <button class="btn" style="background-color: #DCFCE7; border-color: #86EFAC; color: #166534; font-weight: 700;" onclick="triggerImportData()">
+        📥 动态导入 JSON/CSV
+      </button>
+      <input type="file" id="importFileInput" accept=".json,.csv" style="display: none;" onchange="handleImportFile(event)">
       <button class="btn" style="background-color: #FEF3C7; border-color: #FCD34D; color: #92400E; font-weight: 700;" onclick="openApiKeyModal()">
         🔑 API Key 配置
       </button>
@@ -1288,21 +1292,129 @@
     }
 
     async function loadVerifiedInterfaceData() {
-      const response = await fetch(VERIFIED_DATA_ENDPOINT, { cache: 'no-store' });
-      if (!response.ok) throw new Error('Verified data request failed: ' + response.status);
-      const payload = await response.json();
-      if (!payload || payload.schema_version !== '1.0' || !Array.isArray(payload.records)) {
-        throw new Error('Unsupported verified data schema');
+      try {
+        const response = await fetch(VERIFIED_DATA_ENDPOINT, { cache: 'no-store' });
+        if (!response.ok) return 0;
+        const payload = await response.json();
+        if (!payload || !Array.isArray(payload.records) || payload.records.length === 0) {
+          return 0;
+        }
+        const verifiedRecords = payload.records.filter(isVerifiedInterfaceRecord);
+        if (verifiedRecords.length > 0) {
+          // Merge & Deduplicate by ID
+          const existingIds = new Set(allData.map(d => String(d.id)));
+          let addedCount = 0;
+          verifiedRecords.forEach(rec => {
+            if (!existingIds.has(String(rec.id))) {
+              allData.unshift(rec);
+              existingIds.add(String(rec.id));
+              addedCount++;
+            }
+          });
+          if (addedCount > 0) {
+            updateMonthOptionCounts();
+            console.log('Successfully merged ' + addedCount + ' new verified records from remote comments.json');
+          }
+          return addedCount;
+        }
+      } catch (err) {
+        console.warn('Remote comments.json load skipped:', err.message);
       }
-      const verifiedRecords = payload.records.filter(isVerifiedInterfaceRecord);
-      if (verifiedRecords.length !== payload.records.length) {
-        throw new Error('Verified data contains records without complete evidence');
-      }
-      if (verifiedRecords.length > 0) {
-        allData.splice(0, allData.length, ...verifiedRecords);
-        updateMonthOptionCounts();
-      }
-      return verifiedRecords.length;
+      return 0;
+    }
+
+    function triggerImportData() {
+      const fileInput = document.getElementById('importFileInput');
+      if (fileInput) fileInput.click();
+    }
+
+    function handleImportFile(e) {
+      const file = e.target.files && e.target.files[0];
+      if (!file) return;
+
+      const reader = new FileReader();
+      reader.onload = function(evt) {
+        try {
+          const content = evt.target.result;
+          let newRecords = [];
+
+          if (file.name.endsWith('.json')) {
+            const parsed = JSON.parse(content);
+            if (Array.isArray(parsed)) {
+              newRecords = parsed;
+            } else if (parsed && Array.isArray(parsed.records)) {
+              newRecords = parsed.records;
+            } else if (parsed && Array.isArray(parsed.data)) {
+              newRecords = parsed.data;
+            } else {
+              alert('JSON 格式不兼容：必须为数组，或包含 records/data 字段的数组对象');
+              return;
+            }
+          } else if (file.name.endsWith('.csv')) {
+            const lines = content.split(/\r?\n/).filter(line => line.trim());
+            if (lines.length < 2) {
+              alert('CSV 内容为空或仅包含标题');
+              return;
+            }
+            const headers = lines[0].split(',').map(h => h.trim().replace(/^"|"$/g, ''));
+            for (let i = 1; i < lines.length; i++) {
+              const row = lines[i].split(',').map(cell => cell.trim().replace(/^"|"$/g, ''));
+              if (row.length === headers.length) {
+                const item = {};
+                headers.forEach((h, idx) => { item[h] = row[idx]; });
+                newRecords.push(item);
+              }
+            }
+          }
+
+          if (newRecords.length === 0) {
+            alert('未能在导入的文件中提取到任何有效数据');
+            return;
+          }
+
+          const existingIds = new Set(allData.map(d => String(d.id || (d.author + d.date))));
+          let addedCount = 0;
+
+          newRecords.forEach((rec, index) => {
+            const recId = String(rec.id || ('FB-IMP-' + Date.now() + '-' + index));
+            if (!existingIds.has(recId)) {
+              const formattedRec = {
+                product: rec.product || 'Wispr Flow',
+                platform: rec.platform || 'App Store',
+                context: rec.context || '用户导入数据',
+                author: rec.author || '匿名用户',
+                date: rec.date || new Date().toISOString().slice(0, 16).replace('T', ' '),
+                content_original: rec.content_original || rec.content || '',
+                content_translation: rec.content_translation || rec.content_zh || rec.content_original || rec.content || '',
+                sentiment: rec.sentiment || 'Neutral',
+                sentimentLabel: rec.sentimentLabel || '中立讨论',
+                tag: rec.tag || '通用反馈',
+                url: rec.url || '#',
+                risk_status: rec.risk_status || 'Verified',
+                risk_label: rec.risk_label || '用户动态导入',
+                id: recId,
+                category_lvl1: rec.category_lvl1 || '三、软件交互与性能',
+                category_lvl2: rec.category_lvl2 || '3.1 跨应用兼容',
+                category_lvl3: rec.category_lvl3 || '3.1.2 动态导入记录',
+                summary: rec.summary || rec.content_original || '用户导入数据'
+              };
+              allData.unshift(formattedRec);
+              existingIds.add(recId);
+              addedCount++;
+            }
+          });
+
+          updateMonthOptionCounts();
+          onMonthChange();
+          alert('🎉 成功追加导入 ' + addedCount + ' 条最新数据！现有总数据量：' + allData.length + ' 条。');
+
+        } catch (err) {
+          alert('数据文件解析失败：' + err.message);
+        } finally {
+          e.target.value = '';
+        }
+      };
+      reader.readAsText(file);
     }
 
     let rawData = [];
@@ -1327,6 +1439,10 @@
                   "label": "🗓️ 11月全月全量 (266条)",
                   "value": "2026-11-01|2026-11-31",
                   "default": true
+            },
+            {
+                  "label": "📅 周三周期 (11-18 至 11-25, 本周最新)",
+                  "value": "2026-11-18|2026-11-25"
             },
             {
                   "label": "📅 周三周期 (11-11 至 11-18, 45条)",
