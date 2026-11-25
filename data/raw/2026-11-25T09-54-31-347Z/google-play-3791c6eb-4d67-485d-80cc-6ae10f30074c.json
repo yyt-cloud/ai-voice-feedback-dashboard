@@ -1,0 +1,29 @@
+{
+  "id": "3791c6eb-4d67-485d-80cc-6ae10f30074c",
+  "userName": "gemanter",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVS7ixVzA-g1j9I2bPvz9A3aacYtQYXejUQswVOk6P3DV_xaLtF",
+  "date": "2026-06-09T08:24:30.453Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=3791c6eb-4d67-485d-80cc-6ae10f30074c",
+  "title": null,
+  "text": "Thank you for making my life bearable",
+  "replyDate": null,
+  "replyText": null,
+  "version": null,
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_ads_presence",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_app_quality_visual_appeal",
+      "rating": 1
+    }
+  ]
+}

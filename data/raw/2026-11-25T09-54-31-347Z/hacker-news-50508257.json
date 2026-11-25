@@ -1,0 +1,43 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "admiralrohan"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "wispr",
+        "flow"
+      ],
+      "value": "Valid point but this will happen due to market forces rather than moral reasons. Anyone can write code now using AI, so charging for the code itself is getting harder every day, and only the trustworthy people will get the distribution.<p>The rest of the code will be open source, see how many open <em>Wispr</em> <em>flow</em> alternatives are there already, everyone has same features."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "All AI-generated code should be Open Source"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://jakub.jankiewicz.org/blog/ai-code-open-source/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_admiralrohan",
+    "story_50507303"
+  ],
+  "author": "admiralrohan",
+  "comment_text": "Valid point but this will happen due to market forces rather than moral reasons. Anyone can write code now using AI, so charging for the code itself is getting harder every day, and only the trustworthy people will get the distribution.<p>The rest of the code will be open source, see how many open Wispr flow alternatives are there already, everyone has same features.",
+  "created_at": "2026-11-15T16:35:55Z",
+  "created_at_i": 1794760555,
+  "objectID": "50508257",
+  "parent_id": 50507303,
+  "story_id": 50507303,
+  "story_title": "All AI-generated code should be Open Source",
+  "story_url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+  "updated_at": "2026-11-15T16:39:27Z"
+}

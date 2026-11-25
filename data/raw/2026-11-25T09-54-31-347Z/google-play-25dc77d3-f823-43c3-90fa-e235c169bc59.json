@@ -1,0 +1,29 @@
+{
+  "id": "25dc77d3-f823-43c3-90fa-e235c169bc59",
+  "userName": "Stephen Innes",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKIPb_kA7se-Xy1C4vSZX_fn77AkT5YfcMUxOe8OJTUp7zWTA=mo",
+  "date": "2026-11-19T19:36:31.535Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.wispr.flowapp&reviewId=25dc77d3-f823-43c3-90fa-e235c169bc59",
+  "title": null,
+  "text": "It's not very good at spelling or recognizing names or unique words, and more importantly, unlike Google voice typing, it does not take continuous dictation while you speak—it requires you to say everything, finish speaking, press the button to stop taking dictation, then it thinks for a minute, then it outputs text, then you’ll usually have to manually fix the errors anyway. I hope they can update it to take running dictation, rather than the stop-and-think model.",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.8.7",
+  "thumbsUp": 40,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_ads_frequency",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_app_quality_visual_appeal",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 3
+    }
+  ]
+}

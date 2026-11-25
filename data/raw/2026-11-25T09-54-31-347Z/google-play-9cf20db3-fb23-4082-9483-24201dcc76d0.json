@@ -1,0 +1,29 @@
+{
+  "id": "9cf20db3-fb23-4082-9483-24201dcc76d0",
+  "userName": "竹取かぐや",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW4NY5g-vgZ9X-NWqauT-WhLvBfyCiHLP_tLLhU5ZUQwwLWmGE",
+  "date": "2026-11-18T17:37:14.679Z",
+  "score": 4,
+  "scoreText": "4",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=9cf20db3-fb23-4082-9483-24201dcc76d0",
+  "title": null,
+  "text": "いろんな変換が出てくるのはいいんだけど、テーマを適用しても見た目何も変わってなくて困ってます…… 別に見た目だけなので今は初期のものを使っていますが、適用としてるならちゃんと見た目も変わってくれると嬉しいです。",
+  "replyDate": null,
+  "replyText": null,
+  "version": null,
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_ads_presence",
+      "rating": 1
+    }
+  ]
+}

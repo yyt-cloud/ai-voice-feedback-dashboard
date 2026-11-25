@@ -1,0 +1,29 @@
+{
+  "id": "31e51d8c-1da1-410f-afe2-bc48a92061fb",
+  "userName": "yuki saiki",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ7cfL9gdK1YRg68syFwPUemci_5f59Lxsp8PbXLehdy5sBFQ=mo",
+  "date": "2026-09-24T03:16:28.266Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=31e51d8c-1da1-410f-afe2-bc48a92061fb",
+  "title": null,
+  "text": "使う可能性が限りなく低い言葉が優先して変換に出てくるので邪魔に感じるようになりました。通常なら変換できる漢字がすぐ出てこないので、仕事でもスマホを使う人には不向きです。また、キーボードを覆う広告も邪魔です。可愛い顔文字がたくさんあって使っていましたが、最近はクリエイターの絵文字を使うのでSimejiが要らなくなりました。",
+  "replyDate": "2026-10-01T06:42:42.313Z",
+  "replyText": "レビューいただきありがとうございます。\n\nご不便をおかけし、申し訳ございません。\nいただいたご意見を真摯に受け止め、今後もより良いサービスをご提供できるよう改善に努めてまいります。\n\n今後ともSimejiをよろしくお願いいたします。",
+  "version": "23.2",
+  "thumbsUp": 9,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_ads_intrusiveness",
+      "rating": 1
+    }
+  ]
+}

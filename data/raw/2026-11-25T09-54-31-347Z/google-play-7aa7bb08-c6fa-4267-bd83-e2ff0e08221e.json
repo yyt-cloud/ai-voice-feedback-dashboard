@@ -1,0 +1,29 @@
+{
+  "id": "7aa7bb08-c6fa-4267-bd83-e2ff0e08221e",
+  "userName": "Armanca Kz (Armancakz)",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJLZ7ZjuG6O7LOvRoyo4XeB3ukgFdVMLcA7Zf2YJ1eEf1Nd9owQ=mo",
+  "date": "2026-07-29T02:41:00.173Z",
+  "score": 3,
+  "scoreText": "3",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=7aa7bb08-c6fa-4267-bd83-e2ff0e08221e",
+  "title": null,
+  "text": "App is great. But since I deleted my account, I cannot reinstate it back, nor I cannot use other accounts because my device is locked. Very, very, very inconvenient. I picked another app over it just because my device ID was TRACKED by the company!!!",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.1.1",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_ads_presence",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_ads_frequency",
+      "rating": 2
+    }
+  ]
+}

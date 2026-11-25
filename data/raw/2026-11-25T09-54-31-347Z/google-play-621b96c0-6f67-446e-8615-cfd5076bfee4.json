@@ -1,0 +1,29 @@
+{
+  "id": "621b96c0-6f67-446e-8615-cfd5076bfee4",
+  "userName": "しらたましるこ",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW8mlHhnIoKlpjP67UrZXQ6ZC2oe76STHeEME-7JIUgoRnO6y9-",
+  "date": "2026-11-04T09:43:02.641Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=621b96c0-6f67-446e-8615-cfd5076bfee4",
+  "title": null,
+  "text": "有能なアプリ、でした。今は余計な機能だらけで重くなり、以前は無料で使えていた着せ替えも広告広告広告……果てはシンプルな黒いキーボードですら広告。AIに侵食され始めた頃から全てがおかしくなった印象。apkで2025年後半のバージョンをダウングレードして使っています。大半の着せ替えも広告なしで使える状態に戻って快適。そもそも以前のバージョンに戻して快適になるってアプリとして終わってます。無駄が多すぎる。",
+  "replyDate": "2023-01-30T00:45:23.212Z",
+  "replyText": "ご不便をおかけしております。\nSimejiではお客様から様々なフィードバックをいただき、日々改善に努めておりますが、\nその中でお時間が掛かるものや運営の方針と異なるものにつきましては、検討しているものの中々着手できていないものもございます。\nお待たせしてばかりで恐縮でございますが、今後のアップデートや改善にご期待頂けますと幸いでございます。\n今後ともSimejiを何卒よろしくお願いいたします。",
+  "version": "23.7",
+  "thumbsUp": 5,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 2
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "94327516-91f9-4ca2-bd5b-60e702589616",
+  "userName": "花沢ツグヨシ",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVlegcSXiWnqO9kvKBykrD4KWuVGuXnYfrza0N6jRWAzhJT9Dg",
+  "date": "2026-11-08T07:42:39.885Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=94327516-91f9-4ca2-bd5b-60e702589616",
+  "title": null,
+  "text": "文字打ちやすいからめっちゃ重宝してたのに、消すボタン上にスラッシュしたら全消しなるのマジで害すぎる。別に消えてもいいとして、間違った時用に「戻す」も備えて欲しい。なんど全文消えたことか。　人によっては有難いんだろうけど、文字打ちやすいからこそｽｯと全文消えた時の絶望感マジでやばい。",
+  "replyDate": null,
+  "replyText": null,
+  "version": "23.7",
+  "thumbsUp": 6,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_ads_presence",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_ads_intrusiveness",
+      "rating": 1
+    }
+  ]
+}

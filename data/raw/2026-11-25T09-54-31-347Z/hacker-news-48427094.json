@@ -1,0 +1,33 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "CPLX"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "This is exactly my workflow and it’s just incredible. I use aqua and wispr flow depending on which one seems to be returning the best results that day."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Ask HN: What was your \"oh shit\" moment with GenAI?"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_CPLX",
+    "story_48406174"
+  ],
+  "author": "CPLX",
+  "comment_text": "This is exactly my workflow and it’s just incredible. I use aqua and wispr flow depending on which one seems to be returning the best results that day.",
+  "created_at": "2026-06-06T17:31:40Z",
+  "created_at_i": 1780767100,
+  "objectID": "48427094",
+  "parent_id": 48420745,
+  "story_id": 48406174,
+  "story_title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
+  "updated_at": "2026-06-06T17:37:24Z"
+}

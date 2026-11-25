@@ -1,0 +1,25 @@
+{
+  "id": "aa57f026-5b28-48e7-ab0a-5eb583e07b1e",
+  "userName": "Strave",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIsxvO8lVBzofwQne7bsKPfg-AJuqpOvZPE7rsi-ijZ-B_zhg=mo",
+  "date": "2026-11-22T09:48:18.264Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.wispr.flowapp&reviewId=aa57f026-5b28-48e7-ab0a-5eb583e07b1e",
+  "title": null,
+  "text": "it's a terrible app... it will ask for money way too quickly, and you hit the word limit way too quickly and also it takes more time to set it up then it would to just use the basic voice-to-text icon... (gave it a 5 star so it is visible to everyone)",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.8.7",
+  "thumbsUp": 3,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": null
+    },
+    {
+      "criteria": "vaf_app_quality_ads_intrusiveness",
+      "rating": null
+    }
+  ]
+}

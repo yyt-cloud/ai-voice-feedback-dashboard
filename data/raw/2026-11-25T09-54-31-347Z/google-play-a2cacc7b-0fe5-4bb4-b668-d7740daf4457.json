@@ -1,0 +1,29 @@
+{
+  "id": "a2cacc7b-0fe5-4bb4-b668-d7740daf4457",
+  "userName": "Elias Getanh",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUVNx-1HFy0cQrSoZHJoCNCqxnfhga3829YfOaArvFyEBp4Eoxy",
+  "date": "2026-11-05T16:56:14.416Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.creativeapp.voiceinput&reviewId=a2cacc7b-0fe5-4bb4-b668-d7740daf4457",
+  "title": null,
+  "text": "It's an amazing application",
+  "replyDate": null,
+  "replyText": null,
+  "version": "1.8",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_ads_intrusiveness",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_ads_presence",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 1
+    }
+  ]
+}

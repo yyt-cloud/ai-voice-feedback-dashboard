@@ -1,0 +1,29 @@
+{
+  "id": "a62d931a-ad66-4e6d-8df9-2b8ee7165472",
+  "userName": "Emilio DiDomenico",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVTph17z9AQkAMgZtevaScat-W3cA5mBwzCDLB148IyqVO7HWDWXA",
+  "date": "2026-10-22T02:02:21.594Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=a62d931a-ad66-4e6d-8df9-2b8ee7165472",
+  "title": null,
+  "text": "Well, make sure every single thing you talk about is PG-13, and you don't talk about depression or sex, because it will automatically delete everything you say, especially if it's five minutes long, wasting your time.",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.1.0",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_visual_appeal",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_app_quality_usability",
+      "rating": 2
+    }
+  ]
+}

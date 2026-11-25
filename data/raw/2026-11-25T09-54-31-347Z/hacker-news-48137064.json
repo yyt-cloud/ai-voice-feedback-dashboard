@@ -1,0 +1,42 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "docstryder"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "I've been working on Shoute, a speak-to-text app for Mac and Windows that's built around one idea: the full loop has to feel instant<p>I do know this isn’t a new category. A lot of people here already have some version of this: whisper.cpp behind a hotkey, macOS dictation, SuperWhisper, Wispr Flow, or some other hand-rolled version.<p>I built one anyway because I kept bouncing off dictation tools in my actual workday.<p>My problem was not “can an app transcribe my voice?” Most of them can, and impressively well. The problem was the full loop:\npress shortcut -&gt; speak -&gt; release -&gt; cleaned up text appears where I was already typing - and that this happens consistently, quickly, day after day.<p>If that loop has enough delay, I lose the thread. If the output is too raw, I am back to editing. If the app needs screenshots to understand context, I start feeling uneasy about using it everywhere. You want to be confident that it always will work - or else you lose trust in it.<p>So the version I wanted was pretty narrow:\n- it should feel super quick for short everyday dictation<p>- the output should be cleaned up before insertion<p>- it should work across ALL the usual apps<p>- it should never lose data<p>- it should support both local and cloud modes (personally for flying but privacy too for specific things)<p>- it should use only minimal context<p>Shoute solves all of that really well and is lightweight (native code) and fluid to use day to day. It has a generous free tier (2000 words/week - should be enough for most casual use), one time purchase for both local and cloud, and cloud with subscription ($6.99/mo) for when folks who need the latest cloud models. Not a fan of subscriptions too but hard to have ongoing support for the latest cloud models without it.<p>Learned some really cool things building this:<p>The interesting eng lesson for me has been that voice UX is so much more latency-sensitive than normal app UX - the major part of the work on this was on making it consistently low latency end to end.<p>On latency - the model is only one part of the delay. Shoute runs three backends for different modes and fallback (ElevenLabs streaming, Groq Whisper, and WhisperKit for on-device) and each has different latency profiles. For short recordings (~15s is my avg - Shoute can do really long but not the primary use case for hour long recordings), the annoying delays often come from everything around the model: audio finalization, connection warmup, WebSocket setup, token fetching, fallback paths, local model cold starts, and finally pasting into the active app. Getting all this right consistently took significant time and eng effort despite Claude helping with all of it - taste and architectural direction is still absolutely essential in 2026, especially with desktop and system apps.<p>Native development is still hard - things like WebSockets are fundamentally web technologies and their native libraries have a lot of hard edges and inconsistencies that only show up when you use something 100 times a day - took some engineering to get around this. Native does make the UX fast but it almost made me wish I had chosen Electron for something with this much network management, but speed and resource efficiency is worth going native for.<p>Okay, this already feels long - please try it, let me know how it feels, glad to hear feedback and feature requests. Thank you! Here is the link: <a href=\"https://getshoute.com/deepdive\" rel=\"nofollow\">https://getshoute.com/deepdive</a>"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "HN: Shoute – Yes, another dictation app. Why the last 5% is the whole product"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://getshoute.com/deepdive"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_docstryder",
+    "story_48137063"
+  ],
+  "author": "docstryder",
+  "children": [
+    48144245
+  ],
+  "comment_text": "I&#x27;ve been working on Shoute, a speak-to-text app for Mac and Windows that&#x27;s built around one idea: the full loop has to feel instant<p>I do know this isn’t a new category. A lot of people here already have some version of this: whisper.cpp behind a hotkey, macOS dictation, SuperWhisper, Wispr Flow, or some other hand-rolled version.<p>I built one anyway because I kept bouncing off dictation tools in my actual workday.<p>My problem was not “can an app transcribe my voice?” Most of them can, and impressively well. The problem was the full loop:\npress shortcut -&gt; speak -&gt; release -&gt; cleaned up text appears where I was already typing - and that this happens consistently, quickly, day after day.<p>If that loop has enough delay, I lose the thread. If the output is too raw, I am back to editing. If the app needs screenshots to understand context, I start feeling uneasy about using it everywhere. You want to be confident that it always will work - or else you lose trust in it.<p>So the version I wanted was pretty narrow:\n- it should feel super quick for short everyday dictation<p>- the output should be cleaned up before insertion<p>- it should work across ALL the usual apps<p>- it should never lose data<p>- it should support both local and cloud modes (personally for flying but privacy too for specific things)<p>- it should use only minimal context<p>Shoute solves all of that really well and is lightweight (native code) and fluid to use day to day. It has a generous free tier (2000 words&#x2F;week - should be enough for most casual use), one time purchase for both local and cloud, and cloud with subscription ($6.99&#x2F;mo) for when folks who need the latest cloud models. Not a fan of subscriptions too but hard to have ongoing support for the latest cloud models without it.<p>Learned some really cool things building this:<p>The interesting eng lesson for me has been that voice UX is so much more latency-sensitive than normal app UX - the major part of the work on this was on making it consistently low latency end to end.<p>On latency - the model is only one part of the delay. Shoute runs three backends for different modes and fallback (ElevenLabs streaming, Groq Whisper, and WhisperKit for on-device) and each has different latency profiles. For short recordings (~15s is my avg - Shoute can do really long but not the primary use case for hour long recordings), the annoying delays often come from everything around the model: audio finalization, connection warmup, WebSocket setup, token fetching, fallback paths, local model cold starts, and finally pasting into the active app. Getting all this right consistently took significant time and eng effort despite Claude helping with all of it - taste and architectural direction is still absolutely essential in 2026, especially with desktop and system apps.<p>Native development is still hard - things like WebSockets are fundamentally web technologies and their native libraries have a lot of hard edges and inconsistencies that only show up when you use something 100 times a day - took some engineering to get around this. Native does make the UX fast but it almost made me wish I had chosen Electron for something with this much network management, but speed and resource efficiency is worth going native for.<p>Okay, this already feels long - please try it, let me know how it feels, glad to hear feedback and feature requests. Thank you! Here is the link: <a href=\"https:&#x2F;&#x2F;getshoute.com&#x2F;deepdive\" rel=\"nofollow\">https:&#x2F;&#x2F;getshoute.com&#x2F;deepdive</a>",
+  "created_at": "2026-05-14T15:41:02Z",
+  "created_at_i": 1778773262,
+  "objectID": "48137064",
+  "parent_id": 48137063,
+  "story_id": 48137063,
+  "story_title": "HN: Shoute – Yes, another dictation app. Why the last 5% is the whole product",
+  "story_url": "https://getshoute.com/deepdive",
+  "updated_at": "2026-05-15T03:33:11Z"
+}

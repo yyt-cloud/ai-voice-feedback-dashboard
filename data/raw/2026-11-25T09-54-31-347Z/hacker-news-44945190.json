@@ -1,0 +1,46 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "ayushrodrigues"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "aqua",
+        "voice"
+      ],
+      "value": "I've been interested in a tool like this for a while. I currently have tried whisprflow and <em>aqua</em> <em>voice</em> but wanted to use my API key and store more context locally. How does all the data get stored and how can I access it?"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Show HN: Whispering – Open-source, local-first dictation you can trust"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://github.com/epicenter-so/epicenter/tree/main/apps/whispering"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_ayushrodrigues",
+    "story_44942731"
+  ],
+  "author": "ayushrodrigues",
+  "children": [
+    44948402
+  ],
+  "comment_text": "I&#x27;ve been interested in a tool like this for a while. I currently have tried whisprflow and aqua voice but wanted to use my API key and store more context locally. How does all the data get stored and how can I access it?",
+  "created_at": "2025-08-18T20:50:15Z",
+  "created_at_i": 1755550215,
+  "objectID": "44945190",
+  "parent_id": 44942731,
+  "story_id": 44942731,
+  "story_title": "Show HN: Whispering – Open-source, local-first dictation you can trust",
+  "story_url": "https://github.com/epicenter-so/epicenter/tree/main/apps/whispering",
+  "updated_at": "2026-03-05T22:30:56Z"
+}

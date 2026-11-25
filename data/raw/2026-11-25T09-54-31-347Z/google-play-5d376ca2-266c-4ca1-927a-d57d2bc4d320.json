@@ -1,0 +1,29 @@
+{
+  "id": "5d376ca2-266c-4ca1-927a-d57d2bc4d320",
+  "userName": "Bhav P",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKKsRWGScxslA9vwft8Enjt-2KeS-dMvxktiRqM4dtXDD5DMQ=mo",
+  "date": "2026-11-21T16:28:36.974Z",
+  "score": 4,
+  "scoreText": "4",
+  "url": "https://play.google.com/store/apps/details?id=com.wispr.flowapp&reviewId=5d376ca2-266c-4ca1-927a-d57d2bc4d320",
+  "title": null,
+  "text": "It's really good but if you have free, you have this weekly limit and also there's always room for improvement for everything so",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.8.8",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_phase1_messaging",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_phase1_file_sharing",
+      "rating": 1
+    }
+  ]
+}

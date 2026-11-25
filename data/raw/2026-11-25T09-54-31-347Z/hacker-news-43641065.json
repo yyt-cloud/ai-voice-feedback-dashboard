@@ -1,0 +1,50 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "mrtesthah"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "aqua",
+        "voice"
+      ],
+      "value": "MacWhisper does realtime system-wide dictation on your local machine (among other things). Just a one-time fee for an app you download -- the way shareware is supposed to be. Of course it doesn't use MoE transcription with 6 models like <em>Aqua</em> <em>Voice</em>, but if you guys expect to be acquired by Apple (that is your exit strategy, right?), you're going to need better guarantees of privacy than &quot;we don't log&quot;."
+    },
+    "story_title": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "aqua",
+        "voice"
+      ],
+      "value": "Show HN: <em>Aqua</em> <em>Voice</em> 2 – Fast <em>Voice</em> Input for Mac and Windows"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://withaqua.com"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_mrtesthah",
+    "story_43634005"
+  ],
+  "author": "mrtesthah",
+  "children": [
+    43642111
+  ],
+  "comment_text": "MacWhisper does realtime system-wide dictation on your local machine (among other things). Just a one-time fee for an app you download -- the way shareware is supposed to be. Of course it doesn&#x27;t use MoE transcription with 6 models like Aqua Voice, but if you guys expect to be acquired by Apple (that is your exit strategy, right?), you&#x27;re going to need better guarantees of privacy than &quot;we don&#x27;t log&quot;.",
+  "created_at": "2025-04-10T05:53:28Z",
+  "created_at_i": 1744264408,
+  "objectID": "43641065",
+  "parent_id": 43640415,
+  "story_id": 43634005,
+  "story_title": "Show HN: Aqua Voice 2 – Fast Voice Input for Mac and Windows",
+  "story_url": "https://withaqua.com",
+  "updated_at": "2025-04-10T13:31:48Z"
+}

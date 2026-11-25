@@ -1,0 +1,42 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "RobMurray"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Apple's stt has been on-device for a long time now, long before iPhone 16. I haven't noticed any improvements since my first ever iphone 5S.  I'm pretty sure wispr flow can use on-device models. I use Voiceink[0] which can use parakeet models on-device and can optionally use cloud models.It's like night and day comparing Apple's to Voiceink. The only advantage I find to Apple's stt is less friction. 3rd party apps just can't integrate as smoothly with the system. There's a gesture to activate Appledictation when Voiceover is on."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Apple unveils new accessibility features"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_RobMurray",
+    "story_48192224"
+  ],
+  "author": "RobMurray",
+  "children": [
+    48197478
+  ],
+  "comment_text": "Apple&#x27;s stt has been on-device for a long time now, long before iPhone 16. I haven&#x27;t noticed any improvements since my first ever iphone 5S.  I&#x27;m pretty sure wispr flow can use on-device models. I use Voiceink[0] which can use parakeet models on-device and can optionally use cloud models.It&#x27;s like night and day comparing Apple&#x27;s to Voiceink. The only advantage I find to Apple&#x27;s stt is less friction. 3rd party apps just can&#x27;t integrate as smoothly with the system. There&#x27;s a gesture to activate Appledictation when Voiceover is on.",
+  "created_at": "2026-05-19T16:46:21Z",
+  "created_at_i": 1779209181,
+  "objectID": "48195801",
+  "parent_id": 48193904,
+  "story_id": 48192224,
+  "story_title": "Apple unveils new accessibility features",
+  "story_url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
+  "updated_at": "2026-05-20T16:40:20Z"
+}

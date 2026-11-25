@@ -1,0 +1,40 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "littlexsparkee"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "aqua",
+        "voice"
+      ],
+      "value": "Hi, how does this compare to <em>Aqua</em> <em>Voice</em>? I would love something like this integrated with Talon, I've found its Cursorless extension to be the easiest way to edit text and code in VSCode."
+    },
+    "story_title": {
+      "fullyHighlighted": false,
+      "matchLevel": "partial",
+      "matchedWords": [
+        "voice"
+      ],
+      "value": "Show HN: Wispr Flow – A new <em>voice</em> dictation experience"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_littlexsparkee",
+    "story_41696153"
+  ],
+  "author": "littlexsparkee",
+  "comment_text": "Hi, how does this compare to Aqua Voice? I would love something like this integrated with Talon, I&#x27;ve found its Cursorless extension to be the easiest way to edit text and code in VSCode.",
+  "created_at": "2024-10-01T01:52:24Z",
+  "created_at_i": 1727747544,
+  "objectID": "41703968",
+  "parent_id": 41696153,
+  "story_id": 41696153,
+  "story_title": "Show HN: Wispr Flow – A new voice dictation experience",
+  "updated_at": "2024-12-31T15:52:33Z"
+}

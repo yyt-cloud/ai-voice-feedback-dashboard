@@ -1,0 +1,29 @@
+{
+  "id": "e9f8662f-5611-4fd6-8cd1-cbdf4c31eecd",
+  "userName": "Dark gamer2024",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUMdwIGe9cZu229KytW61nDSmGw_8fo7ZjuaQN_NGOHI6c2NRY",
+  "date": "2026-07-23T15:05:22.801Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=e9f8662f-5611-4fd6-8cd1-cbdf4c31eecd",
+  "title": null,
+  "text": "this keyboard not supported vivo y20 lagi and this not supported low end device phone please fix problem",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.1.1",
+  "thumbsUp": 1,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_ads_intrusiveness",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_ads_presence",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 1
+    }
+  ]
+}

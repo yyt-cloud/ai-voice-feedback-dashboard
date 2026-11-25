@@ -1,0 +1,46 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "ducaale"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "simeji"
+      ],
+      "value": "Apparently, the author wrote this tool because jid was struggling with a 7MB JSON file.<p>See <a href=\"https://github.com/simeji/jid/issues/66#issuecomment-443671843\" rel=\"nofollow\">https://github.com/<em>simeji</em>/jid/issues/66#issuecomment-4436718...</a>"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "FX: An interactive alternative to jq to process JSON"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://github.com/antonmedv/fx"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_ducaale",
+    "story_29861043"
+  ],
+  "author": "ducaale",
+  "children": [
+    29861688,
+    29861957
+  ],
+  "comment_text": "Apparently, the author wrote this tool because jid was struggling with a 7MB JSON file.<p>See <a href=\"https:&#x2F;&#x2F;github.com&#x2F;simeji&#x2F;jid&#x2F;issues&#x2F;66#issuecomment-443671843\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;simeji&#x2F;jid&#x2F;issues&#x2F;66#issuecomment-4436718...</a>",
+  "created_at": "2022-01-09T08:33:38Z",
+  "created_at_i": 1641717218,
+  "objectID": "29861472",
+  "parent_id": 29861043,
+  "story_id": 29861043,
+  "story_title": "FX: An interactive alternative to jq to process JSON",
+  "story_url": "https://github.com/antonmedv/fx",
+  "updated_at": "2024-09-20T10:14:39Z"
+}

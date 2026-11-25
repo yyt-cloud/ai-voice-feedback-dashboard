@@ -1,0 +1,43 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "throw03172019"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "aqua",
+        "voice"
+      ],
+      "value": "I love my Fn/Globe key. It fires up <em>Aqua</em> <em>Voice</em> and begins transcribing. My fingers appreciate the break from typing."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "I don't know Apple's endgame for the Fn/Globe key–or if Apple does"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://aresluna.org/fn/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_throw03172019",
+    "story_47311647"
+  ],
+  "author": "throw03172019",
+  "comment_text": "I love my Fn&#x2F;Globe key. It fires up Aqua Voice and begins transcribing. My fingers appreciate the break from typing.",
+  "created_at": "2026-03-10T03:04:08Z",
+  "created_at_i": 1773111848,
+  "objectID": "47318671",
+  "parent_id": 47311647,
+  "story_id": 47311647,
+  "story_title": "I don't know Apple's endgame for the Fn/Globe key–or if Apple does",
+  "story_url": "https://aresluna.org/fn/",
+  "updated_at": "2026-03-10T03:07:26Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "09f8f82e-9a07-4e31-9c71-0f3bf2c9d878",
+  "userName": "Angel Aguilar",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIXWjbFWm0rV_CldAEThIYahPXlbJg1qQBJthd9vDCxL3Angco=mo",
+  "date": "2026-11-23T05:25:09.241Z",
+  "score": 4,
+  "scoreText": "4",
+  "url": "https://play.google.com/store/apps/details?id=com.wispr.flowapp&reviewId=09f8f82e-9a07-4e31-9c71-0f3bf2c9d878",
+  "title": null,
+  "text": "i love it i struggle with my speech due to health issues i also been known to mumble my words but it picks up exactly what I say.. my only request is to have an option to select which apps i wanna use it on it does all the basic apps but some apps i dont need it for, i mostly use it for texting and notes . also i wish it gave me a button to add naturally on my keyboard and not having a floating button",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.8.8",
+  "thumbsUp": 1,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_usability",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_phase1_collaborative_editing",
+      "rating": 3
+    }
+  ]
+}

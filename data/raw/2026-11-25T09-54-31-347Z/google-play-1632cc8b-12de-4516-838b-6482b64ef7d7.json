@@ -1,0 +1,29 @@
+{
+  "id": "1632cc8b-12de-4516-838b-6482b64ef7d7",
+  "userName": "Rashan Bernardo",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXVhe5U3SLZSUr1qE_OQojR24lNzaWfGAQZXWMYR3oMgaC6TdHD",
+  "date": "2026-11-13T19:56:44.719Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=1632cc8b-12de-4516-838b-6482b64ef7d7",
+  "title": null,
+  "text": "I love the keyboard; I am using it right now to write this review. The only things I would like to see are: • The clipboard to be put somewhere in there • The keyboard to be bigger for people who have larger fingers • A bigger font as well",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.12.0",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 3
+    }
+  ]
+}

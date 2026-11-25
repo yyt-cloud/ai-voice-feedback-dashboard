@@ -1,0 +1,46 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "philippgerard"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "aqua",
+        "voice"
+      ],
+      "value": "I love mine. The build quality is excellent. The two screens are useful in different environments or for different tasks - quick glance at a message vs reading a book. The large screen especially is a great replacement for my Kindle. Now all I carry for phone calls, photography, music, reading and work (T3 remote to my Mac mini at home) is this one device. Combined with a good dictation software like <em>Aqua</em> <em>Voice</em> it’s a jack off all trades for me. Not returning it anytime soon :)"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "I Returned My iPhone Duo"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://codakuma.com/i-returned-my-duo/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_philippgerard",
+    "story_50301373"
+  ],
+  "author": "philippgerard",
+  "children": [
+    50303448
+  ],
+  "comment_text": "I love mine. The build quality is excellent. The two screens are useful in different environments or for different tasks - quick glance at a message vs reading a book. The large screen especially is a great replacement for my Kindle. Now all I carry for phone calls, photography, music, reading and work (T3 remote to my Mac mini at home) is this one device. Combined with a good dictation software like Aqua Voice it’s a jack off all trades for me. Not returning it anytime soon :)",
+  "created_at": "2026-10-30T09:44:51Z",
+  "created_at_i": 1793353491,
+  "objectID": "50301669",
+  "parent_id": 50301561,
+  "story_id": 50301373,
+  "story_title": "I Returned My iPhone Duo",
+  "story_url": "https://codakuma.com/i-returned-my-duo/",
+  "updated_at": "2026-10-30T13:17:50Z"
+}

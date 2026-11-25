@@ -1,0 +1,47 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "strax01"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "wispr",
+        "flow"
+      ],
+      "value": "I really don't get how this company is able to make money while there are products out there like Spokenly (not affiliated with em btw) out there. Unless I am missing something here <em>wispr</em> <em>flow</em>'s whole product is just a voice-to-text conduit which can be replaced with a 500mb model that would have 95% of functionality for free. Would love to hear your thoughts!"
+    },
+    "story_title": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "wispr",
+        "flow"
+      ],
+      "value": "Why is <em>Wispr</em> <em>Flow</em> a $2B company?"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://wisprflow.ai"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_strax01",
+    "story_49234651"
+  ],
+  "author": "strax01",
+  "comment_text": "I really don&#x27;t get how this company is able to make money while there are products out there like Spokenly (not affiliated with em btw) out there. Unless I am missing something here wispr flow&#x27;s whole product is just a voice-to-text conduit which can be replaced with a 500mb model that would have 95% of functionality for free. Would love to hear your thoughts!",
+  "created_at": "2026-08-09T19:14:03Z",
+  "created_at_i": 1786302843,
+  "objectID": "49234652",
+  "parent_id": 49234651,
+  "story_id": 49234651,
+  "story_title": "Why is Wispr Flow a $2B company?",
+  "story_url": "https://wisprflow.ai",
+  "updated_at": "2026-08-10T02:43:05Z"
+}

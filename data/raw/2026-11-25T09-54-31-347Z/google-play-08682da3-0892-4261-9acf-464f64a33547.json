@@ -1,0 +1,29 @@
+{
+  "id": "08682da3-0892-4261-9acf-464f64a33547",
+  "userName": "平田小桜",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJxZzy82xcYgJgi9bekn3GgzJReOhzhWODaGKygb4mMlzhExw=mo",
+  "date": "2026-10-15T05:40:03.535Z",
+  "score": 4,
+  "scoreText": "4",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=08682da3-0892-4261-9acf-464f64a33547",
+  "title": null,
+  "text": "とてもいい",
+  "replyDate": "2026-11-02T04:17:03.923Z",
+  "replyText": "レビューをお寄せいただき、ありがとうございます。\n\nお楽しみいただけているとのこと、大変嬉しく思います！\nこれからも皆さまに快適にご利用いただけるよう、より良いサービスづくりに努めてまいります。\n\n今後ともSimejiをよろしくお願いいたします。",
+  "version": "23.6.1",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_ads_intrusiveness",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_visual_appeal",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_ads_frequency",
+      "rating": 1
+    }
+  ]
+}

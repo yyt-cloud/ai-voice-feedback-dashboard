@@ -1,0 +1,29 @@
+{
+  "id": "2ebdc3ee-1d48-4628-bc3a-69f35ccf3fbd",
+  "userName": "Abdul Azeem",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWJMwtNlO_wQxjTKPax3neIyUVXUnRkGwq4Wbi8U3olXPIh0Xc",
+  "date": "2026-11-23T13:59:40.230Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.wispr.flowapp&reviewId=2ebdc3ee-1d48-4628-bc3a-69f35ccf3fbd",
+  "title": null,
+  "text": "the wispr bubble doesn't pop up when I am typing I also turned off the battery saver for it to work(it still doesn't )",
+  "replyDate": null,
+  "replyText": null,
+  "version": null,
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_visual_appeal",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 3
+    }
+  ]
+}

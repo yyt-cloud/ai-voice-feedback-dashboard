@@ -1,0 +1,29 @@
+{
+  "id": "d7aebacd-f775-4d64-927d-4dd8309e5f07",
+  "userName": "Isao Komatsu",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLq57OVaehzdcBLzGIl-PbcSVyD5_fS2W3WrICxmOAbOE2jeYM=mo",
+  "date": "2026-10-11T00:57:38.239Z",
+  "score": 4,
+  "scoreText": "4",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=d7aebacd-f775-4d64-927d-4dd8309e5f07",
+  "title": null,
+  "text": "楽しい絵文字が出て来て LINEで重宝している",
+  "replyDate": "2026-11-02T04:18:30.406Z",
+  "replyText": "レビューをお寄せいただき、ありがとうございます。\n\nお楽しみいただけているとのこと、大変嬉しく思います！\nこれからも皆さまに快適にご利用いただけるよう、より良いサービスづくりに努めてまいります。\n\n今後ともSimejiをよろしくお願いいたします。",
+  "version": "23.6.1",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_ads_frequency",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 2
+    }
+  ]
+}

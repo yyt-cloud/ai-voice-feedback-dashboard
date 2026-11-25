@@ -1,0 +1,29 @@
+{
+  "id": "be186212-855e-4068-b9ff-3f50596dd776",
+  "userName": "Alice P",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJAInxyZ9NOmPe8_7TY4785diHYFC0xi5uGhYN01AqwD1OKUQ=mo",
+  "date": "2026-09-30T23:41:54.641Z",
+  "score": 3,
+  "scoreText": "3",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=be186212-855e-4068-b9ff-3f50596dd776",
+  "title": null,
+  "text": "Je dois malheureusement mettre à jour mon avis suite au changement de la limite de mots pour la version gratuite où je trouve que l'on est descendu très vite très bas et avec un délai de prévenance très limité, que d'ailleurs je n'ai pas eu sur mobile, seulement sur ordinateur. J'ai réussi à activer la fonctionnalité Gboard Rambler et c'est encore à des années-lumière de Typeless mais la puissance de Google... progressivement ça va remplacer Typeless. Modèle économique à revoir.",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.7.1",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_phase1_messaging",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_usability",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 3
+    }
+  ]
+}
