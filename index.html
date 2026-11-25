@@ -931,7 +931,7 @@
     <div class="title-group">
       <h1>AI 语音竞品舆情分析看板</h1>
       <div style="margin-top: 6px; display: inline-flex; align-items: center; gap: 8px;">
-        <span style="font-family: var(--font-mono); font-size: 11px; font-weight: 700; padding: 2px 8px; border-radius: 12px; background-color: #EFF6FF; color: #2563EB; border: 1px solid #BFDBFE;">v2.5.1</span>
+        <span style="font-family: var(--font-mono); font-size: 11px; font-weight: 700; padding: 2px 8px; border-radius: 12px; background-color: #EFF6FF; color: #2563EB; border: 1px solid #BFDBFE;">v2.5.2</span>
         <span id="datasetCountText" style="font-size: 11.5px; color: var(--text-muted);">· 全量纯净真机数据集 (1,055 条记录)</span>
       </div>
       
@@ -2676,14 +2676,14 @@
     }
 
     window.__DASHBOARD_BUILD__ = {
-      version: "v2.5.1",
+      version: "v2.5.2",
       totalRecords: typeof allData !== "undefined" ? allData.length : 0,
       buildTime: "2026-11-24",
       syncGuide: "如需更新 GitHub Pages，请将本文件另存/重命名为 index.html 并 git push"
     };
 
     window.onload = async function() {
-      console.log("🚀 [AI Voice Dashboard v2.5.1 Loaded]", window.__DASHBOARD_BUILD__);
+      console.log("🚀 [AI Voice Dashboard v2.5.2 Loaded]", window.__DASHBOARD_BUILD__);
       initPromptConfig();
       const voiceScopeBar = document.getElementById('voiceScopeFilters');
       if (voiceScopeBar) {
