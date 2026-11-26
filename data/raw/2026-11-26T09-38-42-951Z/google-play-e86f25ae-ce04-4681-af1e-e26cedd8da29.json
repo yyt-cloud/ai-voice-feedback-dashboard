@@ -1,0 +1,29 @@
+{
+  "id": "e86f25ae-ce04-4681-af1e-e26cedd8da29",
+  "userName": "Diego Rodrigues",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXbs2kTQOn7PCjJ06i366CjfEGMf6RohjTnbstc8wdyL9U1jiLzZg",
+  "date": "2026-06-13T10:33:27.462Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=e86f25ae-ce04-4681-af1e-e26cedd8da29",
+  "title": null,
+  "text": "Far better than Wispr Flow.",
+  "replyDate": null,
+  "replyText": null,
+  "version": "1.9.0",
+  "thumbsUp": 1,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_usability",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_ads_intrusiveness",
+      "rating": 2
+    }
+  ]
+}

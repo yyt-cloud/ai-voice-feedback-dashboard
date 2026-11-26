@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id267165291"
+    },
+    "name": {
+      "label": "ChuckTaylor1776"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-11-23T13:10:34-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.1.17"
+  },
+  "id": {
+    "label": "14826017756"
+  },
+  "title": {
+    "label": "Now the best."
+  },
+  "content": {
+    "label": "With the newest updates as of November 2026, the combination between the iOS and Mac apps makes this, in my opinion, the best dictation software available. If you're willing to pay some money for a great product, this is an excellent choice.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6759074969&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ed66b095-5603-4a59-8687-d3981448414c",
+  "userName": "ごうしち",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWogcYNTtV_kFLkW_dh-g23cliHK1urMoF-HBNuDZhF69GnHDVe",
+  "date": "2026-09-06T22:43:20.771Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=ed66b095-5603-4a59-8687-d3981448414c",
+  "title": null,
+  "text": "支払い等の数値入力が出来ない",
+  "replyDate": "2026-09-08T10:34:40.754Z",
+  "replyText": "レビューいただきありがとうございます。\n\n数値入力ができない件につきまして、ご不便をおかけしております。\n\n状況を確認させていただくため、お手数ですが以下の点についてお知らせいただけますでしょうか。\n\n・具体的にどのような状態になるか（入力できない、別の文字に変換される等）\n・特定のアプリ内のみで発生しているのか、または複数のアプリで同様の症状が発生するのか\n\n可能でしたら、発生時の画面が分かるスクリーンショットや画面録画を撮影いただき、Simejiアプリ内の「お問い合わせ」よりお送りいただけますと幸いです。\n\nいただいた情報をもとに確認・調査させていただきます。\n\n今後ともSimejiをよろしくお願いいたします。",
+  "version": "23.5.2",
+  "thumbsUp": 1,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_ads_presence",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_usability",
+      "rating": 2
+    }
+  ]
+}

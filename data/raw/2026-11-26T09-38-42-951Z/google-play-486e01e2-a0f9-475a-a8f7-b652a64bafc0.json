@@ -1,0 +1,29 @@
+{
+  "id": "486e01e2-a0f9-475a-a8f7-b652a64bafc0",
+  "userName": "Jared Winteregg",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXLbF4RO03ts_ZZ7qPHYP4UFgdbFQQEMzrJ1eLrl8CW5DPE7V99ZQ",
+  "date": "2026-11-25T00:41:02.440Z",
+  "score": 4,
+  "scoreText": "4",
+  "url": "https://play.google.com/store/apps/details?id=com.wispr.flowapp&reviewId=486e01e2-a0f9-475a-a8f7-b652a64bafc0",
+  "title": null,
+  "text": "Great App, Price meh. Love the functional of the app but my god $15 a month for it is crazy. Wish they decided to have a lesser tier for just voice to text for the phone. As that's the only functional I use.",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.8.8",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_ads_frequency",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_ads_presence",
+      "rating": 2
+    }
+  ]
+}

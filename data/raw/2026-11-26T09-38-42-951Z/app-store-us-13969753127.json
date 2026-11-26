@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id288614901"
+    },
+    "name": {
+      "label": "hmm55423"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-04-17T21:30:51-07:00"
+  },
+  "im:rating": {
+    "label": "1"
+  },
+  "im:version": {
+    "label": "1.0.8"
+  },
+  "id": {
+    "label": "13969753127"
+  },
+  "title": {
+    "label": "Can’t log in"
+  },
+  "content": {
+    "label": "Deleted account to be able to try and sign in with another account but by doing so I cannot log in through either Apple ID or Google. It seems to be a material error and it makes the app unusable",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6759074969&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

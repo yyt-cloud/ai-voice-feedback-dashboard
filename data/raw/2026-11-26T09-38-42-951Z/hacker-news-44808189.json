@@ -1,0 +1,40 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "throw03172019"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "aqua",
+        "voice"
+      ],
+      "value": "I use <em>Aqua</em> <em>Voice</em> for this. It’s great because it “types” into any text box my cursor is focused in."
+    },
+    "story_title": {
+      "fullyHighlighted": false,
+      "matchLevel": "partial",
+      "matchedWords": [
+        "voice"
+      ],
+      "value": "Ask HN: Would you use a <em>voice</em>-to-clean-notes app with AI rewriting?"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_throw03172019",
+    "story_44808024"
+  ],
+  "author": "throw03172019",
+  "comment_text": "I use Aqua Voice for this. It’s great because it “types” into any text box my cursor is focused in.",
+  "created_at": "2025-08-06T05:55:21Z",
+  "created_at_i": 1754459721,
+  "objectID": "44808189",
+  "parent_id": 44808024,
+  "story_id": 44808024,
+  "story_title": "Ask HN: Would you use a voice-to-clean-notes app with AI rewriting?",
+  "updated_at": "2026-03-05T22:28:34Z"
+}

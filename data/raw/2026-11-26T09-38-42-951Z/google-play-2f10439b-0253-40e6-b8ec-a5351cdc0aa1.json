@@ -1,0 +1,29 @@
+{
+  "id": "2f10439b-0253-40e6-b8ec-a5351cdc0aa1",
+  "userName": "Lucas Batista Fernandes",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXOh1Z6bH0Ux9x95KTIFBcIp6xJGa5SSoU8hqQJpUcEiosO-S9F",
+  "date": "2026-11-24T02:21:39.918Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.wispr.flowapp&reviewId=2f10439b-0253-40e6-b8ec-a5351cdc0aa1",
+  "title": null,
+  "text": "this app don't make what it promises, don't hear my voice well. I'm sorry.",
+  "replyDate": null,
+  "replyText": null,
+  "version": null,
+  "thumbsUp": 1,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_app_quality_usability",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 2
+    }
+  ]
+}

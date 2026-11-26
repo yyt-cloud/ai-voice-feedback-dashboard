@@ -1,0 +1,29 @@
+{
+  "id": "2028d448-6ce9-4d0f-9651-9b7e753f393f",
+  "userName": "D D",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUq2DTk0lEWNQPZX6ZUHJXOZ-vrujvZsQ23A4OXxYNUXkbc_OK5Jg",
+  "date": "2026-07-23T00:05:07.788Z",
+  "score": 3,
+  "scoreText": "3",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=2028d448-6ce9-4d0f-9651-9b7e753f393f",
+  "title": null,
+  "text": "This app seemed to be flawless up until I got the paid version, now it makes mistakes virtually every single time I say anything. So that's great.",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.1.0",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_visual_appeal",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_app_quality_ads_intrusiveness",
+      "rating": 2
+    }
+  ]
+}

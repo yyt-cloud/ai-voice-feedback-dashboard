@@ -1,0 +1,29 @@
+{
+  "id": "9753ca96-94d2-4bf7-b80d-5f72a9c667b1",
+  "userName": "M M",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIvTg6z4syjT1qnCLMxu9HHRRbtwslDaIKvU_FjXw56zgzrSA=mo",
+  "date": "2026-10-31T13:27:48.245Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=9753ca96-94d2-4bf7-b80d-5f72a9c667b1",
+  "title": null,
+  "text": "アプデ後の音声入力が中心にデカデカとなって非常に邪魔です。マイ定型文が押したいのに、誤タップの誘発としか言えません。せめて音声入力のONOFF機能を付けてください。それと文字を削除した時の削除した時の取り消すが煩わしいので、それのONOFF出来る機能も付けてください。 追記、10月31日の更新でコンパネの絵文字と音声入力を逆にしたのは何故でしょうか？。最近は無駄な改悪ばかりで益々不便になってきています。音声入力は使わないので真ん中に寄せられるのは不便です。",
+  "replyDate": "2026-07-10T06:13:00.724Z",
+  "replyText": "レビューをご投稿いただきありがとうございます。\n\nご不便をおかけし申し訳ございません。\n\nAI音声入力ボタンの配置につきましては、多くのご意見をいただいており、現在調整を進めております。\n\nまた、「取り消す」機能につきましても、現時点ではオフにする設定はご用意しておりませんが、いただいたご意見は担当部署へ共有し、今後の改善の参考とさせていただきます。\n\n引き続きSimejiをよろしくお願いいたします。",
+  "version": "23.7",
+  "thumbsUp": 9,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_app_quality_usability",
+      "rating": 2
+    }
+  ]
+}

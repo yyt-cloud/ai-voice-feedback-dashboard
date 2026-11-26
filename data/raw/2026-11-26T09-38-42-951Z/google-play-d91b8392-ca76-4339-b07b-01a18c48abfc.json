@@ -1,0 +1,16 @@
+{
+  "id": "d91b8392-ca76-4339-b07b-01a18c48abfc",
+  "userName": "Zeno Q",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXyZkaNhEfa9EkeDhsnlPK4A-3Cs-FjuLo4uBwM5e5ure_ZOnRy",
+  "date": "2026-11-19T12:22:49.489Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=d91b8392-ca76-4339-b07b-01a18c48abfc",
+  "title": null,
+  "text": "There are some bugs that have never appeared before: 1. After I finish speaking, it inexplicably prepends a \"Message\" string to what I said. 2. Sometimes after I finish speaking, instead of typing it directly, it tells me to click so I can copy it to the clipboard, requiring me to manually click copy and then paste it out. Since a certain day, I've been constantly running into these two bugs.",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.13.0",
+  "thumbsUp": 2,
+  "criterias": []
+}

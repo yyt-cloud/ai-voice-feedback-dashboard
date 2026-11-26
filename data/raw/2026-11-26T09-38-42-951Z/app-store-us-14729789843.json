@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id106980175"
+    },
+    "name": {
+      "label": "Mikey B 🌎😎🙏🏼🙏🏼🙏🏼"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-10-30T07:13:02-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.1.1"
+  },
+  "id": {
+    "label": "14729789843"
+  },
+  "title": {
+    "label": "Amazing once you learn how to use it"
+  },
+  "content": {
+    "label": "💯💯💯💯💯💯",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6759074969&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

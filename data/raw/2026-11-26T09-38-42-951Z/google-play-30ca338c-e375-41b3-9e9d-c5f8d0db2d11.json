@@ -1,0 +1,29 @@
+{
+  "id": "30ca338c-e375-41b3-9e9d-c5f8d0db2d11",
+  "userName": "Sumukh Kamat",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIk2qUcbcMsOfNK_63vzfHD4mwqTygGykd4jQo5h2C5Zz4z=mo",
+  "date": "2026-09-25T17:18:18.638Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=30ca338c-e375-41b3-9e9d-c5f8d0db2d11",
+  "title": null,
+  "text": "the most amazing accurate and good to work app ever encountered for voice to text . the underlying transcription system works robustly and the desktop version is too good. only thing that the prices are way too much I feel for a voice typing ai keyboard....",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.5.0",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_visual_appeal",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 1
+    }
+  ]
+}

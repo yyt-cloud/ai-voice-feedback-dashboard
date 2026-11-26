@@ -1,0 +1,29 @@
+{
+  "id": "cb84dcfe-cef4-446c-989e-b62d9925356e",
+  "userName": "A",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUJNi6sBxQ-nD2r-LCCsMhUxliiYpfW_BduN3lkGa53nYonvPzWuQ",
+  "date": "2026-11-23T01:52:23.481Z",
+  "score": 3,
+  "scoreText": "3",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=cb84dcfe-cef4-446c-989e-b62d9925356e",
+  "title": null,
+  "text": "日本語入力(縦)の時と英語入力(横)の時で、数字キーボードを縦横で使えたはずなのですが、今は設定した片方でしか使えません　そのような機能はなくなりましたか？とても便利だったので、是非検討お願いします",
+  "replyDate": null,
+  "replyText": null,
+  "version": "23.7",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_ads_frequency",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 1
+    }
+  ]
+}

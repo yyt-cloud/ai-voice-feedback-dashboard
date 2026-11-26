@@ -1,0 +1,39 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "delta_p_delta_x"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "This is called automatic type inference, and it is a big feature of functional programming languages, many of which are <i>very</i> strongly typed. Also, for the record, C++ gained type inference about a decade and a half ago.<p>In C++ one can declare a <i>completely</i> typeless lambda:<p><pre><code>  auto callsAdd = [](auto x, auto y) { return x + y; }\n</code></pre>\nAnd the programmer need never specify what x and y are, as long as there exists a reachable declaration of operator+ that has two arguments that accepts whatever x and y resolve to, at instantiation time (which is compile time)."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "TypeScript 7"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_delta_p_delta_x",
+    "story_48833715"
+  ],
+  "author": "delta_p_delta_x",
+  "comment_text": "This is called automatic type inference, and it is a big feature of functional programming languages, many of which are <i>very</i> strongly typed. Also, for the record, C++ gained type inference about a decade and a half ago.<p>In C++ one can declare a <i>completely</i> typeless lambda:<p><pre><code>  auto callsAdd = [](auto x, auto y) { return x + y; }\n</code></pre>\nAnd the programmer need never specify what x and y are, as long as there exists a reachable declaration of operator+ that has two arguments that accepts whatever x and y resolve to, at instantiation time (which is compile time).",
+  "created_at": "2026-07-08T20:57:37Z",
+  "created_at_i": 1783544257,
+  "objectID": "48837313",
+  "parent_id": 48836953,
+  "story_id": 48833715,
+  "story_title": "TypeScript 7",
+  "story_url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+  "updated_at": "2026-07-09T14:51:31Z"
+}

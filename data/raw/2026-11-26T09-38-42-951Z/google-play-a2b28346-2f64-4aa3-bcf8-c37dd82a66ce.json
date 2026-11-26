@@ -1,0 +1,29 @@
+{
+  "id": "a2b28346-2f64-4aa3-bcf8-c37dd82a66ce",
+  "userName": "arvind c kacker",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVRRho6WYAK_Du_3X2J9PZwT5cI4djSelDfBlgasD71N5b2rOTQTA",
+  "date": "2026-06-13T22:36:09.141Z",
+  "score": 4,
+  "scoreText": "4",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=a2b28346-2f64-4aa3-bcf8-c37dd82a66ce",
+  "title": null,
+  "text": "I started off, as amongst the first doctors in India, to early test a new app. The journey was very rocky , but the app developers slowly improved on their mistakes and errors. The current version of the app which we use is very different from the one on which I started. But what I must compliment is the excellent customer service interaction of the developing company. One person, Freya stood out, Give the app a try. It is the future. Though still a lot of development has to go into it",
+  "replyDate": null,
+  "replyText": null,
+  "version": "1.9.0",
+  "thumbsUp": 1,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_phase1_file_sharing",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 2
+    }
+  ]
+}

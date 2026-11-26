@@ -1,0 +1,42 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Tonykip"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Thanks. Honestly you are the exact person I built this for, I switched off Wispr Flow for the same reasons as well.<p>On Windows: I am working on it, the CLI first and the app after. I do not have a date I would trust yet so I will not promise one, but if you dm me on LinkedIn or X (username: tonykipkemboi) I will send you the link the day it is ready. You would be one of the first.<p>And if you do have a Mac to try the current version, I would genuinely love to hear where the latency or accuracy breaks for you. It is a solo project, so any kind of feedback is the most useful thing I can get."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Show HN: Rekody, free on-device voice dictation for macOS"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://rekody.com/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_Tonykip",
+    "story_48897934"
+  ],
+  "author": "Tonykip",
+  "children": [
+    48910846
+  ],
+  "comment_text": "Thanks. Honestly you are the exact person I built this for, I switched off Wispr Flow for the same reasons as well.<p>On Windows: I am working on it, the CLI first and the app after. I do not have a date I would trust yet so I will not promise one, but if you dm me on LinkedIn or X (username: tonykipkemboi) I will send you the link the day it is ready. You would be one of the first.<p>And if you do have a Mac to try the current version, I would genuinely love to hear where the latency or accuracy breaks for you. It is a solo project, so any kind of feedback is the most useful thing I can get.",
+  "created_at": "2026-07-13T20:36:32Z",
+  "created_at_i": 1783974992,
+  "objectID": "48898466",
+  "parent_id": 48898066,
+  "story_id": 48897934,
+  "story_title": "Show HN: Rekody, free on-device voice dictation for macOS",
+  "story_url": "https://rekody.com/",
+  "updated_at": "2026-07-14T18:10:33Z"
+}

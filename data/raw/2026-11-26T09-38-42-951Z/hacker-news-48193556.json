@@ -1,0 +1,42 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "adamcharnock"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "FWIW - I also really like Wispr Flow, but I moved to running the 'Whisper Large' model locally using Handy (<a href=\"https://github.com/cjpais/Handy\" rel=\"nofollow\">https://github.com/cjpais/Handy</a>), which has been essentially as good, while also having lower latency."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Apple unveils new accessibility features"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_adamcharnock",
+    "story_48192224"
+  ],
+  "author": "adamcharnock",
+  "children": [
+    48195498
+  ],
+  "comment_text": "FWIW - I also really like Wispr Flow, but I moved to running the &#x27;Whisper Large&#x27; model locally using Handy (<a href=\"https:&#x2F;&#x2F;github.com&#x2F;cjpais&#x2F;Handy\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;cjpais&#x2F;Handy</a>), which has been essentially as good, while also having lower latency.",
+  "created_at": "2026-05-19T14:11:27Z",
+  "created_at_i": 1779199887,
+  "objectID": "48193556",
+  "parent_id": 48193437,
+  "story_id": 48192224,
+  "story_title": "Apple unveils new accessibility features",
+  "story_url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
+  "updated_at": "2026-05-20T08:34:46Z"
+}

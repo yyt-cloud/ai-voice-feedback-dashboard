@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id477620667"
+    },
+    "name": {
+      "label": "Snowygreenman"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-08-15T12:16:07-07:00"
+  },
+  "im:rating": {
+    "label": "5"
+  },
+  "im:version": {
+    "label": "1.0.29"
+  },
+  "id": {
+    "label": "14431968883"
+  },
+  "title": {
+    "label": "Using for every app"
+  },
+  "content": {
+    "label": "Great product",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6759074969&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

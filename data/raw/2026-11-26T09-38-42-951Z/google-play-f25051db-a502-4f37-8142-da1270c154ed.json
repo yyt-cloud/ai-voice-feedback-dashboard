@@ -1,0 +1,29 @@
+{
+  "id": "f25051db-a502-4f37-8142-da1270c154ed",
+  "userName": "Zee",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIS5BglcF5Ga0CVpqBfNLNuxLWQb2arVpDcTnf1nwEwaAg0hA=mo",
+  "date": "2026-11-20T16:57:36.584Z",
+  "score": 2,
+  "scoreText": "2",
+  "url": "https://play.google.com/store/apps/details?id=com.wispr.flowapp&reviewId=f25051db-a502-4f37-8142-da1270c154ed",
+  "title": null,
+  "text": "Good app but overpriced. Free version cuts you off really quickly. (I only got a day and a half from it.) Unless you're willing to pay $15/mo, stay away. (You get roughly ~1400 words/week.)",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.8.7",
+  "thumbsUp": 1,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_phase1_file_sharing",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_usability",
+      "rating": 1
+    }
+  ]
+}

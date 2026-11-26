@@ -1,0 +1,37 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "drltaidev"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "wispr",
+        "flow"
+      ],
+      "value": "For my solo dev work, I'm using Claude Code exclusively, nowadays almost always with Opus 5.5. I'm combining it extensively with <em>Wispr</em> <em>Flow</em>, I can give much more detailed strategic and tactical advice and requirements, trying not to micro-manage Claude because it actually does a great job implementing what I need once it know the requirements. I also chat with it first to set up those requirements first.<p>I prefer using Claude in terminal, it works fast for me. I used to use the &quot;agents view&quot; to set multiple agents to work, each in their own worktree, if I needed work on multiple features simultaneously. But I've actually gotten into just drafting a large list of features first in advance, using Claude of course, and then setting Claude to work to implement them all (so it takes the results of already implemented features into account when implementing the next).<p>For organising myself, I let Claude write a lot of Markdown files (so I'm not completely locked in into Claude Code, in case I do decide to use something else). And of course a proper Claude.md.<p>I also made myself a kind of Vision.md &gt; Features.md &gt; Tasks.md workflow, where I make sure Claude is aware of my bigger vision for a project, and uses that to distill features that should be implemented from that, which then leads to very specific tasks to execute. I can then just tell Claude &quot;execute the next batch of tasks&quot; and review them once they're done. My apps are rather visual, so I also made Claude build pages where I can easily review new functionality, so I don't have to dive into the code where not needed (I would, I am a computer scientist, but honestly I'm doing it less and less nowadays...)."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Ask HN: What's your current AI agentic setup?"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_drltaidev",
+    "story_50366117"
+  ],
+  "author": "drltaidev",
+  "comment_text": "For my solo dev work, I&#x27;m using Claude Code exclusively, nowadays almost always with Opus 5.5. I&#x27;m combining it extensively with Wispr Flow, I can give much more detailed strategic and tactical advice and requirements, trying not to micro-manage Claude because it actually does a great job implementing what I need once it know the requirements. I also chat with it first to set up those requirements first.<p>I prefer using Claude in terminal, it works fast for me. I used to use the &quot;agents view&quot; to set multiple agents to work, each in their own worktree, if I needed work on multiple features simultaneously. But I&#x27;ve actually gotten into just drafting a large list of features first in advance, using Claude of course, and then setting Claude to work to implement them all (so it takes the results of already implemented features into account when implementing the next).<p>For organising myself, I let Claude write a lot of Markdown files (so I&#x27;m not completely locked in into Claude Code, in case I do decide to use something else). And of course a proper Claude.md.<p>I also made myself a kind of Vision.md &gt; Features.md &gt; Tasks.md workflow, where I make sure Claude is aware of my bigger vision for a project, and uses that to distill features that should be implemented from that, which then leads to very specific tasks to execute. I can then just tell Claude &quot;execute the next batch of tasks&quot; and review them once they&#x27;re done. My apps are rather visual, so I also made Claude build pages where I can easily review new functionality, so I don&#x27;t have to dive into the code where not needed (I would, I am a computer scientist, but honestly I&#x27;m doing it less and less nowadays...).",
+  "created_at": "2026-11-05T18:45:38Z",
+  "created_at_i": 1793904338,
+  "objectID": "50382792",
+  "parent_id": 50366117,
+  "story_id": 50366117,
+  "story_title": "Ask HN: What's your current AI agentic setup?",
+  "updated_at": "2026-11-06T03:42:55Z"
+}

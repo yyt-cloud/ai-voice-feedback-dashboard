@@ -1,0 +1,43 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "pneumic"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "aqua",
+        "voice"
+      ],
+      "value": "<em>Aqua</em> <em>Voice</em>: <a href=\"https://withaqua.com/\">https://withaqua.com/</a>"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "How Alexa dropped the ball on being the top conversational system"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://www.mihaileric.com/posts/how-alexa-dropped-the-ball-conversational-ai/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_pneumic",
+    "story_40659281"
+  ],
+  "author": "pneumic",
+  "comment_text": "Aqua Voice: <a href=\"https:&#x2F;&#x2F;withaqua.com&#x2F;\">https:&#x2F;&#x2F;withaqua.com&#x2F;</a>",
+  "created_at": "2024-06-12T16:37:10Z",
+  "created_at_i": 1718210230,
+  "objectID": "40660056",
+  "parent_id": 40659946,
+  "story_id": 40659281,
+  "story_title": "How Alexa dropped the ball on being the top conversational system",
+  "story_url": "https://www.mihaileric.com/posts/how-alexa-dropped-the-ball-conversational-ai/",
+  "updated_at": "2024-09-20T17:16:18Z"
+}

@@ -1,0 +1,43 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "aaddrick"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Yeah. I just dropped another repackaging repo for Wispr Flow. <a href=\"https://github.com/wispr-flow-linux/wispr-flow-linux\" rel=\"nofollow\">https://github.com/wispr-flow-linux/wispr-flow-linux</a><p>A lot of that is keyboard shortcuts for push-to-talk. Easy right?<p>X11 is mostly fine, but the world is moving into Wayland. Wayland doesn't have shortcuts native and relies on xdg-desktop-portal, which in turn relies on each backend to implement it's own version.<p>COSMIC from the Pop!OS team's xdg-desktop-cosmic doesn't support GlobalShortcuts yet (might now, haven't checked in a bit). So XWayland for them.<p>Tray icons? GNOME doesn't have a tray out of the box, but there's an extension. There's no standard for whether it's light mode or dark mode across distros and when you map out the options, no api's indicate whether the tray is light or dark while in light/dark mode. At some point you have to just accept it's not always perfect or patch in an override."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Anthropic, please ship an official Claude Desktop for Linux"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://github.com/anthropics/claude-code/issues/65697"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_aaddrick",
+    "story_48434436"
+  ],
+  "author": "aaddrick",
+  "children": [
+    48436425,
+    48438104
+  ],
+  "comment_text": "Yeah. I just dropped another repackaging repo for Wispr Flow. <a href=\"https:&#x2F;&#x2F;github.com&#x2F;wispr-flow-linux&#x2F;wispr-flow-linux\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;wispr-flow-linux&#x2F;wispr-flow-linux</a><p>A lot of that is keyboard shortcuts for push-to-talk. Easy right?<p>X11 is mostly fine, but the world is moving into Wayland. Wayland doesn&#x27;t have shortcuts native and relies on xdg-desktop-portal, which in turn relies on each backend to implement it&#x27;s own version.<p>COSMIC from the Pop!OS team&#x27;s xdg-desktop-cosmic doesn&#x27;t support GlobalShortcuts yet (might now, haven&#x27;t checked in a bit). So XWayland for them.<p>Tray icons? GNOME doesn&#x27;t have a tray out of the box, but there&#x27;s an extension. There&#x27;s no standard for whether it&#x27;s light mode or dark mode across distros and when you map out the options, no api&#x27;s indicate whether the tray is light or dark while in light&#x2F;dark mode. At some point you have to just accept it&#x27;s not always perfect or patch in an override.",
+  "created_at": "2026-06-07T16:07:14Z",
+  "created_at_i": 1780848434,
+  "objectID": "48436160",
+  "parent_id": 48435661,
+  "story_id": 48434436,
+  "story_title": "Anthropic, please ship an official Claude Desktop for Linux",
+  "story_url": "https://github.com/anthropics/claude-code/issues/65697",
+  "updated_at": "2026-07-21T18:59:44Z"
+}

@@ -1,0 +1,50 @@
+{
+  "author": {
+    "uri": {
+      "label": "https://itunes.apple.com/us/reviews/id203925432"
+    },
+    "name": {
+      "label": "Aced2014"
+    },
+    "label": ""
+  },
+  "updated": {
+    "label": "2026-04-19T08:49:41-07:00"
+  },
+  "im:rating": {
+    "label": "4"
+  },
+  "im:version": {
+    "label": "1.0.8"
+  },
+  "id": {
+    "label": "13975175234"
+  },
+  "title": {
+    "label": "10x better but.."
+  },
+  "content": {
+    "label": "Please add autocorrect to the keyboard in the next update. Switching back and forth sucks and takes too much time. This is otherwise a perfect product and 10x the built in iOS functionality.",
+    "attributes": {
+      "type": "text"
+    }
+  },
+  "link": {
+    "attributes": {
+      "rel": "related",
+      "href": "https://itunes.apple.com/us/review?id=6759074969&type=Purple%20Software"
+    }
+  },
+  "im:voteSum": {
+    "label": "0"
+  },
+  "im:contentType": {
+    "attributes": {
+      "term": "Application",
+      "label": "Application"
+    }
+  },
+  "im:voteCount": {
+    "label": "0"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "II2II"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "typeless"
+      ],
+      "value": "There are many reasons why C is not a low level language. Take the example: while `asm()` blocks are a common extension to C compilers, anything within the block is (a) compiler dependent and (b) architecture dependent. To choose an extreme counter example: you may as well claim that versions of BASIC with the POKE keyword are low level languages simply because you can POKE machine code directly into memory.<p>Yet one of the more interesting reasons, in my mind, is that C adds a tonne of abstractions. The roster of data types is one of those abstractions. Processors have a very weak notion of data types, and memory has absolutely no notion of memory types at all. For example: casting a `float` to an `int` has a very specific definition in C, and that definition involves altering the pattern of bits. While you can create a float and force the C compiler to regard that memory location as an int (via casting pointers), it isn't how the language is meant to be used (outside of rare cases).<p>If I recall correctly, some of the direct predecessors of C were <em>typeless</em>, which is closer to how the CPU and RAM treat data."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "C Is Not a Low-Level Language (2018)"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://queue.acm.org/doi/10.1145/3212477.3212479"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_II2II",
+    "story_49599609"
+  ],
+  "author": "II2II",
+  "children": [
+    49602495,
+    49602583,
+    49604314
+  ],
+  "comment_text": "There are many reasons why C is not a low level language. Take the example: while `asm()` blocks are a common extension to C compilers, anything within the block is (a) compiler dependent and (b) architecture dependent. To choose an extreme counter example: you may as well claim that versions of BASIC with the POKE keyword are low level languages simply because you can POKE machine code directly into memory.<p>Yet one of the more interesting reasons, in my mind, is that C adds a tonne of abstractions. The roster of data types is one of those abstractions. Processors have a very weak notion of data types, and memory has absolutely no notion of memory types at all. For example: casting a `float` to an `int` has a very specific definition in C, and that definition involves altering the pattern of bits. While you can create a float and force the C compiler to regard that memory location as an int (via casting pointers), it isn&#x27;t how the language is meant to be used (outside of rare cases).<p>If I recall correctly, some of the direct predecessors of C were typeless, which is closer to how the CPU and RAM treat data.",
+  "created_at": "2026-09-07T19:48:02Z",
+  "created_at_i": 1788810482,
+  "objectID": "49602221",
+  "parent_id": 49601834,
+  "story_id": 49599609,
+  "story_title": "C Is Not a Low-Level Language (2018)",
+  "story_url": "https://queue.acm.org/doi/10.1145/3212477.3212479",
+  "updated_at": "2026-11-13T18:38:11Z"
+}

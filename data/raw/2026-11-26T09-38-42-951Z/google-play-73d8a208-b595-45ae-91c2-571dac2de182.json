@@ -1,0 +1,25 @@
+{
+  "id": "73d8a208-b595-45ae-91c2-571dac2de182",
+  "userName": "Adeeb Choudhury",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX9PirVM2x2qDLEgbXORKPdvivz11Wgq9mHJzH-XQcjf6u_imWS",
+  "date": "2026-09-01T12:00:15.726Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=73d8a208-b595-45ae-91c2-571dac2de182",
+  "title": null,
+  "text": "Amazingly accurate, both in voice recognition & (more importantly) the formatting. And now I really like the translation feature. So far quite accurate.",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.6.0",
+  "thumbsUp": 8,
+  "criterias": [
+    {
+      "criteria": "vaf_never_display_ease_of_use",
+      "rating": null
+    },
+    {
+      "criteria": "vaf_never_display_ads_experience",
+      "rating": null
+    }
+  ]
+}

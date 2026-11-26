@@ -1,0 +1,29 @@
+{
+  "id": "c0ef14b6-34f7-46e8-a3f2-54b585e3b5e6",
+  "userName": "Yogiri Takatou",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKdgmDHhGduJbe8T3S2LNLs7cs4NblsUb73zWsnh2tMq1ICYcY=mo",
+  "date": "2026-08-25T10:18:01.454Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=c0ef14b6-34f7-46e8-a3f2-54b585e3b5e6",
+  "title": null,
+  "text": "Was praising it too early with this kind of censorship. I do not want censorship on my own keyboard. I will not use it anymore and will give a bad rating.",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.4.0",
+  "thumbsUp": 2,
+  "criterias": [
+    {
+      "criteria": "vaf_phase1_messaging",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_phase1_file_sharing",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_phase1_collaboration",
+      "rating": 2
+    }
+  ]
+}
