@@ -1,0 +1,33 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "telenardo"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "I tested Wispr on the same 525 dictation clips a month apart (May and again in June) and there's a clear regression: Word Error Rate rose from 9.0% to 11.2% (lower is better). It got worse in 8 of 9 categories I track.<p>Full results and the raw transcripts attached above.<p>Important context: this only measures a single, American‑accented voice on synthetic prompts. Wispr supports many languages and accents, and I’d assume their updates have boosted overall accuracy. But, they regressed for my use‑case: plain old boring, unaccented American English.<p>How I tested: I have a harness that drives a dictation app by playing an audio file through a virtual input device and captures the app’s pasted output. I ran this on 525 audio files through Wispr Flow a month ago. Yesterday, I ran the same clips through again. The clips are recordings of me whispering AI-generated sentences.<p>Results: There’s a clear regression on word accuracy. Words that were correct ~1 month ago are now incorrect. Phonetically, they’re similar, but just off.<p>May: &quot;Brian, refactor this auth middleware to stop leaking tokens and debug logs.&quot; (near perfect)<p>June: &quot;Ryan refactored his odd metalware to stop leaking tokens in deep bugs and backlogs.&quot; (garbled)<p>So no, you're not imagining it, it has gotten worse. At least if you speak plain, unaccented American English like me!<p>Disclosure: I work on a competitor which is why I had the May eval ready. Take this with a grain of salt and do your own testing!"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "[dead]"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_telenardo",
+    "story_48548001"
+  ],
+  "author": "telenardo",
+  "comment_text": "I tested Wispr on the same 525 dictation clips a month apart (May and again in June) and there&#x27;s a clear regression: Word Error Rate rose from 9.0% to 11.2% (lower is better). It got worse in 8 of 9 categories I track.<p>Full results and the raw transcripts attached above.<p>Important context: this only measures a single, American‑accented voice on synthetic prompts. Wispr supports many languages and accents, and I’d assume their updates have boosted overall accuracy. But, they regressed for my use‑case: plain old boring, unaccented American English.<p>How I tested: I have a harness that drives a dictation app by playing an audio file through a virtual input device and captures the app’s pasted output. I ran this on 525 audio files through Wispr Flow a month ago. Yesterday, I ran the same clips through again. The clips are recordings of me whispering AI-generated sentences.<p>Results: There’s a clear regression on word accuracy. Words that were correct ~1 month ago are now incorrect. Phonetically, they’re similar, but just off.<p>May: &quot;Brian, refactor this auth middleware to stop leaking tokens and debug logs.&quot; (near perfect)<p>June: &quot;Ryan refactored his odd metalware to stop leaking tokens in deep bugs and backlogs.&quot; (garbled)<p>So no, you&#x27;re not imagining it, it has gotten worse. At least if you speak plain, unaccented American English like me!<p>Disclosure: I work on a competitor which is why I had the May eval ready. Take this with a grain of salt and do your own testing!",
+  "created_at": "2026-06-15T22:39:30Z",
+  "created_at_i": 1781563170,
+  "objectID": "48548002",
+  "parent_id": 48548001,
+  "story_id": 48548001,
+  "story_title": "[dead]",
+  "updated_at": "2026-06-15T22:43:32Z"
+}

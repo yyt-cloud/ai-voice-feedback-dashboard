@@ -1,0 +1,29 @@
+{
+  "id": "a906012d-3d17-4d25-8a88-8650bba9f73d",
+  "userName": "Devon Huynh",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUNJ5HLEgw0fXTyIwwQaVsLFIhzoJOumZIpxU2qBQHP9gTZiBk",
+  "date": "2026-11-09T17:50:01.945Z",
+  "score": 4,
+  "scoreText": "4",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=a906012d-3d17-4d25-8a88-8650bba9f73d",
+  "title": null,
+  "text": "this is very good about actually picking up the text the only thing you have to worry about is because this is an AI based text generation it doesn't always spit out word for word what you say but if you're like you stutter you say the same word nice or anything like that you will enjoy this app, it can be better but it's pretty good",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.10.0",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_ads_frequency",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 3
+    }
+  ]
+}

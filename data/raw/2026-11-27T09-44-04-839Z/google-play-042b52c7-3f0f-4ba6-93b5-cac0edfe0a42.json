@@ -1,0 +1,29 @@
+{
+  "id": "042b52c7-3f0f-4ba6-93b5-cac0edfe0a42",
+  "userName": "Ivo Toman",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXzHpIG-Il--DrrkSb-L2okKOjRFd-ZoEbPL0esnYglU8TaGI0m",
+  "date": "2026-08-25T16:23:17.722Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=042b52c7-3f0f-4ba6-93b5-cac0edfe0a42",
+  "title": null,
+  "text": "The voice typing is nice—it's accurate and precise—but the fact that I cannot switch to other keybkards (gboard) for typing sucks. The app recently added a way to swipe to the side to have a keyboard for typing, but the keyboard is just atrocious. It's nowhere near usable for daily usage, such as Gboard, and that makes me simply disable Typeless forever.",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.4.0",
+  "thumbsUp": 15,
+  "criterias": [
+    {
+      "criteria": "vaf_phase1_collaborative_editing",
+      "rating": null
+    },
+    {
+      "criteria": "vaf_phase1_file_sharing",
+      "rating": null
+    },
+    {
+      "criteria": "vaf_phase1_collaboration",
+      "rating": null
+    }
+  ]
+}

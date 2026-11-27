@@ -1,0 +1,46 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "davidoduk"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "wispr",
+        "flow"
+      ],
+      "value": "Working good so far. It's slower than <em>wispr</em> <em>flow</em>"
+    },
+    "story_title": {
+      "fullyHighlighted": false,
+      "matchLevel": "partial",
+      "matchedWords": [
+        "flow"
+      ],
+      "value": "Show HN: Open-Source Local Whisper <em>Flow</em> Alternative"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://www.cloudless.so/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_davidoduk",
+    "story_49491918"
+  ],
+  "author": "davidoduk",
+  "comment_text": "Working good so far. It&#x27;s slower than wispr flow",
+  "created_at": "2026-09-02T11:38:10Z",
+  "created_at_i": 1788349090,
+  "objectID": "49534797",
+  "parent_id": 49495486,
+  "story_id": 49491918,
+  "story_title": "Show HN: Open-Source Local Whisper Flow Alternative",
+  "story_url": "https://www.cloudless.so/",
+  "updated_at": "2026-09-02T11:39:13Z"
+}

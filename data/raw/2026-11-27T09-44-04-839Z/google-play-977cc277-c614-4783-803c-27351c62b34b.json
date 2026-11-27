@@ -1,0 +1,29 @@
+{
+  "id": "977cc277-c614-4783-803c-27351c62b34b",
+  "userName": "小野雅明",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIal0H3jn17sNDGI1LdYNULiEt49YJNywoXsP8Rrs-24nCSEw=mo",
+  "date": "2026-11-18T10:58:43.460Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=977cc277-c614-4783-803c-27351c62b34b",
+  "title": null,
+  "text": "Simejiアプリ消しても着せ替え着いてきて横画面にしたら英語になるんですけど",
+  "replyDate": null,
+  "replyText": null,
+  "version": "23.7",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_visual_appeal",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_ads_presence",
+      "rating": 2
+    }
+  ]
+}

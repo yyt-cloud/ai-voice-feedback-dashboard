@@ -1,0 +1,43 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "apparent"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "wispr",
+        "flow"
+      ],
+      "value": "Interested to give this a try. I've tried <em>Wispr</em> <em>Flow</em> and found it to be quite good, but a bit pricey for my taste. I guess I assumed there were equally good models that were cheaper, and I suppose this is one of them.<p>I'll be curious to see how the existence / popularity of tools like this end up affecting the pricing of paid tools like <em>Wispr</em> <em>Flow</em>."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Show HN: BetterWispr – Free, open-source dictation for Mac"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://betterwispr.com/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_apparent",
+    "story_50042333"
+  ],
+  "author": "apparent",
+  "comment_text": "Interested to give this a try. I&#x27;ve tried Wispr Flow and found it to be quite good, but a bit pricey for my taste. I guess I assumed there were equally good models that were cheaper, and I suppose this is one of them.<p>I&#x27;ll be curious to see how the existence &#x2F; popularity of tools like this end up affecting the pricing of paid tools like Wispr Flow.",
+  "created_at": "2026-10-12T05:32:06Z",
+  "created_at_i": 1791783126,
+  "objectID": "50051742",
+  "parent_id": 50042333,
+  "story_id": 50042333,
+  "story_title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
+  "story_url": "https://betterwispr.com/",
+  "updated_at": "2026-10-12T05:37:20Z"
+}

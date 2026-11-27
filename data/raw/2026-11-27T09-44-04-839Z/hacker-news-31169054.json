@@ -1,0 +1,42 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "pm90"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "simeji"
+      ],
+      "value": "It took me a while to grok jq, but now that I do I kinda like it? I don't think I want to learn yet another thing.<p>I do like tools that complement/supplement jq though, like jid: <a href=\"https://github.com/simeji/jid\" rel=\"nofollow\">https://github.com/<em>simeji</em>/jid</a>"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Zq: An easier and faster alternative to jq"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://www.brimdata.io/blog/introducing-zq/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_pm90",
+    "story_31166956"
+  ],
+  "author": "pm90",
+  "comment_text": "It took me a while to grok jq, but now that I do I kinda like it? I don&#x27;t think I want to learn yet another thing.<p>I do like tools that complement&#x2F;supplement jq though, like jid: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;simeji&#x2F;jid\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;simeji&#x2F;jid</a>",
+  "created_at": "2022-04-26T15:55:20Z",
+  "created_at_i": 1650988520,
+  "objectID": "31169054",
+  "parent_id": 31166956,
+  "story_id": 31166956,
+  "story_title": "Zq: An easier and faster alternative to jq",
+  "story_url": "https://www.brimdata.io/blog/introducing-zq/",
+  "updated_at": "2024-09-20T11:00:59Z"
+}

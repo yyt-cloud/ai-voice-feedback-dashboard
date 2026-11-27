@@ -1,0 +1,29 @@
+{
+  "id": "98f6084d-8698-408a-a6f9-67e46f185fd0",
+  "userName": "heather 2010",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUX5t8YeywYzUJGi0ojhDenzkUqnjbrY6LVN3vHmDyqS7kdOQs_JQ",
+  "date": "2026-11-26T04:00:28.511Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.wispr.flowapp&reviewId=98f6084d-8698-408a-a6f9-67e46f185fd0",
+  "title": null,
+  "text": "very disappointed in the typeing limit not worth it to keep such a really bad rated app so I deleted this app before I became reliant on it. This is the difference between a human person typing and a AI!",
+  "replyDate": null,
+  "replyText": null,
+  "version": null,
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_ads_intrusiveness",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_phase1_messaging",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 3
+    }
+  ]
+}

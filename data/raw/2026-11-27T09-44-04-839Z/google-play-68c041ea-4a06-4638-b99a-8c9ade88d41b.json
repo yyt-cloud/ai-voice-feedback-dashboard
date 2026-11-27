@@ -1,0 +1,29 @@
+{
+  "id": "68c041ea-4a06-4638-b99a-8c9ade88d41b",
+  "userName": "藤尾有",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJDoEHZ8FAxPT8M722oVRYYuCVwhrkPZ0vIAb_3_Iqj_TTtig=mo",
+  "date": "2026-10-26T08:26:02.145Z",
+  "score": 3,
+  "scoreText": "3",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=68c041ea-4a06-4638-b99a-8c9ade88d41b",
+  "title": null,
+  "text": "ブロックをちょうだい",
+  "replyDate": "2026-11-02T04:13:29.412Z",
+  "replyText": "レビューいただきありがとうございます。\n\nご不便をおかけし、申し訳ございません。\nいただいたご意見を真摯に受け止め、今後もより良いサービスをご提供できるよう改善に努めてまいります。\n\n今後ともSimejiをよろしくお願いいたします。",
+  "version": "23.6.1",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_ads_frequency",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_ads_intrusiveness",
+      "rating": 1
+    }
+  ]
+}

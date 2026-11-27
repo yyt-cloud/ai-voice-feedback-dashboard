@@ -1,0 +1,46 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "HSO"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "wispr",
+        "flow"
+      ],
+      "value": "personally i like editing much more than writing (the scare of the white page or how it was called…)<p>and i detest ai slop<p>so my solution is to speak combined with an ai cleanup like macwhisper or <em>wispr</em> <em>flow</em> of all the uhs and ahs and repetitions or rephrasings etc<p>you can even use ai to pretend a conversation or interview style<p>then i have stuff to edit<p>boom"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Don't paste the AI, please"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://dontpastetheai.com/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_HSO",
+    "story_49371857"
+  ],
+  "author": "HSO",
+  "children": [
+    49385354
+  ],
+  "comment_text": "personally i like editing much more than writing (the scare of the white page or how it was called…)<p>and i detest ai slop<p>so my solution is to speak combined with an ai cleanup like macwhisper or wispr flow of all the uhs and ahs and repetitions or rephrasings etc<p>you can even use ai to pretend a conversation or interview style<p>then i have stuff to edit<p>boom",
+  "created_at": "2026-08-20T09:56:54Z",
+  "created_at_i": 1787219814,
+  "objectID": "49372497",
+  "parent_id": 49371857,
+  "story_id": 49371857,
+  "story_title": "Don't paste the AI, please",
+  "story_url": "https://dontpastetheai.com/",
+  "updated_at": "2026-08-21T08:30:31Z"
+}

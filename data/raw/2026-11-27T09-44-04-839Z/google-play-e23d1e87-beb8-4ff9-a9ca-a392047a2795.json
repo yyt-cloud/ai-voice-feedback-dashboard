@@ -1,0 +1,29 @@
+{
+  "id": "e23d1e87-beb8-4ff9-a9ca-a392047a2795",
+  "userName": "暇人",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUWSsoKNTy-tkoIoaFzy9iUrEIaPdJ49iJeNVBtA7xMZ2psdAgY",
+  "date": "2026-09-19T10:17:57.169Z",
+  "score": 2,
+  "scoreText": "2",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=e23d1e87-beb8-4ff9-a9ca-a392047a2795",
+  "title": null,
+  "text": "コンパネの表示が邪魔なものが多く使いにくい 特にAI音声入力の表示が邪魔で消すこともできないので使うのやめました",
+  "replyDate": "2026-10-01T06:47:56.190Z",
+  "replyText": "レビューいただきありがとうございます。\n\nご不便をおかけし、申し訳ございません。\nいただいたご意見を真摯に受け止め、今後もより良いサービスをご提供できるよう改善に努めてまいります。\n\n今後ともSimejiをよろしくお願いいたします。",
+  "version": "23.5.2",
+  "thumbsUp": 1,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_ads_frequency",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_visual_appeal",
+      "rating": 3
+    }
+  ]
+}

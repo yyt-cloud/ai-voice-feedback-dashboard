@@ -1,0 +1,29 @@
+{
+  "id": "171695b3-7179-40a2-91aa-99947894eabd",
+  "userName": "David",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVU3xTVgX-unOsh2FFJgL8OJ0VoKd4xVe7qhFqdyuHIHySUbz_4XA",
+  "date": "2026-11-13T09:17:54.550Z",
+  "score": 4,
+  "scoreText": "4",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=171695b3-7179-40a2-91aa-99947894eabd",
+  "title": null,
+  "text": "The voice prediction is pretty good. I see errors every time I do a message. I don't know if it's because I'm still on the free plan like it says or not. But I hate to shell out all this money and still have the same amount of mistakes.",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.11.0",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_ads_presence",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 1
+    }
+  ]
+}

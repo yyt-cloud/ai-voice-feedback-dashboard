@@ -1,0 +1,29 @@
+{
+  "id": "e1b53b1f-c014-4b4f-b032-7aa481d87e86",
+  "userName": "ラル",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJDkCD06qHxcWfmJre23XwN4r-5DsJCmieuCzfKmciz8dK2DA=mo",
+  "date": "2026-09-03T13:17:00.509Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=e1b53b1f-c014-4b4f-b032-7aa481d87e86",
+  "title": null,
+  "text": "有名な人物の名前程度も出せなけりゃ 有名な歴史のことすら変換に出せないのが改善されることが一度もないから二度と使わん",
+  "replyDate": "2026-09-07T10:17:57.863Z",
+  "replyText": "レビューいただきありがとうございます。\n\nご不便をおかけし、申し訳ございません。\nいただいたご意見を真摯に受け止め、今後もより良いサービスをご提供できるよう改善に努めてまいります。\n\n今後ともSimejiをよろしくお願いいたします。",
+  "version": "18.8",
+  "thumbsUp": 2,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 2
+    }
+  ]
+}

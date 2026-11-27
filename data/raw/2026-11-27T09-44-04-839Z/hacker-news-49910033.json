@@ -1,0 +1,43 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "jtrn"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "wispr",
+        "flow"
+      ],
+      "value": "Yeah, peak shaving is a real thing, and it's actually a no-brainer, I think. I just got a bit annoyed and carried away because the article did not make clear how large a challenge it is to actually disconnect from the grid and stop relying on power plants.<p>The reason is that I have been dabbling with off-grid gear for fun. Nothing major, just a solar power station and a couple of solar panels. And here in Norway, you really get respect for how hard it is to get energy during the winter when there's no wind and no sun. Even if I had 100 kWh of battery storage and 20 kW of rated solar panel capacity, I would be dead in the water, at least for the entirety of December and January. The only viable solution for going full off-grid in Norway is a backup generator. You could get by with wind, maybe if you live in a predictable windy area and you have a large battery bank.<p>Since it's so cold and darker during the winter, I have always dreamed of someone making a really good Stirling engine for generating electricity. But there are way too few people living as far north as us, so there's really no demand. You don't have to go further south than Germany, and solar is fully viable on its own, even during the winter. And the entirety of the United States, with the exception of Alaska, is completely self-sustainable per household with just solar. But off-gridding one's own home is suffering the March of Nines problem, whereby it's exponentially more expensive to be grid-independent 99.99% of the time, and so forth.<p>I'm rambling now. Suffice it to say that I stand by the fact that the article is misleading, though the goal of off-gridding and getting as much solar and in-house storage as possible is something I wholeheartedly agree with. I don't like it when people don't communicate how large a challenge it is.<p><em>Wispr</em> <em>Flow</em> is a dangerous tool It seems..... it makes it way too easy to write a lot of text."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Vermont replacing power plants with home batteries"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_jtrn",
+    "story_49897993"
+  ],
+  "author": "jtrn",
+  "comment_text": "Yeah, peak shaving is a real thing, and it&#x27;s actually a no-brainer, I think. I just got a bit annoyed and carried away because the article did not make clear how large a challenge it is to actually disconnect from the grid and stop relying on power plants.<p>The reason is that I have been dabbling with off-grid gear for fun. Nothing major, just a solar power station and a couple of solar panels. And here in Norway, you really get respect for how hard it is to get energy during the winter when there&#x27;s no wind and no sun. Even if I had 100 kWh of battery storage and 20 kW of rated solar panel capacity, I would be dead in the water, at least for the entirety of December and January. The only viable solution for going full off-grid in Norway is a backup generator. You could get by with wind, maybe if you live in a predictable windy area and you have a large battery bank.<p>Since it&#x27;s so cold and darker during the winter, I have always dreamed of someone making a really good Stirling engine for generating electricity. But there are way too few people living as far north as us, so there&#x27;s really no demand. You don&#x27;t have to go further south than Germany, and solar is fully viable on its own, even during the winter. And the entirety of the United States, with the exception of Alaska, is completely self-sustainable per household with just solar. But off-gridding one&#x27;s own home is suffering the March of Nines problem, whereby it&#x27;s exponentially more expensive to be grid-independent 99.99% of the time, and so forth.<p>I&#x27;m rambling now. Suffice it to say that I stand by the fact that the article is misleading, though the goal of off-gridding and getting as much solar and in-house storage as possible is something I wholeheartedly agree with. I don&#x27;t like it when people don&#x27;t communicate how large a challenge it is.<p>Wispr Flow is a dangerous tool It seems..... it makes it way too easy to write a lot of text.",
+  "created_at": "2026-09-30T15:10:51Z",
+  "created_at_i": 1790781051,
+  "objectID": "49910033",
+  "parent_id": 49906314,
+  "story_id": 49897993,
+  "story_title": "Vermont replacing power plants with home batteries",
+  "story_url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+  "updated_at": "2026-09-30T19:39:13Z"
+}

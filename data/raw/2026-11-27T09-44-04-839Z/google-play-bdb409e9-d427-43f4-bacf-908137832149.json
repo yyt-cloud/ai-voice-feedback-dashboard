@@ -1,0 +1,29 @@
+{
+  "id": "bdb409e9-d427-43f4-bacf-908137832149",
+  "userName": "パラダイスA",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU5qYFUuzJzsCSPSXNOyR5PrqnJ9Zds5wGV0JElv12mUXgISy8D",
+  "date": "2026-10-01T12:47:31.773Z",
+  "score": 2,
+  "scoreText": "2",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=bdb409e9-d427-43f4-bacf-908137832149",
+  "title": null,
+  "text": "顔文字のキーご不要。とても邪魔くさい。顔文字レスのきキーボードが選べれはいいのに",
+  "replyDate": "2026-11-02T04:24:57.251Z",
+  "replyText": "レビューいただきありがとうございます。\n\nご不便をおかけし、申し訳ございません。\nいただいたご意見を真摯に受け止め、今後もより良いサービスをご提供できるよう改善に努めてまいります。\n\n今後ともSimejiをよろしくお願いいたします。",
+  "version": "23.6.1",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_ads_presence",
+      "rating": 3
+    }
+  ]
+}

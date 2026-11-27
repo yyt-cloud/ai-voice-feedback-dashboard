@@ -1,0 +1,29 @@
+{
+  "id": "89dca6ef-9976-4aa7-a885-7415aa51943b",
+  "userName": "Adnin Sakibul",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocI-6eiWfuUJqUVZGXUvhNZRFeQKzFpGf1wcSvfqpQ7yfEbpxw=mo",
+  "date": "2026-11-02T10:35:20.420Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.creativeapp.voiceinput&reviewId=89dca6ef-9976-4aa7-a885-7415aa51943b",
+  "title": null,
+  "text": "Very nice app",
+  "replyDate": null,
+  "replyText": null,
+  "version": "1.7.1",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_ads_presence",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_phase1_collaboration",
+      "rating": null
+    }
+  ]
+}

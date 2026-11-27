@@ -1,0 +1,29 @@
+{
+  "id": "cb050ac9-0388-4f9c-b55e-d1da4729b9b7",
+  "userName": "睦月唄",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXHfKVvjwhuuj3-vNdDCD69-bMMjHBnYffQ7m0ZPE4cl265C7cq",
+  "date": "2026-08-31T09:11:17.688Z",
+  "score": 4,
+  "scoreText": "4",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=cb050ac9-0388-4f9c-b55e-d1da4729b9b7",
+  "title": null,
+  "text": "可愛いし使いやすいけど、 要望が1つあるとすれば、キー音をもう少し小さく作って欲しいです。 私はキー音が好きなんですけど、スマホの音量を一番小さくしても、結構な音量で普段使えないです。 せめて、キー音の音量を設定できるとかにしてほしいです。 そしたら星5なんです。",
+  "replyDate": "2026-09-02T06:29:10.968Z",
+  "replyText": "レビューをお寄せいただき、ありがとうございます。\n\n可愛さや使いやすさを気に入っていただけているとのこと、大変嬉しく思います。\n\n一方で、キー音の音量が大きく、端末の音量を最小にしても普段使いしづらいとのことで、ご不便をおかけし申し訳ございません。\n\nAndroid版では現在、キータッチ音のみを個別に音量調整する機能には対応しておりません。いただいた「キー音自体をもう少し小さくしてほしい」「Simeji内で音量を調整できるようにしてほしい」とのご要望は、担当部署へ共有し、今後の機能改善の参考とさせていただきます。\n\n今後ともSimejiをよろしくお願いいたします。",
+  "version": "23.5.1",
+  "thumbsUp": 13,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_ads_intrusiveness",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_ads_presence",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 3
+    }
+  ]
+}

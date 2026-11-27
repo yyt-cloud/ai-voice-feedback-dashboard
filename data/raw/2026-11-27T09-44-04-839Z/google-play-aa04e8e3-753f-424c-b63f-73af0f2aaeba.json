@@ -1,0 +1,29 @@
+{
+  "id": "aa04e8e3-753f-424c-b63f-73af0f2aaeba",
+  "userName": "z m",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLjEVExlqmAXgAGYBTYAOCap_AOZC7GLT7AjITOIpnhtNOGjA=mo",
+  "date": "2026-10-20T04:33:59.790Z",
+  "score": 3,
+  "scoreText": "3",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=aa04e8e3-753f-424c-b63f-73af0f2aaeba",
+  "title": null,
+  "text": "キーボード打ちで英語入力する際、下フリックで大文字が打てるようにしてほしい／「わ」を下フリックで「〜」、「、」を下フリックで「…」が出たりすると死ぬほど便利なのでお願いします／誤って変換確定後に確定前に戻せるボタンが欲しい／キーボード打ちのスペースキーの横に普通にカーソル左右移動だけのキーが欲しい／絵文字一覧の文字サイズをもう少し小さくしたい／例えば「🍫」の絵文字を出したい時に「ちょこ」で変換しても「🍫❤︎」「🍫💓」「🍫😝💕」とか余分なのがくっついた候補しか出てこないのがウザい！！",
+  "replyDate": "2024-12-09T08:34:40.735Z",
+  "replyText": "レビューいただきありがとうございます。\nSimejiでは皆様からのご意見をいただき、より便利なツールを目指していきたいと考えております。\nこの度頂戴したご意見は開発にお伝えし、今後の改善案として検討させていただきます。\n何卒よろしくお願いいたします。",
+  "version": "23.6.1",
+  "thumbsUp": 34,
+  "criterias": [
+    {
+      "criteria": "vaf_emojis",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_never_display_deceptive_ads",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_dictionary",
+      "rating": 1
+    }
+  ]
+}

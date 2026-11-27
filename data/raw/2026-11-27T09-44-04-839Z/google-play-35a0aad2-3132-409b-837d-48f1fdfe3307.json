@@ -1,0 +1,29 @@
+{
+  "id": "35a0aad2-3132-409b-837d-48f1fdfe3307",
+  "userName": "Ziyad Abdullah",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW3dva1_aAMaovEuxUYoFCvMDmBxLii-W-0uctd76asOjxr9obV",
+  "date": "2026-07-17T07:26:07.709Z",
+  "score": 4,
+  "scoreText": "4",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=35a0aad2-3132-409b-837d-48f1fdfe3307",
+  "title": null,
+  "text": "The Typeless keyboard is very good and great. The only thing that is kind of bad is that it has no emojis. It has symbols, a keyboard, and voice typing, but no emojis. Come on, Typeless, please fix it.",
+  "replyDate": null,
+  "replyText": null,
+  "version": null,
+  "thumbsUp": 1,
+  "criterias": [
+    {
+      "criteria": "vaf_phase1_file_sharing",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 1
+    }
+  ]
+}

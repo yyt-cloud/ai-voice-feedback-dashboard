@@ -1,0 +1,16 @@
+{
+  "id": "0ab8efc5-7e5f-4adb-a06a-42909e064fc2",
+  "userName": "J Fricke",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV3dz4HamfyiuQynn6Yu2uqYE7oxiPNbgUHz0cq5ZQcNWbEBoVU",
+  "date": "2026-10-19T18:53:30.936Z",
+  "score": 3,
+  "scoreText": "3",
+  "url": "https://play.google.com/store/apps/details?id=com.aquavoice.android&reviewId=0ab8efc5-7e5f-4adb-a06a-42909e064fc2",
+  "title": null,
+  "text": "Works great, but whenever you're in a messaging app like Telegram, it puts the word \"message\" in front of every message.",
+  "replyDate": "2026-10-22T21:00:15.254Z",
+  "replyText": "Hey J, thanks for the report. We found the issue and it is now fixed in the latest version for Android 16. Be on the lookout for the update, and thanks for helping us find this issue.",
+  "version": "0.1.17",
+  "thumbsUp": 0,
+  "criterias": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ac0ce1b5-7795-4d87-b1df-c95d2504850b",
+  "userName": "Amarildo prifti",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJmhjTeKlko_XzJSX1B9i1-1T9j97xZN2x-tYEowQ0rI34awg=mo",
+  "date": "2026-06-30T12:35:32.620Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=ac0ce1b5-7795-4d87-b1df-c95d2504850b",
+  "title": null,
+  "text": "This is a hidden gem. Incredible sensitivity to language spoken, despite there being multiple background languages. Works as an ai assistant too, regulates and articulates when necessary.",
+  "replyDate": null,
+  "replyText": null,
+  "version": "1.2.1",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_phase1_collaborative_editing",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_ads_presence",
+      "rating": 2
+    }
+  ]
+}

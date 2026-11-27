@@ -1,0 +1,29 @@
+{
+  "id": "0a79d718-4389-4e30-af75-d961fd351f62",
+  "userName": "ああ",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIiJD198RdJ374X2dPvwjUrHHxuBHd02y1fgQPKUu60ywb1Sg=mo",
+  "date": "2026-11-17T12:23:12.902Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=0a79d718-4389-4e30-af75-d961fd351f62",
+  "title": null,
+  "text": "縦になると英語になってしまうのでそこを直して欲しいです",
+  "replyDate": null,
+  "replyText": null,
+  "version": null,
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_app_quality_visual_appeal",
+      "rating": null
+    },
+    {
+      "criteria": "vaf_app_quality_ads_frequency",
+      "rating": 1
+    }
+  ]
+}

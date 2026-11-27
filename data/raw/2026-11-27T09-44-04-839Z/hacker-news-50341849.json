@@ -1,0 +1,45 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "aarushyadav"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "wispr",
+        "flow"
+      ],
+      "value": "Yep, we have been quite set on nose pads to keep them comfortable. I will keep you updated with the designs!<p>The decoding is done via a companion app on your laptop or phone in the cloud, but end to end latency is still quite fast, under 500ms usually.<p>To begin with we don't plan to have a wake word, but rather a trigger key on your connected device that you're entering text into (pressing Alt for example), similar to <em>Wispr</em> <em>Flow</em>. We're doing some R&amp;D into the silent speech equivalent of voice activity detection, so we have a low power basic RF detection always-on, not enough to decode speech from but enough to detect rough movement, and when it detects speech-like activity beginning to start we can trigger full sensing within tens of ms. This would likely ship as a software update a few months after shipping, though.<p>The voice change demo is something I've thought about actually, but we never got around to doing. Might film it soon :)"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Show HN: Subvocal – Talk to your computer without making noise"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_aarushyadav",
+    "story_50340088"
+  ],
+  "author": "aarushyadav",
+  "children": [
+    50346964,
+    50341917,
+    50343192,
+    50344491,
+    50347823,
+    50349488
+  ],
+  "comment_text": "Yep, we have been quite set on nose pads to keep them comfortable. I will keep you updated with the designs!<p>The decoding is done via a companion app on your laptop or phone in the cloud, but end to end latency is still quite fast, under 500ms usually.<p>To begin with we don&#x27;t plan to have a wake word, but rather a trigger key on your connected device that you&#x27;re entering text into (pressing Alt for example), similar to Wispr Flow. We&#x27;re doing some R&amp;D into the silent speech equivalent of voice activity detection, so we have a low power basic RF detection always-on, not enough to decode speech from but enough to detect rough movement, and when it detects speech-like activity beginning to start we can trigger full sensing within tens of ms. This would likely ship as a software update a few months after shipping, though.<p>The voice change demo is something I&#x27;ve thought about actually, but we never got around to doing. Might film it soon :)",
+  "created_at": "2026-11-02T19:01:47Z",
+  "created_at_i": 1793646107,
+  "objectID": "50341849",
+  "parent_id": 50341512,
+  "story_id": 50340088,
+  "story_title": "Show HN: Subvocal – Talk to your computer without making noise",
+  "updated_at": "2026-11-11T12:12:13Z"
+}

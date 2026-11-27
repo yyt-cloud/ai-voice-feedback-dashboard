@@ -1,0 +1,29 @@
+{
+  "id": "14690838-fc2b-4bd6-99bd-55c59ab63aa0",
+  "userName": "Sam",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIbhNgBjIaDDkuvBx7-EAwIZ1kQwnrbBYVz_gsPpS8pZOQheRa7=mo",
+  "date": "2026-11-23T16:58:35.289Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.wispr.flowapp&reviewId=14690838-fc2b-4bd6-99bd-55c59ab63aa0",
+  "title": null,
+  "text": "very painful experience I wouldn't recommend this to anyone!!!!!! in fact I would go as far as to say avoid this app like covid 💀",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.8.8",
+  "thumbsUp": 1,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_ads_intrusiveness",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 2
+    }
+  ]
+}

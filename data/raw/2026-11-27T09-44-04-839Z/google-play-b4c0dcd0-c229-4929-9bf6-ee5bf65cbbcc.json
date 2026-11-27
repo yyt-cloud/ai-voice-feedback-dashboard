@@ -1,0 +1,29 @@
+{
+  "id": "b4c0dcd0-c229-4929-9bf6-ee5bf65cbbcc",
+  "userName": "Erik Romero",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXOEsRE8Nl6RDSgaDIMIMZ-Yl-m6_yV11PYLqBOdd60tQWgSNEN",
+  "date": "2026-07-10T04:38:50.806Z",
+  "score": 2,
+  "scoreText": "2",
+  "url": "https://play.google.com/store/apps/details?id=com.creativeapp.voiceinput&reviewId=b4c0dcd0-c229-4929-9bf6-ee5bf65cbbcc",
+  "title": null,
+  "text": "I couldn't set it up i tryed everything bad app don't use",
+  "replyDate": "2026-07-10T09:26:31.838Z",
+  "replyText": "We're sorry to hear you had trouble setting up the app. We'd really like to help fix this — could you email us at official@voiskey.ai with a few more details? For example: which step you got stuck on, and any error message you saw. This will help us look into it quickly.",
+  "version": null,
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_phase1_collaborative_editing",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_usability",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 3
+    }
+  ]
+}

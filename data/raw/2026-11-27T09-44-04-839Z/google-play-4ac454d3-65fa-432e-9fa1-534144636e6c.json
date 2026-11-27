@@ -1,0 +1,29 @@
+{
+  "id": "4ac454d3-65fa-432e-9fa1-534144636e6c",
+  "userName": "Madhuksara",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKyxG2w6LCF6IVoZIT7I8arFKOtpoaiYrg2yiLbeHF0jRgJcA=mo",
+  "date": "2026-11-23T15:12:39.670Z",
+  "score": 2,
+  "scoreText": "2",
+  "url": "https://play.google.com/store/apps/details?id=com.wispr.flowapp&reviewId=4ac454d3-65fa-432e-9fa1-534144636e6c",
+  "title": null,
+  "text": "this app does not support Android phones",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.8.8",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_phase1_file_sharing",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_app_quality_ads_frequency",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 3
+    }
+  ]
+}

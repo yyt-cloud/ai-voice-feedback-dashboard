@@ -1,0 +1,39 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "aaddrick"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Hey All,<p>Wanted to try Wispr Flow but they don't have a linux distro yet. I already run aaddrick/claude-desktop-debian (not just debian...), so I ran the same playbook here to create an auto-updating release pipeline.<p>I've only tested on Nobara (Fedora) KDE. Mind testing on your various setups?<p>If you run into issues on other backends/compositors/etc, feel free to file an issue, PR, or just drop a note here."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Wispr-Flow-Linux – Wispr Flow via Apt, DNF, AUR, AppImage, or Nix Flake"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://github.com/wispr-flow-linux/wispr-flow-linux"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_aaddrick",
+    "story_48436737"
+  ],
+  "author": "aaddrick",
+  "comment_text": "Hey All,<p>Wanted to try Wispr Flow but they don&#x27;t have a linux distro yet. I already run aaddrick&#x2F;claude-desktop-debian (not just debian...), so I ran the same playbook here to create an auto-updating release pipeline.<p>I&#x27;ve only tested on Nobara (Fedora) KDE. Mind testing on your various setups?<p>If you run into issues on other backends&#x2F;compositors&#x2F;etc, feel free to file an issue, PR, or just drop a note here.",
+  "created_at": "2026-06-07T17:09:16Z",
+  "created_at_i": 1780852156,
+  "objectID": "48436738",
+  "parent_id": 48436737,
+  "story_id": 48436737,
+  "story_title": "Wispr-Flow-Linux – Wispr Flow via Apt, DNF, AUR, AppImage, or Nix Flake",
+  "story_url": "https://github.com/wispr-flow-linux/wispr-flow-linux",
+  "updated_at": "2026-06-07T17:13:58Z"
+}

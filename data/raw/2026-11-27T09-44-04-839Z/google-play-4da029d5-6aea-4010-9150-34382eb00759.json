@@ -1,0 +1,29 @@
+{
+  "id": "4da029d5-6aea-4010-9150-34382eb00759",
+  "userName": "Ye Olde Silver",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWe0YP_L-oxuedsOFDSKNszBlp_OHZ6cw8ee9I___QQ7qGXcHLqHA",
+  "date": "2026-08-14T16:15:18.714Z",
+  "score": 2,
+  "scoreText": "2",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=4da029d5-6aea-4010-9150-34382eb00759",
+  "title": null,
+  "text": "Good until it's not. I think the app is overpriced. It's not something I would personally pay that much for. Anyone can expect this app to work flawlessly, or as close to flawlessly as possible, for the first few days, and then all of a sudden it will make silly mistakes on purpose just to get you to pay for the full version, which I would have done, but not at that price, and not when they encourage people to buy it with that kind of tactic.",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.3.0",
+  "thumbsUp": 1,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_usability",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_ads_presence",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_visual_appeal",
+      "rating": 3
+    }
+  ]
+}

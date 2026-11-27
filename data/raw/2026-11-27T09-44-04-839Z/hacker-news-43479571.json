@@ -1,0 +1,42 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "clan"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "simeji"
+      ],
+      "value": "If you rephrase that to tools which deals with what the endpoints emits there is a boatload. Most emits JSON but XML can be found as well.<p>Personally I use jaq. Gojq is nice as well. Both. Inspired by the original ja. You can find many lists[1].<p>I would especially point out jid[2] which often comes in handy to explore apis.<p>Or if we stay at the http calling level and the command line: wget or fetch.<p>If you include scripting languages then most http libraries will do. With Python a simple approach would be &quot;python -m json.tool&quot;.<p>[1] <a href=\"https://ilya-sher.org/2018/04/10/list-of-json-tools-for-command-line/\" rel=\"nofollow\">https://ilya-sher.org/2018/04/10/list-of-json-tools-for-comm...</a><p>[2] <a href=\"https://github.com/simeji/jid\" rel=\"nofollow\">https://github.com/<em>simeji</em>/jid</a>"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Rest Easy"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://www.commentary.org/articles/joseph-epstein/rest-work-purpose/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_clan",
+    "story_43450745"
+  ],
+  "author": "clan",
+  "comment_text": "If you rephrase that to tools which deals with what the endpoints emits there is a boatload. Most emits JSON but XML can be found as well.<p>Personally I use jaq. Gojq is nice as well. Both. Inspired by the original ja. You can find many lists[1].<p>I would especially point out jid[2] which often comes in handy to explore apis.<p>Or if we stay at the http calling level and the command line: wget or fetch.<p>If you include scripting languages then most http libraries will do. With Python a simple approach would be &quot;python -m json.tool&quot;.<p>[1] <a href=\"https:&#x2F;&#x2F;ilya-sher.org&#x2F;2018&#x2F;04&#x2F;10&#x2F;list-of-json-tools-for-command-line&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;ilya-sher.org&#x2F;2018&#x2F;04&#x2F;10&#x2F;list-of-json-tools-for-comm...</a><p>[2] <a href=\"https:&#x2F;&#x2F;github.com&#x2F;simeji&#x2F;jid\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;simeji&#x2F;jid</a>",
+  "created_at": "2025-03-26T07:06:07Z",
+  "created_at_i": 1742972767,
+  "objectID": "43479571",
+  "parent_id": 43479461,
+  "story_id": 43450745,
+  "story_title": "Rest Easy",
+  "story_url": "https://www.commentary.org/articles/joseph-epstein/rest-work-purpose/",
+  "updated_at": "2025-03-26T16:40:54Z"
+}
