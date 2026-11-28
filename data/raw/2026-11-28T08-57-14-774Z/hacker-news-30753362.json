@@ -1,0 +1,39 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "luckman212"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "simeji"
+      ],
+      "value": "In addition to jq (already mentioned) here are some other useful CLI tools for dealing with JSON data. Descriptions are directly from GitHub. Note: dsq also has a companion GUI app called DataStation[0] if you're looking for that.<p>fx: Command-line JSON processing tool - <a href=\"https://github.com/antonmedv/fx\" rel=\"nofollow\">https://github.com/antonmedv/fx</a><p>dasel: JSON, YAML, TOML, XML, and CSV query and modification tool - <a href=\"https://github.com/TomWright/dasel\" rel=\"nofollow\">https://github.com/TomWright/dasel</a><p>dsq: CLI tool for running SQL queries against JSON, CSV, Excel, Parquet, and more - <a href=\"https://github.com/multiprocessio/dsq\" rel=\"nofollow\">https://github.com/multiprocessio/dsq</a><p>gron: Make JSON greppable - <a href=\"https://github.com/tomnomnom/gron\" rel=\"nofollow\">https://github.com/tomnomnom/gron</a><p>jello: Filter JSON and JSON Lines data with Python syntax - <a href=\"https://github.com/kellyjonbrazil/jello\" rel=\"nofollow\">https://github.com/kellyjonbrazil/jello</a><p>jless: Command-line pager for JSON data - <a href=\"https://github.com/PaulJuliusMartinez/jless\" rel=\"nofollow\">https://github.com/PaulJuliusMartinez/jless</a><p>jid: Json incremental digger - <a href=\"https://github.com/simeji/jid\" rel=\"nofollow\">https://github.com/<em>simeji</em>/jid</a><p>jql: JSON query language CLI tool - <a href=\"https://github.com/yamafaktory/jql\" rel=\"nofollow\">https://github.com/yamafaktory/jql</a><p>qp: Command-line (ND)JSON querying - <a href=\"https://github.com/paybase/qp\" rel=\"nofollow\">https://github.com/paybase/qp</a><p>[0]: <a href=\"https://github.com/multiprocessio/datastation\" rel=\"nofollow\">https://github.com/multiprocessio/datastation</a>"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Ask HN: Local Tools for Viewing JSON"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_luckman212",
+    "story_30745508"
+  ],
+  "author": "luckman212",
+  "children": [
+    30767640
+  ],
+  "comment_text": "In addition to jq (already mentioned) here are some other useful CLI tools for dealing with JSON data. Descriptions are directly from GitHub. Note: dsq also has a companion GUI app called DataStation[0] if you&#x27;re looking for that.<p>fx: Command-line JSON processing tool - <a href=\"https:&#x2F;&#x2F;github.com&#x2F;antonmedv&#x2F;fx\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;antonmedv&#x2F;fx</a><p>dasel: JSON, YAML, TOML, XML, and CSV query and modification tool - <a href=\"https:&#x2F;&#x2F;github.com&#x2F;TomWright&#x2F;dasel\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;TomWright&#x2F;dasel</a><p>dsq: CLI tool for running SQL queries against JSON, CSV, Excel, Parquet, and more - <a href=\"https:&#x2F;&#x2F;github.com&#x2F;multiprocessio&#x2F;dsq\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;multiprocessio&#x2F;dsq</a><p>gron: Make JSON greppable - <a href=\"https:&#x2F;&#x2F;github.com&#x2F;tomnomnom&#x2F;gron\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;tomnomnom&#x2F;gron</a><p>jello: Filter JSON and JSON Lines data with Python syntax - <a href=\"https:&#x2F;&#x2F;github.com&#x2F;kellyjonbrazil&#x2F;jello\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;kellyjonbrazil&#x2F;jello</a><p>jless: Command-line pager for JSON data - <a href=\"https:&#x2F;&#x2F;github.com&#x2F;PaulJuliusMartinez&#x2F;jless\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;PaulJuliusMartinez&#x2F;jless</a><p>jid: Json incremental digger - <a href=\"https:&#x2F;&#x2F;github.com&#x2F;simeji&#x2F;jid\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;simeji&#x2F;jid</a><p>jql: JSON query language CLI tool - <a href=\"https:&#x2F;&#x2F;github.com&#x2F;yamafaktory&#x2F;jql\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;yamafaktory&#x2F;jql</a><p>qp: Command-line (ND)JSON querying - <a href=\"https:&#x2F;&#x2F;github.com&#x2F;paybase&#x2F;qp\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;paybase&#x2F;qp</a><p>[0]: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;multiprocessio&#x2F;datastation\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;multiprocessio&#x2F;datastation</a>",
+  "created_at": "2022-03-21T12:38:09Z",
+  "created_at_i": 1647866289,
+  "objectID": "30753362",
+  "parent_id": 30745508,
+  "story_id": 30745508,
+  "story_title": "Ask HN: Local Tools for Viewing JSON",
+  "updated_at": "2024-09-20T10:46:32Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "43a3ca72-e01e-4cb7-98ec-778703d37f28",
+  "userName": "Lisa Cepluch",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIjhFywHj3Lt39KuIie8G_wYC4Q0lxjLDNYTELvXArg4SAs=mo",
+  "date": "2026-07-30T02:32:54.927Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=43a3ca72-e01e-4cb7-98ec-778703d37f28",
+  "title": null,
+  "text": "Where have you been all my life?",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.2.0",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_ads_intrusiveness",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_app_quality_visual_appeal",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_phase1_collaborative_editing",
+      "rating": 3
+    }
+  ]
+}

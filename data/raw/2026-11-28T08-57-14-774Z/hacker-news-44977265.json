@@ -1,0 +1,43 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "emacsen"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "aqua",
+        "voice"
+      ],
+      "value": "I don't think it's the same error, but without a good error message I don't know.<p>I did manually download the models and associated them, which are great but then the audio didn't work. On the browser version, it never asks me for permission for an audio device, and on the native version, it makes a file of 0 length and then complains it can't read the contents.<p>My read is that the project looks very interesting, and I'd love a FLOSS replacement for <em>Aqua</em> <em>Voice</em>, but this software isn't ready for everyday use yet, at least not on Linux.<p>I'd love to help somehow, whether that's a donation or experimenting if you point me to somewhere."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Show HN: Whispering – Open-source, local-first dictation you can trust"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://github.com/epicenter-so/epicenter/tree/main/apps/whispering"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_emacsen",
+    "story_44942731"
+  ],
+  "author": "emacsen",
+  "comment_text": "I don&#x27;t think it&#x27;s the same error, but without a good error message I don&#x27;t know.<p>I did manually download the models and associated them, which are great but then the audio didn&#x27;t work. On the browser version, it never asks me for permission for an audio device, and on the native version, it makes a file of 0 length and then complains it can&#x27;t read the contents.<p>My read is that the project looks very interesting, and I&#x27;d love a FLOSS replacement for Aqua Voice, but this software isn&#x27;t ready for everyday use yet, at least not on Linux.<p>I&#x27;d love to help somehow, whether that&#x27;s a donation or experimenting if you point me to somewhere.",
+  "created_at": "2025-08-21T19:53:28Z",
+  "created_at_i": 1755806008,
+  "objectID": "44977265",
+  "parent_id": 44948678,
+  "story_id": 44942731,
+  "story_title": "Show HN: Whispering – Open-source, local-first dictation you can trust",
+  "story_url": "https://github.com/epicenter-so/epicenter/tree/main/apps/whispering",
+  "updated_at": "2026-03-05T22:32:46Z"
+}

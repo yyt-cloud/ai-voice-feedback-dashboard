@@ -1,0 +1,29 @@
+{
+  "id": "fe303d7f-b6a3-421e-a249-678fe9a6e573",
+  "userName": "Rana",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVIj-D1klFql8rQJpyEPZGxH742TujlBVMl0eUQm8yCoiS4o0JpBA",
+  "date": "2026-11-14T13:55:22.818Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=fe303d7f-b6a3-421e-a249-678fe9a6e573",
+  "title": null,
+  "text": "「一括削除ボタン」の改善をお願いします。　部分削除（一括削除？）：句読点前、改行前、絵文字前までを左フリックで削除できる。　全削除：入力中の文字より以前が全て削除できる。　の違いだと思うのですが、長文を入力中に間違えて全削除をしてしまい戻せなくなった、ということが多々あります。アプリ内設定で一括削除ボタンをオフにすることができるとのことですが、その場合だと部分削除も使えなくなるため不便です。　取り消しボタンをその都度表示するのではなく、せめて削除前に打っていた文章を残すような機能を作る、または部分削除と全削除のどちらかだけオフにするような形式にして欲しいです。（取り消しボタンも何かしら文字を打ったり誤タップした瞬間に消えてしまうので…）",
+  "replyDate": null,
+  "replyText": null,
+  "version": "23.7",
+  "thumbsUp": 7,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_ads_intrusiveness",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_ads_frequency",
+      "rating": 3
+    }
+  ]
+}

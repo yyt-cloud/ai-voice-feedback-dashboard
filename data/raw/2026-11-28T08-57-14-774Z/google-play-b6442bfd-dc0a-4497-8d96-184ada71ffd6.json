@@ -1,0 +1,29 @@
+{
+  "id": "b6442bfd-dc0a-4497-8d96-184ada71ffd6",
+  "userName": "Richard Palo",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXBwIfM6PCL7SxURQX6CQ2DeNXYmp6OMEb6H-4kG7amHkn7ejnoMA",
+  "date": "2026-07-03T02:54:49.409Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=b6442bfd-dc0a-4497-8d96-184ada71ffd6",
+  "title": null,
+  "text": "Typeless is the best voice-to-text keyboard I've used. It's better than Google and definitely better than Siri or Bixby. I really just want to let the people working on this app know what a great job they're doing, because it picks up the things I say and formats them better than any other voice-to-text. It is twice as good as Google. It's quick, easy, and has a keyboardand I'm not even using the paid version yet!",
+  "replyDate": null,
+  "replyText": null,
+  "version": "1.11.0",
+  "thumbsUp": 7,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_battery_efficiency",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_phase1_file_sharing",
+      "rating": 1
+    }
+  ]
+}

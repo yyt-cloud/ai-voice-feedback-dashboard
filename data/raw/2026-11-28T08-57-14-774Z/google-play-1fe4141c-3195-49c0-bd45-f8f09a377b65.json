@@ -1,0 +1,29 @@
+{
+  "id": "1fe4141c-3195-49c0-bd45-f8f09a377b65",
+  "userName": "Nick Sanchez",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVpOhx54jL64bJVczoQZn0HE4dljtFyjCpBvhsI0l_6bGiG3O4M",
+  "date": "2026-10-30T01:32:55.428Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=1fe4141c-3195-49c0-bd45-f8f09a377b65",
+  "title": null,
+  "text": "I love the dictation! So much better than Google Gboard. One of my favorite features is auto detection of multiple languages! I can speak Spanglish and the output is flawless. My main concern, like many others is that it's still necessary to use the keyboard and the functionality in this app doesn't come close to gboard. My workaround is just using the global button to switch with one tap. EDIT: The new update is amazing. I love the speech bubble that allows me to use Gboard at the same time!!",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.10.0",
+  "thumbsUp": 1,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_ads_frequency",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_usability",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_ads_presence",
+      "rating": 2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "sidclaw"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "wispr",
+        "flow"
+      ],
+      "value": "Handy is honestly more mature than mine — cross platform, MIT, and you can pick between Whisper and Parakeet. The real difference is just the model family. I run Qwen3-ASR through MLX instead of Whisper/Parakeet. In my own use it holds up way better with background noise and it punctuate noticeably more naturally, Take that as impression and not a measurement. Qwen3-ASR also accept vocabulary hints, which helps a lot with names and jargon. And mine does files and video with SRT export, not only dictation. \nDownside: Apple Silicon only.\n<em>Wispr</em> <em>Flow</em> is a different category — it's paid and your audio goes to their cloud. The text formatting is nicer than mine. Mine is local only and Apache-2.0, which for me is the entire point."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://github.com/VladUZH/qwen-scribe"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_sidclaw",
+    "story_49098260"
+  ],
+  "author": "sidclaw",
+  "children": [
+    49102402,
+    49101751,
+    49107824
+  ],
+  "comment_text": "Handy is honestly more mature than mine — cross platform, MIT, and you can pick between Whisper and Parakeet. The real difference is just the model family. I run Qwen3-ASR through MLX instead of Whisper&#x2F;Parakeet. In my own use it holds up way better with background noise and it punctuate noticeably more naturally, Take that as impression and not a measurement. Qwen3-ASR also accept vocabulary hints, which helps a lot with names and jargon. And mine does files and video with SRT export, not only dictation. \nDownside: Apple Silicon only.\nWispr Flow is a different category — it&#x27;s paid and your audio goes to their cloud. The text formatting is nicer than mine. Mine is local only and Apache-2.0, which for me is the entire point.",
+  "created_at": "2026-07-29T17:05:51Z",
+  "created_at_i": 1785344751,
+  "objectID": "49100131",
+  "parent_id": 49100046,
+  "story_id": 49098260,
+  "story_title": "Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon",
+  "story_url": "https://github.com/VladUZH/qwen-scribe",
+  "updated_at": "2026-07-31T18:06:02Z"
+}

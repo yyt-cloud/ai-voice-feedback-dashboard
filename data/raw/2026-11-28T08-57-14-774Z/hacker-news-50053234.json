@@ -1,0 +1,46 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "imranshah10140"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "wispr",
+        "flow"
+      ],
+      "value": "I use <em>wispr</em> <em>flow</em> and really it does most of my work correctly so do I need this for my work <em>flow</em> and if yes then please give me some feedback because I would love  to know of new ways for my work <em>flow</em>."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Show HN: WriteNative – correct, natural English in any Mac app"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://writenative.app/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_imranshah10140",
+    "story_50051791"
+  ],
+  "author": "imranshah10140",
+  "children": [
+    50053482
+  ],
+  "comment_text": "I use wispr flow and really it does most of my work correctly so do I need this for my work flow and if yes then please give me some feedback because I would love  to know of new ways for my work flow.",
+  "created_at": "2026-10-12T08:33:01Z",
+  "created_at_i": 1791793981,
+  "objectID": "50053234",
+  "parent_id": 50051791,
+  "story_id": 50051791,
+  "story_title": "Show HN: WriteNative – correct, natural English in any Mac app",
+  "story_url": "https://writenative.app/",
+  "updated_at": "2026-10-12T09:05:07Z"
+}

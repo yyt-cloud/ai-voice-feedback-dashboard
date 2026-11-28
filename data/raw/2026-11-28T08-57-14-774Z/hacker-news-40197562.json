@@ -1,0 +1,46 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "oulipo"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "aqua",
+        "voice"
+      ],
+      "value": "Very cool project! I think one of the main way (a bit orthogonal to what you do now) to adapt to GUI / CLI would be to develop an open-source version of something like <em>Aqua</em> <em>Voice</em> <a href=\"https://withaqua.com/\">https://withaqua.com/</a><p>Perhaps it could make sense to add this to your effort?"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Memary: Open-Source Longterm Memory for Autonomous Agents"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://github.com/kingjulio8238/memary"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_oulipo",
+    "story_40196879"
+  ],
+  "author": "oulipo",
+  "children": [
+    40197590
+  ],
+  "comment_text": "Very cool project! I think one of the main way (a bit orthogonal to what you do now) to adapt to GUI &#x2F; CLI would be to develop an open-source version of something like Aqua Voice <a href=\"https:&#x2F;&#x2F;withaqua.com&#x2F;\">https:&#x2F;&#x2F;withaqua.com&#x2F;</a><p>Perhaps it could make sense to add this to your effort?",
+  "created_at": "2024-04-29T12:45:02Z",
+  "created_at_i": 1714394702,
+  "objectID": "40197562",
+  "parent_id": 40197433,
+  "story_id": 40196879,
+  "story_title": "Memary: Open-Source Longterm Memory for Autonomous Agents",
+  "story_url": "https://github.com/kingjulio8238/memary",
+  "updated_at": "2024-09-20T16:57:51Z"
+}

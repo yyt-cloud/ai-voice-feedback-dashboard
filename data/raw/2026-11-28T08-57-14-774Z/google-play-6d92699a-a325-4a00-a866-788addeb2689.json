@@ -1,0 +1,21 @@
+{
+  "id": "6d92699a-a325-4a00-a866-788addeb2689",
+  "userName": "Jagjivansingh Bedi",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUd-1bl3ZvqgMQk6LHS5KlAw4Q8RAz-Gh4EbyVywQR-fZiHtJmf",
+  "date": "2026-10-09T09:12:50.801Z",
+  "score": 3,
+  "scoreText": "3",
+  "url": "https://play.google.com/store/apps/details?id=com.creativeapp.voiceinput&reviewId=6d92699a-a325-4a00-a866-788addeb2689",
+  "title": null,
+  "text": "The accuracy is not as good as the other application I have tried Every time I use it, it will have the error. It's not comparable to the other one that even the function is lower than this, but the accuracy is by far better. Almost never correct the other one***for developer, it not accurate in Thai Language that always mix Thai and English in the same sentence. So it cause problem in some application.",
+  "replyDate": "2026-10-09T09:07:39.923Z",
+  "replyText": "Hi Jagjivansingh, thanks for the honest feedback. Accuracy is our top priority. If errors involve names or specific terms, try adding them to your Personal Dictionary so Voiskey learns them. We’d also love to know what kinds of mistakes you see (accent, language, background noise) so we can improve.",
+  "version": "1.7",
+  "thumbsUp": 1,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 1
+    }
+  ]
+}

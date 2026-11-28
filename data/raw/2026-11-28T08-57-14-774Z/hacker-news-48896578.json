@@ -1,0 +1,39 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "hectdev"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "From my experience, Speech-to-text falls way short of Wispr flow and I would assume the ones that are said to be better than that. It lacks context awareness and formatting"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_hectdev",
+    "story_48894752"
+  ],
+  "author": "hectdev",
+  "comment_text": "From my experience, Speech-to-text falls way short of Wispr flow and I would assume the ones that are said to be better than that. It lacks context awareness and formatting",
+  "created_at": "2026-07-13T18:17:18Z",
+  "created_at_i": 1783966638,
+  "objectID": "48896578",
+  "parent_id": 48896387,
+  "story_id": 48894752,
+  "story_title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+  "story_url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+  "updated_at": "2026-07-14T04:16:30Z"
+}

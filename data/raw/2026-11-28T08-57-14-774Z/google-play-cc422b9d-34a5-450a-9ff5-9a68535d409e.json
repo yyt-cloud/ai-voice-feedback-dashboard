@@ -1,0 +1,29 @@
+{
+  "id": "cc422b9d-34a5-450a-9ff5-9a68535d409e",
+  "userName": "Geometry Dasher",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKx6g4AsM53AP_k8lgFXYYIRcRUqreJ4wY9OLlGcN4g-xJpOQ=mo",
+  "date": "2026-11-25T12:58:00.824Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.wispr.flowapp&reviewId=cc422b9d-34a5-450a-9ff5-9a68535d409e",
+  "title": null,
+  "text": "The app is just as good as the social media hype says. I didn't typically use transcription, considering it inaccurate, however this app has completely changed my perception about it. I only had to add a comma and one word in two long paragraphs. Its speed is also one to be reckoned with for heavy AI-based apps of its kind. It even captures names of localities and can write units with symbols (eg. if I say \"kilowatt-hours\" the app will automatically convert it to \"kWh\").",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.8.8",
+  "thumbsUp": 30,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_phase1_collaborative_editing",
+      "rating": 3
+    },
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "j_aime"
+    },
+    "comment_text": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Thanks for this. I need an alternative to Wispr flow. Going to try this out. Any plans for a windows version?"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Show HN: Rekody, free on-device voice dictation for macOS"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://rekody.com/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_j_aime",
+    "story_48897934"
+  ],
+  "author": "j_aime",
+  "children": [
+    48898466
+  ],
+  "comment_text": "Thanks for this. I need an alternative to Wispr flow. Going to try this out. Any plans for a windows version?",
+  "created_at": "2026-07-13T20:07:15Z",
+  "created_at_i": 1783973235,
+  "objectID": "48898066",
+  "parent_id": 48897934,
+  "story_id": 48897934,
+  "story_title": "Show HN: Rekody, free on-device voice dictation for macOS",
+  "story_url": "https://rekody.com/",
+  "updated_at": "2026-07-13T20:37:00Z"
+}

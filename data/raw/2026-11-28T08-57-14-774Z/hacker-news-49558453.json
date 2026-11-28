@@ -1,0 +1,43 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "starik36"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "wispr",
+        "flow"
+      ],
+      "value": "I ran into the same problem as you, so I ended up by coding a local app that is very similar to <em>Wispr</em> <em>Flow</em>, but uses the small english Whisper model on my low-end Windows laptop.<p>It is still a quite fast. In fact, I just typed this in using this app."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "GPT-6 Astra"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://openai.com/index/gpt-6-astra/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_starik36",
+    "story_49554643"
+  ],
+  "author": "starik36",
+  "comment_text": "I ran into the same problem as you, so I ended up by coding a local app that is very similar to Wispr Flow, but uses the small english Whisper model on my low-end Windows laptop.<p>It is still a quite fast. In fact, I just typed this in using this app.",
+  "created_at": "2026-09-03T23:16:17Z",
+  "created_at_i": 1788477377,
+  "objectID": "49558453",
+  "parent_id": 49557467,
+  "story_id": 49554643,
+  "story_title": "GPT-6 Astra",
+  "story_url": "https://openai.com/index/gpt-6-astra/",
+  "updated_at": "2026-09-04T03:14:07Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "65756e78-00d8-4156-a740-f43cf7259965",
+  "userName": "Michael Zonetti",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXspnGdBAV4F_pb714s2O3SpMCbLvfk4aszK3OZ0n14RNCM8VvwEQ",
+  "date": "2026-08-19T17:14:37.348Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=65756e78-00d8-4156-a740-f43cf7259965",
+  "title": null,
+  "text": "If I don't want to type, I always switch to Typeless. It's literally too good, I love it. I think the keyboard itself needs a lot of work though. I prefer using Gboard & then switching to Typeless for dictation.",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.4.0",
+  "thumbsUp": 2,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_ads_frequency",
+      "rating": 2
+    }
+  ]
+}

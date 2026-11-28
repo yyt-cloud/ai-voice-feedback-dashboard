@@ -1,0 +1,45 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "FragenAntworten"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "simeji"
+      ],
+      "value": "You can do this with `jid -q`: <a href=\"https://github.com/simeji/jid\" rel=\"nofollow\">https://github.com/<em>simeji</em>/jid</a><p>(Its interactivity is keyboard- rather than mouse-based.)"
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "FX: An interactive alternative to jq to process JSON"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://github.com/antonmedv/fx"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_FragenAntworten",
+    "story_29861043"
+  ],
+  "author": "FragenAntworten",
+  "children": [
+    29864390
+  ],
+  "comment_text": "You can do this with `jid -q`: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;simeji&#x2F;jid\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;simeji&#x2F;jid</a><p>(Its interactivity is keyboard- rather than mouse-based.)",
+  "created_at": "2022-01-09T15:46:25Z",
+  "created_at_i": 1641743185,
+  "objectID": "29864220",
+  "parent_id": 29863976,
+  "story_id": 29861043,
+  "story_title": "FX: An interactive alternative to jq to process JSON",
+  "story_url": "https://github.com/antonmedv/fx",
+  "updated_at": "2024-09-20T10:14:55Z"
+}

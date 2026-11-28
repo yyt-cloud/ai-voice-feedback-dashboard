@@ -1,0 +1,29 @@
+{
+  "id": "2a8e6e78-3e99-4e28-8964-6aaa372af3d7",
+  "userName": "Bryan L",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJX5vIQaM8aqJADsa1ZPmRboIQqLyPbly3yuYr0QJlVRmqoAw=mo",
+  "date": "2026-11-25T15:38:43.457Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.wispr.flowapp&reviewId=2a8e6e78-3e99-4e28-8964-6aaa372af3d7",
+  "title": null,
+  "text": "This is so much better than Samsung's integrated voice-to-text. It easily takes everything you say and gets it typed out clearly with good punctuation and all that. I'm actually using it right now to write this review. It also doesn't censor anything like cuss words and whatnot. Would recommend. 10/10",
+  "replyDate": null,
+  "replyText": null,
+  "version": "2.8.8",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_phase1_file_sharing",
+      "rating": 3
+    }
+  ]
+}

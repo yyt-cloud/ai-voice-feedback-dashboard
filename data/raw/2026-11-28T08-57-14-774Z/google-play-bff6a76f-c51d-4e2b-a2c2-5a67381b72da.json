@@ -1,0 +1,29 @@
+{
+  "id": "bff6a76f-c51d-4e2b-a2c2-5a67381b72da",
+  "userName": "ああ",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLDw0emqtNslLpbXOl-8Ncj5OnWw6FOwqbYqch42fnxUEEnqA=mo",
+  "date": "2026-09-15T03:37:04.621Z",
+  "score": 3,
+  "scoreText": "3",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=bff6a76f-c51d-4e2b-a2c2-5a67381b72da",
+  "title": null,
+  "text": "文字を入力すること自体については不満がないです。 もっとも、文字を消す際に、行の削除が意図せずなされます。そのため、×を連打すると行ごと消えることがあります。私には少し過敏に反応するので、調整したいです。 また、コピペをよく使いますが、着せ替えなどの通知でコントロールパネルの配置が変わったり、スクロールしないとコピペ昨日にたどり着かないことが不満です。",
+  "replyDate": "2026-10-01T06:49:51.328Z",
+  "replyText": "レビューいただきありがとうございます。\n\nご不便をおかけし、申し訳ございません。\nいただいたご意見を真摯に受け止め、今後もより良いサービスをご提供できるよう改善に努めてまいります。\n\n今後ともSimejiをよろしくお願いいたします。",
+  "version": "23.5.2",
+  "thumbsUp": 15,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_stability",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 1
+    }
+  ]
+}

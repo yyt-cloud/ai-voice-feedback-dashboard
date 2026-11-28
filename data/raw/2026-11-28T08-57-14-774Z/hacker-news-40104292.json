@@ -1,0 +1,43 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "FezzikTheGiant"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "aqua",
+        "voice"
+      ],
+      "value": "Hey, I replied to your comment about building an open source version of <em>Aqua</em> <em>Voice</em>. Emailed you about it too. Let me know your thoughts."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Senate passes reauthorization of key US surveillance program after midnight"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://apnews.com/article/fisa-donald-trump-surveillance-congress-johnson-81e991c9f82e77b2fe13f8a3e0e25349"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_FezzikTheGiant",
+    "story_40096575"
+  ],
+  "author": "FezzikTheGiant",
+  "comment_text": "Hey, I replied to your comment about building an open source version of Aqua Voice. Emailed you about it too. Let me know your thoughts.",
+  "created_at": "2024-04-21T09:24:53Z",
+  "created_at_i": 1713691493,
+  "objectID": "40104292",
+  "parent_id": 40100696,
+  "story_id": 40096575,
+  "story_title": "Senate passes reauthorization of key US surveillance program after midnight",
+  "story_url": "https://apnews.com/article/fisa-donald-trump-surveillance-congress-johnson-81e991c9f82e77b2fe13f8a3e0e25349",
+  "updated_at": "2024-09-20T16:48:42Z"
+}

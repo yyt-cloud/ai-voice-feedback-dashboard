@@ -1,0 +1,45 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "jitl"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "simeji"
+      ],
+      "value": "Writing a ContentEditable editor means learning the internal state machines and undocumented behaviors of every browser you support. There are many articles online about ContentEditable / rich text editing. This one is a classic <a href=\"https://medium.engineering/why-contenteditable-is-terrible-122d8a40e480\" rel=\"nofollow\">https://medium.engineering/why-contenteditable-is-terrible-1...</a><p>The major issue for both Android and CJK input is dealing with “composition” of characters by an “input method editor”. <a href=\"https://en.m.wikipedia.org/wiki/Input_method\" rel=\"nofollow\">https://en.m.wikipedia.org/wiki/Input_method</a><p>In English, usually it’s okay to assume one key press event = one letter input. The opposite is true on Android generally, and for CJK languages on all platforms. These use input systems (like handwriting) where keypresses never occur, or many keypresses compose to produce one character. There are also new rules for IME composition input like “you can’t touch the DOM or change the selection during composition or the input will cancel and your user will be mad”. It turns the problem from “Hard” difficulty to “Nightmare” difficulty.<p>The baffling thing on Android is that each keyboard (Gboard, Samsung Keyboard, Swiftkey, <em>Simeji</em>, Sogou, Naver) have different composition behaviors with different event patterns… and GBoard’s ENGLISH input is probably the most strange! It composes whole English words like they were Chinese characters, and it wants to compose SO badly it will move text selection from wherever the user tapped to the nearest English word.  And as an added bonus on Android only, the browsers selection APIs report the wrong selection during different phases of the event flow. Hah. Like when you tap a key, Android will send a selectionChange event <i>before</i> the first input-related event, and that selectionChange will probably report some weird lie about the selection position."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Lexical – a web text editor framework that powers Facebook"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://playground.lexical.dev/"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_jitl",
+    "story_31813550"
+  ],
+  "author": "jitl",
+  "children": [
+    31833534
+  ],
+  "comment_text": "Writing a ContentEditable editor means learning the internal state machines and undocumented behaviors of every browser you support. There are many articles online about ContentEditable &#x2F; rich text editing. This one is a classic <a href=\"https:&#x2F;&#x2F;medium.engineering&#x2F;why-contenteditable-is-terrible-122d8a40e480\" rel=\"nofollow\">https:&#x2F;&#x2F;medium.engineering&#x2F;why-contenteditable-is-terrible-1...</a><p>The major issue for both Android and CJK input is dealing with “composition” of characters by an “input method editor”. <a href=\"https:&#x2F;&#x2F;en.m.wikipedia.org&#x2F;wiki&#x2F;Input_method\" rel=\"nofollow\">https:&#x2F;&#x2F;en.m.wikipedia.org&#x2F;wiki&#x2F;Input_method</a><p>In English, usually it’s okay to assume one key press event = one letter input. The opposite is true on Android generally, and for CJK languages on all platforms. These use input systems (like handwriting) where keypresses never occur, or many keypresses compose to produce one character. There are also new rules for IME composition input like “you can’t touch the DOM or change the selection during composition or the input will cancel and your user will be mad”. It turns the problem from “Hard” difficulty to “Nightmare” difficulty.<p>The baffling thing on Android is that each keyboard (Gboard, Samsung Keyboard, Swiftkey, Simeji, Sogou, Naver) have different composition behaviors with different event patterns… and GBoard’s ENGLISH input is probably the most strange! It composes whole English words like they were Chinese characters, and it wants to compose SO badly it will move text selection from wherever the user tapped to the nearest English word.  And as an added bonus on Android only, the browsers selection APIs report the wrong selection during different phases of the event flow. Hah. Like when you tap a key, Android will send a selectionChange event <i>before</i> the first input-related event, and that selectionChange will probably report some weird lie about the selection position.",
+  "created_at": "2022-06-21T12:34:46Z",
+  "created_at_i": 1655814886,
+  "objectID": "31823085",
+  "parent_id": 31820972,
+  "story_id": 31813550,
+  "story_title": "Lexical – a web text editor framework that powers Facebook",
+  "story_url": "https://playground.lexical.dev/",
+  "updated_at": "2024-09-20T11:23:52Z"
+}

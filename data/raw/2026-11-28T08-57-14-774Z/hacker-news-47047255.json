@@ -1,0 +1,43 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "pegasus"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "aqua",
+        "voice"
+      ],
+      "value": "<em>Aqua</em> <em>Voice</em> does (at least some of) that as well."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "Show HN: Free alternative to Wispr Flow, Superwhisper, and Monologue"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://github.com/zachlatta/freeflow"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_pegasus",
+    "story_47040375"
+  ],
+  "author": "pegasus",
+  "comment_text": "Aqua Voice does (at least some of) that as well.",
+  "created_at": "2026-02-17T13:25:45Z",
+  "created_at_i": 1771334745,
+  "objectID": "47047255",
+  "parent_id": 47047122,
+  "story_id": 47040375,
+  "story_title": "Show HN: Free alternative to Wispr Flow, Superwhisper, and Monologue",
+  "story_url": "https://github.com/zachlatta/freeflow",
+  "updated_at": "2026-03-05T23:34:22Z"
+}

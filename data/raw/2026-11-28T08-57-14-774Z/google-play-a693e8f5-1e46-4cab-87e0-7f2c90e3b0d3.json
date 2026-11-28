@@ -1,0 +1,29 @@
+{
+  "id": "a693e8f5-1e46-4cab-87e0-7f2c90e3b0d3",
+  "userName": "Erikkus James",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWbRMPXjN5vk7QYbjOUeShMU88fCFM1Uhg5Oo8TW5GX803nQhCq",
+  "date": "2026-11-23T23:04:37.446Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.wispr.flowapp&reviewId=a693e8f5-1e46-4cab-87e0-7f2c90e3b0d3",
+  "title": null,
+  "text": "I started using Wispr flow because my auto collect. is just so bad and I don't have money when I saw the ads for it I decided to get it and today I found out I need to pay $12. even month just to be able to use it frequently and because I'm 13 and don't have any money I deleted, it.",
+  "replyDate": null,
+  "replyText": null,
+  "version": null,
+  "thumbsUp": 2,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_usability",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_phase1_messaging",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 2
+    }
+  ]
+}

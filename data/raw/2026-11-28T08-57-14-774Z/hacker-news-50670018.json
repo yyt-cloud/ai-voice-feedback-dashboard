@@ -1,0 +1,42 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "kazinator"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "typeless"
+      ],
+      "value": "That is an ignorant concept which conflates the implementation level with the program's abstraction.<p>At the implementation level, there exist storage locations (which we might call &quot;value cells&quot;). These can hold any value and so in a sense they have one type.<p>The abstract nodes of the program, its expressions, have a type we can reason about. Often a single type that can be known without executing the program..<p>Static functional languages, too, have <em>typeless</em> value cells in their implementations: word-sized units of storage that can point to anything and may have type tags, gc bits and whatnot.\nThe difference is that nodes of the abstract program are checked.<p>Dynamic languages have type inference implementations also. The situation is not so strict that an uncheckable program may not be executed, though."
+    },
+    "story_title": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "I checked Clojure's core with Lean and found unreported bugs"
+    },
+    "story_url": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "https://s.conao3.com/blog/2026/e4f733"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_kazinator",
+    "story_50642939"
+  ],
+  "author": "kazinator",
+  "comment_text": "That is an ignorant concept which conflates the implementation level with the program&#x27;s abstraction.<p>At the implementation level, there exist storage locations (which we might call &quot;value cells&quot;). These can hold any value and so in a sense they have one type.<p>The abstract nodes of the program, its expressions, have a type we can reason about. Often a single type that can be known without executing the program..<p>Static functional languages, too, have typeless value cells in their implementations: word-sized units of storage that can point to anything and may have type tags, gc bits and whatnot.\nThe difference is that nodes of the abstract program are checked.<p>Dynamic languages have type inference implementations also. The situation is not so strict that an uncheckable program may not be executed, though.",
+  "created_at": "2026-11-27T18:22:21Z",
+  "created_at_i": 1795803741,
+  "objectID": "50670018",
+  "parent_id": 50646508,
+  "story_id": 50642939,
+  "story_title": "I checked Clojure's core with Lean and found unreported bugs",
+  "story_url": "https://s.conao3.com/blog/2026/e4f733",
+  "updated_at": "2026-11-27T18:33:48Z"
+}

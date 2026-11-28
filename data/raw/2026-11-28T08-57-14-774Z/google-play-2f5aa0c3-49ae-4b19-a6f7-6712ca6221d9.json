@@ -1,0 +1,29 @@
+{
+  "id": "2f5aa0c3-49ae-4b19-a6f7-6712ca6221d9",
+  "userName": "Jennifer Hoover",
+  "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXWID9ET0WVl0_T5bJTmScVHTozE4bOZkLFdwdDajiP4VI9sZG4",
+  "date": "2026-06-26T22:54:58.610Z",
+  "score": 5,
+  "scoreText": "5",
+  "url": "https://play.google.com/store/apps/details?id=com.typeless.mobile&reviewId=2f5aa0c3-49ae-4b19-a6f7-6712ca6221d9",
+  "title": null,
+  "text": "This is the best keyboard, but I tried to copy and paste stuff and it won't let me do that. I have to switch to another keyboard.",
+  "replyDate": null,
+  "replyText": null,
+  "version": "1.10.1",
+  "thumbsUp": 0,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_ads_intrusiveness",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_ads_frequency",
+      "rating": 2
+    }
+  ]
+}

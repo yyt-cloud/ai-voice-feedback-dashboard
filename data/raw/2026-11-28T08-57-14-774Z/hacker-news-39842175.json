@@ -1,0 +1,41 @@
+{
+  "_highlightResult": {
+    "author": {
+      "matchLevel": "none",
+      "matchedWords": [],
+      "value": "user_7832"
+    },
+    "comment_text": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "aqua",
+        "voice"
+      ],
+      "value": "Ideally, some way to run this locally on my own machine. That would offer more power (and also allow the product at a lower/no cost without any demands on their servers). Are you from the <em>Aqua</em> <em>Voice</em> team by the way?"
+    },
+    "story_title": {
+      "fullyHighlighted": false,
+      "matchLevel": "full",
+      "matchedWords": [
+        "aqua",
+        "voice"
+      ],
+      "value": "Launch HN: <em>Aqua</em> <em>Voice</em> (YC W24) – <em>Voice</em>-driven text editor"
+    }
+  },
+  "_tags": [
+    "comment",
+    "author_user_7832",
+    "story_39828686"
+  ],
+  "author": "user_7832",
+  "comment_text": "Ideally, some way to run this locally on my own machine. That would offer more power (and also allow the product at a lower&#x2F;no cost without any demands on their servers). Are you from the Aqua Voice team by the way?",
+  "created_at": "2024-03-27T17:36:03Z",
+  "created_at_i": 1711560963,
+  "objectID": "39842175",
+  "parent_id": 39836390,
+  "story_id": 39828686,
+  "story_title": "Launch HN: Aqua Voice (YC W24) – Voice-driven text editor",
+  "updated_at": "2024-09-20T16:41:14Z"
+}

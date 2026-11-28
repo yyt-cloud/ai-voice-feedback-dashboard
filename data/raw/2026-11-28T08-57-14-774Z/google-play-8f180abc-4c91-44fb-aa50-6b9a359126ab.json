@@ -1,0 +1,29 @@
+{
+  "id": "8f180abc-4c91-44fb-aa50-6b9a359126ab",
+  "userName": "Lise",
+  "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJM1DMBMszTqJKqHaLWKPvGc4V__vBx43X9yd4L_6u0WqgsEQ=mo",
+  "date": "2026-11-09T05:41:23.478Z",
+  "score": 1,
+  "scoreText": "1",
+  "url": "https://play.google.com/store/apps/details?id=com.adamrocker.android.input.simeji&reviewId=8f180abc-4c91-44fb-aa50-6b9a359126ab",
+  "title": null,
+  "text": "スマホのデータがなくなった",
+  "replyDate": null,
+  "replyText": null,
+  "version": null,
+  "thumbsUp": 1,
+  "criterias": [
+    {
+      "criteria": "vaf_app_quality_performance",
+      "rating": 2
+    },
+    {
+      "criteria": "vaf_app_quality_ads_intrusiveness",
+      "rating": 1
+    },
+    {
+      "criteria": "vaf_app_quality_battery_heat",
+      "rating": 1
+    }
+  ]
+}
